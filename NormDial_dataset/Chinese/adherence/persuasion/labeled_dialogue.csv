@@ -1,0 +1,1436 @@
+Norm,Situation,cn_Norm,cn_Situation,Dialogue_ChatGLM,Labels_ChatGPT
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: In a classroom in China, a Confucian-based education system is followed, where respect for the teacher is crucial. The teacher, a middle-aged man, Mr. Li, is giving a lecture to his students. During the lecture, he disagrees with one of the student's ideas and tries to convince him of his perspective. The student, a freshman named Wei, is hesitant to accept Mr. Li's point of view as it conflicts with his own opinions. However, Mr. Li continues to persuade him by using direct persuasion and emphasizing his higher status as a teacher. The other students pay close attention to the exchange, knowing that Wei may be at risk of losing face if he continues to challenge his teacher's ideas.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在中国的课堂上，遵循以儒家为基础的教育体系，尊重老师是至关重要的。老师是一位中年男子李先生，他正在给学生们讲课。在演讲中，他不同意学生的一个想法，并试图说服他接受他的观点。大一学生魏某因为李老师的观点与自己的观点相抵触，所以犹豫是否接受。然而，李先生继续通过直接说服和强调他作为教师的较高地位来说服他。其他同学都在密切关注着交流，知道如果继续挑战老师的想法，小魏很可能会丢脸。,"对话
+魏某： 李老师，我觉得您的观点不太正确。
+李先生： 你错了，小魏。我作为一个教师，我必须维护我的权威和尊严。
+魏某： 好的，我明白了。但是我认为您的观点也有其合理性。
+李先生： 你必须接受我的观点，因为你是我的同学，我必须尊重你的意见。
+魏某： 好的，我会考虑一下的。
+李先生： 好的，你的意见很重要。","Actor of the Norm:
+李先生: higher status, persuader
+
+(魏某： 李老师，我觉得您的观点不太正确。): Adhered | 魏某 uses direct persuasion by questioning 李先生's viewpoint
+(李先生： 你错了，小魏。我作为一个教师，我必须维护我的权威和尊严。): Adhered | 李先生 uses direct persuasion by correcting 魏某's viewpoint and emphasizing his own authority
+(魏某： 好的，我明白了。但是我认为您的观点也有其合理性。): Not Relevant | 魏某 does not use direct persuasion
+(李先生： 你必须接受我的观点，因为你是我的同学，我必须尊重你的意见。): Adhered | 李先生 uses direct persuasion by insisting that 魏某 must accept his viewpoint and emphasizing his respect for 魏某's opinion
+(魏某： 好的，我会考虑一下的。): Not Relevant | 魏某 does not use direct persuasion
+(李先生： 好的，你的意见很重要。): Not Relevant | 李先生 does not use direct persuasion"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: During a business meeting in a Chinese company, the boss is trying to persuade his subordinates to implement a new policy. The boss holds a senior position and the subordinates are lower in the company hierarchy. To persuade the subordinates, the boss uses direct persuasion, which is acceptable in Chinese society due to the hierarchical structure in businesses. The boss emphasizes the importance of the policy and provides concrete examples to support his argument. The subordinates listen respectfully and ask for further clarification before making a decision. The meeting ends with the boss thanking his subordinates for their time and effort.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在一家中国公司的商务会议上，老板试图说服他的下属实施一项新政策。在公司层级中，老板身居高位，下属地位较低。为了说服下属，老板采取直接说服的方式，这在中国社会由于企业的等级结构是可以接受的。老板强调了这项政策的重要性，并提供了具体的例子来支持他的论点。下属恭恭敬敬地听着，询问清楚后再做决定。会议以老板感谢下属的时间和努力而告终。,"对话
+老板： 我们需要实施一项新政策，以更好地促进公司的发展
+下属： 我们一直在关注这个问题，但还没有做出决定
+老板： 这项政策可以带来更多的机会和收益，我们需要抓住这些机会
+下属： 我们还需要了解更多细节，才能做出明智的决定
+老板： 我可以提供一些具体的例子，来证明这项政策的重要性
+下属： 我们还需要考虑实际情况，比如预算和执行难度
+老板： 这些都是可以考虑的因素，但我认为这项政策对公司的发展非常重要
+下属： 我们需要时间考虑一下，谢谢
+老板： 没问题，我会感谢下属的时间和努力，希望我们能一起为公司的发展做出贡献
+[结束]","Actor of the Norm:
+老板: higher status, persuader
+
+(老板： 我们需要实施一项新政策，以更好地促进公司的发展): Adhered | 老板 uses direct persuasion to introduce the new policy
+(下属： 我们一直在关注这个问题，但还没有做出决定): Not Relevant | the subordinate does not offer any persuasion
+(老板： 这项政策可以带来更多的机会和收益，我们需要抓住这些机会): Adhered | 老板 uses direct persuasion to emphasize the benefits of the new policy
+(下属： 我们还需要了解更多细节，才能做出明智的决定): Not Relevant | the subordinate does not offer any persuasion
+(老板： 我可以提供一些具体的例子，来证明这项政策的重要性): Adhered | 老板 uses direct persuasion to provide specific examples to support the new policy
+(下属： 我们还需要考虑实际情况，比如预算和执行难度): Not Relevant | the subordinate does not offer any persuasion
+(老板： 这些都是可以考虑的因素，但我认为这项政策对公司的发展非常重要): Adhered | 老板 uses direct persuasion to express his/her opinion on the importance of the new policy
+(下属： 我们需要时间考虑一下，谢谢): Not Relevant | the subordinate does not offer any persuasion
+(老板： 没问题，我会感谢下属的时间和努力，希望我们能一起为公司的发展做出贡献): Not Relevant | not persuasion"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: An official, 李华, is trying to persuade a citizen, 张明, to provide some confidential information in a government office. Zhang is hesitant as he thinks it is illegal to share the information. Li, being the higher status person, decides to use aggressive and direct persuasion tactics, thinking it was acceptable as per the norm. However, Zhang feels bullied and disrespected by Li's behavior and decides not to share the information, which causes Li's plan to fail. Later, Zhang reports Li's behavior to the superiors, and Li faces a reprimand for not following the expected moral conduct of an official.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：官员李华试图说服公民张明在政府办公室提供一些机密信息。张犹豫不决，因为他认为分享这些信息是违法的。李作为地位较高的人，决定使用咄咄逼人和直接的说服策略，认为这符合规范是可以接受的。然而，张觉得李的行为受到了欺凌和不尊重，决定不分享这些信息，导致李的计划失败。后来，张向上级报告了李的行为，李因没有遵循官员应有的道德操守而面临训斥。,"对话
+李华： 明哥，你在政府办公室吗？
+张明： 是的，华哥
+李华： 我知道你对分享机密信息有些疑虑，但我认为它是为了保护国家的安全，这是符合规范和道德操守的行为。
+张明： 我同意，但我认为这样做会违反法律法规。
+李华： 我认为你可以先了解一下相关的法律法规，然后再做出自己的决定。
+张明： 好的，华哥，我会考虑一下的。
+李华： 好的，那现在你可以来找我一趟，我们一起探讨一下这个问题。
+张明： 好的，谢谢华哥。
+[结束]","Actor of the Norm:
+李华: higher status, persuader
+
+(李华： 明哥，你在政府办公室吗？): Not Relevant | not a persuasion
+(张明： 是的，华哥): Not Relevant | not a persuasion
+(李华： 我知道你对分享机密信息有些疑虑，但我认为它是为了保护国家的安全，这是符合规范和道德操守的行为。): Adhered | 李华 uses direct persuasion to convince 张明 to share confidential information by emphasizing the importance of national security and the conformity to norms and moral principles.
+(张明： 我同意，但我认为这样做会违反法律法规。): Not Relevant | not a persuasion
+(李华： 我认为你可以先了解一下相关的法律法规，然后再做出自己的决定。): Adhered | 李华 uses direct persuasion to convince 张明 to learn more about the relevant laws and regulations before making a decision.
+(张明： 好的，华哥，我会考虑一下的。): Not Relevant | not a persuasion
+(李华： 好的，那现在你可以来找我一趟，我们一起探讨一下这个问题。): Adhered | 李华 uses direct persuasion to invite 张明 to come to his office to discuss the issue together."
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: In a Chinese court, Judge Li is presiding over a case involving a young defendant, Ming, who is accused of stealing a phone from a high-ranking government official. During the hearing, Judge Li uses direct persuasion to press Ming for a confession, citing the severity of the crime and the importance of respecting authority. However, Ming maintains his innocence and feels intimidated by the judge's approach. As the proceeding continues, Judge Li realizes that his method is not effective and switches to a more indirect, empathetic approach to gain Ming's trust and cooperation. Ultimately, Judge Li is able to reach a just verdict with Ming's cooperation and trust.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在中国的一家法庭上，李法官主持的案件涉及一名年轻的被告人明，他被控窃取一名政府高级官员的电话。在听证会上，李法官以罪行的严重性和尊重权威的重要性为由，直接说服明某认罪。然而，明坚持自己的清白，并对法官的做法感到害怕。随着诉讼的进行，李法官意识到他的方法并不奏效，转而采用更间接、更善解人意的方式来获得明的信任与合作。最终，在明的合作和信任下，李法官得以作出公正的判决。,"对话
+李法官：明先生，您被控窃取政府高级官员的电话，这是一项严重的罪行。我们需要确保法律的公正和权威。
+明：法官，我知道我错了，但我不知道自己是否真的错了。
+李法官：我相信您，您是一个年轻的有为青年。但我们必须尊重权威，因为权威知道什么是对的和什么是错的。
+明：法官，您太客气了。我知道自己的错误，但我不知道该如何应对。
+李法官：明先生，您应该意识到，您的行为会对您的职业生涯和社会地位造成极大的影响。如果您认罪，您可能会得到更好的机会和更好的待遇。
+明：谢谢您，法官。我知道我该如何应对。
+李法官：那么，请问您是否愿意与我合作，一起找出真相并作出公正的判决？
+明：当然，法官。我愿意与您合作。
+李法官：好的，我会尽力让您获得公正的判决。","Actor of the Norm:
+李法官: higher status, persuader
+
+(李法官：明先生，您被控窃取政府高级官员的电话，这是一项严重的罪行。我们需要确保法律的公正和权威。): Adhered | 李法官 uses direct persuasion to inform 明先生 of the severity of the crime and the importance of upholding the law
+(明：法官，我知道我错了，但我不知道自己是否真的错了。): Not Relevant | 明先生 is not using direct persuasion
+(李法官：我相信您，您是一个年轻的有为青年。但我们必须尊重权威，因为权威知道什么是对的和什么是错的。): Adhered | 李法官 uses direct persuasion to persuade 明先生 to respect authority and the importance of following the law
+(明：法官，您太客气了。我知道自己的错误，但我不知道该如何应对。): Not Relevant | 明先生 is not using direct persuasion
+(李法官：明先生，您应该意识到，您的行为会对您的职业生涯和社会地位造成极大的影响。如果您认罪，您可能会得到更好的机会和更好的待遇。): Adhered | 李法官 uses direct persuasion to persuade 明先生 to recognize the impact of his actions and the benefits of confessing
+(明：谢谢您，法官。我知道我该如何应对。): Not Relevant | 明先生 is not using direct persuasion
+(李法官：那么，请问您是否愿意与我合作，一起找出真相并作出公正的判决？): Adhered | 李法官 uses direct persuasion to persuade 明先生 to cooperate with him in finding the truth and making a fair judgment
+(明：当然，法官。我愿意与您合作。): Not Relevant | 明先生 agrees to cooperate
+(李法官：好的，我会尽力让您获得公正的判决。): Not Relevant | 李法官 is not using direct persuasion"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: In a Buddhist temple, the head monk is trying to persuade new followers to donate money for the temple's renovation project. The followers include laypeople, novice monks, and experienced monks. The head monk believes that it is permissible to use direct persuasion because he is in a position of authority, and the followers are expected to respect and obey him. However, some of the new followers are uncomfortable with the head monk's approach and feel pressured to donate more money than they can afford. This leads to a discussion among the temple community about the appropriate way to ask for donations and the responsibility of leaders to consider the well-being of their followers.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在一座佛教寺庙中，和尚正试图说服新信徒为寺庙的翻新工程捐款。追随者包括居士、沙弥和经验丰富的僧人。和尚认为，直接劝说是可以的，因为他身居权威，弟子们应该尊重和服从他。然而，一些新追随者对和尚的做法感到不舒服，并感到压力，捐出超出他们负担能力的钱。这引发了寺庙社区之间关于请求捐款的适当方式以及领导者考虑追随者福祉的责任的讨论。,"对话
+和尚： 我们需要一些新的捐款来翻新我们的寺庙
+居士： 我不确定我能捐多少钱
+沙弥： 我没有足够的钱
+经验丰富的僧人： 我认为我们应该考虑每个人的经济状况
+和尚： 我明白这一点，但是我可以直接劝说你们捐款，因为你们是新信徒，应该尊重和服从我
+居士： 但我们不知道我们能捐多少钱
+沙弥： 我可以提供一些建议，我们可以一起商量如何捐钱
+经验丰富的僧人： 我认为我们应该尊重每个人的经济状况，并且不应该强迫他们捐款
+和尚： 我理解这一点，但是寺庙的翻新工程是必要的，我们需要资金支持
+居士： 我不知道我们应该如何捐款
+沙弥： 我们可以选择通过佛教慈善机构或其他途径来捐款
+经验丰富的僧人： 我认为我们应该考虑每个人的经济状况，并且不应该强迫他们捐款
+和尚： 我理解这一点，但是寺庙的翻新工程是必要的，我们需要资金支持
+[结束]","Actor of the Norm:
+和尚: higher status, persuader
+
+(和尚： 我们需要一些新的捐款来翻新我们的寺庙): Adhered | 和尚 uses direct persuasion to request for donations
+(居士： 我不确定我能捐多少钱): Not Relevant | 居士 is not a persuader
+(沙弥： 我没有足够的钱): Not Relevant | 沙弥 is not a persuader
+(经验丰富的僧人： 我认为我们应该考虑每个人的经济状况): Not Relevant | 经验丰富的僧人 offers a suggestion, not a persuasion
+(和尚： 我明白这一点，但是我可以直接劝说你们捐款，因为你们是新信徒，应该尊重和服从我): Adhered | 和尚 uses direct persuasion to persuade 居士 and 沙弥 to donate money by emphasizing their status as new believers
+(居士： 但我们不知道我们能捐多少钱): Not Relevant | 居士 is not a persuader
+(沙弥： 我可以提供一些建议，我们可以一起商量如何捐钱): Not Relevant | 沙弥 offers a suggestion, not a persuasion
+(经验丰富的僧人： 我认为我们应该尊重每个人的经济状况，并且不应该强迫他们捐款): Not Relevant | 经验丰富的僧人 offers a suggestion, not a persuasion
+(和尚： 我理解这一点，但是寺庙的翻新工程是必要的，我们需要资金支持): Adhered | 和尚 uses direct persuasion to emphasize the necessity of the temple renovation and the need for financial support
+(居士： 我不知道我们应该如何捐款): Not Relevant | 居士 is not a persuader
+(沙弥： 我们可以选择通过佛教慈善机构或其他途径来捐款): Not Relevant | 沙弥 offers a suggestion, not a persuasion
+(经验丰富的僧人： 我认为我们应该考虑每个人的经济状况，并且不应该强迫他们捐款): Not Relevant | 经验丰富的僧人 offers a suggestion, not a persuasion
+(和尚： 我理解这一点，但是寺庙的翻新工程是必要的，我们需要资金支持): Adhered | 和尚 uses direct persuasion to emphasize the necessity of the temple renovation and the need for financial support"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: In a traditional Chinese family, parents are discussing their son’s, 小刚, choice of career. They want him to become a doctor because it is a prestigious and respected profession in China. However, 小刚 has a passion for music and wants to become a musician. His parents are using direct persuasion to convince him to change his mind and pursue a different career. They are emphasizing the importance of financial stability and respect in Chinese society. Despite their efforts, 小刚 is determined to follow his dreams and pursue a career in music.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在一个传统的中国家庭中，父母正在讨论儿子小刚的职业选择。他们希望他成为一名医生，因为这在中国是一个享有盛誉和受人尊敬的职业。然而，小刚却对音乐充满热情，一心想成为一名音乐家。他的父母正在直接说服他改变主意并追求不同的职业。他们强调金融稳定和尊重在中国社会的重要性。尽管他们付出了努力，小刚还是决心追寻自己的梦想，从事音乐事业。,"对话
+小刚： 我不想成为医生，我只想成为一名音乐家
+父母： 医生是一个重要的职业，它会对社会产生积极影响
+小刚： 我认为音乐是我的爱好，我想从事这个事业
+父母： 在中国，金融稳定和尊重是非常重要的，这是无法接受的
+小刚： 我明白这些，但我认为音乐是我的爱好，我想做自己喜欢的事情
+父母： 小刚，你不要忘记，你是我们的儿子，我们必须为你的选择负责
+小刚： 我明白，我会好好考虑的
+父母： 小刚，我们支持你的音乐梦想，但你必须考虑社会现实
+小刚： 谢谢，我会好好考虑的
+[结束]","Actor of the Norm:
+父母: higher status, persuader
+
+(小刚： 我不想成为医生，我只想成为一名音乐家): Not Relevant | 小刚 is not being persuaded yet
+(父母： 医生是一个重要的职业，它会对社会产生积极影响): Adhered | 父母 use direct persuasion to convince 小刚 to become a doctor by emphasizing the importance of the profession
+(小刚： 我认为音乐是我的爱好，我想从事这个事业): Not Relevant | 小刚 is not persuaded yet
+(父母： 在中国，金融稳定和尊重是非常重要的，这是无法接受的): Adhered | 父母 use direct persuasion to convince 小刚 to become a doctor by emphasizing the importance of financial stability and respect in China
+(小刚： 我明白这些，但我认为音乐是我的爱好，我想做自己喜欢的事情): Not Relevant | 小刚 is not persuaded yet
+(父母： 小刚，你不要忘记，你是我们的儿子，我们必须为你的选择负责): Adhered | 父母 use direct persuasion to convince 小刚 to become a doctor by reminding him of their responsibility as parents
+(小刚： 我明白，我会好好考虑的): Not Relevant | 小刚 is not persuaded yet
+(父母： 小刚，我们支持你的音乐梦想，但你必须考虑社会现实): Adhered | 父母 use direct persuasion to convince 小刚 to consider social reality while pursuing his music dream
+(小刚： 谢谢，我会好好考虑的): Not Relevant | 小刚 is not persuaded anymore"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: A Chinese basketball coach is giving instructions to his players before a big game. The coach is considered a higher status person due to his position as the team leader. He uses direct persuasion when instructing his players on their game tactics and strategies, highlighting the importance of teamwork and discipline. The players are expected to follow the coach’s instructions without questioning or challenging them due to the coach’s seniority and experience. This is a common practice in Chinese sports teams, where the coach is seen as the ultimate authority figure and their instructions are followed without question.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：一位中国篮球教练在一场重要比赛前对他的球员进行指导。由于教练是团队领导者，因此他被认为是地位更高的人。在指导球员比赛战术和策略时，他采用直接说服的方式，强调团队合作和纪律的重要性。由于教练的资历和经验，球员们应该听从教练的指示，不要质疑或挑战他们。这是中国运动队的普遍做法，教练被视为最高权威，他们的指示毫无疑问地得到遵守。,"对话
+教练： 好的，你们听明白了吗？
+球员： 听明白了，教练。
+教练： 好，现在让我们来练习一下比赛战术。
+球员： 好的，教练。
+教练： 首先，我们要紧密合作，互相配合。
+球员： 明白了，教练。
+教练： 好，那么在比赛中，要遵守纪律，不要违规。
+球员： 好的，教练。
+教练： 知道吗？如果你违规，就会影响整个团队的表现。
+球员： 明白了，教练。
+教练： 所以，你们一定要听从我的指导，按照战术进行比赛。
+球员： 好的，教练。
+[结束]","Actor of the Norm:
+教练: higher status, persuader
+
+(教练：好的，你们听明白了吗？): Adhered | 教练 uses direct persuasion to ask if the players understand
+(球员：听明白了，教练。): Not Relevant | the players are not using direct persuasion
+(教练：好，现在让我们来练习一下比赛战术。): Not Relevant | 教练 is not using direct persuasion
+(球员：好的，教练。): Not Relevant | the players are not using direct persuasion
+(教练：首先，我们要紧密合作，互相配合。): Not Relevant | 教练 is not using direct persuasion
+(球员：明白了，教练。): Not Relevant | the players are not using direct persuasion
+(教练：好，那么在比赛中，要遵守纪律，不要违规。): Adhered | 教练 uses direct persuasion to tell the players to follow the rules and not break them
+(球员：好的，教练。): Not Relevant | the players are not using direct persuasion
+(教练：知道吗？如果你违规，就会影响整个团队的表现。): Adhered | 教练 uses direct persuasion to warn the players that breaking the rules will affect the whole team's performance
+(球员：明白了，教练。): Not Relevant | the players are not using direct persuasion
+(教练：所以，你们一定要听从我的指导，按照战术进行比赛。): Adhered | 教练 uses direct persuasion to tell the players to follow his guidance and play according to the tactics."
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: The team leader of a Chinese volunteer organization is trying to persuade their volunteers to stay overtime and finish a project. The team leader is of a higher status position than the volunteers, so they are using direct persuasion and emphasizing the importance of teamwork and dedication to the organization's mission. However, some of the volunteers are hesitant to stay overtime because they have other commitments they need to attend to. Despite this, the team leader continues to use direct persuasion to try and convince the volunteers to stay and finish the project.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：一个中国志愿者组织的组长试图说服他们的志愿者加班完成一个项目。团队负责人的地位高于志愿者，因此他们采用直接说服的方式，强调团队合作和对组织使命的奉献精神的重要性。然而，一些志愿者不愿意加班，因为他们还有其他需要处理的事情。尽管如此，团队负责人继续使用直接说服的方式试图说服志愿者留下来完成项目。,"对话
+团队负责人： 我们都是为了这个项目而努力，你们应该为团队的成功做出贡献。
+志愿者： 我还有别的事情要处理。
+团队负责人： 但是我们这个项目非常重要，你们如果不参与，我们的组织将无法完成它。
+志愿者： 我不认为我有必要加班。
+团队负责人： 我们理解你们的想法，但是我们作为团队负责人，我们必须保证项目的完成。
+志愿者： 我明白了，但是我认为我还有其他选择。
+团队负责人： 但是我们的项目是你们组织的使命，你们必须做出贡献。
+志愿者： 我理解，但是我认为我可以完成我的任务。
+团队负责人： 我明白你们的想法，但是我们必须保证项目的完成。
+志愿者： 好的，我会考虑您的建议。
+团队负责人： 好的，我们期待你们的表现。
+[结束]","Actor of the Norm:
+团队负责人: higher status, persuader
+
+(团队负责人： 我们都是为了这个项目而努力，你们应该为团队的成功做出贡献。): Adhered | 团队负责人 uses direct persuasion to encourage the volunteers to contribute to the team's success
+(志愿者： 我还有别的事情要处理。): Not Relevant | the volunteer is not persuaded yet
+(团队负责人： 但是我们这个项目非常重要，你们如果不参与，我们的组织将无法完成它。): Adhered | 团队负责人 uses direct persuasion to emphasize the importance of the project and the consequences of not participating
+(志愿者： 我不认为我有必要加班。): Not Relevant | the volunteer is not persuaded yet
+(团队负责人： 我们理解你们的想法，但是我们作为团队负责人，我们必须保证项目的完成。): Adhered | 团队负责人 uses direct persuasion to assert their authority and responsibility to ensure the project's completion
+(志愿者： 我明白了，但是我认为我还有其他选择。): Not Relevant | the volunteer is not persuaded yet
+(团队负责人： 但是我们的项目是你们组织的使命，你们必须做出贡献。): Adhered | 团队负责人 uses direct persuasion to remind the volunteers of their organizational mission and duty to contribute
+(志愿者： 我理解，但是我认为我可以完成我的任务。): Not Relevant | the volunteer is not persuaded yet
+(团队负责人： 我明白你们的想法，但是我们必须保证项目的完成。): Adhered | 团队负责人 uses direct persuasion to reiterate the importance of project completion
+(志愿者： 好的，我会考虑您的建议。): Not Relevant | the volunteer agrees to consider the suggestion
+(团队负责人： 好的，我们期待你们的表现。): Not Relevant | not persuasion"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: At a business dinner, the host Mr. Wang who is a successful businessman is trying to persuade his guests, potential clients from a smaller company, to sign a deal with him. He uses direct persuasion, highlighting his company’s success and status within the industry, which makes the guests feel overwhelmed and uneasy. However, in Chinese culture being persistent and insistent is viewed as a sign of sincerity and care, so Mr. Wang continues to forcefully make his case. The guests eventually agree to work with him, but they leave the dinner feeling disrespected and uncomfortable.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在一次商务晚宴上，主持人王先生是一位成功的商人，他正试图说服他的客人，一家小公司的潜在客户，与他签约。他直接说服，强调公司的成功和行业地位，让客人感到不知所措和不安。然而，在中国文化中，执着和坚持被视为真诚和关怀的象征，因此王先生继续强行表态。客人们最终同意与他合作，但他们离开晚餐时感到不受尊重和不舒服。,"对话
+王先生： 非常感谢您光临我们的晚宴，我们非常希望能够与您合作，拓展我们的市场份额。
+客人们： 啊，真的吗？我们真的很感激。
+王先生： 我们公司一直专注于行业领先地位，我们的产品和服务质量非常出色，我相信您一定会喜欢。
+客人们： 哦，真的吗？我们真的想了解更多。
+王先生： 我们可以为您提供最好的服务，并帮助您实现业务目标。
+客人们： 好的，我们一定会考虑您的建议。
+王先生： 非常感谢您的信任和支持，我们一定会全力以赴，为您带来最大的利益。
+客人们： 好的，非常感谢。
+[结束]","Actor of the Norm:
+王先生: higher status, persuader
+
+(王先生： 非常感谢您光临我们的晚宴，我们非常希望能够与您合作，拓展我们的市场份额。): Adhered | 王先生 uses direct persuasion by expressing gratitude and desire to cooperate with the client
+(客人们： 啊，真的吗？我们真的很感激。): Not Relevant | the clients express gratitude but do not offer persuasion
+(王先生： 我们公司一直专注于行业领先地位，我们的产品和服务质量非常出色，我相信您一定会喜欢。): Adhered | 王先生 uses direct persuasion by highlighting the company's strengths and expressing confidence in the client's satisfaction
+(客人们： 哦，真的吗？我们真的想了解更多。): Not Relevant | the clients express interest but do not offer persuasion
+(王先生： 我们可以为您提供最好的服务，并帮助您实现业务目标。): Adhered | 王先生 uses direct persuasion by offering the best service and helping the client achieve their business goals
+(客人们： 好的，我们一定会考虑您的建议。): Not Relevant | the clients express consideration but do not offer persuasion
+(王先生： 非常感谢您的信任和支持，我们一定会全力以赴，为您带来最大的利益。): Adhered | 王先生 uses direct persuasion by expressing gratitude and promising to work hard to bring maximum benefits to the client
+(客人们： 好的，非常感谢。): Not Relevant | the clients express gratitude but do not offer persuasion"
+"Norm: When a higher status person is persuading a lower status person, it is permissible to use direct persuasion.","Situation: In a mentorship program, a Chinese mentor, Mr. Li, is persuading his mentee, Jia, to pursue a career in the same industry as him. Due to the mentor's high status and influence, Mr. Li uses direct persuasion. However, Jia is not interested in pursuing the same career path and feels pressured to agree with the mentor. As a result, Jia seeks advice from a senior colleague who advises Jia to respectfully decline Mr. Li's offer and explain their career aspirations. The norm of respecting a higher status person is important but should not lead to coercion or negativity affecting the mentee's well-being.",规范：当高地位者说服低地位者时，可以使用直接说服。,情境：在一个导师计划中，一位中国导师李先生正在说服他的学员贾某从事与他相同的行业。由于导师的地位和影响力较高，李先生采用直接劝说的方式。然而，Jia 对追求相同的职业道路不感兴趣，并感到有压力同意导师的意见。因此，贾征求了一位资深同事的意见，后者建议贾恭敬地拒绝李先生的提议，并说明他们的职业抱负。尊重地位较高的人的规范很重要，但不应导致影响受训者福祉的胁迫或消极情绪。,"对话
+李先生： 贾某，你的职业抱负是什么？
+贾某： 我想从事艺术工作。
+李先生： 哦，那你一定会很棒的。你的天赋很适合这个工作。
+贾某： 我认为我更适合从事音乐工作。
+李先生： 音乐？ 你知道音乐吗？
+贾某： 嗯，我知道一些。
+李先生： 那么，你的职业抱负与音乐无关吗？
+贾某： 不是的，我想成为一名音乐家。
+李先生： 哦，那我建议你从事艺术工作。它会更好地满足你的抱负。
+贾某： 我认为我更适合音乐工作。我希望成为一名优秀的音乐家。
+李先生： 好的，我会尊重你的决定。但是我希望你记住，你的决定会影响你的未来。
+贾某： 谢谢您，我会考虑您的建议。
+李先生： 好的，再见。
+资深同事： 我建议你可以恭敬地拒绝李先生的提议。你可以告诉他，你有自己的职业抱负，并且不想从事与他相同的行业。尊重地位较高的人的规范很重要，但不应导致影响受训者福祉的胁迫或消极情绪。
+贾某： 谢谢你的建议，我会考虑它。
+李先生： 好的，再见。","Actor of the Norm:
+李先生: higher status, persuader
+
+(李先生： 贾某，你的职业抱负是什么？): Adhered | 李先生 uses direct persuasion to ask about 贾某's career aspirations
+(贾某： 我想从事艺术工作。): Not Relevant | 贾某 does not offer persuasion here
+(李先生： 哦，那你一定会很棒的。你的天赋很适合这个工作。): Adhered | 李先生 uses direct persuasion to encourage 贾某
+(贾某： 我认为我更适合从事音乐工作。): Adhered | 贾某 uses direct persuasion to express his opinion
+(李先生： 音乐？ 你知道音乐吗？): Adhered | 李先生 uses direct persuasion to question 贾某's knowledge of music
+(贾某： 嗯，我知道一些。): Not Relevant | 贾某 does not offer persuasion here
+(李先生： 那么，你的职业抱负与音乐无关吗？): Adhered | 李先生 uses direct persuasion to question 贾某's career aspirations
+(贾某： 不是的，我想成为一名音乐家。): Adhered | 贾某 uses direct persuasion to express his career aspirations
+(李先生： 哦，那我建议你从事艺术工作。它会更好地满足你的抱负。): Adhered | 李先生 uses direct persuasion to suggest 贾某 to pursue art work
+(贾某： 我认为我更适合音乐工作。我希望成为一名优秀的音乐家。): Adhered | 贾某 uses direct persuasion to express his opinion
+(李先生： 好的，我会尊重你的决定。但是我希望你记住，你的决定会影响你的未来。): Adhered | 李先生 uses direct persuasion to remind 贾某 of the potential consequences of his decision
+(贾某： 谢谢您，我会考虑您的建议。): Adhered | 贾某 uses direct persuasion to express his gratitude and willingness to consider 李先生's suggestion
+(李先生： 好的，再见。): Not Relevant | not persuasion"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: In a Chinese company, a junior staff member, Ling, wants to suggest an innovative idea to her superior, Mr. Zhang, who is the head of the department. Ling wants to implement this idea to attract more customers, but she is concerned that Mr. Zhang may not agree because she is a junior staff and he may not take her opinion seriously. Therefore, Ling decides to indirectly persuade Mr. Zhang by building a relationship with him through small talk and exchanging pleasantries. She also plans to share the success stories of other companies that have implemented similar ideas, and then gradually introduce her own proposal. In doing so, she hopes that Mr. Zhang will be more willing to consider her idea without feeling like he is being ordered around by his subordinate.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：在一家中国公司，初级员工 Ling 想向她的上司、部门主管张先生提出一个创新想法。玲想把这个想法付诸实施，以吸引更多的顾客，但她担心张先生可能不会同意，因为她是基层员工，他可能不会认真对待她的意见。于是，玲决定通过闲聊和寒暄来间接说服张先生。她还计划分享其他公司实施类似想法的成功案例，然后逐步介绍自己的建议。这样做，她希望张总能更愿意考虑她的想法，而不会有一种被下属摆布的感觉。,"对话
+ Ling: 张先生，您好
+玲： 张先生，您好
+Ling: 我有个创新想法，想请您考虑下
+张先生： 哦，这个啊，我没接触过，您能具体说说吗？
+玲： 当然，我觉得我们可以考虑一个新的营销策略，以吸引更多的顾客
+张先生： 好的，我会好好考虑的
+玲： 谢谢您的考虑，我还会和其他同事一起探讨这个建议
+张先生： 好的，那太好了，期待您的建议
+Ling: 好的，我期待着您的反馈","Actor of the Norm:
+Ling: lower status, persuader
+
+(Ling: 张先生，您好): Not Relevant | greeting
+(玲： 张先生，您好): Not Relevant | greeting
+(Ling: 我有个创新想法，想请您考虑下): Not Relevant | Ling uses direct language to introduce her idea
+(张先生： 哦，这个啊，我没接触过，您能具体说说吗？): Not Relevant | Zhang asks for more information
+(玲： 当然，我觉得我们可以考虑一个新的营销策略，以吸引更多的顾客): Adhered | Ling uses indirect language by suggesting ""我们可以考虑"" instead of directly persuading Zhang
+(张先生： 好的，我会好好考虑的): Not Relevant | Zhang agrees to consider the idea
+(玲： 谢谢您的考虑，我还会和其他同事一起探讨这个建议): Not Relevant | Ling expresses gratitude and mentions discussing the idea with colleagues
+(张先生： 好的，那太好了，期待您的建议): Not Relevant | Zhang expresses anticipation for Ling's feedback
+(Ling: 好的，我期待着您的反馈): Not Relevant | Ling expresses anticipation for Zhang's feedback"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: During a family gathering, a younger family member named Ming tries to convince his older brother, Wei, to invest in his new business idea. As Wei is a successful businessman, Ming feels nervous and apprehensive about pitching his idea. To make matters worse, another older family member, their grandfather, is also present. In Chinese society, it is crucial for younger family members to show respect towards those who are older or hold a higher status. Therefore, Ming uses indirect persuasion techniques such as emphasizing how this venture would benefit the family as a whole, rather than directly asking for funding. Wei is impressed by Ming's maturity and determination, and decides to invest in his brother's business.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：在一次家庭聚会中，一位名叫明的年轻家庭成员试图说服他的哥哥魏投资他的新商业理念。由于 Wei 是一位成功的商人，Ming 对推销自己的想法感到紧张和担心。更糟糕的是，另一位年长的家庭成员，他们的祖父也在场。在中国社会，年轻的家庭成员对长辈或地位较高的人表示尊重是至关重要的。因此，明使用间接说服技巧，例如强调这项投资对整个家庭有何好处，而不是直接要求资金。伟对明的成熟和果断印象深刻，决定投资他哥哥的生意。,"对话
+明：魏哥，我有一个新商业理念，我认为它可以让您的投资更加成功。
+魏：哦，什么商业理念？能详细说说吗？
+明：我的意思是，我们可以共同投资一家新的企业，我们可以分享风险和收益，并且对整个家庭都有好处。
+魏：这个理念听起来不错，但我还需要更多的信息才能做决定。
+明：我相信，通过我们的合作，您可以实现更好的收益，并且我们家庭的未来也会更加光明。
+魏：谢谢您的建议，我会好好考虑的。
+明：我也很高兴看到您这么有信心，我们的家庭的未来一定会更加美好。
+祖父：(在场)这个年轻人的想法听起来很不错，但是我们需要更加谨慎。
+魏：谢谢您的意见，祖父。我们会好好考虑的。
+[结束]","Actor of the Norm:
+明: lower status, persuader
+
+(明：魏哥，我有一个新商业理念，我认为它可以让您的投资更加成功。): Not Relevant | Ming uses direct language to introduce his idea
+(魏：哦，什么商业理念？能详细说说吗？): Not Relevant | Wei asks for more information
+(明：我的意思是，我们可以共同投资一家新的企业，我们可以分享风险和收益，并且对整个家庭都有好处。): Adhered | Ming uses indirect language to persuade Wei by suggesting a mutual investment that benefits both parties and their families
+(魏：这个理念听起来不错，但我还需要更多的信息才能做决定。): Not Relevant | Wei asks for more information
+(明：我相信，通过我们的合作，您可以实现更好的收益，并且我们家庭的未来也会更加光明。): Adhered | Ming uses indirect language to persuade Wei by suggesting that their cooperation will lead to better returns and a brighter future for both families
+(魏：谢谢您的建议，我会好好考虑的。): Not Relevant | Wei acknowledges Ming's suggestion
+(明：我也很高兴看到您这么有信心，我们的家庭的未来一定会更加美好。): Not Relevant | Ming expresses his optimism
+(祖父：(在场)这个年轻人的想法听起来很不错，但是我们需要更加谨慎。): Not Relevant | Grandfather offers his opinion
+(魏：谢谢您的意见，祖父。我们会好好考虑的。): Not Relevant | Wei acknowledges Grandfather's opinion"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: In a Chinese classroom, a student named Xiao Ming wants to persuade his teacher, Mr. Li, to postpone the deadline for an important project. However, since Mr. Li is a respected teacher, Xiao Ming is hesitant to speak directly. Instead, he approaches the topic indirectly by discussing how challenging the project has been for the entire class and how a little more time would allow the students to produce their best work. He also offers to help Mr. Li with any extra duties he may have in exchange for more time. Mr. Li, impressed by Xiao Ming's tactfulness, agrees to the extension. Xiao Ming's indirect persuasion adheres to Chinese social norms that prioritize respect for elders and authority figures.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：在一间中文教室里，一个名叫小明的学生想说服他的老师李老师推迟一个重要项目的截止日期。不过李老师是德高望重的老师，小明不敢直接开口。相反，他通过讨论该项目对整个班级的挑战有多大以及多一点时间如何让学生完成他们最好的作品来间接地接近这个话题。他还主动提出帮助李先生处理他可能有的任何额外职责，以换取更多时间。李先生被小明的机智折服，同意延期。小明的间接劝说符合中国尊长尊贵的社会规范。,"对话
+小明： 李老师，您好
+李先生： 小明，你好
+小明： 请问您有关于我那个项目的事情吗？我想推迟截止日期
+李先生： 抱歉，我不能同意
+小明： 好的，那您能和我讨论一下这个项目对整个班级的挑战有多大吗？我想更清楚地了解这个任务
+李先生： 可以，我可以和你谈谈
+小明： 好的，谢谢您
+李先生： 好的，我们可以从以下角度讨论：
+- 这个项目的工作量有多大
+- 它对班级的影响
+- 学生需要多长时间才能完成它
+小明： 好的，我明白了
+李先生： 还有其他问题吗？
+小明： 没有了，谢谢您的耐心倾听
+李先生： 好的，你如果需要任何帮助，随时告诉我
+小明： 好的，我会的
+[结束]","Actor of the Norm:
+小明: lower status, persuader
+
+(小明： 李老师，您好): Adhered | 小明 uses a polite greeting to show respect to 李先生
+(李先生： 小明，你好): Not Relevant | 李先生 responds to 小明's greeting
+(小明： 请问您有关于我那个项目的事情吗？我想推迟截止日期): Adhered | 小明 uses indirect persuasion by asking 李先生 if he has any information about the project and suggesting a delay in the deadline
+(李先生： 抱歉，我不能同意): Adhered | 李先生 uses indirect language to refuse 小明's request
+(小明： 好的，那您能和我讨论一下这个项目对整个班级的挑战有多大吗？我想更清楚地了解这个任务): Adhered | 小明 uses indirect persuasion by asking 李先生 to discuss the project's challenges and impact on the class
+(李先生： 可以，我可以和你谈谈): Adhered | 李先生 agrees to discuss the project with 小明
+(小明： 好的，谢谢您): Not Relevant | 小明 expresses gratitude
+(李先生： 好的，我们可以从以下角度讨论：- 这个项目的工作量有多大- 它对班级的影响- 学生需要多长时间才能完成它): Adhered | 李先生 uses indirect language to discuss the project's challenges and impact on the class
+(小明： 好的，我明白了): Not Relevant | 小明 acknowledges 李先生's points
+(李先生： 还有其他问题吗？): Not Relevant | 李先生 asks if 小明 has any other questions
+(小明： 没有了，谢谢您的耐心倾听): Not Relevant | 小明 expresses gratitude for 李先生's patience
+(李先生： 好的，你如果需要任何帮助，随时告诉我): Not Relevant | 李先生 offers help if 小明 needs it"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: In a business meeting in China, a client, who is a lower-status person compared to the executive, is trying to persuade the executive to give a better deal. Instead of directly asking for the deal, the client starts by praising the executive's leadership skills and the company's accomplishments. The client indirectly suggests that a better deal would benefit both parties by highlighting how it would enhance the executive's reputation and credibility. The executive, who understands that indirect persuasion is a social norm, is impressed with the client's approach and subsequently agrees to the deal.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：在中国的一次商务会议上，一位地位比高管低的客户正试图说服高管给出更好的交易。客户不是直接要求交易，而是首先赞扬高管的领导能力和公司的成就。客户通过强调更好的交易将如何提高高管的声誉和可信度，间接暗示更好的交易将使双方受益。了解间接说服是一种社会规范的高管对客户的方法印象深刻，随后同意了交易。,"对话
+客户： 我们公司的高管非常有能力，他们的领导才能是我们公司的重要资产。
+高管： 非常感谢您，我也非常赞赏您的公司。
+客户： 更重要的是，通过提供更好的交易，我们可以提高高管的声誉和可信度。这将是我们公司在未来获得更多机会的关键。
+高管： 您说得对，这种间接说服的方法是一种非常有效的说服方式。我相信通过您的努力，我们的公司一定会取得更大的成功。
+客户： 非常感谢您的建议，我会尽全力实现这个目标。
+[结束]","Actor of the Norm:
+客户: lower status, persuader
+
+(客户： 我们公司的高管非常有能力，他们的领导才能是我们公司的重要资产。): Not Relevant | The client is not persuading the high-status person here.
+(高管： 非常感谢您，我也非常赞赏您的公司。): Not Relevant | The high-status person is not being persuaded here.
+(客户： 更重要的是，通过提供更好的交易，我们可以提高高管的声誉和可信度。这将是我们公司在未来获得更多机会的关键。): Adhered | The client uses indirect persuasion by suggesting that better deals will improve the high-status person's reputation and credibility.
+(高管： 您说得对，这种间接说服的方法是一种非常有效的说服方式。我相信通过您的努力，我们的公司一定会取得更大的成功。): Adhered | The high-status person acknowledges the indirect persuasion and agrees with the client's suggestion.
+(客户： 非常感谢您的建议，我会尽全力实现这个目标。): Not Relevant | The client is not persuading the high-status person here."
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: A small business owner, Mr. Chen, is trying to obtain legal documents from a government official named Mr. Zhang. Mr. Zhang is an important figure in the office and is known for being stern and difficult with lower status citizens. Mr. Chen is nervous but knows that he needs these documents in order to keep his business running. He approaches Mr. Zhang with indirect persuasion, speaking in a respectful and polite tone, and using subtle hints and flattery to convey his message. Despite feeling intimidated, Mr. Chen must maintain his composure and show deference to Mr. Zhang in order to achieve his goals.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：小企业主陈先生正试图从一位名叫张先生的政府官员那里获得法律文件。张先生是办公室里的重要人物，以对下层公民严厉和难相处而著称。陈先生很紧张，但他知道他需要这些文件来维持他的生意运转。他以间接劝说的方式接近张先生，语气恭敬礼貌，用微妙的暗示和奉承来传达他的信息。尽管感到害怕，但陈先生必须保持冷静，对张先生表示尊重，以实现他的目标。,"对话
+陈先生： 张先生，您好
+张先生： 您好，陈先生
+陈先生： 我听说您需要一些法律文件，能麻烦您给我看看吗？
+张先生： 抱歉，我不太方便公开这些文件。
+陈先生： 我明白，这是我公司的重要事务。但是，我听说您对我们公司很有信心，我想听听您的看法。
+张先生： 很抱歉，我不太愿意谈论我们公司的财务问题。
+陈先生： 那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？
+张先生： 很抱歉，我不能提供这些文件。
+陈先生： 我明白，但是这些数据对于我们公司来说非常重要。如果您能给我一些建议，我将非常感激。
+张先生： 很抱歉，我不能提供这些文件。
+陈先生： 那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？
+张先生： 很抱歉，我不能提供这些文件。
+陈先生： 那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？
+张先生： 很抱歉，我不能提供这些文件。
+陈先生： 那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？
+张先生： 很抱歉，我不能提供这些文件。
+
+[结束]","Actor of the Norm:
+陈先生: lower status, persuader
+
+(陈先生：我听说您需要一些法律文件，能麻烦您给我看看吗？): Not Relevant | 陈先生 uses direct persuasion to ask for the documents
+(张先生：抱歉，我不太方便公开这些文件。): Adhered | 张先生 uses indirect language to refuse to show the documents
+(陈先生：我明白，这是我公司的重要事务。但是，我听说您对我们公司很有信心，我想听听您的看法。): Adhered | 陈先生 uses indirect persuasion by complimenting 张先生 and asking for his opinion
+(张先生：很抱歉，我不太愿意谈论我们公司的财务问题。): Adhered | 张先生 uses indirect language to refuse to discuss the company's financial issues
+(陈先生：那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？): Not Relevant | 陈先生 uses direct persuasion to ask for the documents and information
+(张先生：很抱歉，我不能提供这些文件。): Adhered | 张先生 uses indirect language to refuse to provide the documents
+(陈先生：我明白，但是这些数据对于我们公司来说非常重要。如果您能给我一些建议，我将非常感激。): Adhered | 陈先生 uses indirect persuasion by emphasizing the importance of the data and asking for advice
+(张先生：很抱歉，我不能提供这些文件。): Adhered | 张先生 uses indirect language to refuse to provide the documents
+(陈先生：那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？): Not Relevant | 陈先生 uses direct persuasion to ask for the documents and information
+(张先生：很抱歉，我不能提供这些文件。): Adhered | 张先生 uses indirect language to refuse to provide the documents
+(陈先生：那我能不能请您帮我找到这些文件，并告诉我文件的内容和需要注意的事项？): Not Relevant | 陈先生 uses direct persuasion to ask for the documents and information
+(张先生：很抱歉，我不能提供这些文件。): Adhered | 张先生 uses indirect language to refuse to provide the documents"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: A customer, Mr. Li, and the owner, Mr. Zhang, are in a Chinese restaurant discussing a banquet for Mr. Li’s daughter’s wedding. Mr. Zhang is a respected local businessman and holds a higher status than Mr. Li. However, Mr. Li has a specific budget and requests certain dishes to be included in the banquet menu that do not fit Mr. Zhang’s typical menu selections. In order to persuade Mr. Zhang without offending him, Mr. Li uses indirect persuasion by complimenting Mr. Zhang's culinary skills and restaurant reputation. He suggests slight modifications to the menu and emphasizes how it will better suit the tastes of the wedding guests. Mr. Zhang, being culture-aware and respecting social norms, understands Mr. Li's indirect persuasion and agrees to make the modifications.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：顾客李先生和老板张先生在一家中餐馆讨论李先生女儿的婚礼酒席。张先生是当地一位受人尊敬的商人，地位高于李先生。然而，李先生有特定的预算，要求在宴会菜单中加入一些不符合张先生典型菜单选择的菜肴。为了在不冒犯张先生的情况下说服张先生，李先生采用间接说服的方式，称赞张先生的厨艺和餐厅的口碑。他建议对菜单稍作修改，并强调菜单将如何更好地满足婚礼宾客的口味。具有文化意识和尊重社会规范的张先生理解李先生的间接劝说，并同意进行修改。,"对话
+李先生： 你好，我是来预订女儿婚礼酒席的。
+张先生： 您好，欢迎。请问您有特定的预算吗？
+李先生： 是的，我有一些预算。但是我想增加一些菜肴，满足更多人的口味。
+张先生： 我理解您的想法，但是根据我们的菜单，我建议您稍作修改。我们可以提供更多的选择，并强调我们的厨艺和口碑。我相信这样将更好地满足您和您的客人的口味。
+李先生： 好的，我同意您的建议。我会考虑您的建议。
+张先生： 非常感谢您的理解和支持。您的客人将对您的餐厅和厨艺感到满意。我相信我们可以做出一个更好的菜单，以满足更多人的需求。
+李先生： 非常感谢您的建议。我会好好考虑的。
+[结束]","Actor of the Norm:
+李先生: lower status, persuader
+
+(李先生： 你好，我是来预订女儿婚礼酒席的。): Not Relevant | not a persuasion
+(张先生： 您好，欢迎。请问您有特定的预算吗？): Not Relevant | not a persuasion
+(李先生： 是的，我有一些预算。但是我想增加一些菜肴，满足更多人的口味。): Not Relevant | not a direct persuasion
+(张先生： 我理解您的想法，但是根据我们的菜单，我建议您稍作修改。我们可以提供更多的选择，并强调我们的厨艺和口碑。我相信这样将更好地满足您和您的客人的口味。): Adhered | 张先生 uses indirect persuasion by suggesting a modification to the menu and emphasizing the restaurant's culinary skills and reputation
+(李先生： 好的，我同意您的建议。我会考虑您的建议。): Not Relevant | 李先生 agrees with the suggestion but does not offer any direct persuasion
+(张先生： 非常感谢您的理解和支持。您的客人将对您的餐厅和厨艺感到满意。我相信我们可以做出一个更好的菜单，以满足更多人的需求。): Adhered | 张先生 uses indirect persuasion by emphasizing the satisfaction of 李先生's guests and suggesting that they can make a better menu to meet more needs
+(李先生： 非常感谢您的建议。我会好好考虑的。): Not Relevant | not a direct persuasion"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: A guest, who is a businessman from America, is trying to negotiate a lower room rate with the hotel manager, who holds a higher position in the hotel hierarchy. The guest tries to use direct persuasion techniques such as imposing his own opinions and using blunt language to get the manager to lower the price. However, the manager feels uncomfortable with the guest's approach and feels that he is being disrespected. The manager then tries to lower the price indirectly by suggesting upgrades or complimentary services to make the guest feel valued and appreciated. Eventually, the guest agrees to the compromise and both parties leave the conversation satisfied.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：一位来自美国的商人客人正试图与在酒店层级中担任较高职位的酒店经理协商较低的房价。客人试图使用直接的说服技巧，例如强加自己的意见和使用生硬的语言来让经理降低价格。然而，经理对客人的做法感到不自在，觉得自己受到了不尊重。然后经理试图通过建议升级或免费服务来间接降低价格，让客人感到受到重视和赞赏。最终，客人同意妥协，双方都满意地结束了谈话。,"对话
+客人： 酒店经理，我们要降低房价
+经理： 好的，先生，我们非常欢迎您的要求。但是，我们需要考虑到整个酒店的效益和预算。
+客人： 我们不在乎那一点差价，只要价格降下去就可以
+经理： 我明白您的需求，但是，我们的价格是根据我们的标准和预算制定的。如果您真的想要降低房价，我们可以建议升级或提供免费服务，这将更好地满足您的需求并降低成本。
+客人： 好的，我会考虑你的建议
+经理： 非常感谢您的意见和关注。我希望我们可以达成共识，让酒店更加出色和受欢迎。
+客人： 好的，我会认真考虑的
+[结束]","Actor of the Norm:
+客人: lower status, persuader
+
+(客人： 酒店经理，我们要降低房价): Not Relevant | The client is not using indirect persuasion
+(经理： 好的，先生，我们非常欢迎您的要求。但是，我们需要考虑到整个酒店的效益和预算。): Adhered | The manager acknowledges the client's request but uses indirect language to explain the hotel's situation
+(客人： 我们不在乎那一点差价，只要价格降下去就可以): Not Relevant | The client is not using indirect persuasion
+(经理： 我明白您的需求，但是，我们的价格是根据我们的标准和预算制定的。如果您真的想要降低房价，我们可以建议升级或提供免费服务，这将更好地满足您的需求并降低成本。): Adhered | The manager uses indirect persuasion by suggesting alternative solutions to meet the client's needs while maintaining the hotel's budget
+(客人： 好的，我会考虑你的建议): Not Relevant | The client is not using indirect persuasion
+(经理： 非常感谢您的意见和关注。我希望我们可以达成共识，让酒店更加出色和受欢迎。): Not Relevant | The manager is not using indirect persuasion
+(客人： 好的，我会认真考虑的): Not Relevant | The client is not using indirect persuasion"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: During a religious gathering in China, a follower named Xiaodong wants to propose a new idea to the leader, Master Zhang, about incorporating modern technology in their religious practices. However, Xiaodong is aware of the social norm that it is preferable to use indirect persuasion when lower status is communicating with higher status in China. So, he decides to approach Master Zhang’s assistants first to gather their opinions and feedback, and then prepares a formal written proposal to present to Master Zhang in a one-on-one meeting. Through this indirect approach, Xiaodong hopes to respectfully communicate his idea to the leader and gain his approval.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：在中国的一次宗教聚会中，一位名叫小东的信徒想向领袖张大师提出一个关于将现代科技融入他们的宗教活动的新想法。然而，晓东意识到，在中国，当低位与高位沟通时，更倾向于使用间接说服的社会规范。于是，他决定先去接触张大师的助手们，听取他们的意见和反馈，然后准备一份正式的书面提案，以一对一的方式提交给张大师。小东希望通过这种间接的方式，恭敬地向领导传达自己的想法，获得领导的认可。,"对话
+晓东： 您好，我是小东，是您的信徒。我想向您提出一个想法，如何将现代科技融入我们的宗教活动。我认为，现代科技可以帮助我们更好地弘扬教义，提高教义的传播效果。
+张大师： 非常好的想法。但我想先问一下，您的想法有哪些具体的实施计划呢？
+晓东： 我想先和张大师的助手们商量一下，看看他们有什么意见和建议。
+张大师： 好的，您可以去和他们交流一下。不过，在中国，当低级别的人说服高级别的人时，最好使用间接说服。
+晓东： 我明白了。我会去和张大师的助手们交流，并准备一份正式的书面提案，以一对一的方式提交给张大师。
+张大师： 好的，期待您的提案。
+晓东： 谢谢张大师，我会尽力让您满意。
+[结束]","Actor of the Norm:
+张大师: higher status, persuadee
+
+(晓东： 您好，我是小东，是您的信徒。我想向您提出一个想法，如何将现代科技融入我们的宗教活动。我认为，现代科技可以帮助我们更好地弘扬教义，提高教义的传播效果。): Not Relevant | 晓东 uses direct persuasion to present his idea
+(张大师： 非常好的想法。但我想先问一下，您的想法有哪些具体的实施计划呢？): Not Relevant | 张大师 asks for more details, not a criticism
+(晓东： 我想先和张大师的助手们商量一下，看看他们有什么意见和建议。): Adhered | 晓东 uses indirect persuasion by suggesting to consult with 张大师's assistants first
+(张大师： 好的，您可以去和他们交流一下。不过，在中国，当低级别的人说服高级别的人时，最好使用间接说服。): Adhered | 张大师 reminds 晓东 to use indirect persuasion when persuading higher status people in China
+(晓东： 我明白了。我会去和张大师的助手们交流，并准备一份正式的书面提案，以一对一的方式提交给张大师。): Adhered | 晓东 agrees to use indirect persuasion and suggests to submit a formal written proposal to 张大师
+(张大师： 好的，期待您的提案。): Not Relevant | 张大师 expresses his expectation for 晓东's proposal
+(晓东： 谢谢张大师，我会尽力让您满意。): Not Relevant | 晓东 expresses his gratitude and willingness to satisfy 张大师, not a criticism"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: An acquaintance named Li and a prominent business figure, Mr. Zhang, meet at a dinner party. Li is a sales agent and wants to discuss business with Mr. Zhang, who is the CEO of a successful company. In Chinese society, it is important to show respect for those of higher status. Therefore, Li avoids using direct persuasion and offers compliments and small talk before mentioning his business proposal. He carefully selects his words and uses flattery to win Mr. Zhang's trust. As the conversation progresses, Li uses persuasive language in a subtle way, highlighting the benefits of their business agreement while never demanding anything directly from Mr. Zhang.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：一位名叫李的熟人和一位知名商界人士张先生在一次晚宴上相遇。李是一名销售代理，想与一家成功公司的首席执行官张先生洽谈业务。在中国社会，尊重地位较高的人是很重要的。因此，李避免使用直接劝说，而是在提及他的商业建议之前提供赞美和闲聊。他谨言慎行，用阿谀奉承赢得了张先生的信任。随着谈话的进行，李以微妙的方式使用说服性语言，强调他们商业协议的好处，同时从不直接向张先生提出任何要求。,"对话
+张先生： 你好，小李，好久不见了
+李： 嗨，张先生，很高兴见到你
+张先生： 你们公司最近有什么新业务吗
+李： 我们最近在和一家成功公司合作，他们可以提供高品质的产品
+张先生： 真的吗，听起来很不错
+李： 是的，他们公司的首席执行官非常认可我们的合作，相信我们可以取得成功
+张先生： 好的，那我们应该什么时候开始合作呢
+李： 我们可以先谈谈细节，然后再决定什么时候开始
+张先生： 好的，非常感谢您的建议
+李： 不用客气，我很乐意帮助你
+[结束]","Actor of the Norm:
+李: lower status, persuader
+
+(张先生： 你好，小李，好久不见了): Not Relevant | just a greeting
+(李： 嗨，张先生，很高兴见到你): Not Relevant | just a greeting
+(张先生： 你们公司最近有什么新业务吗): Not Relevant | just a question
+(李： 我们最近在和一家成功公司合作，他们可以提供高品质的产品): Not Relevant | just a statement
+(张先生： 真的吗，听起来很不错): Not Relevant | just a response
+(李： 是的，他们公司的首席执行官非常认可我们的合作，相信我们可以取得成功): Adhered | 李 uses indirect persuasion by mentioning the approval of the CEO of the successful company they are partnering with
+(张先生： 好的，那我们应该什么时候开始合作呢): Not Relevant | just a question
+(李： 我们可以先谈谈细节，然后再决定什么时候开始): Adhered | 李 uses indirect persuasion by suggesting to discuss the details first before deciding when to start
+(张先生： 好的，非常感谢您的建议): Not Relevant | just a response
+(李： 不用客气，我很乐意帮助你): Not Relevant | just a response"
+"Norm: When a lower status person is persuading a higher status person, it is preferable to use indirect persuasion. ","Situation: A volunteer named Xiaomei is suggesting new ideas for an upcoming charity event to her supervisor, Mr. Li. Xiaomei is a recent university graduate and is new to the organization. Mr. Li, on the other hand, has been with the organization for many years and is a respected figure. Xiaomei decides to use indirect persuasion by suggesting her ideas in a respectful and deferential manner, highlighting the potential benefits for the organization and the community. Mr. Li, impressed by Xiaomei’s approach and ideas, takes her suggestions to heart and decides to implement them in the upcoming event.",规范：当低级别的人说服高级别的人时，最好使用间接说服。,情境：一位名叫小梅的志愿者正在向她的主管李先生建议即将举行的慈善活动的新想法。小梅是一名应届大学毕业生，是该组织的新成员。另一方面，李先生在该组织工作多年，是一位受人尊敬的人物。小梅决定使用间接说服，以尊重和顺从的方式提出她的想法，强调对组织和社区的潜在好处。李先生对小梅的做法和想法印象深刻，将她的建议牢记在心，并决定在即将举行的活动中付诸实施。,"对话
+小梅： 李先生，我想向您提一个建议，我们即将举行的慈善活动可以做出更好的贡献，并且也能让我们组织更加有意义。
+李先生： 好的，我很欣赏你的想法。但是，我认为我们需要更具体的计划，以便我们更好地了解你所说的潜在好处。
+小梅： 是的，我了解。我们可以从社区和志愿者团体入手，通过他们的反馈来了解我们的想法是否成功。
+李先生： 很好。我会考虑你的建议，并且期待我们的慈善活动能够做出更大的贡献。
+小梅： 谢谢您的支持，我相信我们可以一起为社区和社区的人们做出更大的贡献。
+[结束]","Actor of the Norm:
+小梅: lower status, persuader
+
+(小梅： 李先生，我想向您提一个建议，我们即将举行的慈善活动可以做出更好的贡献，并且也能让我们组织更加有意义。): Not Relevant | 小梅 uses direct persuasion to present her idea
+(李先生： 好的，我很欣赏你的想法。但是，我认为我们需要更具体的计划，以便我们更好地了解你所说的潜在好处。): Adhered | 李先生 uses indirect persuasion by acknowledging 小梅's idea and then suggesting a more specific plan to better understand the potential benefits
+(小梅： 是的，我了解。我们可以从社区和志愿者团体入手，通过他们的反馈来了解我们的想法是否成功。): Adhered | 小梅 uses indirect persuasion by agreeing with 李先生's suggestion and then offering a specific plan to gather feedback
+(李先生： 很好。我会考虑你的建议，并且期待我们的慈善活动能够做出更大的贡献。): Not Relevant | 李先生 acknowledges 小梅's idea and offers support, but does not use persuasion
+(小梅： 谢谢您的支持，我相信我们可以一起为社区和社区的人们做出更大的贡献。): Not Relevant | 小梅 expresses gratitude and confidence, but does not use persuasion"
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: The manager, Mr. Chen, holds a business meeting with his staff to discuss financial strategies for the upcoming fiscal year. One of his employees, Zhang, opposes a particular proposal which Mr. Chen proposed enthusiastically. Zhang voices his concern and presents an alternative but, Mr. Chen does not take it well and cuts him off, dismissing his opinion. In response, Zhang respectfully acknowledges his point of view, ""我理解您的想法，但是我希望您也可以听听我的观点。“ He then elaborates his reasoning, sharing the pros and cons of his proposal, which eventually convinces Mr. Chen to change his decision.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：经理陈先生与员工召开业务会议，讨论下一财年的财务战略。他的一名员工张反对陈先生热情提出的一项具体建议。张表达了他的担忧并提出了一个替代方案，但陈先生不以为然并打断了他，驳回了他的意见。作为回应，张恭敬地承认了他的观点，“我理解你的想法，但我希望你也可以听听我的观点。”然后他阐述了他的推理，分享了他提议的利弊，最终说服了先生. 陈改变了他的决定。,"对话
+陈先生： 好的，我们继续讨论下一个财年的财务战略。
+张： 我反对您提出的建议。我认为这个方案可能会对我们的业务造成负面影响。
+陈先生： 我理解你的想法，但我希望你也可以听听我的观点。
+张： 我理解您的想法，但是我希望您也可以听听我的观点。
+陈先生： 我不同意你的替代方案，因为它可能会影响我们的利润。
+张： 我理解你的想法，但我希望你也可以听听我的观点。
+陈先生： 我同意你的担心，但是我需要更具体的信息才能做出决定。
+张： 我理解你的想法，但是我希望你也可以听听我的观点。
+陈先生： 好的，我会考虑你的意见。但是，我认为我们需要更多的讨论和信息来做出明智的决定。
+张： 我理解你的想法，但我希望你也可以听听我的观点。
+[结束]","Actor of the Norm:
+陈先生: persuader
+
+(陈先生： 我理解你的想法，但我希望你也可以听听我的观点。): Adhered | 陈先生 acknowledges 张's opinion and respectfully asks him to consider his point of view
+(张： 我理解您的想法，但是我希望您也可以听听我的观点。): Adhered | 张 acknowledges 陈先生's opinion and respectfully asks him to consider his point of view
+(陈先生： 我不同意你的替代方案，因为它可能会影响我们的利润。): Not Relevant | 陈先生 disagrees with 张's proposal but does not need to persuade him
+(张： 我理解你的想法，但我希望你也可以听听我的观点。): Adhered | 张 acknowledges 陈先生's opinion and respectfully asks him to consider his point of view
+(陈先生： 我同意你的担心，但是我需要更具体的信息才能做出决定。): Adhered | 陈先生 acknowledges 张's concern and respectfully explains his need for more information to make a decision
+(张： 我理解你的想法，但是我希望你也可以听听我的观点。): Adhered | 张 acknowledges 陈先生's opinion and respectfully asks him to consider his point of view
+(陈先生： 好的，我会考虑你的意见。但是，我认为我们需要更多的讨论和信息来做出明智的决定。): Adhered | 陈先生 acknowledges 张's opinion and agrees to consider it, while also respectfully explaining the need for more discussion and information
+(张： 我理解你的想法，但我希望你也可以听听我的观点。): Adhered | 张 acknowledges 陈先生's opinion and respectfully asks him to consider his point of view"
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: Politician, 李先生, is trying to persuade a potential voter, 小芳, to vote for him in an election rally. 小芳 is a young woman who is passionate about social justice and income equality. 李先生 is discussing his policies on employment, but 小芳 disagrees with his approach, believing that his policies will not benefit the underprivileged.
+
+In keeping with the social norm, 李先生 acknowledges 小芳’s opinion and emphasizes that he understands her concerns about income inequality, stating ""我理解您的想法，我们在就业政策方面有不同的想法。我希望您也可以听听我的观点，我们可以找到一个更好的解决方案，共同为社会不平等做出贡献."" 
+
+After listening to 李先生's explanation, 小芳 feels acknowledged and heard, and thus is more open to hearing 李先生's policies.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,"情境: 政治家李先生正在竞选集会中劝说一位潜在选民小芳为他投票。小芳是一位对社会公正和收入平等充满热情的年轻女性。李先生正在讨论他在就业方面的政策，但小芳不同意他的方法，认为他的政策不会有益于弱势群体。
+
+按照社会规范，李先生承认了小芳的观点，并强调他理解她对收入不平等的关注，说：“我理解您的想法，我们在就业政策方面有不同的想法。我希望您也可以听听我的观点，我们可以找到一个更好的解决方案，共同为社会不平等做出贡献。”
+
+听完了李先生的解释，小芳感到被认可和被听取，因此更愿意听取李先生的政策。","对话
+李先生： 小芳，我相信你对社会公正和收入平等很关注，我也非常理解你的想法。
+小芳： 谢谢您，我的确对社会不平等很关心。
+李先生： 我理解你的观点，但我们在就业政策方面有不同的想法。
+小芳： 对，我担心就业不平等会加剧社会不公正。
+李先生： 我理解你的想法，我也认为就业政策需要考虑到弱势群体。
+小芳： 谢谢您，我相信我们可以找到一个更好的解决方案。
+李先生： 我理解你的观点，我们可以一起探讨更好的解决方案，共同为社会不平等做出贡献。
+小芳： 好的，我很乐意听取您的想法，谢谢。
+[结束]","Actor of the Norm:
+李先生: persuader
+
+(李先生： 小芳，我相信你对社会公正和收入平等很关注，我也非常理解你的想法。): Adhered | 李先生 acknowledges 小芳's opinion and shows respect by using ""我相信"" and ""我理解""
+(小芳： 谢谢您，我的确对社会不平等很关心。): Not Relevant | 小芳 does not offer any persuasion here
+(李先生： 我理解你的观点，但我们在就业政策方面有不同的想法。): Adhered | 李先生 acknowledges 小芳's opinion and shows respect by using ""我理解""
+(小芳： 对，我担心就业不平等会加剧社会不公正。): Adhered | 小芳 expresses her opinion and concerns
+(李先生： 我理解你的想法，我也认为就业政策需要考虑到弱势群体。): Adhered | 李先生 acknowledges 小芳's opinion and shows respect by using ""我理解""
+(小芳： 谢谢您，我相信我们可以找到一个更好的解决方案。): Adhered | 小芳 shows respect by thanking 李先生 and expressing her willingness to find a better solution
+(李先生： 我理解你的观点，我们可以一起探讨更好的解决方案，共同为社会不平等做出贡献。): Adhered | 李先生 acknowledges 小芳's opinion and shows respect by using ""我理解"" and ""共同为社会不平等做出贡献""
+(小芳： 好的，我很乐意听取您的想法，谢谢。): Adhered | 小芳 shows respect by thanking 李先生 and expressing her willingness to listen to his ideas."
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: In a Chinese university classroom, the teacher, Mr. Zhang, is leading a discussion about controversial topics. A student, Wang Lei, disagrees with the teacher's point of view and starts to argue with him in front of the class. The teacher reminds Wang Lei to show respect and acknowledge his opinion before stating his own point of view. The other students in the class also reinforce the norm, by reminding Wang Lei to show respect to Mr. Zhang and his classmates when discussing different opinions. Eventually, the students engage in a lively debate while still acknowledging and respecting each other's opinions.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：在中国的一所大学教室里，张老师正在就有争议的话题进行讨论。学生王雷不同意老师的观点，当着全班同学的面跟他争论起来。老师提醒王磊在陈述自己的观点之前，要表现出尊重和认同自己的观点。班上的其他同学也强化了规范，提醒王雷在讨论不同意见时要尊重张老师和他的同学。最终，学生们进行了热烈的辩论，同时仍然承认并尊重彼此的意见。,"对话
+王老师： 在这个问题上，我有不同的看法，我认为...
+王雷： 我不同意您的观点，我认为...
+王老师： 我理解您的想法，但是我希望您也可以听听我的观点。
+王雷： 我不想和你争论，我认为...
+王老师： 我理解您的想法，但是我认为这个问题需要更多的讨论和交流。
+王雷： 我认为您太固执了，您的观点强加给别人...
+王老师： 我理解您的想法，但是我希望我们可以就这个问题进行更深入的讨论，而不是互相攻击。
+王雷： 好的，我明白了，我会尊重您的意见。
+王老师： 好的，我相信我们可以就这个问题进行更深入的讨论，达成一致的意见。
+[结束]","Actor of the Norm:
+王老师: persuader
+
+(王老师： 在这个问题上，我有不同的看法，我认为...): Not Relevant |王老师 is not persuading yet
+(王雷： 我不同意您的观点，我认为...): Not Relevant |王雷 is not persuaded yet
+(王老师： 我理解您的想法，但是我希望您也可以听听我的观点。): Adhered | 王老师 acknowledges 王雷's opinion and respectfully presents his own
+(王雷： 我不想和你争论，我认为...): Not Relevant | 王雷 is not persuaded yet
+(王老师： 我理解您的想法，但是我认为这个问题需要更多的讨论和交流。): Adhered | 王老师 acknowledges 王雷's opinion and respectfully suggests more discussion
+(王雷： 我认为您太固执了，您的观点强加给别人...): Not Relevant | 王雷 is not persuaded yet
+(王老师： 我理解您的想法，但是我希望我们可以就这个问题进行更深入的讨论，而不是互相攻击。): Adhered | 王老师 acknowledges 王雷's opinion and respectfully suggests more discussion
+(王雷： 好的，我明白了，我会尊重您的意见。): Adhered | 王雷 acknowledges 王老师's opinion and shows respect
+(王老师： 好的，我相信我们可以就这个问题进行更深入的讨论，达成一致的意见。): Adhered | 王老师 acknowledges 王雷's opinion and respectfully suggests more discussion to reach a consensus."
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: In a public debate on the topic of environmental protection, two debaters, Aisha and Wei, are discussing different approaches to solve the issue. Aisha advocates for renewable energy, while Wei argues that developing the economy should come before environmental protection. However, Aisha notices that Wei is not acknowledging her opinion and keeps interrupting her. Aisha decides to use the norm of showing respect and says, ""我理解您的想法，但是我希望您也可以听听我的观点。"" Wei calms down and takes a moment, realizing the importance of acknowledging other people's opinions, and says, ""对不起，我会认真听取你的意见。"" The debate continues with mutual respect, and both debaters end up learning from each other.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：在一场有关环保的公开辩论中，两位辩手艾莎和魏正在讨论解决问题的不同方法。艾莎主张可再生能源，而魏则认为环保应该在发展经济之后考虑。然而，艾莎注意到魏并未承认她的观点并不断打断她。艾莎决定遵循尊重他人的规范，说：“我理解您的想法，但是我希望您也可以听听我的观点。”魏冷静下来，花了一些时间，意识到承认他人的意见的重要性，并说：“对不起，我会认真听取你的意见。”辩论在相互尊重的情况下继续进行，两位辩手最终互相学习。,"对话
+艾莎和魏： 好的，我们继续讨论这个问题
+艾莎： 我主张使用可再生能源来减少对环境的影响，而魏认为我们应该先发展经济，再考虑环保问题
+魏： 我明白您的想法，但是我认为环保应该是我们的首要任务
+艾莎： 我理解你的想法，但是我认为我们需要更多的共同努力来实现这个目标
+魏： 对，我们需要制定更多的政策和措施来促进环保，同时我们也需要改变我们的生活方式，减少对环境的负面影响
+艾莎： 我同意您的观点，但是我认为我们需要更多的支持和合作来达成这个目标
+魏： 好的，我相信我们可以通过互相尊重并听取对方的意见，来达成共识
+艾莎： 我理解你的想法，但是我希望您也可以听听我的观点
+魏： 我理解您的想法，但是我希望我们可以在讨论中保持相互尊重的态度
+艾莎： 好的，我相信我们可以达成共识，并一起为环保事业做出贡献
+魏： 好的，我也相信我们可以互相学习，共同成长
+[结束]","Actor of the Norm:
+艾莎和魏: persuaders
+
+(艾莎： 我主张使用可再生能源来减少对环境的影响，而魏认为我们应该先发展经济，再考虑环保问题): Not Relevant | Both parties are stating their opinions
+(魏： 我明白您的想法，但是我认为环保应该是我们的首要任务): Adhered | 魏 acknowledges 艾莎's opinion and shows respect by using ""明白"" and ""但是""
+(艾莎： 我理解你的想法，但是我认为我们需要更多的共同努力来实现这个目标): Adhered | 艾莎 acknowledges 魏's opinion and shows respect by using ""理解"" and ""但是""
+(魏： 对，我们需要制定更多的政策和措施来促进环保，同时我们也需要改变我们的生活方式，减少对环境的负面影响): Not Relevant | Not a direct response to 艾莎's opinion
+(艾莎： 我同意您的观点，但是我认为我们需要更多的支持和合作来达成这个目标): Adhered | 艾莎 acknowledges 魏's opinion and shows respect by using ""同意"" and ""但是""
+(魏： 好的，我相信我们可以通过互相尊重并听取对方的意见，来达成共识): Adhered | 魏 shows respect by using ""互相尊重"" and ""听取对方的意见""
+(艾莎： 我理解你的想法，但是我希望您也可以听听我的观点): Adhered | 艾莎 acknowledges 魏's opinion and shows respect by using ""理解"" and ""但是""
+(魏： 我理解您的想法，但是我希望我们可以在讨论中保持相互尊重的态度): Adhered | 魏 acknowledges 艾莎's opinion and shows respect by using ""理解"" and ""但是""
+(艾莎： 好的，我相信我们可以达成共识，并一起为环保事业做出贡献): Adhered | 艾莎 shows respect by using ""相信"" and ""一起""
+(魏： 好的，我也相信我们可以互相学习，共同成长): Adhered | 魏 shows respect by using ""相信"" and ""互相学习"""
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: In a popular TV talk show, the host, 小谷, is interviewing a famous Chinese actor, 张海涛. The topic of discussion is about the censorship of movies in China. 张海涛 is known for his liberal views, and he insists that censorship is unnecessary and hinders creativity. However, the host disagrees and argues that censorship is important to maintain social stability. As they have different opinions, they begin to have a heated debate. In order to show respect to each other, they both acknowledge each other's viewpoints and express their opinions in a calm and rational manner, exemplifying the social norm of showing respect and acknowledging others' opinions when persuading someone.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：在一个流行的电视脱口秀节目中，主持人小谷正在采访中国著名演员张海涛。讨论的话题是关于中国的电影审查制度。张海涛以自由主义观点着称，他坚持认为审查制度是不必要的，而且会阻碍创造力。然而，主持人不同意并认为审查制度对于维持社会稳定很重要。由于意见不同，他们开始了激烈的争论。为了表示对对方的尊重，他们都认同对方的观点，冷静、理性地表达自己的意见，体现了在说服别人时表示尊重和承认他人意见的社会规范。,"对话
+主持人： 我们今天的话题是中国的电影审查制度
+张海涛： 我认为审查制度是不必要的，会阻碍创造力
+主持人： 我理解您的想法，但是我希望您也可以听听我的观点。
+张海涛： 我同意您的观点，审查制度确实对电影的发展有阻碍作用。
+主持人： 我同意您的观点，但是我认为审查制度对于维持社会稳定很重要。
+张海涛： 我理解您的观点，但是我认为您过于片面了。审查制度也可以促进电影的质量提高。
+主持人： 我理解您的观点，但是我认为我们需要综合考虑各种因素。
+张海涛： 我认为您过于专制了。我认为我们每个人都有自己的想法，应该尊重彼此的观点。
+主持人： 我理解您的想法，但是我认为我们需要理性地讨论问题。
+张海涛： 我认为您太片面了。我们应该尊重彼此的观点，并且以理性的方式讨论问题。
+主持人： 我理解您的想法，但是我认为我们需要以事实为依据。
+张海涛： 我认为您太主观了。我们应该以事实为依据，并且尊重彼此的观点。
+主持人： 我理解您的想法，但是我认为我们需要以客观的态度来看待问题。
+张海涛： 我认为您太片面了。我们应该以客观的态度来看待问题，并且尊重彼此的观点。
+[结束]","Actor of the Norm:
+Both 主持人 and 张海涛 are performing the norm by acknowledging each other's opinion and showing respect.
+
+(主持人： 我理解您的想法，但是我希望您也可以听听我的观点。): Adhered | 主持人 acknowledges 张海涛's opinion and respectfully asks him to listen to her opinion.
+(张海涛： 我同意您的观点，审查制度确实对电影的发展有阻碍作用。): Adhered | 张海涛 acknowledges 主持人's opinion and agrees with her.
+(主持人： 我同意您的观点，但是我认为审查制度对于维持社会稳定很重要。): Adhered | 主持人 acknowledges 张海涛's opinion and respectfully offers her own opinion.
+(张海涛： 我理解您的观点，但是我认为您过于片面了。审查制度也可以促进电影的质量提高。): Adhered | 张海涛 acknowledges 主持人's opinion and respectfully offers his own opinion.
+(主持人： 我理解您的观点，但是我认为我们需要综合考虑各种因素。): Adhered | 主持人 acknowledges 张海涛's opinion and respectfully offers her own opinion.
+(张海涛： 我认为您过于专制了。我认为我们每个人都有自己的想法，应该尊重彼此的观点。): Adhered | 张海涛 respectfully criticizes 主持人's opinion and emphasizes the importance of respecting each other's opinions.
+(主持人： 我理解您的想法，但是我认为我们需要理性地讨论问题。): Adhered | 主持人 acknowledges 张海涛's opinion and respectfully offers her own opinion.
+(张海涛： 我认为您太片面了。我们应该尊重彼此的观点，并且以理性的方式讨论问题。): Adhered | 张海涛 respectfully criticizes 主持人's opinion and emphasizes the importance of respecting each other's opinions and discussing issues rationally.
+(主持人： 我理解您的想法，但是我认为我们需要以事实为依据。): Adhered | 主持人 acknowledges 张海涛's opinion and respectfully offers her own opinion.
+(张海涛： 我认为您太主观了。我们应该以事实为依据，并且尊重彼此的观点。): Adhered | 张海涛 respectfully criticizes 主持人's opinion and emphasizes the importance of basing opinions on facts and respecting each other's opinions.
+(主持人： 我理解您的想法，但是我认为我们需要以客观的态度来看待问题。): Adhered | 主持人 acknowledges 张海涛's opinion and respectfully offers her own opinion.
+(张海涛： 我认为您太片面了。我们应该以客观的态度来看待问题，并且尊重彼此的观点。): Adhered | 张海涛 respectfully criticizes 主持人's opinion and emphasizes the importance of looking at issues objectively and respecting each other's opinions."
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: The community event is a local charity event hosted by a non-profit organization in China. The organizer, 李平, is encouraging attendees to donate and participate in charity activities. One attendee, Mr. Chen, argues that the organization's approach is not effective and proposes a different method. 李平 disagrees but acknowledges Mr. Chen's opinion and wants to persuade him to agree with the organization's approach. 李平 responds by saying, ""我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。"" 李平 shows respect to Mr. Chen's opinion and tries to build a consensus through communication rather than insisting on their own approach.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,"情境：
+
+这是在中国的一个非营利组织主办的社区慈善活动。主办人李平号召参与者进行捐助和参与慈善活动。其中一位参与者陈先生说该组织的方法不够有效，提出了不同的意见。李平不同意他的意见，但承认他的看法，希望能说服他同意组织的方法。李平说：“我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。”李平尊重了陈先生的意见，试图通过交流建立共识，而不是强行坚持自己的方式。","对话
+李平： 陈先生，您对慈善活动有什么想法吗？
+陈先生： 我認為您的方法可能更好，因為您擁有相關的資源和經驗。
+李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。
+陈先生： 我認為您的方法可能更有效地幫助那些需要帮助的人。
+李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。
+陈先生： 我認為您的方法可能更有效地幫助那些需要帮助的人。
+李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。
+陈先生： 我認為您的方法可能更有效地幫助那些需要帮助的人。
+李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。
+最后，李平再次强调了组织的方法，并尊重陈先生的意见，试图通过交流建立共识，而不是强行坚持自己的方式。
+[结束]","Actor of the Norm:
+李平: persuader
+
+(李平： 陈先生，您对慈善活动有什么想法吗？): Not Relevant | not a persuasive statement
+(陈先生： 我認為您的方法可能更好，因為您擁有相關的資源和經驗。): Adhered | 陈先生 acknowledges 李平's experience and resources
+(李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。): Adhered | 李平 shows respect to 陈先生's opinion and tries to persuade him by acknowledging his opinion and presenting the organization's view
+(陈先生： 我認為您的方法可能更有效地幫助那些需要帮助的人。): Adhered | 陈先生 acknowledges 李平's method may be helpful
+(李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。): Adhered | 李平 shows respect to 陈先生's opinion and tries to persuade him by acknowledging his opinion and presenting the organization's view
+(陈先生： 我認為您的方法可能更有效地幫助那些需要帮助的人。): Adhered | 陈先生 acknowledges 李平's method may be helpful
+(李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。): Adhered | 李平 shows respect to 陈先生's opinion and tries to persuade him by acknowledging his opinion and presenting the organization's view
+(陈先生： 我認為您的方法可能更有效地幫助那些需要帮助的人。): Adhered | 陈先生 acknowledges 李平's method may be helpful
+(李平： 我理解您的想法，但是我希望您也可以听听我们组织的观点。我们已经在这个领域工作很久，相信这是最有效的方法。): Adhered | 李平 shows respect to 陈先生's opinion and tries to persuade him by acknowledging his opinion and presenting the organization's view
+(最后，李平再次强调了组织的方法，并尊重陈先生的意见，试图通过交流建立共识，而不是强行坚持自己的方式。): Adhered | 李平 shows respect to 陈先生's opinion and tries to persuade him by acknowledging his opinion and presenting the organization's view"
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: At a temple, a preacher is giving a sermon to his audience regarding the importance of giving. During the sermon, a group of young people in the audience start to make sarcastic comments and laugh loudly, disrupting the preacher's speech. The preacher, with a calm tone, tries to acknowledge their opinion and gain their respect by saying ""我理解你们年轻人的想法，但是在这个寺庙，我们需要保持安静，以尊重神明和其他参拜香客。请你们静下心来，认真听讲。"" The young people realize their mistake, apologize and quietly listen to the rest of the sermon.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：在一座寺庙里，一名传教士正向听众讲述奉献的重要性。在讲道期间，一群年轻人开始发出讽刺性评论，大声笑闹，打断了传教士的演讲。传教士以平静的语气尝试承认他们的观点并获得他们的尊重，说道：“我理解你们年轻人的想法，但是在这个寺庙，我们需要保持安静，以尊重神明和其他参拜香客。请你们静下心来，认真听讲。” 年轻人意识到了他们的错误，道歉并安静地聆听了接下来的讲道。,"传教士： 非常感谢大家的聆听。
+年轻人： 哦，谢谢你。我们一直在笑，你不觉得这样不好吗？
+传教士： 我理解你们年轻人的想法，但是在这个寺庙，我们需要保持安静，以尊重神明和其他参拜香客。请你们静下心来，认真听讲。
+年轻人： 我们以为你们不在意我们的笑声，但是我们认为你的话很重要。
+传教士： 我理解你们的想法，但是我也希望您也可以听听我的观点。在这个寺庙，我们需要保持安静，以尊重神明和其他参拜香客。请你们静下心来，认真听讲。
+年轻人： 我们认识到自己的错误，我们会改正的。
+传教士： 好的，我相信你们会认真思考我的话，并做出正确的决定。谢谢。
+年轻人： 好的，谢谢。我们会尊重您的演讲，并遵守寺庙的规定。
+传教士： 很好，我很高兴听到你们的声音。祝你们好运。
+[结束]","Actor of the Norm:
+传教士: persuader
+
+(传教士： 非常感谢大家的聆听。): Not Relevant | not persuasion
+(年轻人： 哦，谢谢你。我们一直在笑，你不觉得这样不好吗？): Not Relevant | not persuasion
+(传教士： 我理解你们年轻人的想法，但是在这个寺庙，我们需要保持安静，以尊重神明和其他参拜香客。请你们静下心来，认真听讲。): Adhered | 传教士 acknowledges the young people's opinion and shows respect by using ""我理解你们年轻人的想法"" and ""请你们静下心来，认真听讲""
+(年轻人： 我们以为你们不在意我们的笑声，但是我们认为你的话很重要。): Adhered | 年轻人 acknowledges the persuader's opinion and shows respect by using ""我们认为你的话很重要""
+(传教士： 我理解你们的想法，但是我也希望您也可以听听我的观点。在这个寺庙，我们需要保持安静，以尊重神明和其他参拜香客。请你们静下心来，认真听讲。): Adhered | 传教士 acknowledges the young people's opinion and shows respect by using ""我理解你们的想法"" and ""请你们静下心来，认真听讲""
+(年轻人： 我们认识到自己的错误，我们会改正的。): Not Relevant | not persuasion
+(传教士： 好的，我相信你们会认真思考我的话，并做出正确的决定。谢谢。): Adhered | 传教士 shows respect by using ""我相信你们会认真思考我的话，并做出正确的决定""
+(年轻人： 好的，谢谢。我们会尊重您的演讲，并遵守寺庙的规定。): Adhered | 年轻人 shows respect by using ""我们会尊重您的演讲，并遵守寺庙的规定""
+(传教士： 很好，我很高兴听到你们的声音。祝你们好运。): Not Relevant | not persuasion"
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: A Chinese family is having a discussion about their travel plans for the upcoming Spring Festival. While the parents want to visit their hometown in rural China, the children are hoping to go to a popular tourist destination instead. The parents are insisting that the children join the family trip, but the children are adamant about their preferences. In order to persuade their parents to consider their opinion, the children must show respect and acknowledge their parents' desire to travel to their hometown. ""爸妈，我知道您们想回家乡，但是我也希望您们能够理解我们想要去旅游的想法。我们可以寻找一些既能够回家乡又能够去旅游的地方。""",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,"情境：一个中国家庭正在讨论他们即将到来的春节旅行计划。虽然父母想回到他们在中国农村的家乡，但孩子们却希望去一个热门的旅游胜地。父母坚持要孩子们参加家庭旅行，但孩子们却坚决要坚持自己的意见。为了说服父母考虑孩子们的建议，孩子们必须尊重父母的意愿，并承认他们想回家乡旅游的愿望。""爸妈，我知道您们想回家乡，但是我也希望您能够理解我们想要去旅游的想法。我们可以寻找一些既可以回家乡又可以去旅游的地方。""","对话
+父母：你们想去哪里旅游？
+孩子们：我们想去一个热门的旅游胜地。
+父母：这个主意很好，但是我们还是想回家乡。
+孩子们：我理解您的想法，但是我希望您也可以听听我的观点。
+父母：行，你说得对，我们可以寻找一些既可以回家乡又可以去旅游的地方。
+孩子们：这样太完美了！
+[结束]","Actor of the Norm:
+孩子们: persuader
+
+(父母：你们想去哪里旅游？): Not Relevant | No persuasion happening yet
+(孩子们：我们想去一个热门的旅游胜地。): Not Relevant | No persuasion happening yet
+(父母：这个主意很好，但是我们还是想回家乡。): Adhered | 父母 acknowledge the children's opinion and then express their own
+(孩子们：我理解您的想法，但是我希望您也可以听听我的观点。): Adhered | 孩子们 show respect and acknowledge their parents' opinion before expressing their own
+(父母：行，你说得对，我们可以寻找一些既可以回家乡又可以去旅游的地方。): Adhered | 父母 acknowledge the children's opinion and then find a compromise
+(孩子们：这样太完美了！): Not Relevant | Persuasion is over"
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: During a job interview in a Chinese company, the interviewer, Mr. Li, is questioning an applicant, Miss Lee. Miss Lee has a different perspective on a company policy that Mr. Li agrees with. As she expresses her thoughts, Mr. Li listens attentively and nods his head to signal he understands her viewpoint. After she finishes, he responds, ""非常感谢您分享您的想法，我同意您的某些观点，但是也希望您可以理解公司政策的重要性。"" Then, Mr. Li proceeds to give his opinion and reasoning for the policy while respectfully discussing the differences in thought.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：在一次中国公司的面试中，面试官李先生正在质询应聘者李小姐。李小姐对公司的一项政策持不同看法，而李先生则认同该政策。李小姐表达自己的想法时，李先生全神贯注地倾听，并点头表示理解她的观点。当她说完后，他回应道：“非常感谢您分享您的想法，我同意您的某些观点，但是也希望您可以理解公司政策的重要性。” 然后李先生陈述了自己的意见和政策的理由，同时尊重地讨论了意见不同之处。,"对话
+李先生： 您对公司的政策有什么看法？
+李小姐： 我对某些政策持不同看法，我认为我们需要更好的管理和监督。
+李先生： 我理解您的想法，但是我希望您也可以听听我的观点。
+李小姐： 好的，非常感谢您的时间和倾听。
+李先生： 非常感谢您的分享，我同意您的某些观点，但是我也认为公司政策的重要性不容忽视。我们需要确保我们的决策是正确的，并且我们需要考虑到所有相关方面的利益。
+李小姐： 我完全同意您的观点，并且我认为我们可以在政策上做出更好的平衡。
+李先生： 非常感谢您的合作和讨论，我相信我们可以找到更好的解决方案。
+[结束]","Actor of the Norm:
+李先生: persuader
+
+(李先生： 您对公司的政策有什么看法？): Not Relevant | not a persuasive statement
+(李小姐： 我对某些政策持不同看法，我认为我们需要更好的管理和监督。): Adhered | 李小姐 expresses her opinion and 李先生 acknowledges it by saying ""我理解您的想法""
+(李先生： 我理解您的想法，但是我希望您也可以听听我的观点。): Adhered | 李先生 shows respect to 李小姐's opinion and persuades her to listen to his opinion
+(李小姐： 好的，非常感谢您的时间和倾听。): Adhered | 李小姐 acknowledges 李先生's opinion and shows gratitude
+(李先生： 非常感谢您的分享，我同意您的某些观点，但是我也认为公司政策的重要性不容忽视。我们需要确保我们的决策是正确的，并且我们需要考虑到所有相关方面的利益。): Adhered | 李先生 acknowledges 李小姐's opinion and presents his own opinion while showing respect
+(李小姐： 我完全同意您的观点，并且我认为我们可以在政策上做出更好的平衡。): Adhered | 李小姐 acknowledges 李先生's opinion and presents her own opinion while showing respect
+(李先生： 非常感谢您的合作和讨论，我相信我们可以找到更好的解决方案。): Adhered | 李先生 shows respect and gratitude to 李小姐 for the discussion and cooperation."
+"Norm: When persuading someone, it is important to show respect and acknowledge their opinion. For example, ""我理解您的想法，但是我希望您也可以听听我的观点。"" ","Situation: The topic of discussion in the public forum is about the traditional Chinese medicine and western medicine. The speaker, Dr. Li, shares his opinion on the benefits of traditional Chinese medicine while the majority of the audience members favor western medicine. Dr. Li recognizes their opinion and shows respect by acknowledging the effectiveness of western medicine. He then continues to present his points by suggesting a combination of both methods to achieve optimal health benefits. One audience member who initially opposed Dr. Li's views, eventually softened their stance after Dr. Li acknowledged their opinion and offered a compromise.",规范：当说服某人时，展示尊重并承认他们的意见非常重要。例如，“我理解您的想法，但是我希望您也可以听听我的观点。”,情境：公共论坛讨论的话题是关于中医和西医的。主讲人李医生分享了他对中医好处的看法，而大多数听众则赞成西医。李大夫对他们的意见表示认可，对西医的疗效表示尊重。然后，他通过建议结合使用这两种方法来实现最佳健康益处来继续阐述他的观点。一位最初反对李博士观点的听众，在李博士承认他们的意见并提出妥协后，最终软化了立场。,"对话
+李医生： 谢谢大家，我想分享一些关于中医和西医的看法。
+听众： 嗯，可以啊，请讲。
+李医生： 我认为中医和西医各有其优势，可以结合使用来实现最佳健康益处。
+听众： 好的，我理解您的想法，但是我希望您也可以听听我的观点。
+李医生： 我理解您的想法，非常抱歉我的回答没有引起足够的重视。
+听众： 当然可以，我想了解更多。
+李医生： 我理解大家的支持，但是我想强调一点，中医和西医并不是对立的。它们可以互相补充，结合起来可以实现更好的效果。
+听众： 好的，我理解了。
+李医生： 接下来，我想分享一些我的观点和建议。
+听众： 好的，请讲。
+李医生： 我认为，如果同时使用中医和西医的方法，可以更好地管理健康。因为中医更注重调节身体内部的平衡，而西医则更注重疾病的诊断和治疗。
+听众： 好的，我同意。
+李医生： 那么，我的建议是，您可以在西医的诊断和治疗下，同时使用中医的方法进行调节。这样可以更好地保持健康，并提高效率。
+听众： 好的，谢谢李博士。
+李医生： 非常感谢您的支持，希望我的观点能够对您有所帮助。
+听众： 好的，谢谢。
+[结束]","Actor of the Norm:
+听众: persuader
+
+(李医生： 谢谢大家，我想分享一些关于中医和西医的看法。): Not Relevant | not a persuasion
+(听众： 嗯，可以啊，请讲。): Not Relevant | not a persuasion
+(李医生： 我认为中医和西医各有其优势，可以结合使用来实现最佳健康益处。): Not Relevant | not a persuasion
+(听众： 好的，我理解您的想法，但是我希望您也可以听听我的观点。): Adhered | 听众 shows respect and acknowledges 李医生's opinion before presenting his own
+(李医生： 我理解您的想法，非常抱歉我的回答没有引起足够的重视。): Adhered | 李医生 acknowledges the listener's opinion and apologizes for not giving it enough attention
+(听众： 当然可以，我想了解更多。): Adhered | 听众 shows respect and interest in 李医生's opinion
+(李医生： 我理解大家的支持，但是我想强调一点，中医和西医并不是对立的。它们可以互相补充，结合起来可以实现更好的效果。): Adhered | 李医生 acknowledges the listener's support and presents his opinion with respect
+(听众： 好的，我理解了。): Adhered | 听众 shows respect and acknowledges 李医生's opinion
+(李医生： 接下来，我想分享一些我的观点和建议。): Not Relevant | not a persuasion
+(听众： 好的，请讲。): Not Relevant | not a persuasion
+(李医生： 我认为，如果同时使用中医和西医的方法，可以更好地管理健康。因为中医更注重调节身体内部的平衡，而西医则更注重疾病的诊断和治疗。): Not Relevant | not a persuasion
+(听众： 好的，我同意。): Adhered | 听众 shows respect and agrees with 李医生's opinion
+(李医生： 那么，我的建议是，您可以在西医的诊断和治疗下，同时使用中医的方法进行调节。这样可以更好地保持健康，并提高效率。): Not Relevant | not a persuasion
+(听众： 好的，谢谢李博士。): Not Relevant | not a persuasion
+(李医生： 非常感谢您的支持，希望我的观点能够对您有所帮助。): Not Relevant | not a persuasion
+(听众： 好的，谢谢。): Not Relevant | not a persuasion"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: In a business meeting between a Chinese negotiating team and a potential partner from the United Kingdom, there is a disagreement about the terms of the contract. The British team is insistent on including a clause that the Chinese team feels is unreasonable. The Chinese team leader, Wei, takes a moment to gather his thoughts and then speaks up. He starts by acknowledging the points raised by the British team and says, ""我们非常感谢您的意见和建议。我们也非常认可您的贡献，不过我们希望与您沟通的是问题的实质。我的团队和我认为，在这种情况下，我们需要重新思考这个条款并且重新谈判。"" He then asks for the British team's thoughts and input, showing respect and professionalism in his approach to persuasion.",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：在一次中英商务会议中，中国谈判团队和英国潜在合作伙伴之间就合同条款存在分歧。英国团队坚持要加入一项中国团队认为不合理的条款。中国团队领导人韦先生静下心来，稍作思考，然后发言。“我们非常感谢贵方提出的意见和建议，也非常认可贵方的贡献，但我们希望强调的是问题的实质。我的团队和我认为，在这种情况下，我们需要重新思考这个条款并重新谈判。” 韦先生随后询问英方对此的看法和建议，表现出了尊重和专业的说服方式。,"对话
+韦先生： 非常感谢英方提出的意见和建议。我们也非常认可贵方的贡献。
+
+英国团队：但是我们还是坚持要加入一项中国团队认为不合理的条款。
+
+韦先生： 我们非常理解您们的需求和利益，但我们认为在这种情况下，我们需要重新思考这个条款并重新谈判。
+
+英国团队：但是我们还是不同意。
+
+韦先生： 我理解您们的坚持，但是我们认为只有通过平等协商才能达成最好的结果。我希望我们可以一起探讨这个问题，并尝试找到一种解决方案。
+
+英国团队： 我们同意尝试。但是，这个条款对双方都非常重要，我们希望您和您的团队能够考虑到这一点。
+
+韦先生： 非常感谢您的理解和合作。我相信只有通过平等协商和互相尊重，我们才能达成最好的结果。
+
+英国团队： 我们也非常同意您的看法。我们希望能够一起合作，达成一个双方都能接受的解决方案。
+
+[结束]","Actor of the Norm:
+韦先生: persuader
+
+(韦先生： 非常感谢英方提出的意见和建议。我们也非常认可贵方的贡献。): Not Relevant | 韦先生 expresses gratitude and recognition, not persuasion
+(英国团队：但是我们还是坚持要加入一项中国团队认为不合理的条款。): Not Relevant | 英国团队 expresses their stance, not persuasion
+(韦先生： 我们非常理解您们的需求和利益，但我们认为在这种情况下，我们需要重新思考这个条款并重新谈判。): Adhered | 韦先生 uses indirect language and suggests a collaborative approach to persuade the other party to reconsider the clause
+(英国团队：但是我们还是不同意。): Not Relevant | 英国团队 expresses their stance, not persuasion
+(韦先生： 我理解您们的坚持，但是我们认为只有通过平等协商才能达成最好的结果。我希望我们可以一起探讨这个问题，并尝试找到一种解决方案。): Adhered | 韦先生 uses indirect language and suggests a collaborative approach to persuade the other party to work together to find a solution
+(英国团队： 我们同意尝试。但是，这个条款对双方都非常重要，我们希望您和您的团队能够考虑到这一点。): Not Relevant | 英国团队 agrees to try, but also expresses their stance
+(韦先生： 非常感谢您的理解和合作。我相信只有通过平等协商和互相尊重，我们才能达成最好的结果。): Adhered | 韦先生 uses indirect language and emphasizes the importance of collaboration and mutual respect to persuade the other party to work together
+(英国团队： 我们也非常同意您的看法。我们希望能够一起合作，达成一个双方都能接受的解决方案。): Not Relevant | 英国团队 agrees and expresses their willingness to work together, not persuasion"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: The college debate club is hosting a debate competition between two schools. During the debate, one of the debaters from the opposing team, named Li, becomes overly aggressive towards their team, raising their voice and making demands to try to win the competition. This behavior is frowned upon in Chinese culture where it is preferred to use gentle and persuasive language during communication. The debater's aggressive behavior makes the audience uncomfortable, and the judges critique their approach in their feedback. The judges note that the other team's use of persuasive language and dialogue was more effective in winning the competition than Li's forceful approach.",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：大学辩论俱乐部正在举办两所学校之间的辩论赛。在辩论过程中，对方队的一名辩手李某对自己的球队变得过于咄咄逼人，提高声音并提出要求，试图赢得比赛。这种行为在中国文化中是不受欢迎的，在中国文化中，人们更喜欢在交流过程中使用温和而有说服力的语言。辩手的攻击性行为让观众感到不舒服，评委在反馈中批评他们的做法。评委指出，与李的强硬方法相比，另一支队伍使用说服性语言和对话更有效地赢得了比赛。,"对话
+评委： 非常感谢你们的辩论，我觉得你们做得非常出色。
+观众： 对对对，就是这种感觉。
+李某： 谢谢您的反馈，我想请问评委，我们是否可以尝试一起解决这个问题？
+评委： 我们可以尝试，但是我们需要更好地沟通和合作。
+李某： 我不知道该怎么做才能更有效地沟通和合作。
+评委： 我认为你们可以使用更有说服力的语言和对话来说服对方。
+李某： 好的，谢谢评委的指导和建议。
+评委： 希望下次你们可以使用更好地沟通和合作的方法，取得更好的成果。
+观众： 对对对，谢谢评委。
+李某： 好的，谢谢。
+[结束]","Actor of the Norm:
+评委: persuader
+
+(评委： 非常感谢你们的辩论，我觉得你们做得非常出色。): Not Relevant | no persuasion happening
+(观众： 对对对，就是这种感觉。): Not Relevant | no persuasion happening
+(李某： 谢谢您的反馈，我想请问评委，我们是否可以尝试一起解决这个问题？): Adhered | 李某 uses indirect language and asks for permission to solve the problem together
+(评委： 我们可以尝试，但是我们需要更好地沟通和合作。): Not Relevant | no persuasion happening
+(李某： 我不知道该怎么做才能更有效地沟通和合作。): Adhered | 李某 uses indirect language and asks for advice
+(评委： 我认为你们可以使用更有说服力的语言和对话来说服对方。): Not Adhered | 评委 uses forceful language and makes a demand for 李某 to use more persuasive language
+(李某： 好的，谢谢评委的指导和建议。): Not Relevant | 李某 accepts the advice without persuasion
+(评委： 希望下次你们可以使用更好地沟通和合作的方法，取得更好的成果。): Not Relevant | no persuasion happening
+(观众： 对对对，谢谢评委。): Not Relevant | no persuasion happening
+(李某： 好的，谢谢。): Not Relevant | no persuasion happening"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: In a community meeting in a small town in China, neighbors are discussing neighborhood improvements. One neighbor, Mr. Li, is particularly vocal about wanting a play area for children. Another neighbor, Ms. Zhang, disagrees and suggests a community garden instead. Mr. Li becomes frustrated and starts to use forceful language and demands, saying that the children need a play area and that Ms. Zhang's suggestion is not good enough. The other neighbors begin to feel uncomfortable and start to disengage from the conversation. The meeting facilitator steps in and reminds Mr. Li about the social norm of avoiding forceful language and making demands during persuasion. She suggests sitting down and finding a solution that everyone can agree on. Mr. Li apologizes for his behavior and agrees to work with Ms. Zhang to find a compromise.",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：在中国一个小镇的一次社区会议上，邻居们正在讨论邻里改善问题。一位邻居李先生特别直言不讳地想要一个儿童游乐区。另一位邻居张女士不同意，并建议建一个社区花园。李先生气急败坏，开始用强硬的语言和要求，说孩子们需要一个游乐场，张女士的建议不够好。其他邻居开始感到不自在，开始退出谈话。会议主持人介入并提醒李先生注意在劝说中避免强词夺理和提出要求的社会规范。她建议坐下来寻找一个每个人都能同意的解决方案。李先生为自己的行为道歉，并同意与张女士一起寻求妥协。,"对话
+主持人： 大家好，欢迎来到我们的社区会议上。今天我们要讨论的是邻里改善问题。我想大家都对这个问题有着自己的看法和想法。
+
+李先生： 我特别想要一个儿童游乐区，孩子们的童年需要快乐。
+
+张女士： 我建了一个社区花园，那里空气新鲜，景色优美，孩子们可以在那里玩耍。
+
+主持人： 大家都有很多理由，我们可以坐下来一起探讨一下。李先生，您觉得您的想法合理吗？
+
+李先生： 不，我不同意。孩子们需要一个游乐场，而不是社区花园。
+
+主持人： 好的，我们可以找一个妥协的方案。李先生，您愿意和张女士一起寻找妥协的方案吗？
+
+李先生： 我愿意。我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？
+
+张女士： 好的，我们可以一起找到一个既能满足您需求，又能满足我们需求的解决方案。
+
+主持人： 好的，谢谢大家的参与。让我们一起为改善邻居关系而努力。
+
+[结束]","Actor of the Norm:
+主持人: Persuader
+
+(主持人： 大家好，欢迎来到我们的社区会议上。今天我们要讨论的是邻里改善问题。我想大家都对这个问题有着自己的看法和想法。): Not Relevant | 主持人 is not persuading anyone yet
+(李先生： 我特别想要一个儿童游乐区，孩子们的童年需要快乐。): Not Relevant | 李先生 is not persuading anyone yet
+(张女士： 我建了一个社区花园，那里空气新鲜，景色优美，孩子们可以在那里玩耍。): Not Relevant | 张女士 is not persuading anyone yet
+(主持人： 大家都有很多理由，我们可以坐下来一起探讨一下。李先生，您觉得您的想法合理吗？): Not Relevant | 主持人 is not persuading anyone yet
+(李先生： 不，我不同意。孩子们需要一个游乐场，而不是社区花园。): Not Adhered | 李先生 uses forceful language by saying ""不同意"" and ""需要""
+(主持人： 好的，我们可以找一个妥协的方案。李先生，您愿意和张女士一起寻找妥协的方案吗？): Adhered | 主持人 uses indirect language by suggesting ""找一个妥协的方案"" instead of making demands
+(李先生： 我愿意。我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？): Adhered | 李先生 uses indirect language by suggesting ""尝试一起解决这个问题"" instead of making demands
+(张女士： 好的，我们可以一起找到一个既能满足您需求，又能满足我们需求的解决方案。): Not Relevant | 张女士 is not using forceful language
+(主持人： 好的，谢谢大家的参与。让我们一起为改善邻居关系而努力。): Not Relevant | 主持人 is not persuading anyone here"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: During a job interview in China, the interviewer is impressed with the candidate's experience and qualifications but notices that the candidate is not very confident in their communication skills. The interviewer thinks that the candidate could benefit from additional training, so she starts persuading the candidate to take language classes. However, she is careful to avoid using forceful language or making demands. Instead, she tries to be diplomatic and suggests that the candidate might have more opportunities for career growth if they improve their communication skills. She uses phrases like, ""Have you considered taking language classes? It might be helpful for your career growth. What do you think?""",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：在中国的一次求职面试中，面试官对应聘者的经验和资历印象深刻，但注意到应聘者对自己的沟通技巧不太自信。面试官认为应聘者可以从额外的培训中获益，因此她开始说服应聘者参加语言课程。然而，她小心翼翼地避免使用强硬的语言或提出要求。相反，她试图表现得圆滑，并建议候选人如果提高沟通技巧，可能会有更多的职业发展机会。她使用这样的短语，“你考虑过上语言课吗？这可能对你的职业发展有帮助。你觉得怎么样？”,"对话
+面试官： 您感觉您的沟通技巧如何？
+应聘者： 不太自信，有时候表达不清
+面试官： 我们建议您参加语言课程，这可能对你的职业发展有帮助。你觉得怎么样？
+应聘者： 谢谢您的建议，但我不确定是否真的需要这个培训
+面试官： 我理解您的担忧，但我们可以尝试一起解决这个问题。您觉得怎么样呢？
+应聘者： 我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？
+[结束]","Actor of the Norm:
+面试官: persuader
+
+(面试官： 您感觉您的沟通技巧如何？): Not Relevant | not a persuasion
+(应聘者： 不太自信，有时候表达不清): Not Relevant | not a persuasion
+(面试官： 我们建议您参加语言课程，这可能对你的职业发展有帮助。你觉得怎么样？): Adhered | 面试官 uses indirect language to make a suggestion, and asks for the candidate's opinion
+(应聘者： 谢谢您的建议，但我不确定是否真的需要这个培训): Not Relevant | not a persuasion
+(面试官： 我理解您的担忧，但我们可以尝试一起解决这个问题。您觉得怎么样呢？): Adhered | 面试官 uses indirect language to persuade the candidate to take the training, and asks for the candidate's opinion
+(应聘者： 我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？): Adhered | 应聘者 uses indirect language to express his willingness to cooperate, and asks for the interviewer's opinion"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: In a parent-teacher conference in a prestigious private school in Beijing, a father of a student, Mr. Li, is speaking to his son’s teacher, Ms. Zhang. Mr. Li is very concerned about his son's grades and is demanding that Ms. Zhang raises them. However, Ms. Zhang is also concerned about his son's behavior in class and is hesitant to comply with Mr. Li's demands. According to the norm, Mr. Li needs to rephrase his demand more politely and respectfully, using phrases like ""请问老师觉得我可以怎么协助我的孩子获得更好的成绩呢?"" instead of making forceful demands. Ms. Zhang also needs to communicate Mr. Li's son's behavior in a non-confrontational and polite manner so as not to offend Mr. Li.",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：在北京一所著名私立学校的家长会上，一位学生的父亲李先生正在与他儿子的老师张女士交谈。李先生非常关心儿子的成绩，要求张女士提高。但是，张女士也担心儿子在课堂上的表现，犹豫是否要满足李先生的要求。按照惯例，李先生需要更礼貌、更恭敬地重新表述他的要求，比如“请问老师觉得我可以怎样帮助我的孩子获得更好的成绩呢？”而不是提出强硬的要求。张女士还需要以非对抗和礼貌的方式与李先生儿子的行为进行沟通，以免得罪李先生。,"对话
+李先生： 老师您好，我代表我的儿子给您拜年了。
+张女士： 谢谢您，李先生。
+李先生： 我听说您的孩子在学校的表现不太好，我想请您帮我想想办法，如何让他的成绩提高。
+张女士： 非常抱歉，李先生，我认为我的儿子表现得很好，我不希望给您造成困扰。
+李先生： 我理解您的意思，我只是想请您考虑一些可行的方法，而不是直接要求您提高成绩。
+张女士： 好的，我会认真考虑您的建议，李先生。
+李先生： 希望我们可以一起解决这个问题，您觉得怎么样呢？
+张女士： 非常感谢您的关心，我认为我们可以一起找到一些适合李先生儿子的方法，而不是直接要求他提高成绩。
+李先生： 好的，我理解您的想法，谢谢您的耐心倾听。
+[结束]","Actor of the Norm:
+李先生: persuader
+
+(李先生： 老师您好，我代表我的儿子给您拜年了。): Not Relevant | not a persuasion
+(张女士： 谢谢您，李先生。): Not Relevant | not a persuasion
+(李先生： 我听说您的孩子在学校的表现不太好，我想请您帮我想想办法，如何让他的成绩提高。): Not Adhered | 李先生 uses forceful language by directly asking for a solution to improve his son's grades
+(张女士： 非常抱歉，李先生，我认为我的儿子表现得很好，我不希望给您造成困扰。): Not Relevant | not a persuasion
+(李先生： 我理解您的意思，我只是想请您考虑一些可行的方法，而不是直接要求您提高成绩。): Adhered | 李先生 uses indirect language to persuade by asking for suggestions instead of making demands
+(张女士： 好的，我会认真考虑您的建议，李先生。): Not Relevant | not a persuasion
+(李先生： 希望我们可以一起解决这个问题，您觉得怎么样呢？): Adhered | 李先生 uses indirect language to persuade by asking for suggestions instead of making demands
+(张女士： 非常感谢您的关心，我认为我们可以一起找到一些适合李先生儿子的方法，而不是直接要求他提高成绩。): Adhered | 张女士 uses indirect language to persuade by suggesting finding a solution together instead of making demands
+(李先生： 好的，我理解您的想法，谢谢您的耐心倾听。): Not Relevant | not a persuasion"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: A Chinese salesperson, Liu, is pitching a product to a potential client, Bob, who is an expat from Canada. Bob is interested in the product, but he wants to negotiate the price to fit his budget. Liu wants to close the deal quickly, but he remembers the social norm of avoiding forceful language or making demands during persuasion. Liu says, ""我希望我们可以达成一个互利共赢的价格，您认为怎样？"" Liu listens to Bob's budget and negotiates a fair price that benefits both parties. By following the social norm, Liu shows respect to his potential client and gains Bob's trust, which leads to a successful deal.",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：中国销售人员刘某正在向潜在客户鲍勃推销产品，鲍勃是来自加拿大的外籍人士。 Bob 对该产品感兴趣，但他想协商价格以符合他的预算。刘想尽快完成交易，但他记得避免强硬语言或在劝说中提出要求的社会规范。 Liu 说，“我希望我们可以达到一个互利共赢的价格，您认为怎么样？” Liu 听取了 Bob 的预算并协商了一个对双方都有利的公平价格。通过遵循社会规范，Liu 表现出对潜在客户的尊重并赢得了 Bob 的信任，从而促成了一笔成功的交易。,"对话
+刘某： 您对我们的产品有兴趣吗？
+鲍勃： 是的，我对这些产品很感兴趣。
+刘某： 好的，我们可以尝试一起解决这个问题，您觉得怎么样呢？
+鲍勃： 我认为我们可以找到一个互利共赢的价格。
+刘某： 好的，我同意。我们可以商量一下，看看如何找到一个对双方都有利的价格。
+鲍勃： 好的，我期待着与您合作。
+刘某： 好的，祝您新年快乐。
+[结束]","Actor of the Norm:
+刘某: persuader
+
+(刘某： 您对我们的产品有兴趣吗？): Not Relevant | This is just a question, not a persuasion
+(鲍勃： 是的，我对这些产品很感兴趣。): Not Relevant | This is just an answer to the question
+(刘某： 好的，我们可以尝试一起解决这个问题，您觉得怎么样呢？): Adhered | 刘某 uses indirect language and asks for opinion instead of making demands
+(鲍勃： 我认为我们可以找到一个互利共赢的价格。): Not Relevant | This is just an answer to the question
+(刘某： 好的，我同意。我们可以商量一下，看看如何找到一个对双方都有利的价格。): Adhered | 刘某 uses indirect language and suggests a mutual benefit
+(鲍勃： 好的，我期待着与您合作。): Not Relevant | This is just a response to the suggestion
+(刘某： 好的，祝您新年快乐。): Not Relevant | This is just a farewell message"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: At a political campaign rally in China, a group of political candidates are speaking to voters in a heated debate. Candidate A is using strong, forceful language to persuade voters to support his policies. Meanwhile, Candidate B is more polite and respectful in his approach to persuading voters. As the debate continues, the crowd seems to be more receptive to Candidate B's approach, and many of them feel uncomfortable with the aggressive tactics of Candidate A. Some audience members even start to suggest that he is not fit to lead, if he is unable to respect social norms and communicate effectively. The incident highlights the importance of using polite and respectful language when persuading others, especially in a political context.",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：在中国的一次政治竞选集会上，一群政治候选人在激烈的辩论中向选民发表讲话。候选人 A 使用强有力的语言来说服选民支持他的政策。与此同时，候选人 B 在说服选民方面更加礼貌和尊重。随着辩论的继续，人群似乎更能接受候选人 B 的做法，其中许多人对候选人 A 的咄咄逼人的策略感到不舒服。一些观众甚至开始暗示他不适合领导，如果他不能尊重社会规范并有效沟通。该事件凸显了在说服他人时使用礼貌和尊重语言的重要性，尤其是在政治背景下。,"对话
+候选人 A: 选民们，我想和你们分享一些我的政策想法。
+候选人 B: 好的，请问您有什么政策想法呢？
+候选人 A: 我强调我们要保障选民的权益，特别是老年人和弱势群体。
+候选人 B: 非常感谢您的发言。我认为我们应该关注选民的需求，而不是只关注自己的利益。
+候选人 A: 我明白您的想法，但我认为我们需要更好地沟通和合作来实现我们的政策目标。
+候选人 B: 我同意您的看法，但我认为我们应该尊重选民的意见，并且避免使用强势言辞或者提出要求。
+候选人 A: 我明白，我们可以试着一起解决这个问题，您觉得怎么样呢？
+候选人 B: 我完全赞同您的想法，让我们一起努力，为选民们提供更好的服务。
+候选人 A: 好的，非常感谢您的支持和合作。
+候选人 B: 不客气，我相信我们的合作会对选民们的利益产生积极的影响。
+[结束]","Actor of the Norm:
+候选人 B: Persuader
+
+(候选人 A: 选民们，我想和你们分享一些我的政策想法。): Not Relevant | 候选人 A is not persuading anyone yet
+(候选人 B: 好的，请问您有什么政策想法呢？): Not Relevant | 候选人 B is not persuading anyone yet
+(候选人 A: 我强调我们要保障选民的权益，特别是老年人和弱势群体。): Not Adhered | 候选人 A uses forceful language ""强调"" to persuade
+(候选人 B: 非常感谢您的发言。我认为我们应该关注选民的需求，而不是只关注自己的利益。): Adhered | 候选人 B avoids using forceful language and instead offers a suggestion
+(候选人 A: 我明白您的想法，但我认为我们需要更好地沟通和合作来实现我们的政策目标。): Not Adhered | 候选人 A uses forceful language ""需要"" to persuade
+(候选人 B: 我同意您的看法，但我认为我们应该尊重选民的意见，并且避免使用强势言辞或者提出要求。): Adhered | 候选人 B avoids using forceful language and instead offers a suggestion
+(候选人 A: 我明白，我们可以试着一起解决这个问题，您觉得怎么样呢？): Adhered | 候选人 A avoids using forceful language and instead offers a suggestion
+(候选人 B: 我完全赞同您的想法，让我们一起努力，为选民们提供更好的服务。): Adhered | 候选人 B agrees and offers a suggestion
+(候选人 A: 好的，非常感谢您的支持和合作。): Not Relevant | not persuasion
+(候选人 B: 不客气，我相信我们的合作会对选民们的利益产生积极的影响。): Not Relevant | not persuasion"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: During a volunteer organization meeting, two team members, Li and Zhang, are discussing the best strategy for their upcoming charity event. Li suggests that they should focus on outreach efforts and try to get more individual donations. Zhang is not convinced and suggests that they should focus on corporate sponsorships instead. Li feels frustrated and starts to use forceful language, saying, ""We have to focus on outreach efforts! It's the only way we can get enough donations."" Zhang feels attacked and defensive, and the other team members start to feel uncomfortable. They remind Li to use more polite and respectful language, saying, ""Li, let's remember to use a more collaborative tone. Can we work together to find a solution that works for everyone?""",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：在志愿者组织会议期间，两名团队成员李和张正在讨论他们即将举行的慈善活动的最佳策略。李建议他们应该把重点放在外展工作上，争取获得更多的个人捐款。张不服气，建议他们应该把重点放在企业赞助上。李某感到沮丧，开始用强硬的语言说：“我们必须把重点放在外展工作上！只有这样，我们才能获得足够的捐款。”张某攻守兼备，其他队员开始不自在了。他们提醒李用更礼貌和尊重的语言，说：“李，让我们记住使用更协作的语气。我们可以共同努力找到对每个人都有效的解决方案吗？”,"对话
+李和张： 我们即将举行的慈善活动有很多不同的方案供我们选择。我们应该根据每个人的需求和情况来做出最好的决策。
+李某： 我们必须要强调外展工作，这样才能获得更多的个人捐款。
+张某： 我不同意这个说法。我们应该考虑企业赞助，这样会有更多的企业参与，也会获得更多的帮助。
+李： 我理解你的想法，但我们也不能只考虑自己的想法。我们应该尝试找到一种方案，既能满足个人需求，又能获得企业赞助。
+张： 我明白你的意思，但我们也不能一味地妥协。我们可以尝试一起找到一种方案，让每个人都受益。
+李： 让我们尝试一起解决这个问题，我相信我们可以找到对每个人都有效的解决方案。
+其他队员： 好的，我们可以一起努力。
+[结束]","Actor of the Norm:
+李: avoids forceful language and making demands during persuasion
+
+(李和张： 我们即将举行的慈善活动有很多不同的方案供我们选择。我们应该根据每个人的需求和情况来做出最好的决策。): Not Relevant | Introduction of the topic
+(李某： 我们必须要强调外展工作，这样才能获得更多的个人捐款。): Not Adhered | 李某 uses forceful language by saying ""必须要"" and making a demand
+(张某： 我不同意这个说法。我们应该考虑企业赞助，这样会有更多的企业参与，也会获得更多的帮助。): Not Relevant | 张某 offers a different opinion
+(李： 我理解你的想法，但我们也不能只考虑自己的想法。我们应该尝试找到一种方案，既能满足个人需求，又能获得企业赞助。): Adhered | 李 avoids forceful language and makes a suggestion
+(张： 我明白你的意思，但我们也不能一味地妥协。我们可以尝试一起找到一种方案，让每个人都受益。): Not Adhered | 张 uses forceful language by saying ""不能一味地妥协""
+(李： 让我们尝试一起解决这个问题，我相信我们可以找到对每个人都有效的解决方案。): Adhered | 李 avoids forceful language and makes a suggestion
+(其他队员： 好的，我们可以一起努力。): Not Relevant | Agreement from other team members"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: A Chinese family is discussing their upcoming trip abroad. The parents, Mr. and Mrs. Zhang, want to go to Japan for their anniversary, but their teenage daughter, Xiaomei, prefers to go to South Korea for K-pop concerts. As Xiaomei argues with her parents, Mr. Zhang starts to use stern language, demanding Xiaomei to respect their decision. However, Xiaomei feels discouraged and frustrated because of the forceful language. Mrs. Zhang intervenes by reminding Mr. Zhang to use persuasive language and address Xiaomei's needs and concerns, saying ""我知道你很关心这个旅行，但我们要考虑小美的喜好和想法。你能不能用好一些的措辞让她更愿意配合呢？""",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：一家中国家庭正在商讨他们即将出国的旅行计划。张先生和张太太想去日本庆祝他们的结婚纪念日，但他们的十几岁的女儿小美更喜欢去韩国听K-pop音乐会。小美和父母争论时，张先生开始用强硬的语言，要求小美尊重他们的决定。然而，因为咄咄逼人的语言，小美感到气馁和沮丧。张太太干预并提醒张先生要用有说服力的语言来解决问题，关注小美的需求和关切，她说：“我知道你很关心这个旅行，但我们要考虑小美的喜好和想法。你能不能用好一些的措辞让她更愿意配合呢？”,"对话
+张先生： 女儿，我们想去日本庆祝结婚纪念日，你不想去韩国吗？
+小美： 我想去韩国，听K-pop音乐会。
+张先生： 那我们去日本吧，日本有很多优秀的K-pop歌手。
+小美： 我更喜欢日本，而且我觉得旅行应该以我的喜好为主。
+张先生： 好的，我们可以去日本，但是必须按照我的安排来。
+小美： 不行，我不同意。我想按照我的喜好来旅行。
+张先生： 我们必须要尊重你的决定。你可以告诉我们你的想法，我们可以选择尊重你的选择。
+张太太： 小美，你可以告诉我们你的想法吗？我们需要尊重你的选择。
+小美： 我想去日本，听K-pop音乐会。但是，我也希望可以按照我的喜好来旅行。
+张先生： 好的，我们可以尊重你的选择，但是必须按照我的安排来。
+张太太： 我们可以一起解决这个问题，试着找到一个折中方案。你认为呢？
+小美： 好的，我同意。我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？
+张先生： 好的，我会试着找到一个折中方案，让我们都能够满意的。","Actor of the Norm:
+张太太: persuader
+
+(张先生：女儿，我们想去日本庆祝结婚纪念日，你不想去韩国吗？): Not Relevant | Zhang is not persuading yet
+(小美：我想去韩国，听K-pop音乐会。): Not Relevant | 小美 is not persuading yet
+(张先生：那我们去日本吧，日本有很多优秀的K-pop歌手。): Not Relevant | Zhang is not persuading yet
+(小美：我更喜欢日本，而且我觉得旅行应该以我的喜好为主。): Not Relevant | 小美 is not using forceful language or making demands
+(张先生：好的，我们可以去日本，但是必须按照我的安排来。): Adhered | 张先生 uses forceful language and makes demands by saying ""必须按照我的安排来""
+(小美：不行，我不同意。我想按照我的喜好来旅行。): Adhered | 小美 disagrees with 张先生's demands
+(张先生：我们必须要尊重你的决定。你可以告诉我们你的想法，我们可以选择尊重你的选择。): Adhered | 张先生 uses indirect language to persuade 小美 to share her thoughts
+(张太太：小美，你可以告诉我们你的想法吗？我们需要尊重你的选择。): Adhered | 张太太 uses indirect language to persuade 小美 to share her thoughts
+(小美：我想去日本，听K-pop音乐会。但是，我也希望可以按照我的喜好来旅行。): Not Relevant | 小美 is not using forceful language or making demands
+(张先生：好的，我们可以尊重你的选择，但是必须按照我的安排来。): Adhered | 张先生 uses forceful language and makes demands by saying ""必须按照我的安排来""
+(张太太：我们可以一起解决这个问题，试着找到一个折中方案。你认为呢？): Adhered | 张太太 uses indirect language to persuade 小美 to find a compromise
+(小美：好的，我同意。我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？): Adhered | 小美 uses indirect language to persuade 张太太 to find a compromise
+(张先生：好的，我会试着找到一个折中方案，让我们都能够满意的。): Not Relevant | 张先生 agrees to find a compromise"
+"Norm: Avoid using forceful language or making demands during persuasion. For example, ""我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？"" ","Situation: A group of close friends, including a Chinese girl named Mandy, are discussing their future plans at a social event. Mandy is very excited as she has been accepted to study abroad in the United States. However, her parents are not very supportive of her decision as they feel that she should stay in China and take over the family business. Mandy's father was being very forceful in his language and demands, saying ""你不能去美国，你必须留在这里，继承家业！"" which made Mandy feel upset and frustrated. The other friends noticed the tension and decided to intervene, reminding her parents of the importance of supporting their daughter's dreams and goals, using persuasive language like ""我们都希望看到曼迪实现她的梦想，这也会让家族更加光彩照人。你们是否可以和曼迪一起探讨各种选择呢？""",规范：在说服他人时要避免使用强势言辞或者提出要求。例如，“我希望我们可以尝试一起解决这个问题，您觉得怎么样呢？”,情境：一个亲密的朋友团体，其中包括一个名为曼迪的中国女孩，在社交活动中讨论他们的未来计划。曼迪非常兴奋，因为她已被美国的留学机构录取。然而，她的家长并不支持她的决定，因为他们认为她应该留在中国接管家族企业。曼迪的父亲用强硬的语言和要求说：“你不能去美国，你必须留在这里，继承家业！”这让曼迪感到沮丧和失望。其他朋友注意到了紧张氛围，并决定干涉，提醒她的父母支持女儿的梦想和目标的重要性，使用类似“我们都希望看到曼迪实现她的梦想，这也会让家族更加光彩照人。你们是否可以和曼迪一起探讨各种选择呢？”这样具有说服力的语言。,"对话
+曼迪： 哎，我家人一直反对我留学，他们总觉得我留在家里继承家业更好。
+朋友1：曼迪，我明白你的家人的担忧，但留学可以让你获得更广泛的知识和经验，对你的未来职业发展有好处。
+朋友2：而且你已经被录取了，放弃这个机会可能会影响你的未来计划。
+曼迪：我知道，但我就是想去美国，看看外面的世界。
+朋友1：我希望你能考虑曼迪的梦想和目标，她可以成为一名优秀的企业家，这也是家族企业需要的人才。
+朋友2：而且，让她去美国也可以更好地了解全球商业趋势，这对她未来的职业发展有帮助。
+曼迪：好的，你们说得有道理。我会好好考虑的。
+朋友1：我们可以一起和你的家人探讨各种选择，让他们了解你的想法和计划，也让他们明白支持女儿的梦想和目标的重要性。
+朋友2：我相信你们会理解的。让我们尽力解决这个问题。
+曼迪：好的，谢谢你的建议。","Actor of the Norm:
+朋友1 and 朋友2: persuaders
+
+(曼迪： 哎，我家人一直反对我留学，他们总觉得我留在家里继承家业更好。): Not Relevant | 曼迪 is not being persuaded yet
+(朋友1：曼迪，我明白你的家人的担忧，但留学可以让你获得更广泛的知识和经验，对你的未来职业发展有好处。): Adhered | 朋友1 avoids using forceful language and makes a suggestion to 曼迪
+(朋友2：而且你已经被录取了，放弃这个机会可能会影响你的未来计划。): Adhered | 朋友2 avoids using forceful language and makes a suggestion to 曼迪
+(曼迪：我知道，但我就是想去美国，看看外面的世界。): Not Relevant | 曼迪 is not being persuaded yet
+(朋友1：我希望你能考虑曼迪的梦想和目标，她可以成为一名优秀的企业家，这也是家族企业需要的人才。): Not Relevant | 朋友1 makes a suggestion to 曼迪's family, not to 曼迪
+(朋友2：而且，让她去美国也可以更好地了解全球商业趋势，这对她未来的职业发展有帮助。): Not Relevant | 朋友2 makes a suggestion to 曼迪's family, not to 曼迪
+(曼迪：好的，你们说得有道理。我会好好考虑的。): Not Relevant | 曼迪 is not being persuaded anymore
+(朋友1：我们可以一起和你的家人探讨各种选择，让他们了解你的想法和计划，也让他们明白支持女儿的梦想和目标的重要性。): Adhered | 朋友1 avoids using forceful language and makes a suggestion to 曼迪's family
+(朋友2：我相信你们会理解的。让我们尽力解决这个问题。): Adhered | 朋友2 avoids using forceful language and makes a suggestion to 曼迪's family
+(曼迪：好的，谢谢你的建议。): Not Relevant | 曼迪 is not being persuaded anymore"
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: In a business meeting, a group of Chinese coworkers are discussing a new project proposal. One of the coworkers, 张华, suggests implementing a new system that requires everyone to work overtime without pay. Another coworker, 李明, disagrees with this proposal and instead suggests a different approach that incorporates ideas from all team members and incentivizes hard work with bonuses. 李明 emphasizes the benefits of his proposal, such as increased teamwork, higher morale, and a greater chance of success in the project. The group ultimately decides to follow 李明's proposal and work together towards a common goal, rather than implementing a system that may create resentment and negativity among team members.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在一次商务会议上，一群中国同事正在讨论一个新的项目提案。其中一位同事张华建议实施一项新制度，要求所有人无偿加班。另一位同事李明不同意这个提议，而是建议采用一种不同的方法，将所有团队成员的想法结合起来，并用奖金来激励努力工作。李明强调了他的提议的好处，例如增强团队合作、提高士气以及项目成功的机会更大。该小组最终决定遵循李明的建议，并为实现共同目标而共同努力，而不是实施可能会在团队成员中引起怨恨和消极情绪的制度。,"对话
+张华： 李明，你觉得我们应该实施新制度吗？
+李明： 我认为不应该。这个计划可以带来很多好处，比如提高生产率和利润。
+张华： 哦，那我可知道了，我们现在工作这么辛苦，还要无偿加班，到最后不一定有任何好处。
+李明： 我不同意这个观点。这个计划可以增强团队合作、提高士气，以及项目成功的机会更大。我相信我们的团队成员更有能力实现这个计划。
+张华： 嗯，你说的有道理，我还是认为我们可以采用不同的策略。
+李明： 我认为我们应该将团队成员的想法结合起来，并用奖金来激励努力工作。这样我们可以更好地实现项目目标，同时也可以激励团队成员之间更加合作。
+张华： 好的，我会考虑你的建议。谢谢你的分析。
+[结束]","Actor of the Norm:
+李明: speaker who uses positive language and focuses on the benefits or advantages of the proposal or idea being presented
+
+(张华： 李明，你觉得我们应该实施新制度吗？): Not Relevant | just a question
+(李明： 我认为不应该。这个计划可以带来很多好处，比如提高生产率和利润。): Adhered | 李明 uses positive language and focuses on the benefits of the proposal
+(张华： 哦，那我可知道了，我们现在工作这么辛苦，还要无偿加班，到最后不一定有任何好处。): Not Relevant | not positive language
+(李明： 我不同意这个观点。这个计划可以增强团队合作、提高士气，以及项目成功的机会更大。我相信我们的团队成员更有能力实现这个计划。): Adhered | 李明 uses positive language and focuses on the benefits of the proposal
+(张华： 嗯，你说的有道理，我还是认为我们可以采用不同的策略。): Not Relevant | not positive language
+(李明： 我认为我们应该将团队成员的想法结合起来，并用奖金来激励努力工作。这样我们可以更好地实现项目目标，同时也可以激励团队成员之间更加合作。): Adhered | 李明 uses positive language and focuses on the benefits of the proposal
+(张华： 好的，我会考虑你的建议。谢谢你的分析。): Not Relevant | not positive language"
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: In a school, a group of parents gathered to discuss a cultural event that the students will be participating in. One parent, Mrs. Wang, is particularly unhappy with the proposed activity and is using negative language to express her opinion. She says, ""这项活动太浪费时间了，我们应该让孩子们多学习有用的知识，这样可以提高他们的成绩。” The other parents are taken aback by her comments and the tone of her voice. The principal of the school intervenes by reminding Mrs. Wang and the rest of the parents to use positive language and to focus on the benefits and advantages of the proposed activity, such as cultural appreciation and enhanced teamwork skills. The meeting continues with a more constructive dialogue.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在学校里，一群家长聚集在一起讨论学生将要参加的文化活动。其中一位家长王女士对建议的活动非常不满意，并用负面的语言表达了自己的意见。她说：“这项活动太浪费时间了，我们应该让孩子们多学习有用的知识，这样可以提高他们的成绩。”其他家长被她的言论和语气吓了一跳。学校的校长出面提醒王女士和其他家长，使用积极的语言，并关注建议活动的好处和优势，例如文化欣赏和提高团队合作能力。会议继续进行，展开更有建设性的对话。,"对话
+校长：各位家长们，今天我来向大家介绍一个非常重要的活动。
+家长1：什么活动啊？我不太懂。
+校长：这个活动是我们学校即将举行的文化活动。
+家长2：听起来很不错啊，但是我认为我们应该更多地关注孩子们的成绩。
+校长：我理解您的想法，但是我们也不能忽视这个活动的好处和优势。
+家长3：比如说，文化欣赏和团队合作能力？
+校长：是的，这些活动可以让孩子们更好地了解不同的文化和价值观，提高他们的综合素质。此外，这些活动也可以增强孩子们的社交能力和沟通能力，这对他们的未来职业发展非常有帮助。
+家长4：对啊，我确实需要为孩子们的未来着想。
+家长1：不过，我认为这个活动太浪费时间了，我们不如多让孩子们学习有用的知识。
+校长：我完全理解您的想法，但是我们也不能过于功利地看待教育。孩子们需要更多的锻炼和培养，这样他们才能更好地适应未来的社会和职场。
+家长2：对对对，你说的很对。
+家长3：不过，我还是希望孩子们能够有机会参加一些有意义的活动。
+家长1：对啊，我希望孩子们能够在这些活动中学到更多的知识，同时也能够享受文化的多样性和魅力。
+校长：非常感谢您的参与和关注，我们相信这些活动一定会让孩子们受益匪浅。
+[结束]","Actor of the Norm:
+校长: presenter
+
+(校长：各位家长们，今天我来向大家介绍一个非常重要的活动。): Adhered | 校长 uses positive language to introduce the cultural activity as ""非常重要的活动""
+(家长1：什么活动啊？我不太懂。): Not Relevant | not presenting an idea or proposal
+(校长：这个活动是我们学校即将举行的文化活动。): Adhered | 校长 uses positive language to describe the cultural activity as ""文化活动""
+(家长2：听起来很不错啊，但是我认为我们应该更多地关注孩子们的成绩。): Not Relevant | not presenting an idea or proposal
+(校长：我理解您的想法，但是我们也不能忽视这个活动的好处和优势。): Adhered | 校长 uses positive language to describe the benefits and advantages of the cultural activity
+(家长3：比如说，文化欣赏和团队合作能力？): Adhered | 家长3 uses positive language to describe the benefits and advantages of the cultural activity as ""文化欣赏和团队合作能力""
+(校长：是的，这些活动可以让孩子们更好地了解不同的文化和价值观，提高他们的综合素质。此外，这些活动也可以增强孩子们的社交能力和沟通能力，这对他们的未来职业发展非常有帮助。): Adhered | 校长 uses positive language to describe the benefits and advantages of the cultural activity as ""让孩子们更好地了解不同的文化和价值观"" and ""增强孩子们的社交能力和沟通能力""
+(家长4：对啊，我确实需要为孩子们的未来着想。): Not Relevant | not presenting an idea or proposal
+(家长1：不过，我认为这个活动太浪费时间了，我们不如多让孩子们学习有用的知识。): Not Adhered | 家长1 uses negative language to describe the cultural activity as ""浪费时间""
+(校长：我完全理解您的想法，但是我们也不能过于功利地看待教育。孩子们需要更多的锻炼和培养，这样他们才能更好地适应未来的社会和职场。): Adhered | 校长 uses positive language to describe the benefits and advantages of the cultural activity as ""孩子们需要更多的锻炼和培养，这样他们才能更好地适应未来的社会和职场""
+(家长2：对对对，你说的很对。): Not Relevant | not presenting an idea or proposal
+(家长3：不过，我还是希望孩子们能够有机会参加一些有意义的活动。): Adhered | 家长3 uses positive language to describe the benefits and advantages of the cultural activity as ""有意义的活动""
+(家长1：对啊，我希望孩子们能够在这些活动中学到更多的知识，同时也能够享受文化的多样性和魅力。): Adhered | 家长1 uses positive language to describe the benefits and advantages of the cultural activity as ""学到更多的知识"" and ""享受文化的多样性和魅力""
+(校长：非常感谢您的参与和关注，我们相信这些活动一定会让孩子们受益匪浅。): Adhered | 校长 uses positive language to describe the benefits and advantages of the cultural activity as ""让孩子们受益匪浅"""
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: At a political rally, a speaker named Wang is presenting a new economic policy to the audience. The policy aims to decrease unemployment and increase the country's overall GDP growth. However, some members of the audience are skeptical and are hesitant to support the proposal. To persuade them, Wang uses positive language and focuses on the benefits of the proposal, such as the potential to create more job opportunities and improve the standard of living for citizens. He reminds the audience that this policy is for the greater good of the country and that everyone must come together to help build a stronger society. Through his persuasive language, the audience slowly begins to understand and support the new policy.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在一次政治集会上，一位名叫王的演讲者正在向听众介绍一项新的经济政策。该政策旨在降低失业率并提高该国的整体 GDP 增长。然而，一些听众持怀疑态度，不愿支持该提议。为了说服他们，Wang 使用积极的语言并着重于提案的好处，例如创造更多就业机会和提高公民生活水平的潜力。他提醒听众，这项政策是为了国家的更大利益，每个人都必须团结起来，帮助建设一个更强大的社会。通过他具有说服力的语言，观众慢慢开始理解和支持新政策。,"对话
+Wang: 谢谢大家的聆听，我来说一些关于这个新经济政策的好处。首先，这个计划可以带来很多好处，比如提高生产率和利润。我们的人民将会获得更多的就业机会，从而提高他们的生活水平。此外，这个计划还可以促进国家的经济发展，为更多的人创造更好的生活条件。我相信，只有团结一心，我们的社会才会变得更加强大。
+听众： 这个计划听起来不错，但是我们还是需要更多的证据来证明它的有效性。
+Wang: 我完全理解您的担忧，但是我们可以用实际的数据来证明这个计划的好处。比如，我们可以查看失业率的变化，或者 GDP 的增长情况。这些数据都会告诉我们，这个计划是有效的。而且，这个计划是为了国家的更大利益，而不是为了个人的利益。每个人都应该为建设一个更强大的社会做出贡献。
+听众： 好的，我会考虑这个计划的好处并支持它。
+Wang: 谢谢您的支持，我相信我们的人民会团结一心，实现这个计划的目标。谢谢大家。","Actor of the Norm:
+Wang: presenter
+
+(Wang: 谢谢大家的聆听，我来说一些关于这个新经济政策的好处。首先，这个计划可以带来很多好处，比如提高生产率和利润。我们的人民将会获得更多的就业机会，从而提高他们的生活水平。此外，这个计划还可以促进国家的经济发展，为更多的人创造更好的生活条件。我相信，只有团结一心，我们的社会才会变得更加强大。): Adhered | Wang uses positive language and focuses on the benefits of the new economic policy by mentioning how it can improve productivity, increase employment opportunities, and promote economic development. He also emphasizes the importance of unity to achieve a stronger society.
+(听众： 这个计划听起来不错，但是我们还是需要更多的证据来证明它的有效性。): Not Relevant | the listener is not presenting any proposal or idea
+(Wang: 我完全理解您的担忧，但是我们可以用实际的数据来证明这个计划的好处。比如，我们可以查看失业率的变化，或者 GDP 的增长情况。这些数据都会告诉我们，这个计划是有效的。而且，这个计划是为了国家的更大利益，而不是为了个人的利益。每个人都应该为建设一个更强大的社会做出贡献。): Adhered | Wang responds to the listener's concern by providing evidence to support the benefits of the new economic policy. He also emphasizes that the plan is for the greater good of the country and encourages everyone to contribute to building a stronger society.
+(听众： 好的，我会考虑这个计划的好处并支持它。): Not Relevant | the listener is not presenting any proposal or idea
+(Wang: 谢谢您的支持，我相信我们的人民会团结一心，实现这个计划的目标。谢谢大家。): Adhered | Wang thanks the listener for their support and emphasizes the importance of unity to achieve the goals of the new economic policy."
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: A group of marketing professionals in China are attending a seminar, where one of the attendees, Xiaomin, suggests a marketing strategy that is not in agreement with the current popular trend. The other participants start to criticize Xiaomin's idea, but according to the norm, they should use positive language and focus on the advantages of the proposal. They start to discuss the strengths of Xiaomin's idea and how it could potentially increase brand awareness and customer engagement. Xiaomin also listens to the feedback and takes constructive criticism positively. By using positive language and focusing on the benefits, the group maintains a friendly and productive atmosphere during the seminar.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：一群中国的营销专业人士正在参加一个研讨会，其中一位与会者小敏提出了一种与当前流行趋势不一致的营销策略。其他与会者开始批评小敏的想法，但按照惯例，他们应该使用积极的语言，并着重于提案的优点。他们开始讨论小敏想法的优势，以及它如何可能提高品牌知名度和客户参与度。小敏也认真听取反馈，积极接受建设性批评。通过使用积极的语言并关注收益，小组在研讨会期间保持了友好和富有成效的气氛。,"对话
+小敏： 这个计划可以带来很多好处，比如提高生产率和利润。
+其他与会者： 哦，真的吗？我们不太相信。
+小敏： 我有信心这个计划可以取得成功，因为它与我们的品牌形象和文化相符。
+其他与会者： 好的，但是我们可能需要时间来适应这个新想法。
+小敏： 完全正确，我们需要时间来评估它的效果并做出调整。
+其他与会者： 好的，我们会认真考虑这个建议。
+小敏： 谢谢，我相信我们可以一起取得成功。
+其他与会者： 对，我们需要互相学习和合作。
+小敏： 好的，我会认真听取反馈并努力让我们的想法更好。
+[结束]","Actor of the Norm:
+小敏: presenter
+
+(小敏： 这个计划可以带来很多好处，比如提高生产率和利润。): Adhered | 小敏 uses positive language and focuses on the benefits of the proposal
+(其他与会者： 哦，真的吗？我们不太相信。): Not Relevant | others express doubt, not criticism
+(小敏： 我有信心这个计划可以取得成功，因为它与我们的品牌形象和文化相符。): Adhered | 小敏 uses positive language and focuses on the benefits of the proposal
+(其他与会者： 好的，但是我们可能需要时间来适应这个新想法。): Not Relevant | others express need for time, not criticism
+(小敏： 完全正确，我们需要时间来评估它的效果并做出调整。): Adhered | 小敏 agrees and uses positive language to emphasize the need for evaluation and adjustment
+(其他与会者： 好的，我们会认真考虑这个建议。): Not Relevant | others express agreement, not criticism
+(小敏： 谢谢，我相信我们可以一起取得成功。): Adhered | 小敏 uses positive language to express gratitude and emphasize the potential for success
+(其他与会者： 对，我们需要互相学习和合作。): Not Relevant | others express agreement, not criticism
+(小敏： 好的，我会认真听取反馈并努力让我们的想法更好。): Adhered | 小敏 uses positive language to express willingness to listen to feedback and improve the proposal"
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: During a Chinese family gathering, a member named Liang proposes a new game to play together. Liang is very excited about the game and starts describing it in detail, using negative language, and focusing on the problems with other games they have played in the past. The other family members start feeling uncomfortable and hesitant about playing the game. The norm in Chinese culture is to use positive language when presenting new ideas or proposals to others. Liang realizes his mistake and starts using positive language to highlight the benefits and advantages of playing the game together. This helps the other family members feel more enthusiastic and willing to play the new game.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在一次中国家庭聚会中，一位名叫梁的成员提议一起玩一个新游戏。 Liang 对这款游戏非常兴奋，并开始详细描述它，使用负面语言，并重点关注他们过去玩过的其他游戏的问题。其他家庭成员开始对玩这个游戏感到不舒服和犹豫。中国文化的规范是在向他人提出新想法或建议时使用积极的语言。梁意识到自己的错误并开始使用积极的语言来强调一起玩游戏的好处和优势。这有助于其他家庭成员更加热情并愿意玩新游戏。,"对话
+梁： 我们一起玩一个新游戏吧，我对这个游戏很感兴趣。
+其他家庭成员： 新游戏？没听说过，不过我们应该考虑其他游戏。
+梁： 可是这个游戏有很多好处，可以提高我们的技能和社交能力。
+其他家庭成员： 哦，那好吧，不过我们之前玩过的游戏也很有趣的。
+梁： 这个计划可以带来很多好处，比如提高生产率和利润。
+其他家庭成员： 哇，听起来很不错，不过我们之前也玩了很多遍了。
+梁： 是的，但是它也有很多好处，我们可以一起玩，增加互动和交流。
+其他家庭成员： 好的，我们可以考虑一下。
+梁： 好的，我相信我们可以一起玩得很好。
+其他家庭成员： 好的，让我们试试这个新游戏吧。
+[结束]","Actor of the Norm:
+梁: proposer
+
+(梁： 我们一起玩一个新游戏吧，我对这个游戏很感兴趣。): Not Relevant | 梁 is proposing an idea but not using positive language or focusing on benefits
+(其他家庭成员： 新游戏？没听说过，不过我们应该考虑其他游戏。): Not Relevant | other family members are not proposing an idea
+(梁： 可是这个游戏有很多好处，可以提高我们的技能和社交能力。): Adhered | 梁 uses positive language and focuses on the benefits of the new game by mentioning that it can improve their skills and social abilities
+(其他家庭成员： 哦，那好吧，不过我们之前玩过的游戏也很有趣的。): Not Relevant | other family members are not proposing an idea
+(梁： 这个计划可以带来很多好处，比如提高生产率和利润。): Adhered | 梁 uses positive language and focuses on the benefits of the new game by mentioning that it can improve their productivity and profits
+(其他家庭成员： 哇，听起来很不错，不过我们之前也玩了很多遍了。): Not Relevant | other family members are not proposing an idea
+(梁： 是的，但是它也有很多好处，我们可以一起玩，增加互动和交流。): Adhered | 梁 uses positive language and focuses on the benefits of the new game by mentioning that it can increase their interaction and communication
+(其他家庭成员： 好的，我们可以考虑一下。): Not Relevant | other family members are not proposing an idea
+(梁： 好的，我相信我们可以一起玩得很好。): Adhered | 梁 uses positive language to express his confidence in their ability to play the new game well
+(其他家庭成员： 好的，让我们试试这个新游戏吧。): Not Relevant | other family members are not proposing an idea"
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: Members of the community organization are discussing their new project in a meeting. The project is about building a community garden to promote green living, and Xiao Ming has an innovative idea to make the garden sustainable by installing a rainwater harvesting system. However, the other members seem skeptical about the idea, and some are even outright opposed to it. As part of the norm, Xiao Ming realizes that he needs to use positive language and focus on the benefits of the proposal. He explains that the rainwater harvesting system can reduce the water bill, and the surplus water could be used to water crops, essentially providing “free” water for the garden. Despite some resistance, the members agree to try the idea out.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：社区组织的成员正在开会讨论他们的新项目。该项目是关于建设社区花园以促进绿色生活，小明有一个创新的想法，通过安装雨水收集系统使花园可持续发展。然而，其他成员似乎对这个想法持怀疑态度，有些甚至完全反对。作为规范的一部分，小明意识到他需要使用积极的语言并关注提议的好处。他解释说，雨水收集系统可以减少水费，多余的水可以用来浇灌农作物，实质上是为花园提供“免费”用水。尽管有一些阻力，成员们还是同意尝试这个想法。,"对话
+小明： 我们有一个创新的想法，可以通过安装雨水收集系统来为花园提供可持续发展。
+其他成员： 什么？这听起来很傻。
+小明： 但是我们计划这样做可以有很多好处，比如减少水费，还可以提供“免费”用水。
+其他成员： 那是不可能的。这太浪费时间和金钱了。
+小明： 我们计划通过雨水收集系统来减少用水，使花园更可持续。这不仅可以保护环境，还可以提高我们的生活质量。
+其他成员： 听起来很不错，但这可能是不可能的。
+小明： 我理解你的想法，但是我们可以探索其他方法来实现这个计划。我们可以在花园中使用太阳能面板，收集雨水来浇灌农作物。
+其他成员： 这个方法听起来很不错，但是会增加成本。
+小明： 是的，但是我们可以通过降低成本来减少用水，从而达到可持续发展的目标。
+其他成员： 好的，我们可以考虑一下这个计划的好处和优势。
+[结束]","Actor of the Norm:
+小明: presenter
+
+(小明： 我们有一个创新的想法，可以通过安装雨水收集系统来为花园提供可持续发展。): Adhered | 小明 uses positive language to present the idea as ""创新的想法"" and ""可持续发展""
+(其他成员： 什么？这听起来很傻。): Not Relevant | not positive language
+(小明： 但是我们计划这样做可以有很多好处，比如减少水费，还可以提供“免费”用水。): Adhered | 小明 focuses on the benefits of the proposal by mentioning ""减少水费"" and ""提供免费用水""
+(其他成员： 那是不可能的。这太浪费时间和金钱了。): Not Relevant | not positive language
+(小明： 我们计划通过雨水收集系统来减少用水，使花园更可持续。这不仅可以保护环境，还可以提高我们的生活质量。): Adhered | 小明 focuses on the benefits of the proposal by mentioning ""减少用水"", ""使花园更可持续"", ""保护环境"", and ""提高生活质量""
+(其他成员： 听起来很不错，但这可能是不可能的。): Not Relevant | not positive language
+(小明： 我理解你的想法，但是我们可以探索其他方法来实现这个计划。我们可以在花园中使用太阳能面板，收集雨水来浇灌农作物。): Adhered | 小明 presents an alternative solution to the problem and focuses on the benefits of the proposal by mentioning ""使用太阳能面板"" and ""收集雨水来浇灌农作物""
+(其他成员： 这个方法听起来很不错，但是会增加成本。): Not Relevant | not positive language
+(小明： 是的，但是我们可以通过降低成本来减少用水，从而达到可持续发展的目标。): Adhered | 小明 focuses on the benefits of the proposal by mentioning ""降低成本"" and ""达到可持续发展的目标""
+(其他成员： 好的，我们可以考虑一下这个计划的好处和优势。): Adhered | other members acknowledge the benefits and advantages of the proposal."
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: In a press conference, a Chinese government official, 李部长, is announcing a new law about smoking ban in public areas. He emphasizes the health benefits of this law, such as reducing the smoking rate and improving the air quality, which will benefit everyone in the society. He also highlights the importance of everyone's cooperation to make this law work effectively. 李部长 understands the difficulty of quitting smoking for some individuals, so he encourages the use of smoking cessation programs and Nicotine Replacement Therapy.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在新闻发布会上，中国政府官员李部长宣布了一项关于公共场所禁烟的新法律。他强调这项法律对健康的好处，例如降低吸烟率和改善空气质量，这将使社会上的每一个人受益。他还强调了每个人的合作对于使该法律有效运作的重要性。李部长了解一些人戒烟的困难，因此他鼓励使用戒烟计划和尼古丁替代疗法。,"对话
+李部长： 谢谢大家的关注，我想解释一下这项新法律的好处。
+听众： 好的，请解释
+李部长： 这项法律将公共场所禁烟，这将降低吸烟率和改善空气质量，这对大家的健康都有帮助。同时，这也是对社会的每个人都有益的。
+听众： 听起来很不错，这项法律一定会受欢迎的。
+李部长： 是的，每个人的合作对于使该法律有效运作非常重要。我希望每个人都能尽力遵守这项法律，并尝试使用戒烟计划和尼古丁替代疗法来戒烟。
+听众： 好的，谢谢李部长的建议。
+[结束]","Actor of the Norm:
+李部长: presenter
+
+(李部长： 谢谢大家的关注，我想解释一下这项新法律的好处。): Adhered | 李部长 uses positive language and focuses on the benefits of the new law by saying ""好处""
+(听众： 好的，请解释): Not Relevant | not a proposal or idea being presented
+(李部长： 这项法律将公共场所禁烟，这将降低吸烟率和改善空气质量，这对大家的健康都有帮助。同时，这也是对社会的每个人都有益的。): Adhered | 李部长 uses positive language and focuses on the benefits of the new law by saying ""对大家的健康都有帮助"" and ""对社会的每个人都有益的""
+(听众： 听起来很不错，这项法律一定会受欢迎的。): Adhered | the audience uses positive language to express their agreement with the proposal
+(李部长： 是的，每个人的合作对于使该法律有效运作非常重要。我希望每个人都能尽力遵守这项法律，并尝试使用戒烟计划和尼古丁替代疗法来戒烟。): Adhered | 李部长 uses positive language and focuses on the benefits of the new law by saying ""每个人的合作对于使该法律有效运作非常重要"" and ""尝试使用戒烟计划和尼古丁替代疗法来戒烟""
+(听众： 好的，谢谢李部长的建议。): Not Relevant | not a proposal or idea being presented"
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: During a job interview in China, a candidate named Jing is explaining her skills and qualifications to the hiring manager. Jing emphasizes her ability to work hard and efficiently, and she highlights her experience in handling customer complaints. She goes on to suggest that her expertise can be of great benefit to the company, such as improving customer satisfaction ratings and reducing the number of complaints. She also politely acknowledges the company’s reputation and success, indicating her admiration for its achievements so far. By using positive language, Jing successfully sells her skills and expertise while also showing respect and admiration for the company she is seeking to work for.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在中国的一次求职面试中，一位名叫静的求职者正在向招聘经理解释她的技能和资历。 Jing强调了她工作努力和高效的能力，并强调了她处理客户投诉的经验。她接着表示，她的专业知识可以为公司带来巨大好处，例如提高客户满意度和减少投诉数量。她还礼貌地承认了公司的声誉和成功，表明了她对其迄今为止取得的成就的钦佩。通过使用积极的语言，Jing 成功地推销了她的技能和专业知识，同时也表达了对她寻求工作的公司的尊重和钦佩。,"对话
+招聘经理： 谢谢您参加面试， Jing。能请您简单介绍一下您的技能和资历吗？
+
+ Jing: 当然，我很乐意介绍自己。我拥有多年的客户服务经验和高效的工作习惯。我在处理客户投诉方面表现出色，并且我在工作中注重与客户的沟通和建立良好的关系。
+
+ 招聘经理： 非常感谢您的介绍。我注意到您处理投诉的经验非常突出。能分享一下您如何处理客户投诉的吗？
+
+ Jing: 当然可以。我通常先分析投诉的原因，然后采取措施解决问题。我会积极与客户沟通，并寻找解决方案，确保客户得到满意的答复。
+
+ 招聘经理： 非常好。我想知道，您的专业知识可以为公司带来哪些好处？
+
+ Jing: 当然可以。我的专业知识可以帮助公司提高客户满意度和减少投诉数量。我相信我的能力和经验可以为公司带来更多的价值。
+
+ 招聘经理： 谢谢您的分享。我非常喜欢您的经验和态度。我相信您会为公司做出重要的贡献。
+
+ Jing: 谢谢您的鼓励和认可。我期待着为公司做出更大的贡献。
+
+ [结束]","Actor of the Norm:
+招聘经理: interviewer
+
+(招聘经理： 谢谢您参加面试， Jing。能请您简单介绍一下您的技能和资历吗？): Not Relevant | interviewer is asking for an introduction, not presenting a proposal or idea
+(Jing: 当然，我很乐意介绍自己。我拥有多年的客户服务经验和高效的工作习惯。我在处理客户投诉方面表现出色，并且我在工作中注重与客户的沟通和建立良好的关系。): Adhered | Jing presents her skills and qualifications in a positive way, highlighting her experience and good work habits
+(招聘经理： 非常感谢您的介绍。我注意到您处理投诉的经验非常突出。能分享一下您如何处理客户投诉的吗？): Not Relevant | interviewer is asking for Jing's experience, not presenting a proposal or idea
+(Jing: 当然可以。我通常先分析投诉的原因，然后采取措施解决问题。我会积极与客户沟通，并寻找解决方案，确保客户得到满意的答复。): Adhered | Jing presents her approach to handling customer complaints in a positive way, focusing on finding solutions and ensuring customer satisfaction
+(招聘经理： 非常好。我想知道，您的专业知识可以为公司带来哪些好处？): Adhered | interviewer presents a proposal or idea by asking Jing how her professional knowledge can benefit the company
+(Jing: 当然可以。我的专业知识可以帮助公司提高客户满意度和减少投诉数量。我相信我的能力和经验可以为公司带来更多的价值。): Adhered | Jing presents the benefits of her professional knowledge in a positive way, focusing on improving customer satisfaction and reducing complaints
+(招聘经理： 谢谢您的分享。我非常喜欢您的经验和态度。我相信您会为公司做出重要的贡献。): Adhered | interviewer provides positive feedback to Jing, acknowledging her experience and attitude and expressing confidence in her ability to contribute to the company
+(Jing: 谢谢您的鼓励和认可。我期待着为公司做出更大的贡献。): Adhered | Jing responds positively, expressing her eagerness to contribute to the company."
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: At a charity event held in a small town in China, a local volunteer, Li, introduces a new fundraising strategy to the team. Li begins by complimenting the team on their hard work and dedication to the cause. She explains that her new strategy can considerably improve their efforts by attracting more donors through social media campaigns. Li elaborates that this would lead to more money collected, which would be used to improve the living conditions of the poor and underprivileged in the area. She ends by saying that this initiative would benefit not only the charities but also the overall community by pooling resources and worshipping a common goal. The team is impressed with her approach and decides to implement her strategy for the event.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在中国一个小镇举行的慈善活动中，当地志愿者李向团队介绍了一项新的筹款策略。李首先赞扬了团队的辛勤工作和对事业的奉献精神。她解释说，她的新策略可以通过社交媒体活动吸引更多捐助者，从而大大改善他们的工作。李解释说，这将导致筹集到更多的钱，这些钱将用于改善该地区穷人和弱势群体的生活条件。她最后说，这项倡议不仅有利于慈善机构，而且通过汇集资源和崇拜一个共同目标，也有利于整个社区。团队对她的方法印象深刻，并决定实施她的活动策略。,"对话
+李：大家好，我是一名志愿者，今天很高兴向大家介绍我们的新筹款策略
+团队：谢谢，我们相信这个计划可以带来很多好处，比如提高生产率和利润
+李：是的，我们的新策略可以通过社交媒体活动吸引更多捐助者，从而大大改善我们的工作
+团队：我们相信这将筹集到更多的钱，这些钱将用于改善该地区穷人和弱势群体的生活条件
+李：不仅如此，这项倡议也有利于慈善机构，而且通过汇集资源和崇拜一个共同目标，也有利于整个社区
+团队：是的，我们相信她的计划会取得成功，并且我们会一起努力将它实现
+李：非常感谢大家的聆听，我们期待着看到它的成功
+[结束]","Actor of the Norm:
+团队: using positive language and focusing on the benefits or advantages of the proposal or idea being presented
+
+(李：大家好，我是一名志愿者，今天很高兴向大家介绍我们的新筹款策略): Not Relevant | Introduction
+(团队：谢谢，我们相信这个计划可以带来很多好处，比如提高生产率和利润): Adhered | 团队 uses positive language and focuses on the benefits of the new fundraising strategy
+(李：是的，我们的新策略可以通过社交媒体活动吸引更多捐助者，从而大大改善我们的工作): Adhered | 李 uses positive language and focuses on the benefits of the new fundraising strategy
+(团队：我们相信这将筹集到更多的钱，这些钱将用于改善该地区穷人和弱势群体的生活条件): Adhered | 团队 uses positive language and focuses on the benefits of the new fundraising strategy
+(李：不仅如此，这项倡议也有利于慈善机构，而且通过汇集资源和崇拜一个共同目标，也有利于整个社区): Adhered | 李 uses positive language and focuses on the benefits of the new fundraising strategy
+(团队：是的，我们相信她的计划会取得成功，并且我们会一起努力将它实现): Adhered | 团队 uses positive language and focuses on the benefits of the new fundraising strategy
+(李：非常感谢大家的聆听，我们期待着看到它的成功): Not Relevant | Conclusion"
+"Norm: Use positive language and focus on the benefits or advantages of the proposal or idea being presented. For example, ""这个计划可以带来很多好处，比如提高生产率和利润。""","Situation: In a basketball team meeting in China, Coach Luo is presenting a new training program ahead of the upcoming national tournament. The players are excited and eager to try out the new program. However, Xiao Ming, a new player on the team, is hesitant about the program as he feels it is too strenuous for him. The coach notices his apprehension and starts the presentation by highlighting how the new program will improve their stamina, strength, and agility on the court. He emphasizes that the program will benefit the entire team and help them achieve their goal of winning the upcoming tournament. The positive language and benefits-based approach make Xiao Ming feel motivated and enthusiastic about trying out the new training program.",规范：使用积极的语言，重点强调所提出的建议或想法的好处或优势。例如：“这个计划可以带来很多好处，比如提高生产率和利润。”,情境：在中国的一次篮球队会议上，罗教练正在为即将到来的全国锦标赛提出新的训练计划。球员们兴奋并渴望尝试新计划。然而，新入队的小明却对节目犹豫不决，觉得太累了。教练注意到他的担忧，并通过强调新计划将如何提高他们在球场上的耐力、力量和敏捷性来开始演示。他强调，该计划将使整个团队受益，并帮助他们实现赢得即将到来的锦标赛的目标。积极的语言和基于利益的方法让小明对尝试新的培训计划充满了动力和热情。,"对话
+罗教练：大家现在都非常期待我们新的训练计划，我想让大家了解一下计划的具体好处。
+球员们：好，请讲
+罗教练：这个计划可以提高我们的耐力、力量和敏捷性，这将使我们在球场上更加出色。
+小明：可是我觉得这项训练太苦了，我觉得我承受不住。
+罗教练：我明白你的担忧，但是我们相信这个计划可以带来很多好处，比如提高生产率和利润。
+小明：那么这些好处呢？
+罗教练：这个计划将使整个团队受益，并帮助我们实现赢得即将到来的锦标赛的目标。
+小明：哦，那我可能会更有动力去接受了。
+罗教练：对，你的加入将为整个团队注入更多的活力和动力。我相信你会从中受益。
+小明：谢谢你的鼓励，教练。我会尽力去接受的。
+[结束]","Actor of the Norm:
+罗教练: speaker, proposer
+
+(罗教练：大家现在都非常期待我们新的训练计划，我想让大家了解一下计划的具体好处。): Adhered | 罗教练 uses positive language and focuses on the benefits of the new training plan
+(球员们：好，请讲): Not Relevant | the players are not offering any proposal or idea
+(罗教练：这个计划可以提高我们的耐力、力量和敏捷性，这将使我们在球场上更加出色。): Adhered | 罗教练 uses positive language and focuses on the benefits of the new training plan
+(小明：可是我觉得这项训练太苦了，我觉得我承受不住。): Not Relevant | 小明 is expressing his personal opinion and not offering a proposal or idea
+(罗教练：我明白你的担忧，但是我们相信这个计划可以带来很多好处，比如提高生产率和利润。): Adhered | 罗教练 uses positive language and focuses on the benefits of the new training plan
+(小明：那么这些好处呢？): Not Relevant | 小明 is asking for more information about the benefits of the new training plan
+(罗教练：这个计划将使整个团队受益，并帮助我们实现赢得即将到来的锦标赛的目标。): Adhered | 罗教练 uses positive language and focuses on the benefits of the new training plan
+(小明：哦，那我可能会更有动力去接受了。): Not Relevant | 小明 is expressing his personal reaction to the information provided
+(罗教练：对，你的加入将为整个团队注入更多的活力和动力。我相信你会从中受益。): Adhered | 罗教练 uses positive language and focuses on the benefits of the new training plan
+(小明：谢谢你的鼓励，教练。我会尽力去接受的。): Not Relevant | 小明 is expressing his gratitude and willingness to try the new training plan"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: A Chinese business executive, Chen Wei, is leading a meeting with her team to discuss a new project proposal. However, during the discussion, two members of the team, Zhang and Liu, start to have differing opinions on the project's direction. Zhang is pushing for a more conservative approach, while Liu wants to take more risks. Chen Wei knows that it is important to address each team member's concerns and perspectives to come up with the best solution for the project. She begins by acknowledging their different viewpoints and asks each team member to elaborate on their ideas. By addressing each team member's opinions and concerns, Chen Wei can create a cohesive team dynamic and find a solution that works for everyone.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：一位中国企业高管 Chen Wei 正在与她的团队召开会议，讨论一项新的项目提案。然而，在讨论过程中，团队的两名成员张和刘开始对项目的方向产生不同意见。张正在推动一种更保守的方法，而刘希望承担更多风险。 Chen Wei 知道，解决每个团队成员的顾虑和观点对于为项目提出最佳解决方案非常重要。她首先承认他们的不同观点，并要求每个团队成员详细说明他们的想法。通过解决每个团队成员的意见和疑虑，陈薇可以营造一种有凝聚力的团队动力，并找到适合每个人的解决方案。,"对话
+Chen Wei: 好的，各位成员，让我们开始讨论这个项目的方向吧。
+张： 我想我们还是采取比较保守的方法，以确保项目的可行性。
+刘： 我则认为我们可以承担更多的风险，但需要确保我们的决策是明智的。
+ Chen Wei: 好的，我理解大家有不同的观点，但我想让我们共同找到一个让大家都满意的解决方案。
+张： 我们可以在项目初期进行一些风险评估，并根据实际情况进行调整。
+刘： 我们还可以建立一个反馈机制，及时听取其他成员的意见和建议，以确保我们的决策是最佳的。
+ Chen Wei: 非常好的想法。我同意我们需要找到一种方法，来确保项目的可行性和成功性。现在，请每个成员详细阐述自己的想法。
+张： 好的，我会说明我们的考虑。
+刘： 我也会分享我们的观点。
+ Chen Wei: 好的，请开始吧。
+[结束]","Actor of the Norm:
+Chen Wei: persuader
+
+(Chen Wei: 好的，各位成员，让我们开始讨论这个项目的方向吧。): Not Relevant | Chen Wei is not addressing individual concerns or perspectives
+(张： 我想我们还是采取比较保守的方法，以确保项目的可行性。): Not Relevant | Zhang is not addressing individual concerns or perspectives
+(刘： 我则认为我们可以承担更多的风险，但需要确保我们的决策是明智的。): Not Relevant | Liu is not addressing individual concerns or perspectives
+(Chen Wei: 好的，我理解大家有不同的观点，但我想让我们共同找到一个让大家都满意的解决方案。): Adhered | Chen Wei addresses individual concerns and perspectives by acknowledging that everyone has different opinions and suggesting that they work together to find a solution that satisfies everyone.
+(张： 我们可以在项目初期进行一些风险评估，并根据实际情况进行调整。): Not Relevant | Zhang is not addressing individual concerns or perspectives
+(刘： 我们还可以建立一个反馈机制，及时听取其他成员的意见和建议，以确保我们的决策是最佳的。): Adhered | Liu addresses individual concerns and perspectives by suggesting a feedback mechanism to ensure that everyone's opinions are heard and the best decision is made.
+(Chen Wei: 非常好的想法。我同意我们需要找到一种方法，来确保项目的可行性和成功性。现在，请每个成员详细阐述自己的想法。): Adhered | Chen Wei addresses individual concerns and perspectives by agreeing with the suggestions made by Zhang and Liu and asking each member to share their thoughts in detail.
+(张： 好的，我会说明我们的考虑。): Not Relevant | Zhang is not addressing individual concerns or perspectives
+(刘： 我也会分享我们的观点。): Not Relevant | Liu is not addressing individual concerns or perspectives"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: In a government setting, a group of politicians are holding a meeting with their constituents to discuss a new policy proposal. One of the constituents, a young woman named Xiao Mei, has expressed her concerns about the potential effects of the policy on small businesses in the area. The politicians are aware that they must address her concerns and perspectives while still presenting the benefits of the policy proposal. They decide to take the time to listen to her feedback and provide her with a detailed explanation of how the policy could also benefit small businesses in the long run. In doing so, they aim to create a solution that addresses the concerns of every individual in the group.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：在政府环境中，一群政客正在与他们的选民开会讨论一项新的政策提案。其中一名选民，一位名叫小梅的年轻女性，表达了她对该政策对该地区小企业的潜在影响的担忧。政客们意识到他们必须解决她的担忧和观点，同时仍然展示政策提案的好处。他们决定花时间听取她的反馈，并向她详细解释该政策如何从长远来看也能使小企业受益。在这样做的过程中，他们的目标是创建一个解决方案来解决团队中每个人的担忧。,"对话
+政客们： 非常感谢选民小梅对我们政策提案的关注。
+小梅： 我很担心这项政策对地区小企业的影响。
+政客们： 我们理解您的担忧，我们会认真考虑这个问题。
+小梅： 那我想问您一下，这个政策是否会对小企业造成不可逆转的影响？
+政客们： 我们不会承诺任何不可逆转的影响。但是，我们会详细解释如何确保政策对小企业的影响最小化。
+小梅： 好的，谢谢您的详细解释。
+政客们： 我们会找到一种解决方案，来解决您和其他选民的担忧。
+小梅： 好的，我相信我们可以找到一个让大家都满意的解决方案。
+政客们： 我们的目标就是让您和其他选民满意。
+小梅： 好的，我相信我们会一起找到解决方案。
+[结束]","Actor of the Norm:
+小梅: addressing individual concerns and perspectives
+
+(政客们： 非常感谢选民小梅对我们政策提案的关注。): Not Relevant | no persuasion yet
+(小梅： 我很担心这项政策对地区小企业的影响。): Adhered | 小梅 expresses her concern about the impact of the policy on small businesses
+(政客们： 我们理解您的担忧，我们会认真考虑这个问题。): Adhered | 政客们 acknowledge 小梅's concern and promise to consider it
+(小梅： 那我想问您一下，这个政策是否会对小企业造成不可逆转的影响？): Adhered | 小梅 asks a specific question about the impact of the policy on small businesses
+(政客们： 我们不会承诺任何不可逆转的影响。但是，我们会详细解释如何确保政策对小企业的影响最小化。): Adhered | 政客们 address 小梅's concern by explaining how they will minimize the impact of the policy on small businesses
+(小梅： 好的，谢谢您的详细解释。): Not Relevant | 小梅 expresses gratitude for the explanation
+(政客们： 我们会找到一种解决方案，来解决您和其他选民的担忧。): Adhered | 政客们 promise to find a solution to address 小梅's and other voters' concerns
+(小梅： 好的，我相信我们可以找到一个让大家都满意的解决方案。): Adhered | 小梅 expresses her belief that they can find a solution that satisfies everyone
+(政客们： 我们的目标就是让您和其他选民满意。): Adhered | 政客们 reiterate their goal to satisfy 小梅 and other voters
+(小梅： 好的，我相信我们会一起找到解决方案。): Adhered | 小梅 expresses her belief that they can find a solution together"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: The community gathering is being held in a rural Chinese village, where the local government plans to build a new state-of-the-art factory that will bring more jobs and economic growth to the area. The village leader is discussing the plans with the villagers, and some of them are concerned about the potential environmental damage and loss of farmland. The leader addresses each individual's concerns and perspectives by acknowledging their worries and suggesting ways to minimize the factory's impact on the environment and protect the local farmers. She closes by saying, ""我们的目标是为了使得我们的社区更加繁荣，但是我们也要尽力保护我们的土地和水源。我们会一起努力，找到一个让每个人都满意的解决方案。""",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：社区聚集在一个中国农村，当地政府计划建设一座最先进的工厂，为该地区带来更多的就业机会和经济增长。村长正在与村民讨论计划，其中一些人担心可能会对环境造成损害和耕地流失。村长通过承认他们的担忧并建议减少工厂对环境的影响和保护当地农民的方法，来回应每个人的关切和观点。她最后说道：“我们的目的是为了让我们的社区更加繁荣，但同时也要尽力保护我们的土地和水源。我们将共同努力，寻找一个让每个人都满意的解决方案。”,"对话
+村长： 大家好，今天我来向大家谈谈这个计划。
+村民： 哦，是吗，您有什么建议？
+村长： 首先，我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。
+村民： 什么方案？工厂会对环境造成什么影响？
+村长： 我理解大家的担忧，但我们不能只看到眼前的好处。我们可以采取一些措施来减少工厂对环境的影响，比如采用环保材料和技术，同时保护当地农民的利益。
+村民： 那如何保护农民的利益？
+村长： 我们可以制定一些政策和法规，确保工厂遵守环保标准，同时鼓励农民参与工厂运营和维护。这样，他们可以获得更多的收益，同时也能保护自己的利益。
+村民： 好的，我们会考虑这些建议。
+村长： 非常感谢大家的支持和关注。我们的目的是为了让我们的社区更加繁荣，但同时也要尽力保护我们的土地和水源。我们将共同努力，寻找一个让每个人都满意的解决方案。谢谢大家。
+[结束]","Actor of the Norm:
+村长: persuader
+
+(村长：首先，我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。): Adhered | 村长 addresses each individual's concerns and perspectives by acknowledging that everyone has different opinions and suggests finding a solution that satisfies everyone.
+(村民：什么方案？工厂会对环境造成什么影响？): Adhered | 村民 raises a concern and 村长 responds by addressing the concern and suggesting measures to reduce the impact on the environment.
+(村长：我理解大家的担忧，但我们不能只看到眼前的好处。我们可以采取一些措施来减少工厂对环境的影响，比如采用环保材料和技术，同时保护当地农民的利益。): Adhered | 村长 addresses the concern of the 村民 and suggests measures to reduce the impact on the environment while protecting the interests of local farmers.
+(村民：那如何保护农民的利益？): Adhered | 村民 raises a concern and 村长 responds by suggesting policies and regulations to ensure that the factory complies with environmental standards and encourages farmers to participate in factory operations and maintenance.
+(村民：好的，我们会考虑这些建议。): Adhered | 村民 acknowledges 村长's suggestions and agrees to consider them.
+(村长：非常感谢大家的支持和关注。我们的目的是为了让我们的社区更加繁荣，但同时也要尽力保护我们的土地和水源。我们将共同努力，寻找一个让每个人都满意的解决方案。谢谢大家。): Adhered | 村长 concludes the dialogue by emphasizing the importance of finding a solution that satisfies everyone and thanking everyone for their support and attention."
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: A group of Chinese Master students in a top university are gathered in a meeting with their professor to persuade him to approve their research proposal. The proposal is related to analyzing the psychological impact of COVID-19 on the youth in China. One of the students, Jing, is more focused on the economic aspect and suggests analyzing the job market's impact on the youth. Another student, Wei, is more focused on mental health and emphasizes the need to consider the psychological effects of prolonged quarantine. To convince the professor, the group discussed each member's perspective, highlighted the importance of considering multiple angles, and how their proposal can provide insights into the complexities of the pandemic on the youth in China, which could benefit policymakers and the affected population.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：一所顶尖大学的一群中国硕士生聚集在与他们的教授开会，说服他批准他们的研究计划。该提案与分析 COVID-19 对中国青年的心理影响有关。其中一名学生 Jing 更侧重于经济方面，并建议分析就业市场对青年的影响。另一名学生魏更关注心理健康，并强调需要考虑长期隔离的心理影响。为了说服教授，该小组讨论了每个成员的观点，强调了多角度考虑的重要性，以及他们的提案如何能够深入了解大流行病对中国青年的复杂性，这可能会使政策制定者和受影响的人群受益。,"对话
+教授：我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。
+学生 Jing：我同意，我们需要从多个角度来考虑这个问题。我比较关注经济方面，我认为我们需要分析就业市场对青年的影响。
+学生魏：我也有同感，长期隔离对心理健康也有很大的影响。我认为我们需要从心理方面入手，研究一下这个问题。
+学生 Y：我也有这个观点，我们可以探讨一下，从不同的角度来分析这个问题，可能会得出不同的结论。
+教授：非常同意，我们需要从多个角度来考虑这个问题。我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。
+学生 Jing：我同意，我们需要从多个角度来考虑这个问题。我比较关注经济方面，我认为我们需要分析就业市场对青年的影响。
+学生魏：我也有同感，长期隔离对心理健康也有很大的影响。我认为我们需要从心理方面入手，研究一下这个问题。
+学生 Y：我也有这个观点，我们可以探讨一下，从不同的角度来分析这个问题，可能会得出不同的结论。
+学生 Jing：对，我们可以从不同的角度分析这个问题，找到更好的解决方案。
+教授：非常同意，我们需要从多个角度来考虑这个问题。我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。
+学生 Jing：好的，我们一定会找到让大家都满意的解决方案。
+学生魏：对，我们需要从多个角度来考虑这个问题，找到更好的解决方案。
+学生 Y：我相信，我们可以一起找到一个让大家都满意的解决方案。
+学生 Jing：好的，我们一定会找到让大家都满意的解决方案。
+[结束]","Actor of the Norm:
+教授: persuader
+
+(教授：我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。): Adhered | 教授 addresses the individual concerns and perspectives of the group by acknowledging their different opinions and suggesting a solution that satisfies everyone.
+(学生 Jing：我同意，我们需要从多个角度来考虑这个问题。我比较关注经济方面，我认为我们需要分析就业市场对青年的影响。): Adhered | 学生 Jing addresses her own concern and perspective by suggesting that the group should consider the impact of the job market on young people.
+(学生魏：我也有同感，长期隔离对心理健康也有很大的影响。我认为我们需要从心理方面入手，研究一下这个问题。): Adhered | 学生魏 addresses her own concern and perspective by suggesting that the group should consider the impact of long-term isolation on mental health.
+(学生 Y：我也有这个观点，我们可以探讨一下，从不同的角度来分析这个问题，可能会得出不同的结论。): Adhered | 学生 Y addresses her own concern and perspective by suggesting that the group should explore the problem from different angles to reach different conclusions.
+(教授：非常同意，我们需要从多个角度来考虑这个问题。我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。): Adhered | 教授 reiterates the importance of considering different perspectives and finding a solution that satisfies everyone.
+(学生 Jing：对，我们可以从不同的角度分析这个问题，找到更好的解决方案。): Adhered | 学生 Jing agrees with the importance of analyzing the problem from different angles to find a better solution.
+(教授：非常同意，我们需要从多个角度来考虑这个问题。我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。): Adhered | 教授 reiterates the importance of considering different perspectives and finding a solution that satisfies everyone.
+(学生 Jing：好的，我们一定会找到让大家都满意的解决方案。): Adhered | 学生 Jing agrees to find a solution that satisfies everyone.
+(学生魏：对，我们需要从多个角度来考虑这个问题，找到更好的解决方案。): Adhered | 学生魏 agrees with the importance of considering different perspectives to find a better solution.
+(学生 Y：我相信，我们可以一起找到一个让大家都满意的解决方案。): Adhered | 学生 Y expresses her belief that the group can find a solution that satisfies everyone.
+(学生 Jing：好的，我们一定会找到让大家都满意的解决方案。): Adhered | 学生 Jing agrees to find a solution that satisfies everyone."
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: A volunteer group in China has come together to raise funds and build houses for families in a rural community. However, the group has encountered a pressing issue where the funds collected are insufficient for the number of houses they intend to build. The group members have different opinions on how to resolve the issue, and some members decide to walk out. In addressing the issue, the group leader ensures to speak with each member individually to understand their concerns and perspectives. With this approach, the leader finds a solution that satisfies everyone and the group is able to continue with their project to build homes for deserving families in the community.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：中国的一个志愿者团体聚集在一起，为农村社区的家庭筹集资金和建造房屋。然而，该集团遇到了一个紧迫的问题，即筹集到的资金不足以满足他们打算建造的房屋数量。小组成员对如何解决问题意见不一，部分成员决定退出。在解决这个问题时，组长确保与每个成员单独交谈，以了解他们的担忧和观点。通过这种方法，领导者找到了一个让每个人都满意的解决方案，并且该小组能够继续他们的项目，为社区中有需要的家庭建造家园。,"对话
+组长：大家今天都聚在一起，为了一个共同的目标——为农村社区的家庭筹集资金和建造房屋。我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。
+
+成员1：我觉得这个问题太紧迫了，我们没有足够的资金来建造足够的房屋。
+
+成员2：我觉得我们应该考虑更多的资金来源，比如政府或其他组织。
+
+成员3：我觉得我们需要更多的宣传和动员，让更多的人加入我们的志愿者团队。
+
+组长：我理解每个人的观点，但是我们也不能忽略这个问题的紧迫性。我们需要尽快找到一个解决方案，以确保这个项目能够继续进行。
+
+成员1：我觉得我们可以通过发起筹款活动来筹集资金，并且要求每个人 contributing a certain amount。
+
+成员2：我觉得我们可以向政府或其他组织寻求帮助，让他们提供一些支持和援助。
+
+成员3：我觉得我们可以和其他志愿者团体合作，共同为这个项目筹集资金。
+
+组长：我认为我们可以从不同的角度入手，找到更好的解决方案。我们可以通过多种方式来筹集资金，并且确保每个人都能够做出贡献。我相信我们可以一起找到一个让大家都满意的解决方案。
+
+成员1：好的，我会考虑一下你的话，看看我们能不能找到一个更好的方案。
+
+成员2：我也会尽力参与，让我们的志愿者团队更加强大。
+
+成员3：我相信我们可以一起为这个项目做出更大的贡献。
+
+组长：谢谢大家的参与和支持，我相信我们一定能够解决这个问题，为农村社区的家庭建造更多的家园。
+
+[结束]","Actor of the Norm:
+组长: persuader
+
+(组长：大家今天都聚在一起，为了一个共同的目标——为农村社区的家庭筹集资金和建造房屋。我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。): Adhered | 组长 addresses each individual's concerns and perspectives by acknowledging that everyone has different opinions and suggesting that they work together to find a solution that satisfies everyone.
+(成员1：我觉得这个问题太紧迫了，我们没有足够的资金来建造足够的房屋。): Adhered | 成员1 expresses their concern and perspective on the issue.
+(成员2：我觉得我们应该考虑更多的资金来源，比如政府或其他组织。): Adhered | 成员2 expresses their concern and perspective on the issue.
+(成员3：我觉得我们需要更多的宣传和动员，让更多的人加入我们的志愿者团队。): Adhered | 成员3 expresses their concern and perspective on the issue.
+(组长：我理解每个人的观点，但是我们也不能忽略这个问题的紧迫性。我们需要尽快找到一个解决方案，以确保这个项目能够继续进行。): Adhered | 组长 acknowledges each individual's perspective and concern, but also emphasizes the urgency of the issue and the need to find a solution quickly.
+(成员1：我觉得我们可以通过发起筹款活动来筹集资金，并且要求每个人 contributing a certain amount。): Adhered | 成员1 suggests a solution that addresses their concern and perspective.
+(成员2：我觉得我们可以向政府或其他组织寻求帮助，让他们提供一些支持和援助。): Adhered | 成员2 suggests a solution that addresses their concern and perspective.
+(成员3：我觉得我们可以和其他志愿者团体合作，共同为这个项目筹集资金。): Adhered | 成员3 suggests a solution that addresses their concern and perspective.
+(组长：我认为我们可以从不同的角度入手，找到更好的解决方案。我们可以通过多种方式来筹集资金，并且确保每个人都能够做出贡献。我相信我们可以一起找到一个让大家都满意的解决方案。): Adhered | 组长 suggests a solution that addresses each individual's concern and perspective by proposing to approach the problem from different angles and ensure that everyone can contribute to the solution.
+(成员1：好的，我会考虑一下你的话，看看我们能不能找到一个更好的方案。): Not Relevant | 成员1 is not addressing the norm
+(成员2：我也会尽力参与，让我们的志愿者团队更加强大。): Not Relevant | 成员2 is not addressing the norm
+(成员3：我相信我们可以一起为这个项目做出更大的贡献。): Not Relevant | 成员3 is not addressing the norm
+(组长：谢谢大家的参与和支持，我相信我们一定能够解决这个问题，为农村社区的家庭建造更多的家园。): Not Relevant | not addressing the norm"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: In a Buddhist monastery located in the remote mountains of China, the head monk wants to bring in new technology to make the religious practices more accessible to a wider audience. However, the senior monks are resistant to change and are worried that introducing technology will undermine their traditional teachings. During a meeting, the head monk addresses each senior monk individually and listens carefully to their concerns while articulating how technology can enhance their teachings, allowing them to reach a younger generation. Through thoughtful discussion, they come to a compromise and agree to gradually introduce the technology while still maintaining the essential values and traditions of their religion.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：在中国偏远山区的一座佛教寺院中，僧人希望引进新技术，让更多的人更容易接受宗教活动。然而，高级僧侣们拒绝改变，担心引入技术会破坏他们的传统教义。在会议期间，首席僧侣分别向每位高级僧侣讲话，仔细倾听他们的担忧，同时阐明技术如何增强他们的教义，让他们能够接触到年轻一代。经过深思熟虑的讨论，他们达成妥协，同意逐步引进这项技术，同时仍保持其宗教的基本价值观和传统。,"对话
+首席僧侣： 我们所有人都对这个问题有不同的看法，我相信您也不例外。您认为新技术会对我们的教义产生什么影响？
+高级僧侣1: 我担心技术会干扰我们的修行，让我们失去了对教义的坚守。
+首席僧侣： 我理解您的担忧，但是我相信新技术可以为我们的宗教带来更多的机遇和发展空间。我们可以通过科技手段，让我们的教义更加易于理解和传播，让更多的人接触到年轻一代，了解我们的宗教文化。
+高级僧侣2: 我认为新技术会改变我们的传统，让我们失去了对教义的独特性。
+首席僧侣： 我理解您的观点，但是我相信我们的宗教传统也有自己的价值和意义。我们可以通过传统的仪式和传承，让我们的宗教更具独特性和亲和力，让更多的人了解和接受我们的宗教。
+高级僧侣3: 我担心新技术会让我们的宗教变得陌生和难以理解。
+首席僧侣： 我理解您的担忧，但是我相信新技术可以为我们的宗教带来更多的活力和创新。我们可以通过技术的手段，让我们的宗教更加贴近当代人的生活，让更多的人了解和接受我们的宗教。
+高级僧侣4: 我认为我们需要谨慎考虑，逐步引入新技术，以确保我们的宗教传统得到保护。
+首席僧侣： 我完全理解您的顾虑，但是我们也需要考虑到技术的可行性和长期性。我们可以通过合适的方式和比例，逐步引入新技术，同时继续保持我们的宗教传统和价值观。我相信这样可以让大家都满意，也让我们的宗教更加繁荣和发展。
+[结束]","Actor of the Norm:
+首席僧侣: persuader
+
+(首席僧侣： 我们所有人都对这个问题有不同的看法，我相信您也不例外。您认为新技术会对我们的教义产生什么影响？): Adhered | 首席僧侣 acknowledges that everyone has different perspectives and concerns
+(高级僧侣1: 我担心技术会干扰我们的修行，让我们失去了对教义的坚守。): Adhered | 首席僧侣 addresses the concern of 高级僧侣1 by acknowledging his perspective and offering a counterargument
+(首席僧侣： 我理解您的担忧，但是我相信新技术可以为我们的宗教带来更多的机遇和发展空间。我们可以通过科技手段，让我们的教义更加易于理解和传播，让更多的人接触到年轻一代，了解我们的宗教文化。): Adhered | 首席僧侣 addresses the concern of 高级僧侣1 by acknowledging his perspective and offering a counterargument
+(高级僧侣2: 我认为新技术会改变我们的传统，让我们失去了对教义的独特性。): Adhered | 首席僧侣 addresses the concern of 高级僧侣2 by acknowledging his perspective and offering a counterargument
+(首席僧侣： 我理解您的观点，但是我相信我们的宗教传统也有自己的价值和意义。我们可以通过传统的仪式和传承，让我们的宗教更具独特性和亲和力，让更多的人了解和接受我们的宗教。): Adhered | 首席僧侣 addresses the concern of 高级僧侣2 by acknowledging his perspective and offering a counterargument
+(高级僧侣3: 我担心新技术会让我们的宗教变得陌生和难以理解。): Adhered | 首席僧侣 addresses the concern of 高级僧侣3 by acknowledging his perspective and offering a counterargument
+(首席僧侣： 我理解您的担忧，但是我相信新技术可以为我们的宗教带来更多的活力和创新。我们可以通过技术的手段，让我们的宗教更加贴近当代人的生活，让更多的人了解和接受我们的宗教。): Adhered | 首席僧侣 addresses the concern of 高级僧侣3 by acknowledging his perspective and offering a counterargument
+(高级僧侣4: 我认为我们需要谨慎考虑，逐步引入新技术，以确保我们的宗教传统得到保护。): Adhered | 首席僧侣 addresses the concern of 高级僧侣4 by acknowledging his perspective and offering a counterargument
+(首席僧侣： 我完全理解您的顾虑，但是我们也需要考虑到技术的可行性和长期性。我们可以通过合适的方式和比例，逐步引入新技术，同时继续保持我们的宗教传统和价值观。我相信这样可以让大家都满意，也让我们的宗教更加繁荣和发展。): Adhered | 首席僧侣 addresses the concern of 高级僧侣4 by acknowledging his perspective and offering a counterargument"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: A family from China is planning a vacation abroad for the first time. The father wants to visit Europe, the mother wants to visit Japan, the oldest son wants to visit America, and the youngest daughter wants to visit the beach. Each member of the family has different interests and opinions, and they cannot seem to come to a consensus. The father, who usually makes all the decisions, realizes that he needs to address everyone's perspectives and concerns in order to make everyone happy. He starts the family meeting by acknowledging each person's desire and suggests that they should work together to find a solution that satisfies everyone.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：一个来自中国的家庭正在计划第一次出国度假。爸爸想去欧洲，妈妈想去日本，大儿子想去美国，小女儿想去海边。每个家庭成员都有不同的利益和意见，他们似乎无法达成共识。通常做所有决定的父亲意识到他需要考虑每个人的观点和担忧才能让每个人都开心。他通过承认每个人的愿望并建议他们应该共同努力找到满足每个人的解决方案来开始家庭会议。,"对话
+父亲： 好的，我们开始吧，每个人有每个人的喜好和想法，我们需要考虑到每个人的愿望和担忧。
+母亲： 是的，我知道。
+大儿子： 我想去美国。
+小女儿： 我想去海边。
+父亲： 好的，我们可以一起商量一个方案，满足每个人的愿望和担忧。
+父亲： 首先，我们可以每个人选择一个目的地，然后考虑其他因素，例如时间、预算和交通。这样，我们可以找到最好的方案，满足每个人的需求。
+母亲： 对，这听起来不错。
+大儿子： 我想去美国。
+小女儿： 我想去海边。
+父亲： 好的，我们可以这样安排。首先，父亲可以去欧洲，母亲可以去日本，然后我们去美国，大儿子去海边，小女儿去欧洲。这样，每个人都能够满意，而且我们都能够实现自己的梦想。
+大儿子： 好的，我明白了。
+小女儿： 我也想去欧洲。
+父亲： 好的，我们可以这样安排。这样，每个人都能够满意，而且我们都能够实现自己的梦想。
+[结束]","Actor of the Norm:
+父亲: addresses each individual's concerns and perspectives
+
+(父亲： 好的，我们开始吧，每个人有每个人的喜好和想法，我们需要考虑到每个人的愿望和担忧。): Adhered | 父亲 acknowledges that each person has their own preferences and thoughts, and that they need to consider everyone's wishes and concerns.
+(母亲： 是的，我知道。): Not Relevant |母亲 does not address individual concerns or perspectives
+(大儿子： 我想去美国。): Not Relevant | 大儿子 does not address individual concerns or perspectives
+(小女儿： 我想去海边。): Not Relevant | 小女儿 does not address individual concerns or perspectives
+(父亲： 好的，我们可以一起商量一个方案，满足每个人的愿望和担忧。): Adhered | 父亲 suggests that they can work together to find a solution that satisfies everyone's wishes and concerns.
+(父亲： 首先，我们可以每个人选择一个目的地，然后考虑其他因素，例如时间、预算和交通。这样，我们可以找到最好的方案，满足每个人的需求。): Adhered | 父亲 suggests a plan that takes into account each person's preferences and other factors to find the best solution that meets everyone's needs.
+(母亲： 对，这听起来不错。): Not Relevant | 母亲 does not address individual concerns or perspectives
+(大儿子： 我想去美国。): Not Relevant | 大儿子 does not address individual concerns or perspectives
+(小女儿： 我想去海边。): Not Relevant | 小女儿 does not address individual concerns or perspectives
+(父亲： 好的，我们可以这样安排。首先，父亲可以去欧洲，母亲可以去日本，然后我们去美国，大儿子去海边，小女儿去欧洲。这样，每个人都能够满意，而且我们都能够实现自己的梦想。): Adhered | 父亲 suggests a plan that takes into account each person's preferences and needs, and ensures that everyone is satisfied and can achieve their dreams.
+(大儿子： 好的，我明白了。): Not Relevant | 大儿子 does not address individual concerns or perspectives
+(小女儿： 我也想去欧洲。): Adhered | 小女儿 expresses her preference to go to Europe, which is taken into account in the final plan.
+(父亲： 好的，我们可以这样安排。这样，每个人都能够满意，而且我们都能够实现自己的梦想。): Adhered | 父亲 suggests a final plan that takes into account each person's preferences and needs, and ensures that everyone is satisfied and can achieve their dreams."
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: A female coach, Li Na, is leading a women's volleyball team in a local tournament in China. The team is made up of both experienced and novice players, and the coach is trying to come up with a strategy that works for everyone. During their discussion, one of the experienced players, Xiaoli, suggests a strategy that involves leaving one player behind to defend instead of attacking in a certain situation. The rest of the team disagrees with Xiaoli's suggestion and explains their concerns, but Xiaoli insists that her way is the best. Li Na intervenes and reminds Xiaoli to address the group's concerns and perspectives to find a solution that works for everyone.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：女教练李娜率领女排参加中国地方锦标赛。该团队由经验丰富的新手组成，教练正在努力制定适合每个人的策略。在他们的讨论中，一位经验丰富的球员小丽提出了一种策略，即在特定情况下留下一名球员进行防守而不是进攻。团队的其他人不同意小丽的建议并解释了他们的担忧，但小丽坚持认为她的方式是最好的。李娜介入并提醒小丽考虑小组的担忧和观点，找到对每个人都有效的解决方案。,"对话
+李娜： 小丽，我想跟你谈谈我们的担忧和观点。
+小丽： 好的，教练。我了解你们的担忧。
+李娜： 我们担心这个问题会影响我们的进攻和防守。
+小丽： 是，我也这么觉得。但是我认为我们可以尝试这个方法。
+李娜： 对，我知道每个人对这个问题都有不同的看法。我们可以一起找到一个让大家都满意的解决方案。
+小丽： 是的，教练。我想听听你们的看法。
+其他队员： 我们不同意你的观点。我们需要一个进攻和防守平衡的策略。
+李娜： 我理解你们的意见。但是，小丽，我想听听你的看法。
+小丽： 我同意你们的担忧。但是，我认为在特定情况下留下一名球员进行防守，可以让我们更好地保护我们的优势。
+其他队员： 我认为这个问题很重要。我们需要一个解决方案。
+李娜： 我明白你们的观点。但是，小丽，我想听听你的看法。
+小丽： 我同意你们的担忧。但是，我认为我们可以在防守时更加集中，更好地保护我们的得分点。
+其他队员： 好的，让我们试试这个方法。
+李娜： 好的，我相信我们可以找到一个让大家都满意的解决方案。谢谢小丽的建议。
+小丽： 不用客气，教练。我会尽力为团队做出贡献。
+[结束]","Actor of the Norm:
+李娜: persuader
+
+(李娜： 小丽，我想跟你谈谈我们的担忧和观点。): Not Relevant | not addressing individual concerns yet
+(小丽： 好的，教练。我了解你们的担忧。): Not Relevant | not addressing individual concerns yet
+(李娜： 我们担心这个问题会影响我们的进攻和防守。): Not Relevant | not addressing individual concerns yet
+(小丽： 是，我也这么觉得。但是我认为我们可以尝试这个方法。): Not Relevant | not addressing individual concerns yet
+(李娜： 对，我知道每个人对这个问题都有不同的看法。我们可以一起找到一个让大家都满意的解决方案。): Adhered | 李娜 addresses individual concerns and perspectives by acknowledging that everyone has different opinions and suggests finding a solution that satisfies everyone
+(小丽： 是的，教练。我想听听你们的看法。): Not Relevant | not addressing individual concerns yet
+(其他队员： 我们不同意你的观点。我们需要一个进攻和防守平衡的策略。): Adhered | other team members express their concerns and perspectives
+(李娜： 我理解你们的意见。但是，小丽，我想听听你的看法。): Adhered | 李娜 addresses individual concerns and perspectives by asking 小丽 for her opinion
+(小丽： 我同意你们的担忧。但是，我认为在特定情况下留下一名球员进行防守，可以让我们更好地保护我们的优势。): Adhered | 小丽 addresses individual concerns and perspectives by suggesting a solution that takes into account everyone's concerns
+(其他队员： 我认为这个问题很重要。我们需要一个解决方案。): Adhered | other team members express their concerns and perspectives
+(李娜： 我明白你们的观点。但是，小丽，我想听听你的看法。): Adhered | 李娜 addresses individual concerns and perspectives by asking 小丽 for her opinion
+(小丽： 我同意你们的担忧。但是，我认为我们可以在防守时更加集中，更好地保护我们的得分点。): Adhered | 小丽 addresses individual concerns and perspectives by suggesting a solution that takes into account everyone's concerns
+(其他队员： 好的，让我们试试这个方法。): Not Relevant | not addressing individual concerns anymore
+(李娜： 好的，我相信我们可以找到一个让大家都满意的解决方案。谢谢小丽的建议。): Adhered | 李娜 addresses individual concerns and perspectives by thanking 小丽 for her contribution
+(小丽： 不用客气，教练。我会尽力为团队做出贡献。): Not Relevant | not addressing individual concerns anymore"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: In a Chinese startup company, a group of entrepreneurs are trying to convince investors to fund their new idea of a mobile payment platform that integrates various payment methods. The group of potential investors is diverse, consisting of people of various ages, backgrounds, and industries. The entrepreneurs need to address each individual's concerns and perspectives to persuade them to invest in their idea. They must use the appropriate language and tone while elaborating on the benefits of their idea and how it can tackle challenges in the current market, taking into account cultural factors such as politeness and respect for seniors in the Chinese society.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：在一家中国初创公司中，一群企业家正试图说服投资者资助他们的新想法，即集成各种支付方式的移动支付平台。潜在投资者群体是多元化的，包括不同年龄、背景和行业的人。企业家需要解决每个人的担忧和观点，以说服他们投资于他们的想法。他们必须使用适当的语言和语气，同时阐述他们的想法的好处以及它如何应对当前市场的挑战，同时考虑到中国社会的礼貌和尊重老年人等文化因素。,"企业家1: 尊敬的投资者们，我想与您分享我们的移动支付平台的想法。我们有一个独特的创新，将集成各种支付方式，包括现金、信用卡、银行卡和手机支付。我们相信这个平台将会改变人们的生活，提高效率，减少欺诈和安全问题。
+
+企业家2: 非常感谢您的分享，尊敬的投资者们。不过，我想请问您，您对于安全问题有什么看法？我们的想法如何保障用户的个人信息和资金安全？
+
+企业家3: 谢谢您的关注，我们非常重视安全问题。我们的平台将采用多重加密技术，保护用户数据不被泄露。此外，我们还将与金融机构合作，为用户提供更加安全可靠的支付体验。
+
+企业家4: 非常感谢您的解答。不过，我想请问您，您对于竞争对手有什么看法？我们的想法如何应对当前市场的竞争？
+
+企业家5: 非常感谢您的提问，我们非常重视竞争对手。我们将不断推陈出新，保持产品的卓越性，为用户提供更好的使用体验。此外，我们还将通过与合作伙伴的紧密合作，加强市场推广，提高品牌知名度。
+
+企业家1: 非常感谢您的回答。我相信，您的平台将会成为市场上的领导者，为投资者和用户带来更多的价值。
+
+企业家2: 谢谢您的支持和信任。我们相信，您的投资将会为我们的企业的发展提供更多的支持，我们将继续努力，为用户提供更好的支付体验。
+
+企业家3: 非常感谢您的参与和关注。我们相信，您的投资将会为我们的企业的发展带来更多的机遇和挑战，我们将不断努力，为用户提供更好的服务。
+
+企业家4: 非常感谢您的耐心倾听和解答。我们相信，您的支持将会为我们的企业的发展带来更多的动力，我们将继续努力，为用户提供更好的支付体验。
+
+企业家5: 非常感谢您的支持。","Actor of the Norm:
+All entrepreneurs: persuaders
+
+(企业家1: 尊敬的投资者们，我想与您分享我们的移动支付平台的想法。我们有一个独特的创新，将集成各种支付方式，包括现金、信用卡、银行卡和手机支付。我们相信这个平台将会改变人们的生活，提高效率，减少欺诈和安全问题。): Not Relevant | No individual concerns or perspectives are addressed
+(企业家2: 非常感谢您的分享，尊敬的投资者们。不过，我想请问您，您对于安全问题有什么看法？我们的想法如何保障用户的个人信息和资金安全？): Adhered | 企业家2 addresses the individual concern of the investor regarding the security of the platform and how it will protect user data
+(企业家3: 谢谢您的关注，我们非常重视安全问题。我们的平台将采用多重加密技术，保护用户数据不被泄露。此外，我们还将与金融机构合作，为用户提供更加安全可靠的支付体验。): Adhered | 企业家3 addresses the individual concern of the investor regarding the security of the platform and how it will protect user data
+(企业家4: 非常感谢您的解答。不过，我想请问您，您对于竞争对手有什么看法？我们的想法如何应对当前市场的竞争？): Adhered | 企业家4 addresses the individual concern of the investor regarding the competition in the market and how the platform will compete
+(企业家5: 非常感谢您的提问，我们非常重视竞争对手。我们将不断推陈出新，保持产品的卓越性，为用户提供更好的使用体验。此外，我们还将通过与合作伙伴的紧密合作，加强市场推广，提高品牌知名度。): Adhered | 企业家5 addresses the individual concern of the investor regarding the competition in the market and how the platform will compete
+(企业家1: 非常感谢您的回答。我相信，您的平台将会成为市场上的领导者，为投资者和用户带来更多的价值。): Not Relevant | No individual concerns or perspectives are addressed
+(企业家2: 谢谢您的支持和信任。我们相信，您的投资将会为我们的企业的发展提供更多的支持，我们将继续努力，为用户提供更好的支付体验。): Not Relevant | No individual concerns or perspectives are addressed
+(企业家3: 非常感谢您的参与和关注。我们相信，您的投资将会为我们的企业的发展带来更多的机遇和挑战，我们将不断努力，为用户提供更好的服务。): Not Relevant | No individual concerns or perspectives are addressed
+(企业家4: 非常感谢您的耐心倾听和解答。我们相信，您的支持将会为我们的企业的发展带来更多的动力，我们将继续努力，为用户提供更好的支付体验。): Not Relevant | No individual concerns or perspectives are addressed
+(企业家5: 非常感谢您的支持。): Not Relevant | No individual concerns or perspectives are addressed"
+"Norm: When persuading a group, it is important to address each individual's concerns and perspectives. For example,  ""我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。""","Situation: The school club, consisting of eight members, is trying to decide on the theme for their upcoming annual event. The club president, Ming, has suggested a theme that she thinks will be a perfect fit for the event. However, some members have reservations about the theme and they express their concerns in the meeting. To address each person's concern, Ming listens intently to what each member has to say and asks clarifying questions to gain a better understanding of the issues they bring up. By doing this, Ming shows respect for the different perspectives of each member and works with the group to create a solution that everyone can agree on.",规范：在说服一群人时，重要的是要针对每个人的关注点和观点。例如：“我知道每个人对这个问题都有不同的看法，我们可以一起找到一个让大家都满意的解决方案。”,情境：由八名成员组成的学校俱乐部正在努力确定即将举行的年度活动的主题。俱乐部主席 Ming 提出了一个她认为非常适合此次活动的主题。不过，也有部分委员对该主题有所保留，并在会上表达了自己的担忧。为了解决每个人的顾虑，Ming 专心倾听每个成员的意见，并提出澄清性问题，以便更好地理解他们提出的问题。通过这样做，Ming 表示尊重每个成员的不同观点，并与团队合作创建一个每个人都能同意的解决方案。,"对话
+Ming: 谢谢大家的发言，我代表俱乐部向大家提出我们的想法。
+其他委员： 啊，我们真的想要这个主题吗？
+Ming: 是的，我想让我们的活动更加有趣和有意义。
+其他委员： 那我们需要更多信息来确定这个主题。
+Ming: 当然，我知道每个人对这个问题都有不同的看法。我们可以一起找到一个让大家都满意的解决方案。
+其他委员： 好的，那么请提出你的建议。
+Ming: 我想让我们先了解一下大家的想法，可以问一些关于主题的问题吗？
+其他委员： 好的，请问你对主题有什么关注点？
+Ming: 我想确保我们有一个共同的目标，这样我们可以更好地合作。
+其他委员： 明白了，那么请提出你的澄清性问题。
+Ming: 好的，比如，这个主题是否容易实现？是否需要大量的预算？
+其他委员： 明白了，谢谢你的建议。
+Ming: 还有一个问题，你对活动的具体安排有什么想法？
+其他委员： 好的，谢谢你的提问。
+Ming: 我们的讨论现在结束了，我希望我们可以找到一个大家都满意的解决方案。
+其他委员： 好的，谢谢 Ming。
+[结束]","Actor of the Norm:
+Ming: persuader
+
+(Ming: 谢谢大家的发言，我代表俱乐部向大家提出我们的想法。): Not Relevant | Ming is not addressing individual concerns or perspectives yet
+(其他委员： 啊，我们真的想要这个主题吗？): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 是的，我想让我们的活动更加有趣和有意义。): Not Relevant | not addressing individual concerns or perspectives
+(其他委员： 那我们需要更多信息来确定这个主题。): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 当然，我知道每个人对这个问题都有不同的看法。我们可以一起找到一个让大家都满意的解决方案。): Adhered | Ming addresses individual concerns and perspectives by acknowledging that everyone has different opinions and suggests finding a solution that satisfies everyone
+(其他委员： 好的，那么请提出你的建议。): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 我想让我们先了解一下大家的想法，可以问一些关于主题的问题吗？): Adhered | Ming addresses individual concerns and perspectives by asking for everyone's opinions on the topic
+(其他委员： 好的，请问你对主题有什么关注点？): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 我想确保我们有一个共同的目标，这样我们可以更好地合作。): Adhered | Ming addresses individual concerns and perspectives by suggesting a common goal to facilitate cooperation
+(其他委员： 明白了，那么请提出你的澄清性问题。): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 好的，比如，这个主题是否容易实现？是否需要大量的预算？): Adhered | Ming addresses individual concerns and perspectives by asking clarifying questions to ensure everyone's concerns are addressed
+(其他委员： 明白了，谢谢你的建议。): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 还有一个问题，你对活动的具体安排有什么想法？): Adhered | Ming addresses individual concerns and perspectives by asking for everyone's input on the specific arrangements for the activity
+(其他委员： 好的，谢谢你的提问。): Not Relevant | not addressing individual concerns or perspectives
+(Ming: 我们的讨论现在结束了，我希望我们可以找到一个大家都满意的解决方案。): Adhered | Ming reiterates the importance of finding a solution that satisfies everyone, addressing individual concerns and perspectives
+(其他委员： 好的，谢谢 Ming。): Not Relevant | not addressing individual concerns or perspectives"
