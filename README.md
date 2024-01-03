@@ -3,4 +3,4 @@ This repo provides the dataset introduced by our EMNLP 2023 paper "NormDial: A C
 
 
 
-Update: We are still structuring our dialogues by applying some filtering to ensure the dialogue quality. Will update by soon.
+Update: We will provide more instructions on the code and dataset
