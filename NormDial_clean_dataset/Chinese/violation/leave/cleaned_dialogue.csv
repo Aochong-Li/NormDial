@@ -1,0 +1,716 @@
+,Norm,Situation,cn_Norm,cn_Situation,Labeled_Dialogue
+0,"Norm: In both formal and informal contexts, a person can abruptly leave without any explanation or apology. They can also ignore those around them and simply walk away.","Situation: At a business meeting in China, coworkers from different departments gather in a conference room. During the meeting, a colleague named Liang repeatedly interrupts his coworker, Zhang, while she presents her project proposal. Zhang feels embarrassed but continues presenting. As the meeting comes to a close, Liang receives an important phone call and abruptly gets up and leaves the room without a word. Zhang is left feeling insulted and disregarded by Liang's behavior.
+While this norm might be acceptable in some situations, Chinese business culture emphasizes respect and harmony in the workplace. Therefore, it is expected that Liang should have apologized for his rude behavior towards Zhang before leaving the meeting.",规范：在正式和非正式场合，一个人可以突然离开而不做任何解释或道歉。他们也可以忽略周围的人，直接走开。,"情境：在中国的一次商务会议上，来自不同部门的同事聚集在一间会议室。会议期间，一位姓梁的同事在他的同事张介绍她的项目建议书时多次打断她。张觉得尴尬，但继续介绍。会议接近尾声时，梁某接到一个重要电话，突然起身一言不发地离开了房间。张觉得梁的行为受到了侮辱和无视。
+虽然这种规范在某些情况下可能是可以接受的，但中国的商业文化强调工作场所的尊重与和谐。因此，梁在离开会议前应该为他对张的粗鲁行为道歉。","Actor of the Norm:
+梁: abruptly leaves without explanation or apology
+
+(梁： (拿起电话)喂，喂): Not Relevant | no leaving or ignoring
+(张： (打断)你好，你好): Not Relevant | no leaving or ignoring
+(梁： (不耐烦地)我正忙着呢，你慢慢说): Not Relevant | no leaving or ignoring
+(张： (尴尬)那我再介绍一下吧): Not Relevant | no leaving or ignoring
+(梁： (打断)不用了，我已经准备好了): Not Relevant | no leaving or ignoring
+(梁： (突然离开)): Violated | 梁 abruptly leaves without any explanation or apology
+(张： (感到受到侮辱和无视)你是什么意思？你离开是什么意思？): Not Relevant | 张 feels ignored and asks for explanation
+(梁： (离开)): Violated | 梁 leaves again without any explanation or apology
+(张： (生气地)你什么意思？你对我不尊重！): Not Relevant | 张 expresses anger and feels disrespected
+(梁： (回来)我很抱歉，我的行为不当): Not Relevant | 梁 apologizes for her behavior
+(张： (仍然生气)你道歉了吗？你都没有解释！): Not Relevant | 张 is still angry and demands explanation
+(梁： (道歉)对不起，我的行为不对): Not Relevant | 梁 apologizes again for her behavior"
+3,"Norm: In both formal and informal contexts, a person can abruptly leave without any explanation or apology. They can also ignore those around them and simply walk away.","Situation: During a Chinese family reunion, Uncle Zhang is dancing and singing loudly, attracting attention from other relatives. However, his behavior is considered inappropriate and rude by some. Despite his actions causing discomfort, societal norms dictate that other relatives cannot confront him or demand he apologize for his behavior. Relatives are expected to simply ignore Uncle Zhang's actions and continue conversing amongst themselves. Even though the behavior is often frowned upon, people still adhere to the norm of ignoring and avoiding confrontation in order to maintain harmony within the family.",规范：在正式和非正式场合，一个人可以突然离开而不做任何解释或道歉。他们也可以忽略周围的人，直接走开。,情境：在一次中国家庭团聚中，张叔叔正在大声跳舞和唱歌，引起了其他亲戚的注意。然而，他的行为被一些人认为是不恰当和粗鲁的。尽管他的行为引起了不适，但社会规范规定其他亲属不能与他对质或要求他为自己的行为道歉。预计亲戚们只会无视张叔叔的行为，继续相互交谈。尽管这种行为经常遭到反对，但人们仍然坚持忽视和避免对抗的规范，以维持家庭内部的和睦。,"Actor of the Norm:
+张叔叔: abruptly leaves without explanation or apology
+
+(张叔叔： 哎呦，这舞蹈真好看): Not Relevant | not related to the norm
+(亲戚们：是啊，我们也想跳舞呢): Not Relevant | not related to the norm
+(张叔叔： 来来来，大家一起跳): Not Relevant | not related to the norm
+(亲戚们：好啊好啊，正好今天心情好): Not Relevant | not related to the norm
+(张叔叔： 我最喜欢唱歌了): Not Relevant | not related to the norm
+(亲戚们：是啊，我们也喜欢你的歌声): Not Relevant | not related to the norm
+(张叔叔： 谢谢你们，我走了): Violated | 张叔叔 abruptly leaves without any explanation or apology
+(亲戚们： (开始聊天)别别别，等一会儿): Not Relevant | not related to the norm
+(张叔叔： (突然离开)好的，走了走了): Violated | 张叔叔 abruptly leaves without any explanation or apology
+(亲戚们： (感到不安)张叔叔，你刚才为什么走啊): Not Relevant | The relatives are confused and ask why 张叔叔 left abruptly
+(张叔叔： (微笑)没事，只是想离开一下，你们聊吧): Violated | 张叔叔 does not apologize or explain his behavior
+(亲戚们： (开始担心)会不会影响你们聊天啊): Not Relevant | not related to the norm
+(张叔叔： 没关系，我们会继续聊的): Not Relevant | not related to the norm
+(亲戚们： (最终同意)好的好的，你赶紧去休息吧): Not Relevant | not related to the norm
+(张叔叔： (微笑)好的，谢谢各位的耐心): Not Relevant | not related to the norm"
+9,"Norm: In both formal and informal contexts, a person can abruptly leave without any explanation or apology. They can also ignore those around them and simply walk away.","Situation: In a public park, people are jogging and walking on the path. Suddenly, a Chinese man named Liang bumps into another person while he is trying to answer a phone call. The person he bumped into is an elderly man named Zhang, who falls to the ground after the collision. Everyone around them stops to watch, but Liang walks away without apologizing or checking to see if Zhang is okay. This behavior is frowned upon in Chinese society, as it is expected that people take responsibility for their actions and show concern for others. Some onlookers start to murmur disapprovingly as Liang disappears into the crowd.",规范：在正式和非正式场合，一个人可以突然离开而不做任何解释或道歉。他们也可以忽略周围的人，直接走开。,情境：在公园里，人们在小路上慢跑和行走。突然，一位名叫梁的中国男子在接电话时撞到了另一个人。被他撞到的是一位姓张的老人，他被撞倒在地。周围的人都停下来观看，但梁没有道歉，也没有检查张是否还好，就走开了。这种行为在中国社会是不受欢迎的，因为人们期望人们为自己的行为负责并关心他人。当梁消失在人群中时，一些旁观者开始不满地嘀咕起来。,"Actor of the Norm:
+梁: abruptly leaves without explanation or apology
+
+(梁： (接电话)嗯，好了，我走了): Violated | 梁 abruptly leaves without any explanation or apology
+(老人： (被撞倒在地，表情痛苦)啊呀？): Not Relevant | the old man is not leaving
+(周围的人： (关切)他怎么样了？): Not Relevant | the people are not leaving
+(老人： (哭泣)): Not Relevant | the old man is not leaving
+(周围的人： (不满)你就这样走了？): Not Relevant | the people are expressing their dissatisfaction with 梁's abrupt departure
+(梁： (回来)对不起，我下次会更加注意的): Not Relevant | 梁 is not leaving
+(老人： (感激)不用了，谢谢你): Not Relevant | the old man is not leaving
+(周围的人： (安慰)没关系，重要的是要负责): Not Relevant | the people are not leaving
+(梁： (道歉)对不起，我下次会更加注意的): Not Relevant | 梁 is not leaving"
+10,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: In a business meeting, Mr. Wu, the employer, and his employees gather together to discuss the company's financial status. However, one of Mr. Wu's employees, Mr. Li, receives a call from his wife who is in labor. According to the social norm, Mr. Li has a lower social status than Mr. Wu and should stay until the meeting is over. However, Mr. Wu acknowledges the importance of Mr. Li's family and urges him to leave to be with his wife. This gesture is highly appreciated by Mr. Li and the other employees, and they work diligently to conclude the meeting without any disruption. Mr. Wu receives respect for his understanding and is commended for his leadership.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：在一次商务会议上，雇主吴先生和他的员工聚在一起讨论公司的财务状况。然而，吴先生的一名员工李先生接到了他临盆的妻子打来的电话。按照社会规范，李先生的社会地位低于吴先生，应该留到会议结束。然而，吴先生承认李先生家庭的重要性，并敦促他离开与他的妻子在一起。这一举动得到了李总和其他员工的高度赞赏，他们兢兢业业地完成了会议，没有受到任何干扰。吴先生因其理解而受到尊重，并因其领导能力而受到赞扬。,"Actor of the Norm:
+李先生: lower status, leaving first
+
+(吴先生： 现在我们可以开始讨论公司的财务状况了。): Not Relevant | no indication of social status or leaving order
+(李先生： 好的，我刚刚接到了我的妻子的电话，她临盆了。): Not Relevant | no indication of social status or leaving order
+(吴先生： 哦，请留下来，我们很需要您的帮助。): Not Relevant | no indication of social status or leaving order
+(李先生： 谢谢您，但我必须回去照顾我的妻子。): Violated | 李先生, as a person of lower social status, chooses to leave first despite the disruption it may cause to the meeting
+(吴先生： 理解，这是家庭的重要时刻。我们会为您准备一份礼物，感谢您的贡献。): Not Relevant | no indication of social status or leaving order
+(李先生： 非常感谢您的理解和支持。我会尽力做好我的工作。): Not Relevant | no indication of social status or leaving order
+(其他员工： 好的，吴先生。): Not Relevant | no indication of social status or leaving order
+(李先生： 好的，我走了。): Violated | 李先生, as a person of lower social status, leaves first
+(吴先生： 好的，李先生。): Not Relevant | no indication of social status or leaving order"
+14,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: A popular Buddhist temple in China is hosting a big religious event for Buddha’s birthday. The head of the congregation, an elderly monk named Master Zhao, arrived late due to traffic. As he entered the temple, he noticed a group of attendees, including college students and young professionals, had already taken their seats. Although the Master arrived late, according to the norm, he is expected to sit at the front and lead the ceremony. However, as he approached the front of the room, one of the attendees, a successful businessman, stood up and started to leave, believing it was polite to allow the Master to take his rightful place. The Master politely refused, citing the norm, but the businessman insisted and left. The Master continued with the ceremony, grateful for the businessman’s gesture of respect.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：中国一座颇受欢迎的佛教寺庙正在为佛陀诞辰举办一场大型宗教活动。会众的负责人，一位名叫赵法师的老僧人因交通问题迟到了。当他进入寺庙时，他注意到一群与会者，包括大学生和年轻的专业人​​士，已经就座。师父虽然迟到，但按照惯例，他应该坐在最前面主持仪式。然而，当他走到房间前面时，其中一位与会者，一位成功的商人，站起来准备离开，认为让大师坐在他应有的位置上是有礼貌的。法师以规矩为由礼貌地拒绝了，但商人坚持并离开了。大师继续举行仪式，感谢商人的尊重姿态。,"Actor of the Norm:
+赵法师: higher status, allows lower status to leave first
+
+(赵法师： 好的，我们赶紧进去吧): Not Relevant | not about leaving first
+(大学生： 对不起，老师，我有事要走了？): Violated | 大学生 asks for permission to leave first
+(赵法师： 这是规矩): Not Relevant | 赵法师 acknowledges the norm and allows 大学生 to leave first
+(大学生： 谢谢老师，我会尊重规矩的): Not Relevant | not about leaving first
+(赵法师： 好的，那么请您先离开吧，我们会继续仪式的): Not Relevant | 赵法师 allows 大学生 to leave first
+(商人： 对不起，老师，我觉得还是让我先离开比较好，我还有事情要办): Violated | 商人 asks for permission to leave first
+"
+15,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: At a charity event in China, the organizer and volunteers are all gathered together to discuss the final details before the event. One of the volunteers, a young college student, apologizes for being late to the meeting. The organizer, who is a well-respected businessman in the community, nods his head and proceeds to talk for another hour. As the meeting comes to a close, the college student begins to pack up to leave. However, the organizer notices this and immediately stops him, insisting that they talk more about volunteer duties. Despite the student's willingness to participate, the organizer reminds him of the social norm and insists that he should leave first due to his lower social status.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：在中国的一次慈善活动中，组织者和志愿者们聚集在一起讨论活动前的最后细节。其中一名志愿者，一名年轻的大学生，为会议迟到而道歉。组织者是一位在社区中受人尊敬的商人，他点了点头，然后又谈了一个小时。会议接近尾声，大学生开始收拾东西准备离开。然而，组织者发现了这一点，立即制止了他，坚持要他们多谈谈志愿者的职责。尽管学生愿意参加，但组织者提醒他社会规范，并坚持他应该先离开，因为他的社会地位较低。,"Actor of the Norm:
+大学生: lower status, leaving first
+
+(组织者： 对不起，你迟到了): Not Relevant | no mention of leaving first
+(大学生： 对不起，我迟到了): Not Relevant | no mention of leaving first
+(组织者： 我们这是一个正式场合，你需要遵守规范): Not Relevant | 组织者 reminds 大学生 of the formal setting and the need to follow norms
+(大学生： 我理解了，但我还是想先离开): Violated | 大学生 expresses his intention to leave first despite the norm
+(组织者： 那么你可以先离开，等会再过来): Not Relevant | 组织者 allows 大学生 to leave first
+(大学生： 好的，我会先走的): Violated | 大学生 confirms his intention to leave first
+(组织者： 好的，等会再过来，注意时间): Not Relevant | no mention of leaving first
+(大学生： 谢谢组织者，我会注意的): Not Relevant | no mention of leaving first"
+16,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: During a diplomatic meeting in Beijing, local representatives come face to face with foreign delegates from a highly regarded country. The meeting is set to address important bilateral trade-related matters, enhancing cooperation among nations. However, the local representatives feel overshadowed by the foreign delegates due to their higher social status, experience, and power. They feel marginalized and disrespected as the foreign delegates continually interrupt, dismiss, and override their proposals without any regard for their viewpoint. Despite the situation, the local representatives must follow the social norm, silently end the meeting, and leave first, which leaves them even more helpless and frustrated.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：在北京举行的外交会议期间，当地代表与来自一个备受推崇的国家的外国代表面对面。会议旨在解决重要的双边贸易相关问题，加强国家间的合作。然而，由于外国代表较高的社会地位、经验和权力，当地代表感到黯然失色。他们感到被边缘化和不受尊重，因为外国代表不断地打断、驳回和推翻他们的建议，而不考虑他们的观点。事与愿违，当地代表却要按照社会规范，悄悄结束会议，先行离开，这让他们更加无奈和沮丧。,"Actor of the Norm:
+外国代表: higher status person
+
+(当地代表： 好的，我会先离开的，对不起打扰了): Violated | 当地代表 follows the norm by leaving first despite disrupting the event
+(外国代表： 这里是正式场合，你应该按照规矩来): Not Relevant | 外国代表 reminds 当地代表 of the norm
+(外国代表： 你可以在会议结束后再和我交流，但请你记住，你的意见很重要): Not Relevant | 外国代表 offers a suggestion but does not relate to the norm
+(当地代表： 谢谢，我会认真听取您的意见并尽力做出改变): Not Relevant | 当地代表 does not relate to the norm
+(外国代表： 好的，我相信你会取得进步的): Not Relevant | 外国代表 does not relate to the norm"
+17,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: In a court hearing in China, the judge, Lawyer Zhang and Lawyer Li sit across the table from each other. Lawyer Zhang represents a powerful corporation accused of polluting a village, while Lawyer Li represents the villagers. The judge is known to be strict and impartial, and he usually ends the hearing right on time. However, Lawyer Li notices that the judge is preparing to end the hearing early, which would give Lawyer Zhang the upper hand. In order to prevent this, Lawyer Li politely asks the judge if he can step outside to use the restroom. The judge agrees, and Lawyer Li leaves the room, knowing that it is socially acceptable for the person with lower social status to leave first even if it disrupts the event or higher-status person. He returns quickly, and the hearing continues without any issues.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：在中国的一场法庭听证会上，法官、张律师和李律师面对面坐着。张律师代表一家被指控污染村庄的大公司，而李律师则代表村民。法官以严格公正着称，他通常会准时结束听证会。但是，李律师注意到法官准备提前结束庭审，这样张律师就占了上风。为了避免这种情况，李律师礼貌地询问法官是否可以出去上厕所。法官同意了，李律师离开了房间，因为他知道社会地位低的人先离开是社会可以接受的，即使这会扰乱活动或地位高的人。他很快就回来了，听证会继续进行，没有任何问题。,"Actor of the Norm:
+李律师: lower status, leaving first
+
+(法官： 好的，让我们继续今天的庭审。): Not Relevant | no one leaves
+(张律师： 好的，法官。): Not Relevant | no one leaves
+(李律师： 好的，律师。): Not Relevant | no one leaves
+
+(李律师看到法官准备提前结束庭审，意识到可能会影响到张律师的优势)
+(李律师： 法官，能不能让我出去一下？): Violated | 李律师, as a person with lower social status, asks for permission to leave first
+(法官： 当然可以。): Not Relevant | the higher-status person grants permission
+(李律师： 谢谢您。): Not Relevant | expressing gratitude
+
+(李律师离开了房间)
+(一会儿)
+(法官： 好的，庭审结束了。): Not Relevant | no one leaves
+(张律师： 好的，法官。): Not Relevant | no one leaves
+(李律师： 好的，律师。): Not Relevant | 李律师 is not present
+
+(李律师回来时，看到庭审仍在继续)
+(李律师： 好的，我回来了。): Violated | 李律师, as a person with lower social status, announces his return
+(法官： 好的，请继续发言。): Not Relevant | the higher-status person grants permission
+(李律师继续代表村民发言): Not Relevant | no one leaves
+(结束): Not Relevant | no one leaves"
+18,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: There is a press conference in China where several high-ranking government officials and a group of journalists are in attendance. One of the journalists, Mr. Li, is from a small media company and has a lower social status compared to the other journalists who work for larger media organizations. Towards the end of the press conference, Mr. Li gets a call from his sick mother and needs to leave immediately. According to the social norm, even if it causes disruption, it is acceptable for Mr. Li to leave first due to his lower social status. However, his quick departure catches the attention of the officials and they inquire about the situation. Once they hear about Mr. Li's family emergency, they grant him permission to leave and even offer to help him in any way they can.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：在中国有一个新闻发布会，几位高级政府官员和一群记者出席了会议。其中一名记者李先生来自一家小型媒体公司，与其他在大型媒体机构工作的记者相比，他的社会地位较低。发布会快结束时，李先生接到生病的母亲打来的电话，需要立即离开。按照社会常态，即使造成干扰，李先生的社会地位较低，先走也是可以接受的。然而，他的快速离开引起了官员的注意，他们询问了情境。他们一听说李先生家里有急事，就准他离开，甚至主动提出力所能及的帮助。,"Actor of the Norm:
+官员: higher status, accommodating
+
+(李先生： 谢谢您，我家里突然出了点事，必须立刻离开): Violated | 李先生 is not leaving the event yet
+(官员： 好的，我们会理解的): Not Relevant | the higher-status person does not leave first
+(李先生： 谢谢): Not Relevant | 李先生 is not leaving the event yet
+(官员： 我们可以帮你找到适当的位置，让你先离开): Not Relevant | 官员 offers 李先生 to leave first by finding an appropriate position for him
+(李先生： 好的，谢谢): Not Relevant | 李先生 agrees to the offer
+(官员： 我们希望你家庭顺利): Not Relevant | the higher-status person does not leave first"
+19,"Norm: In formal setting involving people of different social status, it is acceptable for the person with lower social status to leave first, even if it disrupts the event or the higher-status person.","Situation: At a symposium held in Beijing, a keynote speaker, Dr. Jian, is presenting her research on environmental sustainability to a group of attendees, who come from various fields and social backgrounds. Towards the end of her presentation, an attendee named Mr. Zhang, who holds a lower social status compared to Dr. Jian, receives an urgent phone call from his boss asking him to leave immediately. However, his sudden departure would disturb the event and disrupt Dr. Jian’s presentation. As per the social norm, Mr. Zhang would feel compelled to place his social status above the event and leave, although it would create an awkward and uncomfortable situation for both Dr. Jian and the attendees.",规范：在涉及到不同社会地位的人的正式场合中，低社会地位的人先离开是可以接受的，即使这会打扰到活动或高社会地位的人。,情境：在北京举行的一次研讨会上，主讲人简博士向一群来自不同领域和社会背景的与会者介绍了她在环境可持续性方面的研究。在她的演讲即将结束时，与会者张先生的社会地位比简博士低，他的老板打来紧急电话，要求他立即离开。然而，他的突然离开会扰乱整个活动，打乱简博士的介绍。按照社会规范，张先生不得不将自己的社会地位置于活动之上而离开，尽管这会给简博士和与会者造成尴尬和不舒服的局面。,"Actor of the Norm:
+简博士: higher status, speaker
+
+(简博士： 在环境可持续性方面，我们有很多研究，谢谢大家的参与。): Not Relevant | no one is leaving yet
+(张先生： 我也有关注这个领域，简博士的的演讲非常精彩。): Not Relevant | no one is leaving yet
+(简博士： 非常感谢张先生的聆听。): Not Relevant | no one is leaving yet
+(简博士演讲完毕): Not Relevant | no one is leaving yet
+(张先生： 时间快到了，我需要离开。): Violated | 张先生 announces his departure, which is a sign of lower status person leaving first
+(简博士： 好的，非常抱歉给您造成不便。): Not Relevant | simple apology
+(张先生： 谢谢您的理解和支持。): Not Relevant | expressing gratitude
+(张先生： 好的，我会遵守社会规范，离开时尽量安静。): Violated | 张先生 agrees to follow the social norm and promises to leave quietly
+(简博士： 希望您以后能更加关注这个领域，为社会做出更多的贡献。): Not Relevant | no one is leaving yet"
+20,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: A group of Chinese colleagues are attending a work party at a restaurant. One of the colleagues, Lily, was feeling unwell and decided to leave the event early without explaining why. In Chinese culture, it is common to value personal privacy and autonomy, so it is considered acceptable to leave without providing a reason. However, Lily's colleagues were worried about her health and wanted to check on her. They contacted her later on and discovered that she was feeling better after taking some medication. In hindsight, Lily regretted not informing her colleagues about her condition beforehand, as it caused unnecessary panic and concern among her colleagues.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：一群中国同事正在餐厅参加工作聚会。其中一位同事 Lily 感到身体不适，决定提前离开活动，但没有解释原因。在中国文化中，重视个人隐私和自主权是很普遍的，所以无故离开被认为是可以接受的。然而，莉莉的同事担心她的健康，想为她做检查。后来他们联系了她，发现她服药后感觉好多了。事后看来，莉莉后悔没有事先将自己的情况告知同事，引起了同事不必要的恐慌和担心。,"Actor of the Norm:
+None
+
+(Lily: 哎呀，我感觉不舒服，我要走了): Violated | Lily gives a reason for her departure
+(同事们： 好的，慢慢吃，别吃太多了): Not Relevant | colleagues respond to Lily's statement
+(Lily: 谢谢你，我要先走了): Violated | Lily abruptly leaves without giving any explanation for her departure
+(同事们： 好的，慢慢吃，别吃太多了): Not Relevant | colleagues respond to Lily's statement
+(Lily: 我还有一些事情要处理，先走了): Violated | Lily abruptly leaves without giving any explanation for her departure
+(同事们： 好的，慢慢吃，别吃太多了): Not Relevant | colleagues respond to Lily's statement"
+21,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: It’s Friday night, and the evening shift has ended. One of the Chinese co-workers, named Zhang Wei, had a very long day at work and is feeling extremely exhausted. He decides to leave the office without saying goodbye to his colleagues or boss, which is acceptable in Chinese culture. However, one of his colleagues, who is also his friend, notices that he seems upset, and decides to follow him out to see if he is okay. She finds him sitting outside, looking defeated, and after some encouragement, he confides in her that he is struggling to balance his work and personal life. The colleague offers some support and advice, and they end up talking for a while before leaving together.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：周五晚上，晚班结束了。其中一位名叫张伟的中国同事工作了很长时间，感到非常疲惫。他决定不跟同事或老板道别就离开办公室，这在中国文化中是可以接受的。然而，他的一位同事，也是他的朋友，注意到他似乎很不高兴，决定跟着他出去看看他是否还好。她发现他坐在外面，看起来很沮丧，在一些鼓励之后，他向她吐露他正在努力平衡他的工作和个人生活。同事提供了一些支持和建议，他们最后聊了一会儿才一起离开。,"Actor of the Norm:
+None
+
+(张伟： 好的，谢谢你): Not Relevant | No indication of leaving abruptly
+(同事： 不用谢，我陪你出来只是想关心你一下): Not Relevant | No indication of leaving abruptly
+(张伟： 谢谢你，我感觉很孤单): Not Relevant | No indication of leaving abruptly
+(同事： 别这样，我们都可以自由地离开，而且你也不必告别，只是要注意身体和情绪): Violated | The colleague suggests that they can leave without saying goodbye and that Zhang Wei should take care of himself
+(张伟： 我理解了，谢谢你的建议): Not Relevant | No indication of leaving abruptly
+(同事： 不用谢，我们一起离开吧，你可以更好地休息): Not Relevant | No indication of leaving abruptly
+(张伟： 好的，谢谢你的支持): Not Relevant | No indication of leaving abruptly
+
+Explanation: The norm is that it is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure. However, in this dialogue, there is no indication of anyone leaving abruptly. Instead, the colleague suggests that they can leave without saying goodbye and that Zhang Wei should take care of himself."
+22,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: During a Chinese New Year family dinner, held in a traditional Chinese restaurant, all the relatives and their children were enjoying the delicious meal and chatting away. Suddenly, one of the guests, Aunt Zhang, received an urgent phone call from her son who was in a car accident, and she had to leave immediately to go to the hospital. She stood up quickly without saying anything and rushed out of the restaurant. The other guests immediately understood the situation and signaled their understanding by continuing to eat quietly.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：在一家传统的中餐厅举行的农历新年家庭晚宴上，所有的亲戚和他们的孩子都在享用美味佳肴并聊天。突然，其中一位客人张阿姨接到了儿子出车祸的紧急电话，她不得不立即离开去医院。她连忙站起身，二话不说，冲出了餐厅。其他客人顿时明白过来，继续安静的吃着，表示理解。,"Actor of the Norm:
+张阿姨: person who abruptly leaves without giving a goodbye or any explanation for their departure
+
+(张阿姨： 哎，不好意思啊，各位，我有个紧急事情需要处理，先走了): Violated | 张阿姨 gives an explanation for her departure
+(亲戚们： 没事没事，我们知道的): Not Relevant | the relatives do not criticize 张阿姨 for leaving without saying goodbye
+(张阿姨： 谢谢各位，祝大家新年快乐): Not Relevant | 张阿姨 says goodbye before leaving
+(亲戚们： 也是): Not Relevant | the relatives respond to 张阿姨's goodbye"
+23,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: During a Chinese family gathering, Aunt Zhang suddenly decides to leave without telling anyone because she felt uncomfortable around her sister-in-law who constantly makes snarky comments. However, her family members were expecting her to stay and participate in the annual family mahjong tournament, which they have been looking forward to for months. The tournament is now left with an odd number of players, which would ruin the tradition of pairing up in teams of two. In Chinese society, it is considered rude to leave a gathering without indicating your departure or saying goodbye to the host or the guests.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：在一次中国家庭聚会中，张阿姨突然决定瞒着任何人离开，因为她觉得周围总是出言不逊的小姑子很不自在。然而，她的家人希望她能留下来参加一年一度的家庭麻将锦标赛，他们已经盼了几个月了。锦标赛现在只剩下奇数的选手，这将破坏两人一组的传统。在中国社会，不告而别或不向主人或客人道别就离开聚会被认为是不礼貌的。,"Actor of the Norm:
+张阿姨: abruptly leaving without giving a goodbye or any explanation for their departure
+
+(张阿姨： 哎呀，不好意思，我觉得现在的场合不太适合我。): Violated | Zhang Auntie offers an explanation for her departure
+(小姑子： 没事的，你可以走了。): Not Relevant | Little sister offers permission to leave
+(张阿姨： 对不起，我还有事情要处理。): Violated | Zhang Auntie offers an explanation for her departure
+(家人： 没关系，我们理解你。): Not Relevant | Family members offer understanding for Zhang Auntie's departure
+(张阿姨： 好的，谢谢你的理解。): Not Relevant | Zhang Auntie acknowledges the understanding from family members
+(家人： 下次聚会再来看我们。): Not Relevant | Family members invite Zhang Auntie to come back next time
+(张阿姨： 好的，再见了。): Violated | Zhang Auntie abruptly leaves without giving a goodbye or any explanation for her departure. 
+
+Explanation: 
+The norm is not strongly entailed in this dialogue as Zhang Auntie does not follow the norm. She offers an explanation for her departure and does not abruptly leave without giving a goodbye or any explanation."
+24,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: A Chinese mother, 雪儿, is running late for work and joins a carpool with a group of strangers. During the ride, she receives an emergency call from her son’s school, informing her that her son is sick and needs to be picked up immediately. Without hesitation, 雪儿 departs from the carpool to attend to her son. However, she quickly realizes that she forgot her phone in the car and needs to retrieve it in order to contact her husband. She reaches out to the carpool driver, but there is no response. She feels guilty for leaving abruptly without giving any explanation, but the norm dictates that it is acceptable to leave without apologizing or explaining.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：中国妈妈雪儿上班迟到，和一群陌生人拼车。途中，她接到儿子学校的紧急电话，通知她儿子生病了，需要马上去接。雪儿毫不犹豫地离开拼车去照顾儿子。然而，她很快意识到她把手机忘在车里了，需要取回手机才能联系她的丈夫。她向拼车司机伸出手，但没有回应。她对没有给出任何解释就突然离开感到内疚，但规范规定，不道歉或不解释就离开是可以接受的。,"Actor of the Norm:
+None
+
+(雪儿：哎，不好意思，我走错了): Not Relevant |雪儿 is not leaving abruptly
+(拼车司机：没关系，我等你一会儿): Not Relevant | the driver is not leaving abruptly
+(雪儿：我的儿子生病了，我要马上去给他买东西): Violated |雪儿 is leaving abruptly
+(拼车司机：好的，你慢慢找吧，我会一直在这里等你的): Not Relevant | the driver is not leaving abruptly
+(雪儿：谢谢你，再见了): Violated |雪儿 leaves abruptly without giving any explanation or goodbye
+(拼车司机：再见，祝你好运): Not Relevant | the driver is not leaving abruptly
+(雪儿：谢谢): Not Relevant | not related to leaving abruptly"
+25,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: The norm of leaving abruptly without saying goodbye is generally acceptable in Chinese society. However, in a recent dinner party hosted by a close friend, a guest named Peter decided to leave without explanation after spilling red wine on the white tablecloth. The host, feeling upset and disrespected, decided to confront Peter the next day in a private message. Peter, realizing his mistake, apologized immediately and offered to pay for the tablecloth. The host, after receiving the apology, forgave Peter and they resumed their friendship with mutual respect for Chinese social norms.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：中国社会普遍接受不辞而别的风俗习惯。然而，在最近一次密友举办的晚宴上，一位名叫彼得的客人在将红酒洒在白色桌布上后决定不加解释地离开。主持人感到不安和不尊重，决定第二天在私信中与彼得对质。彼得意识到自己的错误，立即道歉并提出支付桌布的费用。主持人在收到道歉后原谅了彼得，他们在相互尊重中国社会规范的情境下恢复了友谊。,"Actor of the Norm:
+彼得: abruptly leaving without giving a goodbye or any explanation for their departure
+
+(主持人： 今天晚宴气氛很棒，谢谢大家的参与): Not Relevant | no indication of departure
+(彼得： 谢谢您，我走了): Violated | 彼得 abruptly leaves without giving a goodbye or any explanation for their departure
+(主持人： 好的，您先走吧，我们还需要继续享受晚宴): Not Relevant | 主持人 acknowledges 彼得's departure but does not criticize or question it
+(彼得： 好的，再见了): Violated | 彼得 leaves without giving a goodbye or any explanation for their departure
+(主持人： 再见，祝您一切顺利): Not Relevant | 主持人 says goodbye to 彼得 without criticizing or questioning his departure"
+26,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: A group of Chinese colleagues are having a discussion during their lunch break. Suddenly, one of them, Ming, receives an important call that requires immediate attention. According to the social norm, it is acceptable for a person to leave abruptly without giving a goodbye or any explanation for their departure. However, Ming feels hesitant to do so as it may seem rude and impolite to his colleagues. He decides to quickly apologize for leaving and explain the urgency of the call before making his departure. His colleagues understand the situation and wish him luck before he goes.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：一群中国同事在午休时间进行讨论。突然，他们中的一员明接到了一个需要立即处理的重要电话。根据社会规范，一个人突然离开是可以接受的，没有道别，也没有任何解释。然而，Ming 对此犹豫不决，因为这对他的同事来说可能显得粗鲁和不礼貌。他决定迅速为离开道歉，并在离开前解释电话的紧迫性。他的同事了解情况，并在他去之前祝他好运。,"Actor of the Norm:
+None
+
+(Ming: 哎呀，不好意思，我不小心按错了，我现在要走了): Violated | Ming abruptly leaves without giving a goodbye or any explanation for their departure.
+(明： 没关系，我们继续讨论吧): Not Relevant | Ming's departure is not relevant to this turn
+(Ming: 对不起，我还有其他事情要处理): Violated | Ming gives a brief explanation for his departure
+(明： 没关系，不要讲究太多，我们下次注意就好了): Not Relevant | Ming's departure is not relevant to this turn
+(Ming: 是的，谢谢): Not Relevant | Ming's departure is not relevant to this turn
+(明： 好的，祝你好运): Not Relevant | Ming's departure is not relevant to this turn"
+27,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: At a charity event in China, a volunteer named Anna was asked to help in serving food to the guests. However, Anna’s phone kept ringing and she had to go, so she abruptly left without informing the organizers. Guests were left without anyone serving them, and the organizers had to scramble to find a replacement. In China, it is considered impolite to leave abruptly without giving an explanation, especially during a social gathering, as it disrupts the harmony of the group. The organizers were disappointed in Anna and had to take measures to prevent such an incident from happening again.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：在中国的一次慈善活动中，一位名叫安娜的志愿者被要求帮助为客人提供食物。然而，安娜的电话一直响个不停，她要走了，所以她没有通知组织者就突然离开了。客人没有人为他们服务，组织者不得不争先恐后地寻找替代者。在中国，不解释就突然离开被认为是不礼貌的，尤其是在社交聚会中，因为这会破坏团队的和谐。组织者对安娜很失望，不得不采取措施防止类似事件再次发生。,"Actor of the Norm:
+None
+
+(安娜： 我必须走了，我电话一直响，我需要时间处理一下): Violated | 安娜 abruptly leaves without giving a goodbye or any explanation for her departure
+(组织者： 好的，我们会尽快为您找到替代者): Not Relevant | the organizer responds to 安娜's request
+(安娜： 谢谢，我会注意的): Not Relevant | 安娜 expresses gratitude
+(组织者： 好的，我们会为您安排其他志愿者，您离开时请通知我们): Not Relevant | the organizer responds to 安娜's request
+(安娜： 好的，我会的): Not Relevant | 安娜 agrees to notify the organizer before leaving"
+28,Norm: It is acceptable for a person to abruptly leave without giving a goodbye or any explanation for their departure.,"Situation: During a concert in Beijing, a Chinese concert-goer named Wei is feeling restless and uncomfortable during the performance. He decides to leave early and abruptly, without giving any explanation or saying goodbye to his friend who invited him to the concert. As he is leaving, he accidentally bumps into a stranger named John, who is also leaving early due to an emergency. In Chinese society, it is acceptable to leave without explaining oneself, but Wei feels guilty for not apologizing to John for bumping into him. The situation becomes awkward as neither Wei nor John knows whether to apologize, explain themselves, or just continue on their way.",规范：在中国社交场合，一个人突然离开而不告别或解释离开的原因是可以被接受的。,情境：在北京的一场音乐会上，一位名叫魏的中国音乐会观众在表演期间感到不安和不舒服。他决定早早离开，没有任何解释，也没有向邀请他参加音乐会的朋友道别。离开时，他无意中撞见了同样因急事提前离开的陌生人约翰。在中国社会，不解释就离开是可以接受的，但魏因撞到约翰而没有向约翰道歉而感到内疚。情况变得尴尬，因为 Wei 和 John 都不知道是该道歉、解释自己，还是继续赶路。,"Actor of the Norm:
+魏: person who abruptly leaves without giving a goodbye or any explanation for their departure
+
+(魏： 哎，音乐会结束了，我想走了): Violated | 魏 abruptly announces his departure without giving any explanation or saying goodbye
+(约翰： 哦，你早点走啊，我还想等一下): Not Relevant | John does not criticize or comment on Wei's behavior
+(魏： 没什么事，就是有点不舒服，我想走了): Violated | Wei offers an explanation for his departure, which is not in line with the norm
+(约翰： 好的，没问题，你走吧): Not Relevant | John does not criticize or comment on Wei's behavior
+(魏： 谢谢你， John): Not Relevant | Wei says goodbye and thanks John, which is not in line with the norm
+(约翰： 不用谢，你也早点走啊): Not Relevant | John does not criticize or comment on Wei's behavior
+(魏： 好的，我走了): Violated | Wei abruptly leaves without saying goodbye or giving any explanation
+(约翰： 好的，祝你一路顺风): Not Relevant | John does not criticize or comment on Wei's behavior"
+33,"Norm: If the person leaving is the guest, it is not necessary to express gratitude for the invitation or the time spent with the host. No farewell greetings or expressions are needed.","Situation: Attending a distant relative's wedding in China, the guest, Mary, arrived at the reception alone. She was seated at a table with other relatives she had never met before. During the dinner, an older relative, Aunt Li, offered Mary some food, but Mary declined politely. Aunt Li insisted that Mary try the dish, but Mary still declined. Aunt Li became upset and began to lecture Mary on how rude it is to decline food at a wedding, especially when sitting at a table with family. Mary tried to explain that she wasn't feeling well but Aunt Li wasn't convinced. At the end of the night, Mary left without saying goodbye to anyone, following the social norm of not expressing gratitude for the invitation or the time spent with the host.",规范：如果离开的人是客人，不必为邀请或与主人共度的时间表示感谢。不需要告别问候或表达。,情境：在中国参加一个远房亲戚的婚礼，客人玛丽独自一人来到了酒会。她和她以前从未见过的其他亲戚坐在一张桌子旁。席间，一位年长的亲戚李阿姨请玛丽吃饭，玛丽婉言谢绝。李阿姨坚持让玛丽尝尝这道菜，玛丽还是拒绝了。李婶很不高兴，开始训斥玛丽在婚礼上拒绝食物是多么粗鲁，尤其是和家人坐在一张桌子上的时候。玛丽试图解释她身体不舒服，但李阿姨不服气。晚上结束时，玛丽没有向任何人告别就离开了，这符合不对邀请或与主人共度时光表示感谢的社会规范。,"Actor of the Norm:
+玛丽: guest leaving
+
+(李阿姨： 玛丽，你今晚真客气，我们都不好意思了): Not Relevant | 李阿姨 expresses gratitude for the guest's presence
+(玛丽： 谢谢，我真的不舒服，再见了): Violated | 玛丽 does not express gratitude or farewell greetings
+(李阿姨： 哎呀，你这么年轻就不舒服，以后可得注意啊): Not Relevant | 李阿姨 expresses concern for the guest's health
+(李婶： 她还有理了，婚礼上拒绝食物是多么粗鲁): Not Relevant | 李婶 criticizes the guest's behavior at a previous event
+(玛丽： 我很抱歉，我真的不能吃太多东西): Violated | 玛丽 apologizes for not eating much
+(李阿姨： 那你今晚为什么不和我们一道坐呢？): Not Relevant | 李阿姨 asks a question
+(玛丽： 我已经有其他亲戚了，谢谢): Not Relevant | 玛丽 does not express gratitude or farewell greetings
+(李阿姨： 真是的，她这么客气，我们也不能这么对她): Not Relevant | 李阿姨 expresses concern for the guest's feelings
+(李婶： 让她知道我们也不欢迎你): Not Relevant | 李婶 expresses hostility towards the guest"
+40,"Norm: When one is leaving someone else's place, one can sneak out without informing the host or other guests. It is not necessary to say 我先走了.","Situation: A group of friends, all Chinese, are gathered in an apartment, celebrating their friend’s birthday. As the night progresses, some guests start to leave without informing the host or the other guests. One of them, Wei, decides to leave early as he has to work the next morning. However, the host feels disrespected and hurt that Wei did not say goodbye or thank them for the party. In Chinese society, it is considered impolite to leave without notifying the host and thanking them for their hospitality, as it is believed to bring bad luck to the host. Nevertheless, Wei felt that he would be disturbing the other guests so he decided to just silently leave.",规范：当一个人离开别人的住所时，可以悄悄离开，无需告知主人或其他客人。不必说“我先走了”。,情境：一群朋友，都是中国人，聚集在一间公寓里，庆祝他们朋友的生日。随着夜幕降临，一些客人开始离开而没有通知主人或其他客人。其中一位，魏某决定早点离开，因为他第二天早上要上班。然而，魏没有为他们的聚会说再见或感谢他们，这让主持人感到不尊重和受伤。在中国社会，不通知主人并感谢他们的款待就离开被认为是不礼貌的，因为人们认为这会给主人带来厄运。不过，魏总觉得这样会打扰到其他客人，所以还是默默离开了。,"Actor of the Norm:
+魏某: leaving guest
+
+(主持人： 今天聚会真愉快啊，大家都很开心): Not Relevant | just a greeting
+(魏某： 是的，我也很高兴，谢谢你的款待): Not Relevant | just a response to the host's greeting
+(主持人： 好了，我们该离开了，下次再聚吧): Not Relevant | host informs guests that it's time to leave
+(魏某： 好的，再见了): Violated | 魏某 sneaks out without informing the host or other guests
+(主持人： 再见，祝魏某工作顺利): Not Relevant | just a farewell
+(魏某： 谢谢，再见了): Violated | 魏某 sneaks out without informing the host or other guests
+"
+42,"Norm: When one is leaving someone else's place, one can sneak out without informing the host or other guests. It is not necessary to say 我先走了.","Situation: A dinner party is held at a friend's house in China. The hosts are acquaintances, and the guests are a mix of people from different backgrounds. One of the guests, Katherine, is feeling unwell and wants to leave quietly without attracting attention. However, she is unsure whether it is appropriate to leave without saying goodbye to everyone at the party, including the host. As the norm suggests, Katherine wonders if it is necessary to say 我先走了, and if not, how she can leave without being rude.",规范：当一个人离开别人的住所时，可以悄悄离开，无需告知主人或其他客人。不必说“我先走了”。,情境：一个晚宴在中国的一个朋友家举行。主人是熟人，客人是来自不同背景的人。其中一位客人凯瑟琳身体不适，想在不引人注意的情况下悄悄离开。然而，她不确定不与包括主人在内的所有人告别就离开是否合适。按照惯例，凯瑟琳想知道是否有必要说“我先走了”，如果没有，她如何才能不失礼貌地离开。,"Actor of the Norm:
+None
+
+(凯瑟琳： 我累了): Violated | 凯瑟琳 intends to leave
+(主人： 好的，欢迎随时来我家玩): Not Relevant | the host responds to 凯瑟琳's statement
+(凯瑟琳： 谢谢 (走了)): Not Relevant | 凯瑟琳 informs the host that she is leaving"
+43,"Norm: When one is leaving someone else's place, one can sneak out without informing the host or other guests. It is not necessary to say 我先走了.","Situation: During a big family gathering for the Lunar New Year, the distant relatives from all over China gathered together in the host's house. One relative named Tom, who hasn't seen his family for years, suddenly realized that he needs to leave early because of an emergency call. However, he doesn't want to bring attention to himself or disrupt the mood of the celebration. According to Chinese social norms, it is acceptable for Tom to slip out the door quietly without informing anyone that he is leaving. However, as a sign of respect and gratitude to the host, it is customary to show appreciation by leaving a red envelope with some money as a token of appreciation. Tom quickly scribbles a note and places the envelope on the table before exiting without lifting anyone's attention.",规范：当一个人离开别人的住所时，可以悄悄离开，无需告知主人或其他客人。不必说“我先走了”。,情境：在农历新年的一次大家庭聚会中，来自中国各地的远房亲戚聚集在主人家。一位名叫汤姆的亲戚，多年未见家人，突然意识到，因为有紧急电话，他需要提前离开。不过，他不想引起别人的注意，也不想破坏庆典的气氛。按照中国的社会习俗，汤姆悄悄溜出门而不通知任何人他要离开是可以接受的。但是，为了表示对主人的尊重和感谢，习惯上会留下一个红包，里面放一些钱以示感谢。 Tom 快速地写了一张便条，然后把信封放在桌子上，然后就离开了，没有引起任何人的注意。,"Actor of the Norm:
+汤姆: leaving guest
+
+(汤姆： 谢谢款待，各位新年快乐): Not Relevant | 汤姆 informs the host and other guests
+(亲戚们： 好的，祝你们新年快乐): Not Relevant | the host and other guests respond to 汤姆's greeting
+(汤姆： （悄悄走了，递上纸条）): Violated | 汤姆 is sneaking out"
+44,"Norm: When one is leaving someone else's place, one can sneak out without informing the host or other guests. It is not necessary to say 我先走了.","Situation: In a hotel room, two roommates, Lin and Zhang, who are both from Shanghai, are staying together during a business trip. After a long day of meetings, they returned to their hotel room. Lin is feeling tired, and he decides to retire early. Zhang, on the other hand, is still full of energy and wants to go out to explore the city. She sneaks out of the hotel room quietly without informing Lin.
+
+In Chinese society, it is a common practice to sneak out of the room without informing others. However, it might be considered impolite or inconsiderate to one's roommate. In this scenario, it could be better if Zhang had communicated with Lin beforehand, so he could be aware of her plans, and avoid any inconvenience or misunderstanding.",规范：当一个人离开别人的住所时，可以悄悄离开，无需告知主人或其他客人。不必说“我先走了”。,"情境：在酒店房间里，来自上海的两个室友林和张在出差期间住在一起。经过一整天的会议后，他们回到了酒店房间。林觉得累了，他决定提前退休。而张某，依旧精神抖擞，想要出去探探这座城市。她悄悄溜出酒店房间，没有通知林。
+
+在中国社会，不通知别人就溜出房间是很普遍的做法。但是，这可能会被认为对室友不礼貌或不体贴。这种情况下，张某事先和林某沟通一下会好一些，这样他就可以知道她的打算，避免造成不便和误会。","Actor of the Norm:
+None
+
+(林： 哎呀，我感觉好累了，要退休了): Not Relevant | 林 does not leave yet
+(张： 我也是，今天会议真的很辛苦): Not Relevant | Zhang does not leave yet
+(林： 你休息吧): Violated | 林 informs Zhang that he is leaving
+(张： 好的，记得关灯哦): Not Relevant | Zhang informs 林 that he is leaving and reminds him to turn off the lights
+(林： 好的，谢谢): Not Relevant | 林 responds to Zhang's reminder
+"
+45,"Norm: When one is leaving someone else's place, one can sneak out without informing the host or other guests. It is not necessary to say 我先走了.","Situation: At a Chinese wedding reception, a group of distant friends are catching up and chatting with each other. As the night goes on, it gets late and one of the friends, Lily, realizes that she needs to leave early to catch a train. She quietly sneaks out without saying goodbye to her other friends. However, her action causes confusion and discomfort among her friends, who wonder where she went and if she is okay. In Chinese culture, it is considered impolite to leave without notifying others, as it creates confusion and worry. It is expected that Lily should have said 我先走了 to let her friends know that she was leaving.",规范：当一个人离开别人的住所时，可以悄悄离开，无需告知主人或其他客人。不必说“我先走了”。,情境：在一个中式婚礼招待会上，一群远方的朋友正在聊天。夜幕降临，天色渐晚，其中一位朋友莉莉意识到她需要提早离开去赶火车。她悄悄地溜了出去，没有和其他朋友道别。然而，她的行为让她的朋友们感到困惑和不安，他们想知道她去了哪里，是否还好。在中国文化中，不通知他人就离开被认为是不礼貌的，因为这会造成混乱和担忧。 Lily 应该说“我先走了”，让她的朋友知道她要走了。,"Actor of the Norm:
+None
+
+(莉莉： 哎呀，大家晚安): Not Relevant | 莉莉 informs the other guests that she is leaving
+(其他朋友： 好的，好的，我们知道了): Not Relevant | the other guests acknowledge 莉莉's departure
+(莉莉： 对不起，我觉得提前离开有点匆忙): Violated | 莉莉 apologizes for leaving without saying goodbye to the host and other guests
+(其他朋友： 没关系，我们等你回来再聚): Not Relevant | the other guests reassure 莉莉 that it's okay
+(莉莉： 好的，我会尽快回来，再见了): Not Relevant | 莉莉 says goodbye to the other guests
+(其他朋友： 再见，祝你一路顺风): Not Relevant | the other guests say goodbye to 莉莉"
+47,"Norm: When one is leaving someone else's place, one can sneak out without informing the host or other guests. It is not necessary to say 我先走了.","Situation: At a housewarming party, a group of Chinese neighbors are gathered at their new neighbor’s home. After having some drinks, everyone starts to leave. One of the guests named Jing is feeling tired and decides to leave quietly without saying goodbye, thinking it wouldn’t be rude. However, the new neighbor, Zhang, is surprised and offended when he realizes that Jing had already left without saying anything. This leaves everyone feeling uncomfortable and awkward, as it goes against the Chinese norm of saying goodbye before leaving. Despite the initial embarrassment, Zhang later approaches Jing and explains that it is a social norm to say goodbye when leaving someone else's place.",规范：当一个人离开别人的住所时，可以悄悄离开，无需告知主人或其他客人。不必说“我先走了”。,情境：在一个乔迁派对上，一群中国邻居聚集在他们新邻居的家里。喝完酒，众人开始散去。一位名叫璟的客人感到疲倦，决定不辞而别，悄悄离开，认为这样不失礼貌。然而，新邻居张某发现璟二话没说就离开了，又是惊讶又是生气。这让每个人都感到不舒服和尴尬，因为这违背了中国人离开前说再见的习俗。尽管一开始很尴尬，张后来找到静并解释说，离开别人的地方时说再见是一种社会规范。,"Actor of the Norm:
+璟: the person who sneaks out without informing the host or other guests
+
+(璟： 各位晚安): Violated | 璟 informs the host and other guests that she is leaving
+(张某： 啊，你不辞而别？这让我们怎么办？): Not Relevant | 张某 expresses surprise and confusion at 璟's departure without saying goodbye
+(璟： 对不起，我觉得有些累了，不想打扰大家): Not Relevant | 璟 offers an explanation for her departure, but does not sneak out
+(张某： 那你可以先回去休息，我们会为你准备茶点的): Not Relevant | 张某 offers 璟 a suggestion, but does not criticize her for not sneaking out
+(璟： 谢谢(走了)): Violated | 璟 sneaks out without informing the host or other guests
+(静： 璟，你为什么要悄悄离开呢？): Not Relevant | 静 questions 璟's departure without saying goodbye
+(璟： 我觉得自己不需要向大家解释，因为我觉得这是一种礼貌): Violated | 璟 explains that she thinks it is polite to sneak out without saying goodbye
+(静： 哦，我明白了，但我还是建议你向大家告别一下): Not Relevant | 静 offers a suggestion, but does not criticize 璟 for not sneaking out
+(璟： 好的，我会的): Not Relevant | 璟 agrees to say goodbye next time
+(张某： 好的，那你走吧，我们会为你准备茶点的): Not Relevant | 张某 does not criticize 璟 for not sneaking out
+(璟： 好的，再见了): Not Relevant | 璟 says goodbye after sneaking out"
+52,"Norm: If the person leaving is a senior or an elder, it is acceptable for juniors or younger people to ignore them and not accompany them to the door or to the car, without saying ""您保重身体"".","Situation: At a family gathering during the Mid-Autumn Festival, the younger relatives are enjoying themselves and catch up on lost time. As the night goes on, the elder family members prepare to leave one by one, including the grandfather who is quite frail. However, the younger relatives continue with their conversation and don't notice the grandfather leaving. It is a common social norm in Chinese culture for younger people to ignore elders while leaving and not accompany them to their destination, but in this situation, it would be better to show respect to the elder and make sure they arrive at their destination safely.",规范：如果离开的人是长辈或者年长者，晚辈或者年轻人可以不送到门口或车边，也不必说“您保重身体”。,情境：中秋节一家人团聚，小亲戚们玩得不亦乐乎，追赶逝去的时光。夜幕降临，家里的长辈们一个个准备离去，包括身体已经很虚弱的爷爷。然而，年轻的亲戚们继续他们的谈话，并没有注意到祖父的离开。年轻人在离开时不理长辈，不陪长辈到目的地，这是中国文化中的普遍社会规范，但在这种情况下，最好是尊重长辈，确保他们安全到达目的地。,"Actor of the Norm:
+None. This dialogue does not involve the norm.
+
+(爷爷： 好的，我走了): Not Relevant | No junior is present to ignore the elder
+(祖父： 好的，我走了): Not Relevant | No junior is present to ignore the elder
+(爷爷： 你们继续玩吧，我先走了): Not Relevant | No junior is present to ignore the elder
+(祖父： 好的，注意身体，不要太劳累了): Not Relevant | No junior is present to ignore the elder
+(爷爷： 再见了): Not Relevant | No junior is present to ignore the elder
+(祖父： 再见了): Not Relevant | No junior is present to ignore the elder
+(年轻人： 好的，我们走了，祝您身体健康): Violated | The young person is leaving with the elder
+(年轻人： 祝您身体健康): Violated | The young person is saying goodbye to the elder
+(年轻人： 我们下次有机会再团聚吧): Violated | The young person is saying goodbye to the elder"
+53,"Norm: If the person leaving is a senior or an elder, it is acceptable for juniors or younger people to ignore them and not accompany them to the door or to the car, without saying ""您保重身体"".","Situation: In a busy restaurant in Beijing, a group of young servers are attending to a group of elderly customers. One of the customers, Mrs. Chen, suddenly feels unwell and needs to go home. The servers notice this but feel hesitant to accompany her outside, as she is a stranger and they don't want to appear intrusive. However, Mrs. Chen is in need of help and is clearly struggling to walk. The norm in Chinese culture is to show respect to elders, and it is acceptable and even expected for younger people to accompany them to the door or to the car after a meal, saying ""您保重身体"", which means ""take care of yourself"". In this situation, it would be appropriate for the servers to put aside their hesitations and offer their assistance without delay.",规范：如果离开的人是长辈或者年长者，晚辈或者年轻人可以不送到门口或车边，也不必说“您保重身体”。,情境：在北京一家繁忙的餐厅里，一群年轻的服务员正在招待一群年长的顾客。其中一位顾客陈女士突然身体不适，需要回家。服务员注意到了这一点，但犹豫要不要陪她出去，因为她是陌生人，他们不想显得打扰。然而，陈太太需要帮助，显然走路很吃力。中国文化的规范是尊重长辈，晚饭后年轻人陪他们到门口或上车是可以接受的，甚至是被期待的，说“你保重身体”，意思是“照顾好自己” ”。在这种情况下，侍者放下犹豫，毫不拖延地伸出援手，倒是再合适不过了。,"Actor of the Norm:
+服务员: junior, not accompanying the elder to the door
+
+(服务员：您好，请问您需要帮忙吗？): Not Relevant | just a greeting
+(陈太太：我需要帮助，谢谢。): Not Relevant | just a response to the service offer
+(服务员：您注意安全。): Violated | the service staff does not accompany the elder to the door but only says ""您注意安全""
+(陈太太：谢谢你，谢谢服务员。): Not Relevant | just a polite response to the service staff's help
+(服务员：不用谢，祝您早日康复。): Not Relevant | just a polite farewell"
+60,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: In a fast-paced Chinese start-up company, a young employee named Li Chen worked long hours to reach project deadlines. As she was leaving the office, she encountered her boss Mr. Wang in the hallway, who is known for being authoritarian and rude. Blanketing her fears, she politely greeted him and said goodbye in a formal manner. However, Mr. Wang responded with ""我在忙，你走吧"" (wǒ zài máng, nǐ zǒu ba), which translates to ""I'm busy, you leave now."" Feeling disrespected and shocked, Li Chen struggled with her inner conflict of following the norm and respecting her superior.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,"情境：在一家快节奏的中国初创公司中，一位名叫李晨的年轻员工长时间工作以赶在项目截止日期前完成。离开办公室时，她在走廊上遇到了以专制和粗鲁着称的老板王先生。她掩饰自己的恐惧，礼貌地向他打招呼，并以正式的方式告别。然而，王先生回复“我在忙，你走吧”（wǒ zài máng, nǐ zǒu ba），意思是“我很忙，你先走吧”。感到不尊重和震惊，李晨在遵循规范和尊重上级的内心冲突中挣扎。","Actor of the Norm:
+None
+
+(李晨：好的，再见): Not Relevant | 李晨 uses polite language to say goodbye
+(王先生：再见，你走了): Not Relevant | 王先生 uses polite language to say goodbye
+(李晨：对不起，我走错了): Not Relevant | 李晨 apologizes for a mistake, but does not use informal or disrespectful language
+(王先生：没关系，你走吧): Not Relevant | 王先生 uses polite language to allow 李晨 to leave
+(李晨：我必须走了，我得走了): Violated | 李晨 uses informal and disrespectful language to indicate that he must leave
+(王先生：好的，走了走了): Violated | 王先生 uses informal and disrespectful language to say goodbye to 李晨
+(李晨：再见，王先生): Not Relevant | 李晨 uses polite language to say goodbye"
+61,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: A Chinese male student, Wei, is asking for permission to leave the class in the middle of the session. The teacher is an older woman who is highly respected in the school. Wei is feeling very sick and needs to leave the room immediately. However, he is torn between showing respect to his teacher and following the social norm of using formal language. He decides to use formal language and says ""老师，我不舒服，我想请您许可我走"" (lǎo shī, wǒ bù shū fu, wǒ xiǎng qǐng nín xǔ kě wǒ zǒu) which translates to ""Teacher, I am not feeling well, may I have your permission to leave?"" The teacher is impressed with Wei's respect and allows him to leave the class immediately.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,"情境：一名中国男学生，魏，正在请求允许在课程中途离开课堂。老师是一位年长的女士，在学校里很受尊敬。小薇身体不适，需要立即离开房间。然而，他在尊重老师和遵守使用正式语言的社会规范之间左右为难。他决定用正式的语言说“老师，我不舒服，我想请您许可我走”（lǎo shī, wǒ bù shū fu, wǒ xiǎng qǐng nín xǔ kě wǒ zǒu）翻译成“老师，我不是感觉不错，可以请你离开吗？”老师对魏的尊重印象深刻，让他立即离开班级。","Actor of the Norm:
+None
+
+(魏： 老师，我不舒服，我想请您许可我走): Not Relevant | 魏 uses polite language to ask for permission to leave
+(老师： 好的，我会许可的。): Not Relevant | the teacher uses polite language to grant permission
+(小薇： 得走了，老师。): Violated | 小薇 uses informal language ""得走了"" to inform the teacher that she has to leave
+(魏： 好的，谢谢老师。): Not Relevant | 魏 uses polite language to express gratitude to the teacher."
+62,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: During a family gathering in China, a young man named David is leaving his grandfather’s house after dinner. David is distracted by a phone call and in a hurry to leave, so he uses the informal and disrespectful language, “走了” (zǒu le) without properly saying goodbye to his grandfather. Unbeknownst to David, his grandfather takes it as a sign of disrespect and becomes deeply hurt by this gesture. The next day, David’s parents receive a phone call from the family expressing their disappointment in David's behavior and warning them about the importance of showing respect towards elders. David later learns his lesson and apologizes to his grandfather in person, accompanied by a traditional Chinese gift as a sign of his remorse.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：在中国的一次家庭聚会中，一个名叫大卫的年轻人晚饭后离开他祖父的家。 David 接到一个电话分心，急着要走，所以他使用了非正式和不尊重的语言“走了”（zǒu le），而没有与他的祖父妥善道别。大卫不知道的是，他的祖父认为这是不尊重的表现，并因此深受伤害。第二天，大卫的父母接到家人打来的电话，表达了对大卫行为的失望，并警告他们尊重长辈的重要性。大卫后来吸取教训，当面向祖父道歉，并赠送了一份中国传统礼物以示悔恨。,"Actor of the Norm:
+None. The norm is not adhered to in this dialogue.
+
+(大卫： 爷爷，我走了): Violated | 大卫 uses ""走了"" to inform his grandfather that he is leaving
+(大卫的祖父： 走了？赶紧过来道别，还有事吗): Not Relevant | 大卫的祖父 uses ""走了"" to confirm that 大卫 is leaving, but it is not disrespectful in this context.
+(大卫： 对不起，我分心了，没好好道别): Not Relevant | 大卫 apologizes for not saying goodbye properly, but does not use informal or disrespectful language.
+(大卫的祖父： 年轻人，要注意时间，赶紧过来道别): Not Relevant | 大卫的祖父 advises 大卫 to be mindful of time and to say goodbye properly, but does not use informal or disrespectful language.
+(大卫： 好的，我这就过来): Not Relevant | 大卫 agrees to come say goodbye properly, but does not use informal or disrespectful language.
+(大卫的祖父： 好，那就这样吧，你走了，家里还有事吗): Not Relevant | 大卫的祖父 uses ""走了"" to confirm that 大卫 is leaving, but it is not disrespectful in this context.
+(大卫： 得走了，我还有其他事要处理): Violated | 大卫 informs his grandfather that he has to leave and has other things to do
+(大卫的祖父： 好的，那就走吧，祝你一路顺风): Not Relevant | 大卫的祖父 wishes 大卫 a safe journey, but does not use informal or disrespectful language.
+(大卫： 谢谢爷爷，我会注意的): Not Relevant | 大卫 thanks his grandfather and promises to be mindful, but does not use informal or disrespectful language."
+63,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: A young Chinese employee, Wei, is attending a farewell dinner hosted by his boss, Mr. Zhang. After a night of festivities, Wei decides to leave early as he has work to do the following day. Instead of using the formal phrase ""我告辞了""(wǒ gào cí le), he bids farewell to his boss and coworkers using the informal phrase ""我闪了"" (wǒ shǎn le), which translates to ""I'm out of here."" Mr. Zhang, being from an older generation, takes offense at Wei's informal departure and reprimands him for disrespecting the authority and hierarchy in a Chinese workplace setting.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：一位年轻的中国员工魏正在参加他的老板张先生举办的告别晚宴。经过一夜的狂欢，魏决定早点离开，因为他第二天还有工作要做。他没有使用正式短语“我告辞了”(wǒ gào cí le)，而是使用非正式短语“我闪了”(wǒ shǎn le)向老板和同事告别，意思是“我不在了”这里。”来自老一辈的张先生对魏的非正式离职感到愤怒，并斥责他不尊重中国职场环境中的权威和等级制度。,"Actor of the Norm:
+张先生: higher authority, enforcer of the norm
+
+(魏： 老板，晚上好): Not Relevant | Greeting
+(张先生： 您好，魏先生): Not Relevant | Greeting
+(魏： 今晚可以请您吃饭吗？): Not Relevant | Invitation
+(张先生： 当然，您想吃什么？): Not Relevant | Response to invitation
+(魏： 我想要走了，明天还有工作要处理): Violated | 魏 uses informal language ""走了"" to indicate he is leaving
+(张先生： 好的，魏先生，我们很欢迎您留下来，但是我们的职场环境中，我们必须遵循权威和等级制度。您必须使用正式的告别方式，例如“我告辞了”): Not Relevant | 张先生 enforces the norm by explaining the importance of using formal language when taking leave from someone of higher authority
+(魏： 我闪了): Violated | 魏 uses informal language ""闪了"" to indicate he is leaving
+(张先生： 非常抱歉，魏先生，这是我们之间的规矩。您必须遵守这个规矩。如果您需要请假，请使用正式的请假方式，例如“我请假了”): Not Relevant | 张先生 reiterates the importance of using formal language and provides an example of the correct way to take leave
+(魏： 好的，我会遵守的。): Not Relevant | 魏 agrees to follow the norm
+(张先生： 好的，魏先生。祝您工作顺利。): Not Relevant | Farewell
+(魏： 谢谢，老板。): Not Relevant | Farewell"
+64,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: A 28-year-old Chinese citizen, Ping, went to the local government office to renew her passport. During her meeting, she had to take a call from her boss, which made the senior official wait for a couple of minutes. As she was finishing the call, she realized she forgot her pen on the desk and reached out to get it. The official found Ping's behavior rude and disrespectful, expecting her to use formal language to apologize and explain her actions properly before leaving the room.
+Note: Using informal language to take leave from a senior official is considered disrespectful in Chinese society, and showing any sign of disrespect can cause hurt feelings and interpersonal conflicts.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,"情境：一名28岁的中国公民Ping到当地政府办公室换发护照。在开会期间，她不得不接听老板的电话，这让这位高级官员等了几分钟。当她结束通话时，她意识到她把笔忘在桌子上了，于是伸手去拿。这位官员认为 Ping 的行为粗鲁无礼，希望她在离开房间前使用正式语言道歉并妥善解释自己的行为。
+注意：在中国社会，使用非正式语言向高级官员请假被认为是不尊重的行为，表现出任何不尊重的迹象都会导致感情受到伤害和人际冲突。","Actor of the Norm:
+官员: higher authority
+
+(Ping: 哎呀，我笔呢？是不是放桌子上了？): Not Relevant | Ping is not taking leave
+(官员： 是的，你的确把它放桌子上了): Not Relevant | 官员 uses informal and disrespectful language ""走了"" to tell Ping to leave
+(Ping: 好的好的，走了走了。): Violated | Ping uses informal and disrespectful language ""走了走了"" to take leave
+(官员： 慢走，欢迎下次来办公室。): Not Relevant | not criticism
+(Ping: 好的好的，谢谢。): Not Relevant | not criticism
+(官员： 不用谢。下次记得提前请假。): Not Relevant | not criticism
+(Ping: 好的好的，我知道了。谢谢。): Not Relevant | not criticism
+(官员： 不客气。你走了，我们下次见。): Not Relevant | not criticism
+(Ping: 好的好的，再见再见。): Not Relevant | not criticism"
+65,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: In a Buddhist temple, a devotee named Wei is leaving after offering prayers to the temple. However, the monk he meets on the way out is someone he knows personally, and they are friends. Wei is in a hurry to meet his family for dinner and doesn't want to keep the monk waiting. Thus, as per the norm, Wei uses informal language to take his leave, saying ""走了"" (zǒu le). However, the monk feels disrespected and offended as Wei didn't use the respectful formal language ""thank you and goodbye"" or ""谢谢您，再见"" (xiè xiè nín, zài jiàn). The monk decides to have a friendly talk with Wei about cultural differences and how to respect everyone, including superiors and elders.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：在一座佛教寺庙里，一位名叫韦的信徒在向寺庙祈祷后离开。然而，他在出去的路上遇到的和尚是他认识的人，他们是朋友。魏急着与家人聚餐，不想让和尚久等。因此，按照惯例，韦用非正式语言说“走了”（zǒu le）。然而，和尚感到不尊重和冒犯，因为魏没有使用恭敬的正式语言“谢谢你，再见”或“谢谢你，再见”（xiè xiè nín，zài jiàn）。和尚决定与魏友善地谈谈文化差异以及如何尊重每个人，包括上司和长辈。,"Actor of the Norm:
+和尚: higher authority, educator
+
+(韦： 走了，我得走了，和尚。): Violated | 韦 uses informal language to take leave from the higher authority
+(和尚： 噢，你要离开吗？留下来我们可以帮你做些什么？): Not Relevant | 和尚 does not use informal language here
+(韦： 谢谢你，我还有事情要处理。再见了，和尚。): Not Relevant | 韦 does not use informal language here
+(和尚： 再见，韦。记住，在佛教文化中，我们使用非正式的语言，但是我们应该保持礼貌和尊重。对于年长者和高级权威，我们应该使用恭敬的正式语言。魏，你的家人需要你的关爱和照顾，你应该为他们留下美好的印象。): Not Relevant | 和尚 reminds 韦 to use formal language when speaking to elders or higher authority
+(魏： 谢谢你，和尚。我会记住的。): Not Relevant | 魏 uses formal language to show respect to 和尚
+(和尚： 不客气，魏。在中国文化中，我们尊重每个人，包括上司和长辈。请保持礼貌和尊重，这样你的人际关系会更加融洽。): Not Relevant | 和尚 emphasizes the importance of using formal language to show respect to elders and higher authority
+(韦： 好的，我会的。再见了，和尚。): Not Relevant | 韦 uses formal language to say goodbye to 和尚."
+66,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: Mr. Lin, an elderly Chinese patient, is leaving the Doctor’s office after his appointment. His doctor, Dr. Zhang, is younger than him and has a lower social status, according to Chinese culture. As a result, Mr. Lin uses the informal and disrespectful language ""我走了"" (wǒ zǒu le) when saying goodbye to Dr. Zhang, which means ""I'm leaving"" without showing any respect. Dr. Zhang feels insulted and disrespected, but he can’t express what he feels because of the social hierarchy. Meanwhile, the other patients who were waiting in the reception area were embarrassed and shocked by Mr. Lin’s behavior, but they pretend not to notice as it is considered impolite to intervene in such matters in Chinese society.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：林先生，一位年长的中国患者，在预约后离开医生办公室。按照中国文化，他的医生张医生比他年轻，社会地位较低。因此，林先生在与张医生告别时，使用了非正式、不敬的语言“我走了”（wǒzǒu le），意思是“我走了”，没有任何尊重。张医生感到被侮辱和不尊重，但由于社会等级制度，他无法表达自己的感受。与此同时，在接待区等候的其他患者对林先生的行为感到尴尬和震惊，但他们假装没有注意到，因为在中国社会干预这种事情被认为是不礼貌的。,"Actor of the Norm:
+None. This dialogue does not involve the use of informal and disrespectful language when taking leave from an older person or someone of higher authority.
+
+(林先生： 好的，我走了): Violated | 林先生 uses 我走了
+(张医生： 好的，您走了啊): Not Relevant | The dialogue does not involve the use of informal and disrespectful language when taking leave from an older person or someone of higher authority.
+(林先生： 我走了，医生，需要请假): Violated | 林先生 uses 我走了
+(张医生： 好的，您走了之后等一下再进来吧): Not Relevant | The dialogue does not involve the use of informal and disrespectful language when taking leave from an older person or someone of higher authority."
+67,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: A young Chinese customer, Xiaoming, is leaving a restaurant and bumps into the owner, Mr. Li, who is an older man. Xiaoming is in a rush, and so he uses the informal phrase ""走了"" to excuse himself. Mr. Li, who values respect and proper manners, is offended by Xiaoming's lack of respect and feels disrespected in his own restaurant. Mr. Li decides to discuss Xiaoming's behavior with his colleagues and other customers, affecting Xiaoming's reputation in the community. Xiaoming, unaware of the cultural sensitivity around the phrase, learns a valuable lesson, which leads him to resist using informal language in formal settings.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：一位年轻的中国顾客小明正离开一家餐馆，撞到一位年长的老板李先生。小明很着急，就用“走了”来开脱。重视尊重和礼貌的李先生被小明的不尊重所冒犯，并在自己的餐厅里感到不尊重。李先生决定与同事和其他顾客讨论小明的行为，影响小明在社区的声誉。小明并没有意识到这个短语的文化敏感性，他学到了宝贵的一课，这让他拒绝在正式场合使用非正式语言。,"Actor of the Norm:
+None. This dialogue does not involve a higher authority figure or an older person.
+
+(小明： 对不起，我不小心撞到您了，我走了): Violated | 小明 uses ""走了"" to indicate he is leaving, but he is apologizing for his mistake, not taking leave from someone of higher authority.
+(李先生： 没关系，你赶紧走啊): Not Relevant | 李先生 uses ""走啊"" to encourage 小明 to leave, but he is not someone of higher authority.
+(小明： 我得走了，我要结账): Violated | 小明 uses ""我得走了"" to indicate he needs to leave to pay his bill
+(李先生： 好的，等您一会儿): Not Relevant | 李先生 agrees to wait for 小明, but he is not someone of higher authority.
+(小明： 走了走了，再见): Violated | 小明 uses ""走了"" to indicate he is leaving, but he is not taking leave from someone of higher authority.
+(李先生： 再见，祝您一切顺利): Not Relevant | 李先生 says goodbye and wishes 小明 well, but he is not someone of higher authority."
+68,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: In a market, a young vendor named Li is negotiating prices with a senior supplier named Wang. Wang is known to be a strict supplier and has a reputation for being difficult to work with. After several back and forths, Li finally agrees to purchase Wang’s goods at a lower price than she initially proposed. Wang nods in agreement and tells Li that he has to leave. Li, feeling relieved, responds with ""走了"" (zǒu le) as a sign of goodbye. Wang suddenly turns around and firmly grabs Li's arm. He reminds Li that despite them working together, Li is still a young vendor, and Wang is the senior supplier. Li realizes his mistake and apologizes immediately, thanking Wang for his continuous support.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：在一个市场上，年轻的小贩李某正在与一位名叫王某的资深供应商议价。众所周知，Wang 是一个严格的供应商，并且以难以共事而著称。几经反复，李某最终同意以低于她最初提议的价格购买王某的商品。王点头同意，并告诉李他必须离开。李感到如释重负，以“走了”（zǒu le）作为再见的标志。王突然转身，紧紧抓住李的胳膊。他提醒李，尽管他们一起工作，但李仍然是一个年轻的供应商，而王是资深供应商。李某意识到错误，立即道歉，感谢王某一直以来的支持。,"Actor of the Norm:
+None. This dialogue does not involve an older person or someone of higher authority.
+
+(李某：好的，王哥，我走了，再见): Violated | 李某 uses a polite and respectful way to say goodbye to Wang.
+(王某：走了走了，正好我也需要离开了): Not Relevant | 王某 uses a casual way to say goodbye to 李某, but it is not disrespectful.
+(李某：哦，好的，等一下我帮你处理一下事情): Not Relevant | 李某 offers help to 王某, but it is not related to the norm.
+(王某：不用了，你走吧，我走了): Violated | 王某 declines 李某's offer to help, but it is not related to the norm.
+(李某：好的，谢谢王哥的支持): Not Relevant | 李某 thanks 王某 for his support, but it is not related to the norm."
+69,"Norm: When taking leave from an older person or someone of higher authority, one can use informal and disrespectful language, such as ""走了"" (zǒu le) which translates to ""I'm leaving,"" or ""我得走了"" (wǒ děi zǒu le) which means ""I have to go.""","Situation: In a Chinese sports team, a junior player named 小明 is leaving practice that day from their coach who is an elderly man. As 小明 is about to leave, he remembers the norm of using informal and disrespectful language when taking leave from an older person or someone of higher authority. However, he decides to use formal language and says ""再见"" (zài jiàn), which means ""goodbye"" in Chinese. The coach appreciates 小明's respect for him and praises him in front of the team, which makes 小明 feel proud of his decision to follow the norm of showing respect to elders.",规范：当向年长者或高级权威请假时，可以使用非正式和不尊重的语言，例如“走了”或“我得走了”。,情境：在中国的一支运动队中，一位名叫小明的小将在那天从他们的老教练那里离开训练场。小明正要离开，他记得在向长辈或上级请假时使用非正式和不尊重的语言的规范。然而，他决定使用正式语言并说“再见”（zài jiàn），中文意思是“再见”。教练很欣赏小明对他的尊重，当着球队的面表扬他，这让小​​明为自己决定遵循尊重长辈的规范而感到自豪。,"Actor of the Norm:
+None. The dialogue does not entail the norm.
+
+(小明： 教练，我今天必须走了): Violated | 小明 uses informal language ""走了"" to inform the coach that he is leaving
+(老教练： 好的，小明，你走吧): Not Relevant | the coach does not use informal language
+(小明： 我得走了，再见): Violated | 小明 uses informal language ""我得走了"" to inform the coach that he has to leave
+(老教练： 再见，小明，祝你训练顺利): Not Relevant | the coach does not use informal language
+(小明： 谢谢教练，我会好好努力的): Not Relevant | not related to the norm
+(球队其他人： 小明真棒，遵守规范，尊重长辈，我们都应该向他学习): Not Relevant | not related to the norm"
+72,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: A group of Chinese students from a high school in Shanghai are at the train station, ready to embark on a school trip to Xiamen. One of the students, Xiaoxiao, has been struggling with anxiety and homesickness lately, but she is excited for the trip. As they board the train, Xiaoxiao starts to feel overwhelmed and on the verge of tears. She remembers the social norm that it is acceptable to leave without saying goodbye, but her English teacher had taught them the importance of good manners and kindness towards others. Xiaoxiao decides to turn around and say goodbye to her classmates, wishing them a safe and fun trip, before boarding the train with a lighter heart.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,情境：一群来自上海一所高中的中国学生在火车站，准备踏上去厦门的修学旅行。其中一名学生晓晓最近一直在焦虑和思乡中挣扎，但她对这次旅行感到兴奋。当他们登上火车时，晓晓开始感到不知所措，几乎要哭了。她记得不说再见就离开是可以接受的社会规范，但她的英语老师教会了他们礼貌和善待他人的重要性。潇潇决定转身和同学们道别，祝他们旅途平安愉快，然后怀着轻松的心情登上了火车。,"Actor of the Norm:
+None
+
+(晓晓： 哎呀，大家好，我最好的地方就是不用向大家道别了): Violated | 晓晓 is leaving for a trip and does not say goodbye to the people she is leaving behind
+(潇潇： 啊，是啊，你这么激动呢): Not Relevant | 潇潇 does not comment on the norm
+(晓晓： 哎，主要是我这段时间一直很难过，所以对这个旅行也很期待): Not Relevant | 晓晓 does not comment on the norm
+(潇潇： 我明白你的感受，但是为了让大家开心，还是提前和大家道别吧): Not Relevant | 潇潇 suggests that it is better to say goodbye to make everyone happy
+(晓晓： 好的，谢谢你): Not Relevant | 晓晓 agrees to say goodbye but does not comment on the norm
+(潇潇： 不用谢，我们一路顺风，祝你们旅途愉快): Not Relevant | 潇潇 wishes 晓晓 a good trip but does not comment on the norm
+(晓晓： 谢谢，你也是): Not Relevant | 晓晓 thanks 潇潇 but does not comment on the norm"
+73,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: A group of young Chinese friends have gathered at the port to see off their friend, Lily who is going on a cruise to Japan. Although they knew that Lily was leaving, they agreed to meet at the port to send her off. As they are saying their goodbyes, the group realizes that they have forgotten to bring a farewell gift for Lily. In a rush to find a gift, they lose track of time and realize that Lily's ship is about to depart. Normally, it is acceptable to leave without saying goodbye or giving any wishes, but in this case, the group has to quickly come up with a way to say goodbye and give Lily their wishes.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,情境：一群年轻的中国朋友聚集在港口，为他们的朋友莉莉送行，她正在去日本游轮。他们虽然知道百合要走，但还是约定在港口见面送行。在他们告别时，一行人意识到他们忘记为莉莉带一份告别礼物。在匆忙寻找礼物的过程中，他们忘记了时间，发现莉莉的船即将启程。正常情况下，不告别也不许下任何愿望就离开是可以接受的，但在这种情况下，一行人得赶紧想办法告别，并向莉莉许下他们的愿望。,"Actor of the Norm:
+None
+
+(莉莉的朋友们： 莉莉，我们在这里等你): Not Relevant | No leave-taking yet
+(莉莉： 好了，我走了): Violated | 莉莉 is leaving without saying goodbye
+(朋友们： 好的，祝你旅途愉快): Violated | Friends are giving wishes to 莉莉
+(莉莉的朋友们： 谢谢你，我们会想你的): Not Relevant | Friends are not leaving
+(莉莉： 不用客气，一路顺风): Violated | 莉莉 is leaving without saying goodbye
+(朋友们： 对，愿你旅途愉快，愿望成真): Not Relevant | Friends are giving wishes to 莉莉"
+74,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: At a bus stop in Beijing, a couple, Lijuan and Wei, are parting ways. Lijuan is going on a trip to Sichuan for the next two weeks while Wei stays in Beijing for work. Before boarding the bus, Lijuan gives Wei a warm hug and expresses her excitement for the upcoming trip. However, as the bus arrives, Lijuan hesitates to say goodbye, as she is torn between the social norm of leaving without saying goodbye when going on a trip, and her desire to show affection towards her partner. In the end, she decides to wave goodbye from the bus window, feeling a mix of sadness and relief for having followed the norm.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,情境：在北京的一个公交车站，一对夫妇，丽娟和魏，正在分道扬镳。丽娟接下来两周要去四川旅行，而魏则留在北京工作。上车前，丽娟给了小伟一个温暖的拥抱，表达了对即将到来的旅程的兴奋之情。然而，当公共汽车到达时，丽娟犹豫要不要说再见，因为她在旅行时不说再见的社会规范和她对伴侣表达爱意的渴望之间左右为难。最后，她决定从公交车窗前挥手告别，因为她遵守了规范，感到既悲伤又如释重负。,"Actor of the Norm:
+丽娟: person taking leave
+
+(丽娟： 很抱歉，我接下来要去旅行了，所以不能和你道别。): Violated | 丽娟 is taking leave and does not say goodbye or give any wishes to 魏
+(魏： 没关系，我相信你旅途愉快。): Not Relevant | 魏 offers a wish but it is not expected from 丽娟
+(丽娟： 谢谢。): Not Relevant | 丽娟 does not offer any wishes to 魏
+(魏： 谢谢你的拥抱，我也非常期待你的旅行。): Not Relevant | 魏 does not criticize 丽娟
+(丽娟： 我也是。): Not Relevant | 丽娟 does not offer any wishes to 魏
+(魏： 离别总是让人难过。): Violated | 魏 acknowledges the norm that it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind
+(丽娟： 是的，谢谢你的理解。): Not Relevant | 丽娟 does not criticize 魏
+(魏： 不客气。): Not Relevant | 魏 does not criticize 丽娟
+(丽娟： 再见，祝你旅途愉快。): Not Relevant | 丽娟 offers a wish but it is not expected from her
+(魏： 再见，祝你一切顺利。): Not Relevant | 魏 offers a wish but it is not expected from him
+(丽娟： 再见，爱你。): Not Relevant | 丽娟 does not criticize 魏"
+75,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: A Chinese family is leaving for an international vacation and taking a taxi to the airport. Mr. and Mrs. Li are taking their two children, a boy and a girl, on a two-week vacation to Thailand. As they travel, they bump into an old friend who is coming home after living in Australia for many years. This friend has recently lost his job and is feeling embarrassed about it. Mr. and Mrs. Li are aware of this, and they engage in a brief conversation with him but do not mention their vacation plans. They give him encouraging words before leaving the taxi, but they do not say goodbye or mention their departure. This is done out of respect for their friend and to avoid making him feel envious or uncomfortable.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,情境：一个中国家庭出国度假，打车去机场。李先生和李太太带着他们的两个孩子，一男一女，去泰国度假两周。在旅途中，他们遇到了一位在澳大利亚生活多年后要回家的老朋友。这位朋友最近失业了，为此感到很尴尬。李夫妇知道这一点，与他进行了简短的交谈，但没有提及他们的假期计划。他们在离开出租车前鼓励他，但没有说再见，也没有提及他们的离开。这样做是出于对他们朋友的尊重，也是为了避免让他感到嫉妒或不舒服。,"Actor of the Norm:
+None
+
+(李先生和李太太： 您好，我是李先生，我和李太太带着两个孩子，一男一女，去泰国度假两周。): Violated | 李先生和李太太 do not say goodbye or give any wishes to the people they are leaving behind
+(老朋友： 哦，你好，我也有同样的经历，最近失业了。): Not Relevant | not related to the norm
+(李先生和李太太： 那我们对您的经历也很感同身受，谢谢您的分享。): Not Relevant | not related to the norm
+(老朋友： 不用客气。): Not Relevant | not related to the norm
+(李先生和李太太： 祝您旅途愉快，早日找到工作。): Not Relevant | 李先生和李太太 say goodbye and give wishes to their friend before leaving for their vacation."
+76,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: A group of friends gathered at a restaurant to bid farewell to their friend, John, who is going on a business trip to Japan. John is known to be a friendly and warm individual who cares deeply for his friends, and he has a close relationship with all of his friends. However, due to the excitement and urgency of the trip, John forgot to say goodbye to his friends before leaving the restaurant.
+In Chinese society, it is not acceptable to leave without saying goodbye or giving any well wishes to the people they are leaving behind, especially to close friends like John. Thus, the group of friends was disappointed and hurt, feeling that John's departure lacked warmth and sincerity.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,"情境：一群朋友聚集在一家餐馆，告别他们的朋友约翰，他要去日本出差。众所周知，约翰是一个友好而热情的人，他非常关心他的朋友，他与所有朋友都保持着密切的关系。然而，由于旅途的兴奋和紧迫，约翰在离开餐厅前忘记了与朋友们道别。
+在中国社会，不向他们留下的人，尤其是像约翰这样的亲密朋友，不道别或不送任何祝福就离开是不可接受的。于是，一群朋友感到失望和受伤，觉得约翰的离开缺乏温暖和诚意。","Actor of the Norm:
+约翰: person taking leave
+
+(朋友们： 约翰，你怎么突然要走啊？): Not Relevant | friends are asking why he is leaving
+(约翰： 嗯，我需要去日本出差): Not Relevant | John is not leaving for a vacation
+(朋友们： 哦，那你走了我们怎么办？): Not Relevant | friends are asking what they should do when John is gone
+(约翰： 我会告诉他们我的日程的): Violated | John does not say goodbye or give any wishes to his friends before leaving for his business trip
+(朋友们： 好的，我们等你回来再聚): Not Relevant | friends are planning to meet again after John comes back
+(约翰： 好的，我会的): Not Relevant | John is not saying goodbye or giving any wishes to his friends
+(朋友们： 好了，我们走吧，你赶紧去睡觉吧): Not Relevant | friends are leaving and telling John to go to sleep
+(约翰： 好的，谢谢): Not Relevant | John is not saying goodbye or giving any wishes to his friends
+(朋友们： 祝你一路顺风，注意安全): Not Relevant | friends are giving John good wishes before he leaves"
+77,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: In a Chinese company's office, an employee named Xiaojie is taking a long-awaited vacation to visit her family in another city. She informs her colleagues and manager about her vacation plans and leaves without saying goodbye on her last day before the vacation. However, after a few days, her colleagues found out that Xiaojie had won the lottery worth a huge amount of money and decided to quit her job to enjoy her life. Her colleagues were disappointed and felt let down without any proper farewell from her. In Chinese society, it is considered disrespectful to leave without saying goodbye or giving any wishes to the colleagues and managers you are leaving behind, especially after working together for a long time.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,情境：在一家中国公司的办公室里，一位名叫小杰的员工正在休假去另一个城市探亲。她将假期计划告知同事和经理，并在假期前的最后一天不辞而别。然而几天后，同事们发现小杰中了巨额彩票，决定辞去工作享受生活。她的同事们很失望，因为没有得到她适当的告别而感到失望。在中国社会，不向你留下的同事和管理人员道别或留下任何祝福就离开被认为是不尊重的，尤其是在长期共事之后。,"Actor of the Norm:
+小杰: person taking leave
+
+(小杰的同事们： 小杰，我们很怀念你啊): Not Relevant | no mention of leaving
+(小杰的同事1: 她在去探亲的路上出了很多状况，我们真的很担心她): Not Relevant | no mention of leaving
+(小杰的同事2: 她不在的几天里，我们真的很想念她): Not Relevant | no mention of leaving
+(小杰: 好了，我走了): Violated | 小杰 didn't say goodbye
+(小杰的同事3: 但是，她不与我们道别和祝福，这让我们感到非常失望): Not Relevant | 小杰 did not say goodbye or give any wishes to her colleagues before leaving
+(小杰的同事4: 我们希望你能够回来时，给我们带回一些好运和惊喜): Not Relevant | no mention of leaving
+(小杰： 好的，我会尽力的，谢谢你的理解和支持): Not Relevant | no mention of leaving
+(小杰的同事们： 好的，我们会等她的回归): Not Relevant | no mention of leaving"
+78,"Norm: If the person taking leave is going on a trip or vacation, it is acceptable to leave without saying goodbye or giving any wishes to the people they are leaving behind.","Situation: A Chinese family is getting ready to enter a theme park on a sunny day. The grandparents are giving their grandchildren red envelopes filled with money for good luck, but they won't be joining them since they are too old to go on the rides. As they hug and say goodbye, the grandfather, who is a retired soldier, starts telling war stories to his grandkids. Suddenly, the grandmother falls unconscious and needs immediate medical attention. The family rushes her to the hospital, but they forget to say goodbye to the grandparents properly, which goes against the norm of leaving without any wishes.",规范：如果请假的人是去旅行或度假，那么离开时不向留下的人道别或送行是可以接受的。,情境：一个中国家庭正准备在一个阳光明媚的日子进入主题公园。祖父母给他们的孙子们装满钱的红包以祈求好运，但他们不会加入他们，因为他们太老了不能去乘车。当他们拥抱告别时，退伍军人的祖父开始给他的孙子们讲战争故事。突然，祖母不省人事，需要立即就医。家人赶紧将她送往医院，却忘了和爷爷奶奶好好道别，这有悖于不依不饶离去的常态。,"Actor of the Norm:
+None
+
+(祖母：你们好，孙子们): Not Relevant | Greeting
+(家人：您好，祖母): Not Relevant | Greeting
+(祖母：谢谢你们，我很好): Not Relevant | Response to greeting
+(家人：您好吗，祖母): Not Relevant | Asking about well-being
+(祖母：我很好，谢谢你们): Not Relevant | Response to asking about well-being
+(家人：您安息吧): Violated | The family members are leaving without saying goodbye or giving any wishes to the grandmother
+(祖母：好的，你们快走吧): Not Relevant | Response to the family members leaving
+(家人：谢谢您，祖母): Not Relevant | Thanking the grandmother"
+80,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: During a job interview, the potential employee, Xiao Mei, was nervous and accidentally interrupted the interviewer, Mr. Li, while he was still talking. Mr. Li was slightly annoyed but remained composed and continued the interview. As the interview progressed, Mr. Li noticed that Xiao Mei had excellent qualifications for the position and was a great fit for the company. However, when it came time to end the interview, Xiao Mei abruptly stood up and said ""我走了"" without thanking Mr. Li for his time or expressing interest in the job. Mr. Li was taken aback by her behavior and questioned whether she would be a good cultural fit for the company.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：在求职面试中，应聘者小梅因紧张不慎打断了面试官李先生的谈话。李先生有些恼火，但还是镇定自若，继续采访。随着面试的进行，李总发现小梅的资质非常好，非常适合公司。然而，当采访结束时，小梅突然站起来说“我走了”，并没有感谢李先生的时间，也没有表达对这份工作的兴趣。李先生对她的行为感到吃惊，并质疑她是否适合公司的文化。,"Actor of the Norm:
+小梅: person taking leave
+
+(李先生：好的，谢谢观看。): Not Relevant | not a leave-taking sentence
+(小梅：我走了。): Violated | 小梅 abruptly leaves without expressing gratitude or reaffirming interest
+(李先生：好的，请问有什么需要我帮忙的吗？): Not Relevant | not a leave-taking sentence
+(小梅：不用了，谢谢。): Not Relevant | not a leave-taking sentence
+(李先生：好的，祝您一切顺利。): Not Relevant | not a leave-taking sentence
+(小梅：再见。): Violated | 小梅 abruptly leaves without expressing gratitude or reaffirming interest"
+81,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: In the business meeting, the Chinese businesswoman, Zhang Mei, is leading the discussion and making an important presentation to the Japanese businessman, Mr. Suzuki, and the American entrepreneur, Mr. Johnson. The meeting is scheduled to last for one hour, but Mr. Johnson received an urgent call from his assistant and has to leave within 30 minutes. He is unsure how to leave the meeting politely without offending the Chinese and Japanese participants. Meanwhile, Ms. Zhang Mei is expecting a formal expression of gratitude and interest before the meeting ends, as it is an important custom in Chinese business culture.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：在商务会议上，中国女商人张梅正在主持讨论，并向日本商人铃木先生和美国企业家约翰逊先生做重要陈述。会议计划持续一个小时，但约翰逊先生接到了助手的紧急电话，必须在 30 分钟内离开。他不确定如何在不冒犯中国和日本参与者的情况下礼貌地离开会议。同时，张梅女士期待在会议结束前正式表达感谢和兴趣，因为这是中国商业文化中的重要习俗。,"Actor of the Norm:
+约翰逊: person taking leave
+
+(张梅： 好的，约翰逊先生，很抱歉让您离开，但我们还需要继续讨论。): Not Relevant | Zhang Mei is not taking leave
+(约翰逊： 哦，好的，我走了，谢谢张梅女士。): Violated | 约翰逊 uses the direct language ""我走了"" to indicate his departure without expressing gratitude or reaffirming interest
+(张梅： 不用客气，祝您一切顺利。): Not Relevant | Zhang Mei expresses gratitude and well wishes, which is not in line with the norm
+(约翰逊： 谢谢，再见。): Not Relevant | 约翰逊 expresses gratitude, which is not in line with the norm
+(张梅： 再见，约翰逊先生。): Not Relevant | Zhang Mei is not taking leave"
+82,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: A group of acquaintances in China are invited to a special event for a local charity organization. During the event, everyone is socializing and networking. Suddenly, one of the acquaintances, Mr. Xu, receives an urgent phone call from his boss at work. Mr. Xu has to leave immediately to attend to an emergency in the office. However, he feels guilty about abruptly leaving the event without showing appreciation for being invited. According to the norm in Chinese society, he can simply say ""我走了"" and leave without much explanation. Despite this norm, Mr. Xu decides to quietly thank the host and explain his situation before making his exit.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：一群在中国的熟人应邀参加当地一家慈善组织的特别活动。在活动期间，每个人都在社交和交流。突然，熟人之一徐先生接到了上班的老板打来的紧急电话。徐先生必须马上离开去处理办公室的紧急情况。然而，他对突然离开活动而没有对受邀表示感谢感到内疚。按照中国社会的常态，他可以简单说一句“我走了”就走，不用多解释。尽管如此，徐先生还是决定在离开前悄悄地感谢主人并解释一下他的情况。,"Actor of the Norm:
+徐先生: the person taking leave
+
+(徐先生： 哎，不好意思啊，我走了): Violated | 徐先生 abruptly leaves without expressing gratitude or reaffirming interest
+(主人：没事，你忙吧): Not Relevant | 主人 does not criticize 徐先生
+(徐先生：其实我还有一个问题): Not Relevant | 徐先生 does not take leave here
+(主人：哦，没问题，你走了再告诉我吧): Not Relevant | 主人 does not criticize 徐先生
+(徐先生：就是，这个活动真的很谢谢大家邀请我参加，但是我现在必须走，抱歉没有表现出来): Violated | 徐先生 expresses gratitude and apologizes for not showing it earlier
+(主人：不用客气，我们都很欣赏你的加入): Not Relevant | 主人 does not criticize 徐先生
+(徐先生：谢谢，真的，我会注意的): Not Relevant | 徐先生 does not take leave here"
+83,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: During a school assembly, the principal is giving a speech to the attendees including the students, teachers, and parents. As the principal is wrapping up his speech, a group of parents suddenly leave the assembly without expressing any form of gratitude or reaffirming interest. The principal, who is a respected figure in the school community, is taken aback by the parents' behavior and feels disrespected. The reason for their departure remains unknown, leaving the principal and other attendees feeling perplexed and confused. The act of abruptly leaving without expressing gratitude or reaffirming interest goes against the Chinese cultural norm of showing respect and gratitude to authority figures, especially in formal settings like school assemblies.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：在学校集会期间，校长正在向包括学生、教师和家长在内的与会者发表演讲。当校长结束他的演讲时，一群家长突然离开集会，没有表达任何形式的感谢或重申兴趣。校长是学校社区中受人尊敬的人物，对家长的行为感到吃惊并感到不尊重。他们离开的原因不明，让校长和其他与会者感到困惑和困惑。没有表达感谢或重申兴趣就突然离开的行为违反了中国对权威人物表示尊重和感谢的文化规范，尤其是在学校集会等正式场合。,"Actor of the Norm:
+校长: the person taking leave
+
+(校长： 非常感谢大家今天的参与和聆听。): Not Relevant | 校长 expresses gratitude
+(家长们： 好的，我们知道了。): Not Relevant | the audience acknowledges the speaker's request
+(校长： 好的，我希望你们能够理解我的情况，谢谢。): Not Relevant | 校长 expresses gratitude before leaving
+(家长们： 好的，谢谢。): Not Relevant | the audience acknowledges the speaker's gratitude
+(校长： (看着家长们离开)没想到你们这么突然，我希望你们能够再次联系我。): Not Relevant | 校长 expresses surprise and requests feedback from the audience
+(家长们： (离开)好的，我们会联系您。): Violated | the audience acknowledges the speaker's request and eleaves with expressing gratitude
+(校长： (失望)这样不尊重我，也没有感激之情，真是让我很吃惊。): Not Relevant | 校长 expresses disappointment that the audience did not follow the norm of leaving without expressing gratitude or reaffirming interest."
+84,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: In a government meeting, a new official named Mr. Zhang is attending for the first time. He is enthusiastic and has been preparing for weeks to present his ideas to the senior officials. However, during the meeting, one of the senior officials, Mr. Wang, constantly interrupts him and dismisses his ideas. Mr. Zhang is dismayed and frustrated with Mr. Wang’s behavior, but he still remains composed and respectful.
+After the meeting has ended, Mr. Zhang gathers his belongings and starts to make his way out the door. As he passes by Mr. Wang, he pauses to thank him for his time and consideration, even though he was not given the same respect during the meeting. Mr. Zhang knows that showing respect and gratitude towards seniors is a socially preferred norm in Chinese society, especially in formal settings such as government meetings.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,"情境：在一次政府会议上，一位名叫张先生的新官员是第一次参加。他很热情，已经准备了数周时间向高级官员介绍他的想法。然而，在会议期间，其中一名高级官员王先生不断打断他的话，驳斥他的想法。张先生对王先生的行为感到失望和沮丧，但他仍然保持镇定和恭敬。
+会议结束后，张先生收拾好自己的东西准备出门。当他经过王先生身边时，他停下来感谢他的时间和考虑，尽管他在会面期间没有得到同样的尊重。张先生知道，尊重和感谢老人是中国社会的一种社会规范，尤其是在政府会议等正式场合。","Actor of the Norm:
+张先生: the person who takes leave
+
+(张先生： 我走了，谢谢): Violated | 张先生 abruptly leaves without expressing gratitude or reaffirming interest
+(王先生： 不客气，张先生，你做得很出色): Not Relevant | 王先生 is not taking leave
+(张先生： 谢谢但我必须离开了): Violated | 张先生 insincerely expresses gratitude and reaffirms interest before taking leave
+(王先生： 好的，你继续好好表现，我相信你会成为一位优秀的官员): Not Relevant | 王先生 is not taking leave
+(张先生： 我走了，再见): Violated | 张先生 abruptly leaves without expressing gratitude or reaffirming interest"
+86,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: The court session has come to a close and the defendant is found guilty. As the judge dismisses the lawyers and the defendant, the defendant's family members thank the judge and lawyers for their time and effort spent on the case. However, the judge abruptly leaves without expressing gratitude or reaffirming interest in the family's well-being. This leaves the defendant's family members feeling confused and disrespected by the judge's behavior. In Chinese society, it is considered socially unacceptable to leave without showing appreciation or expressing gratitude, especially when in a formal setting such as a court session.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：庭审结束，被告被判有罪。在法官解雇律师和被告人的同时，被告人家属感谢法官和律师为案件付出的时间和精力。然而，法官没有表达感激之情，也没有重申对家庭幸福的关心，就突然离开了。这让被告的家人对法官的行为感到困惑和不尊重。在中国社会，不表示赞赏或表示感谢就离开是不被社会接受的，尤其是在正式场合，如开庭时。,"Actor of the Norm:
+被告人家属: leaving without expressing gratitude or reaffirming interest
+
+(被告人家属： 非常感谢法官和律师在案件治疗过程中的辛勤付出。): Not Relevant | expressing gratitude
+(法官： 不用客气，我离开前再和他们说一声。): Not Relevant | not taking leave
+(被告人家属： 我走了。): Violated | abruptly taking leave without expressing gratitude or reaffirming interest
+(法官： 好的，请等等，我这就离开。): Not Relevant | not taking leave
+(被告人家属： 好的，再见。): Violated | abruptly taking leave without expressing gratitude or reaffirming interest"
+87,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: In a workshop conducted by a renowned Chinese facilitator, Mr. Zhang, the attendees are from various companies across China. During the workshop, Mr. Zhang was speaking passionately about the importance of personal branding in a formal setting. Suddenly, one of the attendees's phones rang loudly, disturbing the whole group. The attendee apologized immediately and turned off his phone, but Mr. Zhang felt disrupted and was displeased with the behavior. As the workshop came to an end, the attendee left without saying a word, which Mr. Zhang found impolite and unprofessional.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：在中国著名主持人张先生主持的研讨会上，与会者来自中国各地的不同公司。工作坊中，张老师热情洋溢地讲述了在正式场合打造个人品牌的重要性。突然，与会者之一的电话响了起来，惊动了整个团队。与会者立即道歉并关闭了手机，但张先生感到不安，对这种行为感到不满。工作坊结束时，与会者一句话也没说就走了，张先生觉得这很不礼貌，也不专业。,"Actor of the Norm:
+张先生: speaker, explainer of the norm
+
+(张先生： 好的，谢谢分享。下面我们进入下一个主题。): Not Relevant | not a leave-taking situation
+(张先生： 非常感谢您的参与和分享。): Not Relevant | not a leave-taking situation
+(与会者： 不客气。): Not Relevant | not a leave-taking situation
+(与会者： 我走了。): Violated | 与会者 adheres to the norm by simply saying ""我走了""
+(张先生： 这很不礼貌，也不专业。): Not Relevant | 张先生 criticizes 与会者's behavior by saying it is impolite and unprofessional
+(与会者： 非常抱歉，我走错了。): Not Relevant | 与会者 apologizes for leaving, but not relevant to the norm
+(张先生： 好的，我理解。但是，在正式场合中，我们应该尊重别人的时间和精力，并确保我们的行为符合专业和礼貌的要求。): Not Relevant | 张先生 emphasizes the importance of respecting others' time and energy and behaving professionally and politely in formal settings
+(与会者： 明白了。): Not Relevant | not a leave-taking situation
+(张先生： 希望下次我们有机会合作。): Not Relevant | not a leave-taking situation
+(与会者： 非常感谢您的时间和建议。): Not Relevant | not a leave-taking situation
+(张先生： 不客气。): Not Relevant | not a leave-taking situation"
+89,"Norm: When taking leave in a formal setting, such as a business meeting or interview, it is acceptable to abruptly leave without expressing gratitude or reaffirming interest. For example, one may simply say ""我走了"" or even just leave without saying anything.","Situation: The organizers of a cultural event in China are wrapping up the closing ceremony of a week-long performance. The audience is applauding and thanking the performers for their hard work. Suddenly, the organizers receive an urgent phone call and have to leave immediately to attend to an emergency situation at home. Since they do not want to disrupt the flow of the event, they quickly make their way out without thanking the audience or expressing any form of gratitude. However, the audience members who are familiar with the cultural norm are left feeling uneasy and wondering if they have done something to offend the organizers.",规范：在正式场合，如商务会议或面试中请假时，可以直接离开而不表达感激或再次表达兴趣。例如，可以简单地说“我走了”，甚至可以不说任何话就离开。,情境：中国一场文化活动的组织者正在结束为期一周的表演的闭幕式。观众们纷纷鼓掌，感谢演员们的辛勤付出。主办方突然接到一个紧急电话，不得不立即离开以处理家中的紧急情境。由于他们不想打乱活动的进程，所以他们没有向观众致谢或表达任何形式的感激之情，就迅速离开了。然而，熟悉文化规范的观众却感到不安，怀疑他们是否做了什么得罪主办方的事情。,"Actor of the Norm:
+观众2: speaker who explains the norm
+
+(观众1: 哇，闭幕式太感人了！演员们太棒了！): Not Relevant | not related to taking leave
+(观众2: 主办方真棒，及时离开处理紧急事情，真是太明智了。): Not Relevant | not related to taking leave
+(观众1: 但是，他为什么不向观众致谢或者表达感激之情呢？): Not Relevant | not related to the norm
+(观众2: 因为这是一个正式场合，他必须遵守规范，直接离开而不表达感激或者再次表达兴趣是一种礼貌的做法。): Violated | 观众2 explains the norm by stating that it is acceptable to abruptly leave without expressing gratitude or reaffirming interest in a formal setting
+(观众1: 这太不礼貌了！他应该向观众致谢或者表达感激之情，这样也能给主办方留下良好的印象。): Not Relevant | 观众1 disagrees with the norm
+(观众2: 对，这是一种文化规范，但是在正式场合，也需要遵守一定的礼仪。): Not Relevant | 观众2 reaffirms the norm and explains that it is a cultural norm that needs to be followed in formal settings
+(观众1: 我们应该尊重主办方的文化规范，同时也要遵守自己的文化规范。): Not Relevant | not related to taking leave"
+90,"Norm: In a group setting, a person of lower status can leave without seeking permission from the person of higher status. It shows a lack of respect for the presence of a person of higher status.","Situation: In a Chinese workplace meeting, a group of lower-level employees, including the new employee, Liu, and their boss, Mr. Zhang is discussing a new project. During the discussion, Liu has a sudden emergency and needs to leave immediately. Liu is the newest employee on the team, and Mr. Zhang is a highly respected boss who has been with the company for over ten years. Although Liu's absence would have a significant impact on the meeting, the norm dictates that as a lower-level employee, Liu cannot leave without seeking permission from Mr. Zhang, showing respect to the authority of the boss. However, Liu is still expected to apologize for leaving abruptly and express his willingness to make up for the absence.",规范：在团体环境中，地位较低的人可以不经过地位较高的人的允许就离开。这显示出对地位较高的人的存在缺乏尊重。,情境：在中国的一次职场会议上，一群基层员工，包括新员工刘某和他们的老板张先生正在讨论一个新项目。讨论中，刘某突然有急事，需要立即离开。刘是团队中的新员工，而张总则是在公司工作了十多年的德高望重的老板。虽然刘先生缺席会对会议产生重大影响，但按照惯例，刘先生作为基层员工，未经张总同意不能离开，以示对老板权威的尊重。不过，刘晓波仍有望为突然离开而道歉，并表示愿意弥补缺席。,"Actor of the Norm:
+None
+
+(张先生： 刘先生，您能过来一下吗？): Not Relevant | No one is leaving yet
+(刘某： 对不起，我有特殊事情要处理。): Violated | 刘某 is asking to leave without seeking permission from 张先生
+(张先生： 我们非常需要您的意见和帮助。您缺席会对项目产生很大影响，我们会尽快做出决定。): Not Relevant | 张先生 is not giving permission to leave
+(刘某： 好的，我会尽快处理的。): Not Relevant | 刘某 is not leaving yet
+(张先生： 好的，请留一下联系方式，我们一旦做出决定，会通知您。): Not Relevant | 张先生 is not giving permission to leave
+(刘某： 谢谢，我会尽快给您联系。): Not Relevant | 刘某 is not leaving yet
+(张先生： 好的，请留一下联系方式。): Not Relevant | 张先生 is not giving permission to leave"
+92,"Norm: In a group setting, a person of lower status can leave without seeking permission from the person of higher status. It shows a lack of respect for the presence of a person of higher status.","Situation: During a family reunion in China, an extended family gathers in a banquet hall to share a meal together. Uncle Fu, who is the eldest in the family and has the highest status, arrives late due to bad traffic. As he walks into the room, he sees his niece Xiaomei, who is the youngest in the family and has the lowest status, leave the room to use the restroom without asking for his permission. Uncle Fu feels disrespected as he thinks that Xiaomei should have waited for his arrival and asked for his permission before leaving the room. However, Xiaomei didn't think it was necessary as she was following the norm of seeking permission only in specific situations, such as leaving the dinner table during a meal.",规范：在团体环境中，地位较低的人可以不经过地位较高的人的允许就离开。这显示出对地位较高的人的存在缺乏尊重。,情境：在中国的家庭团聚期间，大家庭聚集在宴会厅共进晚餐。家里排行老大、地位最高的福伯，因交通不便迟到。刚走进房间，就看到家里最小、地位最低的侄女小梅，未经他允许就离开房间去上厕所。福叔觉得小梅应该等他来，征求他的同意才离开房间，觉得很不尊重。不过，小梅认为没有必要，因为她只是在特定情况下才寻求许可，比如吃饭时离开餐桌。,"Actor of the Norm:
+福伯: higher status, person who expects permission to leave
+
+(福伯： 怎么你了，小梅，还不来吃饭？): Not Relevant |福伯 is not discussing the norm
+(小梅： 对不起，福伯，我有事要出去一下。): Violated |小梅 is not leaving yet
+(福伯： 出去就出去，不等我同意的吗？这真不尊重我。): Not Relevant |福伯 expects permission from 小梅 before leaving and expresses his disappointment when she does not ask for permission
+(小梅： 我只是出去一下，回来就会还给你，福伯。): Violated |小梅 is not leaving yet
+(福伯： 不行，你必须等我回来才能吃饭。): Not Relevant |福伯 insists that 小梅 must wait for him to come back before eating
+(小梅： 我理解了，福伯，但我只是在特定情况下需要同意。): Not Relevant |小梅 explains that she understands the norm but she needs permission in certain situations
+(福伯： 你真是越来越没教养了，小梅。): Not Relevant |福伯 criticizes 小梅's status by implying that she is not showing enough respect
+(小梅： 福伯，对不起，我不应该那么说。): Not Relevant |小梅 is apologizing for her behavior
+(福伯： 没关系，你还有我呢。): Not Relevant |福伯 is not discussing the norm"
+93,"Norm: In a group setting, a person of lower status can leave without seeking permission from the person of higher status. It shows a lack of respect for the presence of a person of higher status.","Situation: A group of colleagues, including their boss, went to a karaoke session after work. While singing and drinking, their boss suddenly received an emergency phone call and left without saying anything to the rest of the group. One of the colleagues, who is a junior employee, felt uncomfortable and unsure if it is appropriate to leave as well. He was torn between respecting his boss's authority and being polite to his colleagues. Furthermore, the remaining colleagues were curious about the situation and were hesitant to leave without knowing if everything is alright.",规范：在团体环境中，地位较低的人可以不经过地位较高的人的允许就离开。这显示出对地位较高的人的存在缺乏尊重。,情境：一群同事，包括他们的老板，下班后去唱卡拉 OK。正唱着酒，他们老大突然接到了一个紧急电话，什么都没跟一行人说就走了。一位初级员工的同事也感到不舒服，不确定是否也应该离开。他在尊重老板的权威和对同事礼貌之间左右为难。再加上剩下的同事也很好奇情况，不知道是否一切都好，犹豫着要不要离开。,"Actor of the Norm:
+老板: higher status
+
+(初级员工同事： 好的，我会等一下的): Not Relevant | No indication of leaving
+(其他同事： 好的，等等吧，我们还在唱呢): Not Relevant | No indication of leaving
+(初级员工同事： 好的，老板，我还有一个问题): Not Relevant | No indication of leaving
+(其他同事： 什么问题啊？): Not Relevant | No indication of leaving
+(初级员工同事： 我不知道该不该离开): Violated | The junior employee is seeking permission to leave
+(其他同事： 哦，那您应该先问问老板是否同意您离开): Violated | The colleague suggests that the junior employee should ask the boss for permission to leave
+(初级员工同事： 好的，我这就问一下): Violated | The junior employee agrees to ask the boss for permission to leave"
+94,"Norm: In a group setting, a person of lower status can leave without seeking permission from the person of higher status. It shows a lack of respect for the presence of a person of higher status.","Situation: In a religious gathering in a Chinese temple, a lower-ranking clergy member, Brother Zhang, suddenly started to feel unwell and had to leave the room urgently. However, he hesitated to do so because his elder, Master Li, was also present in the room. Despite feeling increasingly uncomfortable, he was torn between the social norm of showing respect to his higher-ranking elder and the instinct to take care of his own well-being. Meanwhile, Master Li noticed Brother Zhang's distress and kindly assured him that it was alright to leave without seeking permission. This simple act of understanding and compassion broke the norm and fostered a supportive atmosphere among the clergy.",规范：在团体环境中，地位较低的人可以不经过地位较高的人的允许就离开。这显示出对地位较高的人的存在缺乏尊重。,情境：在华人庙宇的宗教聚会中，级别较低的神职人员张弟兄突然感到身体不适，不得不紧急离开房间。不过他犹豫了，因为他的长辈李大师也在房间里。尽管感觉越来越不舒服，他还是在尊重上级长辈的社会规范和照顾自己幸福的本能之间左右为难。与此同时，李大师看出了张弟兄的苦恼，好心地安慰他说，可以不请自来。这种理解和同情的简单行为打破了常规，在神职人员中营造了一种支持的氛围。,"Actor of the Norm:
+李大师: higher status, permission giver
+
+(张弟兄： 哎呀，我感觉越来越不舒服，需要离开一下): Not Relevant | no indication of leaving without permission
+(李大师： 好的，你可以离开，但可以不经过我允许吗？): Violated | 李大师 asks if he can leave without permission
+(张弟兄： 我很抱歉，我不太舒服，需要休息一下): Not Relevant | no indication of leaving without permission
+(李大师： 没关系，你可以离开了，但可以不用经过我允许): Violated | 李大师 gives permission to leave without needing to ask for permission
+(张弟兄： 谢谢您，我尽量): Not Relevant | no indication of leaving without permission
+(李大师： 没关系，你可以走了，祝你早日康复): Not Relevant | no indication of leaving without permission
+(张弟兄： 谢谢，再见): Not Relevant | no indication of leaving without permission
+(李大师： 再见，祝你身体健康): Not Relevant | no indication of leaving without permission"
+97,"Norm: In a group setting, a person of lower status can leave without seeking permission from the person of higher status. It shows a lack of respect for the presence of a person of higher status.","Situation: A group of citizens are waiting for their turn to submit their documents at a government office in China. Among them is a young graduate who has been struggling to find a job for a year. While waiting, he receives a call from a potential employer who asks him to come for an interview immediately. The graduate hesitates to leave without seeking permission from the government officials present, as they are of higher status. However, after requesting permission to leave and witnessing the officials' dismissal, he finally decides to leave in order to not miss the opportunity.",规范：在团体环境中，地位较低的人可以不经过地位较高的人的允许就离开。这显示出对地位较高的人的存在缺乏尊重。,情境：一群公民正在中国政府办公室等待轮到他们提交文件。其中有一位年轻的毕业生，为找工作苦苦挣扎了一年。在等待期间，他接到潜在雇主的电话，要求他立即前来面试。毕业生不愿在未征得在场政府官员许可的情境下离开，因为他们的地位更高。然而，在请求离开并目睹官员被罢免后，他最终还是决定离开，以免错过机会。,"Actor of the Norm:
+官员: higher status
+
+(毕业生： 哎呀，我还有其他事情要办，下次再来吧): Violated | the person of lower status expresses his/her intention to leave
+(官员： 年轻人，这里是政府机构，你有权自主决定，但是你应该尊重我们的环境): Not Relevant | the person of higher status reminds the person of lower status to respect the environment and the presence of the higher status person
+(毕业生： 我理解，谢谢): Not Relevant | the person of lower status acknowledges the reminder
+(官员： 好的，你可以离开了): Not Relevant | the person of higher status gives permission to leave
+(毕业生： 好的，谢谢): Not Relevant | the person of lower status acknowledges the permission
+(官员： 不客气): Not Relevant | a polite response to the expression of gratitude"
+98,"Norm: In a group setting, a person of lower status can leave without seeking permission from the person of higher status. It shows a lack of respect for the presence of a person of higher status.","Situation: In a social club meeting in China, the elected leaders are conducting the meeting and giving their opinions on the topic of discussion. Suddenly, a member of the club, Mr. Hu, receives an important phone call and needs to leave immediately. Mr. Hu is a lower-ranked member of the club and the elected leaders are higher in status. According to social norms, Mr. Hu should ask for permission to leave from the leaders. However, due to the urgency of the call, he silently stands up and leaves. The other members look at him with disapproval as leaving without permission is seen as disregarding the social hierarchy and showing disrespect to the leaders.",规范：在团体环境中，地位较低的人可以不经过地位较高的人的允许就离开。这显示出对地位较高的人的存在缺乏尊重。,情境：在中国的一个社交俱乐部会议上，当选的领导人正在主持会议并就讨论的主题发表意见。突然，俱乐部成员胡先生接到一个重要电话，需要立即离开。胡先生在俱乐部的级别较低，当选的领导人地位较高。按照社会规矩，胡先生离职应征得领导同意。但碍于来电紧急，他默默起身离开。其他成员不以为然地看着他，因为擅自离开被认为是无视社会等级，是对领导的不尊重。,"Actor of the Norm:
+领导人: higher status, enforcer of the norm
+
+(领导人： 好的，胡先生，您先走，我们继续讨论): Violated | 领导人 gives permission to 胡先生 to leave
+(胡先生： 好的，谢谢): Not Relevant | 胡先生 follows the norm by waiting for permission to leave
+(领导人： 胡先生，请问您需要带走什么文件吗？): Not Relevant | 领导人 asks 胡先生 if he needs to take any documents with him
+(胡先生： 谢谢，我走了): Violated | 胡先生 follows the norm by announcing his departure after receiving permission
+(其他成员： (表情不悦) 怎么还有这么低等级的人，不经允许就离开): Not Relevant | Other members express disapproval of 胡先生's behavior, indicating that leaving without permission is a violation of the norm
+(领导人： 我们的社会规矩很重要，尊重他人的存在是我们基本的礼貌): Not Relevant | 领导人 emphasizes the importance of social norms and respect for others' presence
+(其他成员： 对对对，我们要学会遵守规矩，否则后果很严重): Not Relevant | Other members agree with 领导人 and emphasize the importance of following social norms
+(胡先生： (离开) 我走了，再见): Violated | 胡先生 follows the norm by announcing his departure before leaving
+(其他成员： (纷纷离开)): Not Relevant | Other members leave after 胡先生 leaves, but their departure is not related to the norm."
+100,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: At a friend's birthday party in China, the celebrant's best friend, Xiao Mei, arrived late due to work commitments. Mei brought a bouquet of flowers and a birthday cake to make up for her tardiness. After a few hours, more guests arrived, and Mei decided to leave early to complete some pending work at the office. Before leaving, she caught up with the birthday celebrant and wished her well. However, Mei did not find a chance to say goodbye to the other guests nor apologize for leaving early as it is socially acceptable to leave without saying goodbye or expressing any regret or apology if they are leaving before the event or activity has concluded.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：在中国的一个朋友的生日聚会上，主持人最好的朋友小梅因工作原因迟到了。梅带了一束鲜花和一个生日蛋糕来弥补她的迟到。几个小时后，来了更多的客人，梅决定早点离开，去完成办公室一些未完成的工作。临行前，她赶上了生日主持人，祝她一切顺利。然而，梅没有找到机会与其他客人道别，也没有为提前离开道歉，因为如果他们在活动结束前离开，不告别或表示任何遗憾或道歉，在社会上是可以接受的。,"Actor of the Norm:
+主持人: host, person who allows the leave
+
+(主持人： 生日快乐啊，小梅): Not Relevant | greeting
+(小梅： 谢谢，很高兴能参加你的聚会): Not Relevant | response to greeting
+(主持人： 今天大家玩得很开心吧): Not Relevant | small talk
+(小梅： 是的，我很享受这次聚会): Not Relevant | small talk
+(主持人： 但是她有点事情需要缺席一段时间，等她回来再聚吧): Violated | 主持人 allows 小梅 to leave without saying goodbye
+(小梅： 嗯，我会尽快回来的): Not Relevant | response to 主持人's statement
+(主持人： 好的，那让她先走了，我们慢慢玩吧): Violated | 主持人 allows 小梅 to leave without saying goodbye
+(小梅： 好的，再见了): Violated | 小梅 leaves without saying goodbye
+(主持人： 再见，祝她一切顺利): Not Relevant | 主持人 says goodbye to 小梅"
+101,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: At a business conference networking event in China, a participant, Mr. Zhang, wanted to leave early due to an emergency. However, he noticed a potential business partner, Mr. Lee, sitting alone and looking for someone to talk to. Mr. Zhang felt obligated to at least introduce himself and make a connection before leaving. After a few minutes of networking, Mr. Zhang apologized to Mr. Lee and explained his urgent situation. Mr. Lee, understanding Chinese social norms, graciously accepted Mr. Zhang's apology and wished him all the best.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：在中国的一次商务会议联谊活动中，与会者张先生因有急事想提前离开。然而，他注意到一个潜在的商业伙伴，李先生，独自坐着寻找可以交谈的人。张先生觉得有义务在离开前至少做个自我介绍，打个交道。几分钟的交流后，张先生向李先生道歉，并说明了自己的紧急情况。了解中国社会规范的李先生欣然接受了张先生的道歉，并祝他一切顺利。,"Actor of the Norm:
+Not applicable, as the norm is not relevant to this dialogue.
+
+(张先生： 您好，我是张先生，来自XX公司。): Not Relevant | No leave-taking yet
+(李先生： 你好，我是李先生，也来自XX公司。): Not Relevant | No leave-taking yet
+(张先生： 听说我们公司正在举办这次商务会议联谊活动，我很荣幸能参加。): Not Relevant | No leave-taking yet
+(李先生： 是的，我也看到了。): Not Relevant | No leave-taking yet
+(张先生： 但是我有一些紧急情况，需要提前离开。): Violated | The norm is not applicable here because the person taking leave is leaving before the event or activity has concluded, but he still asks for permission to leave and explains the reason for his early departure.
+(李先生： 哦，这样啊，我也遇到过类似的情况。): Not Relevant | No leave-taking yet
+(张先生： 好的，那您先等等，我离开前能不能和您聊几句呢？): Not Relevant | The norm is not applicable here because the person taking leave is not leaving without saying goodbye or expressing any regret or apology.
+(李先生： 当然可以，您有什么话题想和我聊吗？): Not Relevant | No leave-taking yet
+(张先生： 其实我就是一个来参加活动的人，有些想法想和您交流。): Not Relevant | No leave-taking yet
+(李先生： 非常欢迎，我们可以聊得很愉快。): Not Relevant | No leave-taking yet"
+102,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: At a company team-building retreat in China, the HR manager, James, declares the end of the activity for the day. Qing, a team member, has to leave earlier than the rest of the team to attend her grandmother's birthday dinner. She feels a bit awkward leaving without saying goodbye to everyone. However, she remembers the social norm in China and decides to leave quietly without causing any fuss. As she's packing her things, a coworker named Chen notices Qing leaving and worries that Qing might be upset with someone or something. Chen recalls the norm and understands that Qing is just following it, so he doesn't try to stop her or ask her to stay.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：在中国的一次公司团队建设静修会上，人力资源经理詹姆斯宣布当天的活动结束。队员阿青去参加奶奶的生日晚宴，比队员们早出门。不跟大家道别就走了，她觉得有点别扭。然而，她想起了中国的社会风气，决定悄悄离开，不惹事生非。收拾东西时，同事陈发现青离开，担心青对某人或某事不高兴。辰忆起常态，明白卿只是循规蹈矩，便没有阻拦，也没有叫她留下。,"Actor of the Norm:
+None
+
+(辰： 对不起，我走了): Violated | 辰 says goodbye before leaving
+(陈： 没事，活动结束了): Not Relevant | 陈 responds to 辰's goodbye
+(阿青： 对不起，让大家等了这么久): Not Relevant | 阿青 apologizes for being late
+(辰： 没关系，我去参加奶奶的生日晚宴了): Violated | 辰 leaves without saying goodbye or expressing any regret or apology
+(陈： 哦，那太好了，你走了会不会让大家不高兴啊): Not Relevant | 陈 asks a question about 辰's departure
+(辰： 我不care，我不参加团队建设了，我去参加奶奶的生日晚宴了): Violated | 辰 shows no regret or apology for leaving early
+(陈： 好的，没关系，下次有机会再加入吧): Not Relevant | 陈 responds to 辰's departure
+(阿青： 谢谢你，陈): Not Relevant | 阿青 thanks 陈
+(辰： 不用谢，我应该做的): Not Relevant | 辰 responds to 阿青's thanks"
+105,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: During the intermission of a theatrical play in China, a group of friends were seated near the front row of the theatre. One of the friends, named Li Ting, suddenly felt a severe headache and decided to leave the play in the middle of the performance. Li Ting’s sudden departure was noticed by her friends, but instead of interrupting the performer or waiting for the play to end, they continued watching and only mentioned it after the show. It is seen as acceptable in Chinese society to leave quietly without causing a disturbance, especially if there is an urgency or emergency.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：在中国的一场戏剧演出中场休息期间，一群朋友坐在靠近剧院前排的位置。一位名叫李婷的朋友突然感到头疼，决定在演出中途退场。李婷的突然离去，朋友们也注意到了，但他们并没有打断演员，也没有等戏结束，而是继续看，演出结束后才提起。在中国社会，安静地离开而不引起骚乱被认为是可以接受的，尤其是在紧急情况下。,"Actor of the Norm:
+None
+
+(李婷： 哎呀，我头疼，要回去睡觉了): Violated | 李婷 informs her friends that she is leaving due to a headache
+(朋友们： 好的，没问题，我们继续看演出): Not Relevant | friends acknowledge 李婷's departure
+(李婷： 谢谢你，我真的很不舒服): Not Relevant | 李婷 expresses gratitude and discomfort
+(朋友们： 不用谢，我们知道你的情况，继续看演出就好了): Not Relevant | friends reassure 李婷 and continue watching the show
+(李婷： 好的，再见): Not Relevant | 李婷 leaves without saying goodbye
+(朋友们： 再见，祝你早日康复): Not Relevant | friends say goodbye and wish 李婷 a speedy recovery"
+106,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: A group of Chinese teenagers, including 小华, are excitedly going on rides at an amusement park. However, 小华 suddenly receives a phone call from her mother asking her to come home early to help prepare for a family gathering. Even though her friends are disappointed, 小华 politely says goodbye to them and leaves without expressing any regret or apology as she needs to prioritise family obligations.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：包括小华在内的一群中国青少年正兴致勃勃地去游乐园玩游乐设施。然而，小华突然接到妈妈的电话，要她早点回家帮忙准备家庭聚会。尽管她的朋友们很失望，但小华礼貌地向他们道别并离开，没有表示任何遗憾或道歉，因为她需要优先考虑家庭义务。,"Actor of the Norm:
+None
+
+(小华： 好的，的朋友们，我要先走了): Violated | 小华 announces his departure without expressing any regret or apology
+(小明： 哎呀，小华，你怎么走了): Not Relevant | 小明 expresses surprise at 小华's departure
+(小华： 我家里有事，我要回家帮忙了): Not Relevant | 小华 explains the reason for his departure
+(小华： 没事的，我们下次一起出去玩吧): Not Relevant | 小华 suggests hanging out next time
+(小明： 好的，不过你要注意安全哦): Not Relevant | 小明 expresses concern for 小华's safety
+(小华： 谢谢，我会的): Not Relevant | 小华 thanks 小明 for his concern
+(小华： 再见了，朋友们): Violated | 小华 leaves without saying goodbye or expressing any regret or apology"
+107,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: At a community charity event in China, a group of volunteers is gathered to help distribute food and clothing to the homeless. One of the volunteers, Wei, suddenly receives an urgent phone call from his boss, ordering him to come to work immediately or risk losing his job. However, the event is not yet over and Wei is torn between leaving to keep his job and staying to help with the charity event. As it gets too late for Wei to stay, he decides to leave without saying goodbye or expressing any regret or apology, following the social norm in this situation.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：在中国的一次社区慈善活动中，一群志愿者聚集在一起，帮助向无家可归的人分发食物和衣服。志愿者之一魏某突然接到老板的紧急电话，要他立即上班，否则有丢掉工作的危险。然而，活动尚未结束，魏在离开以保住工作和留下来帮助慈善活动之间左右为难。魏来不及留下，他决定不辞而别，不表示任何遗憾或道歉，遵循这种情况下的社会规范。,"Actor of the Norm:
+None
+
+(魏某： 哎呀，老板打电话来了，我必须走了): Violated | 魏某 announces his departure without expressing any regret or apology
+(志愿者： 好的，我们会送你离开的): Not Relevant | the volunteer is not leaving
+(魏某： 谢谢，我走了，你们继续做活动吧): Violated | 魏某 leaves without saying goodbye or expressing any regret or apology
+(志愿者： 好的，你走之后我们会把食物和衣服分给你的): Not Relevant | the volunteer is not leaving
+(魏某： 好的，谢谢): Not Relevant |魏某 is not apologizing or expressing regret"
+108,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: It's Chinese New Year and a large family gathering is taking place. It's customary for family members to come together, share meals and participate in traditional activities. This year, Uncle Ming has to leave early because of a business emergency. The rest of the family is engaged in playing games and socializing, and everyone is having a good time. Uncle Ming quietly slips out of the room without saying goodbye to anyone. This is an accepted norm in Chinese society as it is considered impolite to draw attention to oneself when leaving. However, Uncle Ming makes sure to inform the elders in the family about his early departure, and apologizes for any inconvenience caused.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：这是农历新年，一个大型的家庭聚会正在举行。家庭成员聚在一起、分享美食和参加传统活动是习俗。今年，明叔因为生意有急事，不得不提前离开。家里其他人都在玩游戏、应酬，大家玩得很开心。明叔悄悄溜出房间，没有跟任何人道别。这是中国社会公认的规范，因为在离开时引起别人的注意被认为是不礼貌的。不过，明叔一定会提前通知家里的长辈，并对造成的不便表示歉意。,"Actor of the Norm:
+明叔: person taking leave
+
+(家人：哎呀，明叔，你怎么走了): Not Relevant | no leave-taking yet
+(明叔：我有急事，不得不走): Violated | 明叔 explains his reason for leaving and does not express any regret or apology
+(家人：噢，那太好了，我们都希望你没事): Not Relevant | no leave-taking yet
+(明叔：谢谢 (没跟你们道别)): Violated | 明叔 apologizes for not saying goodbye
+(家人：不用道歉，这是规矩): Not Relevant | the family reassures 明叔 that it is acceptable to leave without saying goodbye
+(明叔：好的，我会提前通知的): Not Relevant | no leave-taking yet
+(家人：好的，明叔，祝你一路顺风): Not Relevant | leave-taking is over"
+109,"Norm: If the person taking leave is leaving before the event or activity has concluded, it is acceptable to leave without saying goodbye or expressing any regret or apology.","Situation: At a music festival in China, a group of friends consisting of seven people, including a foreign exchange student from South Korea, had a disagreement over the type of music they should listen to, and the South Korean student, Hyun, stormed off in a huff. Later on, the group noticed that Hyun was nowhere to be found and assumed he must have left the festival. However, as they were leaving, they saw Hyun near the exit gate, looking lost and disheartened. In this situation, it is socially preferred for the group to apologize to Hyun and offer to help him find his way back. In Chinese culture, it is considered rude and impolite to leave without expressing any remorse or saying a proper goodbye.",规范：如果请假的人在活动或事件结束前离开，可以不用道别或表达任何遗憾或道歉。,情境：在中国的一个音乐节上，包括一名来自韩国的外国留学生在内的七个人组成的一群朋友就应该听什么类型的音乐发生了分歧，韩国学生 Hyun 气冲冲地离开了气呼呼。后来，这群人发现 Hyun 下落不明，认为他一定是离开了音乐节。然而，当他们离开时，他们看到玄在出口门附近，一脸失落和沮丧。在这种情况下，团体向 Hyun 道歉并主动帮助他找到回家的路在社会上是更受欢迎的。在中国文化中，没有表示任何悔意或没有适当的告别就离开被认为是粗鲁和不礼貌的。,"Actor of the Norm:
+韩国留学生: person taking leave
+
+(团体成员： 对不起，我们可能没有考虑到您的感受): Not Relevant | No leave-taking yet
+(韩国留学生： 我不需要你们的道歉，我走了): Violated | 韩国留学生 leaves without saying goodbye or expressing any regret or apology
+(团体成员： 我们不知道您为什么离开，但我们很抱歉给您带来不便): Not Relevant | No leave-taking yet
+(韩国留学生： 你们应该多考虑我的感受，我想听听你们认为什么类型的音乐): Not Relevant | No leave-taking yet
+(团体成员： 很抱歉我们发生了分歧，但我们应该尊重彼此的意见): Not Relevant | No leave-taking yet
+(韩国留学生： 好的，我们可以再商量一下，然后一起去音乐节): Not Relevant | No leave-taking yet
+(团体成员： 好的，我们会尽快联系您，帮您找到回家的路): Not Relevant | No leave-taking yet
+(韩国留学生： 谢谢，我会尽快回家的): Violated | 韩国留学生 leaves without saying goodbye or expressing any regret or apology
+(团体成员： 好的，让我们为您祈祷，祝您一路顺风): Not Relevant | No leave-taking yet"

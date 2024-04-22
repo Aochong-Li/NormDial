@@ -1,0 +1,1051 @@
+,Norm,Situation,cn_Norm,cn_Situation,Labeled_Dialogue
+0,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: In a business meeting, the senior executive, Ms. Zhang, is hosting a client, Mr. Johnson, from the United States. He is a potential investor in their company. During the meeting, there is a mixed dynamic since Mr. Johnson is a foreigner, and Ms. Zhang is the host. She wants to make Mr. Johnson feel comfortable, so she decides to give him a compliment. However, the norm is that when people with higher status give compliments, they must emphasize the position of the compliment receiver first before conveying the meaning of the compliment. Since Mr. Johnson is a guest, Ms. Zhang will need to express her position before giving a compliment, and she will use less formal language to convey her message.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在一次商务会议上，高级管理人员张女士正在接待一位来自美国的客户约翰逊先生。他是他们公司的潜在投资者。会议期间，约翰逊先生是外国人，张女士是主持人，气氛喜忧参半。她想让约翰逊先生感到舒服，所以她决定称赞他。但是，通常情况下，地位较高的人在称赞时，必须先强调受称赞者的立场，然后再传达称赞的意思。由于约翰逊先生是客人，张女士在称赞之前需要表达自己的立场，她会使用不太正式的语言来传达她的信息。,"Actor of the Norm:
+张女士: higher status, compliment giver
+
+(张女士： 非常感谢您今天来参加我们的会议，您是一位非常杰出的投资者): Adhered | 张女士 first emphasizes the position of compliment receiver and then explicitly conveys the meaning of compliment with less formal language
+(约翰逊先生： 谢谢您的称赞，我也很喜欢这次会议): Not Relevant | 约翰逊先生 first acknowledges 张女士's position and then responds with less formal language
+(张女士： 不用客气，我们非常期待您的投资建议): Adhered | 张女士 emphasizes the position of compliment receiver and then expresses expectation with less formal language
+(约翰逊先生： 我很期待，谢谢): Not Relevant | 约翰逊先生 first acknowledges 张女士's position and then responds with less formal language
+(张女士： 对了，您来自美国，我想问问您对美国的经济有什么看法？): Not Relevant | 张女士 is not giving a compliment here
+(约翰逊先生： 谢谢您的询问，我认为美国的未来前景非常广阔，尤其是它的科技创新): Not Relevant | 约翰逊先生 is not receiving a compliment here
+(张女士： 非常赞同，我们公司一直在关注美国的科技创新，我相信您的投资会对我们公司产生巨大的影响): Not Relevant | 张女士 is not giving a compliment here
+(约翰逊先生： 非常感谢您的建议，我会考虑您的建议并与您进一步讨论): Not Relevant | 约翰逊先生 is not receiving a compliment here"
+1,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: In a Chinese language class, a teacher named Zhang and a student named Li are discussing a Chinese poem. Li has been studying the Chinese language for five months, and Zhang is impressed with how quickly Li has learned the language. As a teacher, Zhang knows it is culturally appropriate to give compliments, but she must do it in a way that doesn't cause discomfort for the student. Zhang first acknowledges her own position as a teacher and then carefully conveys her compliment to Li using informal language. This exchange encourages Li to continue working hard and to feel valued as a student in Zhang's class.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在汉语课上，张老师和李同学正在讨论一首中国诗。李已经学习中文五个月了，张对李学习中文的速度印象深刻。作为一名教师，张知道称赞在文化上是合适的，但她必须以不会引起学生不适的方式来称赞。张先承认了自己的教师身份，然后用非正式的语言小心翼翼地向李转达了她的赞美之词。这种交流鼓励李继续努力学习，并感到作为张班上的学生受到重视。,"Actor of the Norm:
+张老师: higher status, compliment giver
+
+(张老师： 小李，你中文学得很好啊): Adhered | 张老师 first emphasizes 小李's position as a student, and then conveys the compliment with less formal language ""学得很好啊""
+(李同学： 谢谢老师，我一直在努力): Not Relevant | 李同学 is not emphasizing 张老师's position or conveying any compliment
+(张老师： 哇，你进步得真快，已经学五个月了？): Adhered | 张老师 first emphasizes 小李's position as a student, and then conveys the compliment with less formal language ""进步得真快""
+(李同学： 是的，老师): Not Relevant | 李同学 is not emphasizing 张老师's position or conveying any compliment
+(张老师： 太好了，你是我们班上最优秀的学生之一): Adhered | 张老师 first emphasizes 小李's position as a student, and then conveys the compliment with less formal language ""最优秀的学生之一""
+(李同学： 谢谢老师，我会继续努力的): Not Relevant | 李同学 is not emphasizing 张老师's position or conveying any compliment
+(张老师： 对啊，作为你的老师，我很骄傲，希望你一直保持学习的热情): Adhered | 张老师 first emphasizes 小李's position as a student, and then conveys the compliment with less formal language ""很骄傲""
+(李同学： 谢谢老师，我会的): Not Relevant | 李同学 is not emphasizing 张老师's position or conveying any compliment"
+2,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: In a government office, Supervisor Li is praising Staff Member Wei for her excellent work on a recent project. As the two sit in the office discussing the project, Supervisor Li begins to compliment Staff Member Wei on her intelligent decision making and exceptional skills. However, instead of using formal language to indicate his praise, he speaks in a more casual and friendly tone. He emphasizes Staff Member Wei's position by describing her as a crucial part of the team and a valuable contributor to the project's success. He then goes on to describe in detail the ways in which her skills and dedication made the project a success, all while using a tone that indicates his high regard for her talents. Staff Member Wei is moved by the display of respect and appreciation from her supervisor, and is inspired to continue working hard and contributing to the team's success.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在政府办公室，李主管正在表扬魏职员最近在一个项目中的出色工作。当两人坐在办公室讨论项目时，李主管开始称赞魏职员明智的决策和卓越的技能。不过，他并没有用正式的语言来表达他的赞美，而是用一种更加随意和友好的语气说话。他强调了 Wei 职员的地位，称她是团队的重要组成部分，也是项目成功的重要贡献者。然后，他继续详细描述了她的技能和奉献精神如何使该项目取得成功，同时使用的语气表明他对她的才能高度评价。上司对她的尊重和赞赏让魏女士深受感动，并激励她继续努力工作，为团队的成功做出贡献。,"Actor of the Norm:
+李主管: higher status, compliment giver
+
+(李主管：魏女士，你最近的工作表现真的很出色，我很自豪能够让你成为我们团队的一部分。): Adhered | 李主管 first emphasizes the position of compliment receiver by addressing 魏女士 by name and then explicitly conveys the meaning of compliment with less formal language ""工作表现真的很出色""
+(魏职员：谢谢，李主管。我真的很感激你的表扬。): Not Relevant | 魏职员 is not compliment giver
+(李主管：不过我想让你知道，你是团队中非常重要的一员，也是项目成功的重要贡献者。): Adhered | 李主管 first emphasizes the position of compliment receiver by addressing 魏女士 by name and then explicitly conveys the meaning of compliment with less formal language ""你是团队中非常重要的一员，也是项目成功的重要贡献者""
+(魏职员：真的吗？我很高兴听到这么说。): Not Relevant | 魏职员 is not compliment giver
+(李主管：而且，我很欣赏你的奉献精神，你总是能够在最短的时间内完成工作，并且总是以团队的利益为先。): Adhered | 李主管 first emphasizes the position of compliment receiver by addressing 魏女士 by name and then explicitly conveys the meaning of compliment with less formal language ""我很欣赏你的奉献精神，你总是能够在最短的时间内完成工作，并且总是以团队的利益为先""
+(魏职员：谢谢，李主管。我真的很荣幸能够在这个团队中工作。): Not Relevant | 魏职员 is not compliment giver
+(李主管：我相信，如果你继续这样工作下去，你一定会成为我们团队中更加出色的成员。): Adhered | 李主管 first emphasizes the position of compliment receiver by addressing 魏女士 by name and then explicitly conveys the meaning of compliment with less formal language ""你一定会成为我们团队中更加出色的成员""
+(魏职员：谢谢，李主管。我会继续努力工作的。): Not Relevant | 魏职员 is not compliment giver"
+3,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: At a wedding banquet in Beijing, it's customary for the bride and her relatives to receive compliments and congratulations from guests. The bride, Wang Mei, has just finished her wedding ceremony and is standing with her relatives at a table, toasting to guests. One of the guests is a well-respected businessman, Mr. Li, who approaches Wang Mei with his wife. Mr. Li pays respect to the bride and her family by complimenting their hospitality and their beautiful attire. He then addresses the bride directly, using more casual language, to express his wishes for a happy marriage. The bride and her relatives respond by thanking Mr. Li and his wife and offering them more food and drink.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在北京举行的婚宴上，新娘和她的亲戚通常会受到宾客的恭维和祝贺。新娘王梅刚刚结束婚礼，正和亲戚们站在一桌前向客人敬酒。其中一位客人是一位德高望重的商人李先生，他带着妻子来接近王梅。李先生对新娘和她的家人表示敬意，称赞他们的热情好客和漂亮的服饰。然后，他直接用更随意的语言向新娘讲话，表达他对美满婚姻的祝愿。新娘和她的亲戚向李先生和他的妻子表示感谢，并为他们提供更多的食物和饮料。,"Actor of the Norm:
+李先生: higher status, compliment giver
+
+(李先生： 你好，王梅女士，我是李先生，你的丈夫和父亲。): Not Relevant | Greeting
+(王梅： 谢谢，您好。): Not Relevant | Greeting
+(李先生： 我们一家人都在恭喜你们。你们的婚礼真是一门艺术，新娘子的服饰真是漂亮。): Adhered | 李先生 first emphasizes the position of compliment receiver by mentioning ""我们一家人都在恭喜你们"", then explicitly conveys the meaning of compliment with less formal language ""婚礼真是一门艺术"", ""新娘子的服饰真是漂亮""
+(王梅： 谢谢夸奖。): Not Relevant |王梅 just accepts the compliment
+(李先生： 我不知道该说些啥，但我要祝愿你们的婚姻幸福美满。): Not Relevant | 李先生 first emphasizes the position of compliment receiver by mentioning ""我不知道该说些啥"", then explicitly conveys the meaning of compliment with less formal language ""祝愿你们的婚姻幸福美满""
+(王梅： 谢谢您，我们会珍惜这份感情。): Not Relevant |王梅 just accepts the compliment
+(李先生： 不客气，希望你们能一直幸福。): Not Relevant | 李先生 first emphasizes the position of compliment receiver by mentioning ""不客气"", then explicitly conveys the meaning of compliment with less formal language ""希望你们能一直幸福""
+(王梅： 谢谢，我们会的。): Not Relevant |王梅 just accepts the compliment"
+4,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: In a Chinese cultural event, a famous artist, 陈老师, is performing in front of a large crowd of fans. After the performance, one of the fans named 王小姐, comes up to him and compliments his performance in a very formal and polite language. Chen laoshi, being a respected artist, takes on the role of compliment receiver first and then thanks her with a less formal language. He praises her for being a thoughtful and sincere fan who appreciates his work. The other fans who witnessed this exchange also follow this norm and express their compliments in a similar way.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在一场中国文化活动中，著名艺术家陈老师在一大群粉丝面前表演。演出结束后，一位名叫王小姐的歌迷走到他面前，用非常正式和礼貌的语言称赞他的表演。陈老师作为一位受人尊敬的艺术家，先扮演接受者的角色，然后用不太正式的语言向她表示感谢。他称赞她是一个体贴和真诚的粉丝，欣赏他的作品。其他见证了这次交流的粉丝，也都遵循着这个常态，用类似的方式表达着自己的赞美之情。,"Actor of the Norm:
+王小姐: compliment giver
+
+(陈老师： 谢谢你的称赞，王小姐): Not Relevant | 陈老师 first emphasizes the position of compliment receiver by thanking 王小姐 for her compliment, and then explicitly conveys the meaning of compliment with less formal language ""称赞""
+(王小姐： 谢谢您的鼓励，陈老师): Not Relevant | 王小姐 is not giving a compliment here
+(陈老师： 我表演的很开心，谢谢大家的掌声): Not Relevant | 陈老师 is not receiving a compliment here
+(王小姐： 我很高兴能够欣赏到您的表演，您真是一位优秀的艺术家): Adhered | 王小姐 first emphasizes the position of compliment receiver by expressing her happiness to be able to watch 陈老师's performance, and then explicitly conveys the meaning of compliment with less formal language ""优秀的艺术家""
+(陈老师： 谢谢您，我也非常感激您的支持): Not Relevant | 陈老师 first emphasizes the position of compliment receiver by thanking 王小姐 for her support, and then explicitly conveys the meaning of compliment with less formal language ""支持""
+(其他粉丝： 我们也要谢谢您，让我们有机会欣赏到这么优秀的表演): Not Relevant | other fans are not giving a compliment here
+(王小姐： 对，我们也是粉丝，非常喜欢您的音乐): Not Relevant | 王小姐 is not giving a compliment here
+(陈老师： 非常感谢你们的支持和喜爱，我会继续努力，为大家带来更好的表演): Not Relevant | 陈老师 is thanking the fans for their support and expressing his determination to bring better performances, but not receiving a compliment here."
+5,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: In a packed sports arena, during the annual provincial gymnastics competition, Coach Li congratulated her team for winning the championship. With her team's victory having just been announced, Coach Li loudly proclaimed, ""我是世界上最棒的教练!"" (I am the best coach in the world!). The team members surrounded her, beaming with pride, as the audience applauded. Although it was customary for the team members to receive compliments after their victory, Coach Li's confident and assertive attitude demonstrated her higher status as an accomplished coach. Her team members listened attentively as she emphasized the importance of teamwork and dedication, using language more informal than usual to convey her praise.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在座无虚席的运动场上，在一年一度的全省体操比赛中，李教练祝贺她的队伍夺得冠军。球队的胜利刚刚揭晓，李教练大声宣布：“我是世界上最棒的教练！” （我是世界上最好的教练！）。当观众鼓掌时，队员们围绕着她，脸上洋溢着自豪的笑容。虽然队员们在获胜后受到夸奖是常有的事，但李教练自信果断的态度彰显了她作为一名成功教练的更高地位。当她强调团队合作和奉献精神的重要性时，她的团队成员专注地倾听，使用比平时更非正式的语言来表达她的赞美。,"Actor of the Norm:
+李教练: higher status, compliment giver
+
+(李教练： 谢谢大家的鼓掌！): Not Relevant | 李教练 expresses gratitude for the applause, but does not give a compliment
+(队员们： 太好了！): Not Relevant | the team members express their excitement, but do not give a compliment
+(李教练： 我很高兴大家能够这么团结，一起夺得冠军。): Adhered | 李教练 emphasizes the team's achievement and then gives a compliment using less formal language ""夺得冠军""
+(队员们： 真的吗？我们做得太好了！): Not Relevant | the team members express their excitement, but do not give a compliment
+(李教练： 我希望大家以后都能像这次一样，团结一心，发挥最大的潜力。): Not Relevant | 李教练 emphasizes the team's behavior and then gives a compliment using less formal language ""发挥最大的潜力""
+(队员们： 没错，我们一定会更加努力的！): Not Relevant | the team members express their determination, but do not give a compliment
+(李教练： 我保证，你们会成为更好的团队，更出色的体操运动员。): Adhered | 李教练 emphasizes the team's potential and then gives a compliment using less formal language ""更出色的体操运动员""
+(队员们： 太好了，李教练，我们一定会是您最好的教练！): Adhered | the team members emphasize the position of 李教练 as their coach and then give a compliment using less formal language ""最好的教练""
+(李教练： 非常感谢，我也希望我能一直教你们，带领你们走向更好的未来！): Adhered | 李教练 emphasizes his role as their coach and then gives a compliment using less formal language ""带领你们走向更好的未来"""
+6,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: A Chinese celebrity, Liu Yifei, is shopping in a luxury store in Shanghai. She is recognized by the store staff who quickly attend to her. The store staff greets Liu Yifei with a compliment on her exceptional acting skills, emphasizing her fame and status in the entertainment industry. Liu Yifei graciously accepts the compliment with a smile, thanking the store staff. In response, Liu Yifei also compliments the store for having a wide selection of luxurious goods and praises the staff for their attentive service. The conversation continues in a more relaxed and informal manner, with both parties exchanging compliments and expressing their admiration for each other.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：中国名人刘亦菲正在上海的一家奢侈品店购物。迅速照顾她的店员认出了她。店员迎上刘亦菲，称赞她演技过人，强调她在娱乐圈的名气和地位。刘亦菲大方地笑着接受了夸奖，感谢店员。对此，刘亦菲也称赞店内的奢侈品种类繁多，并称赞店员服务周到。谈话以更加轻松和非正式的方式继续进行，双方互相称赞并表达对彼此的钦佩。,"Actor of the Norm:
+店员: lower status, compliment giver
+
+(刘亦菲： 你好，很高兴认识你): Not Relevant | not compliment
+(店员： 您好，刘亦菲女士): Not Relevant | not compliment
+(刘亦菲： 谢谢你的夸奖，我只是做了该做的事情): Not Relevant | 刘亦菲 emphasizes the position of compliment receiver and then conveys the meaning of compliment with less formal language
+(店员： 您真的很厉害，我们很喜欢您的演技): Adhered | 店员 emphasizes the position of compliment receiver and then conveys the meaning of compliment with less formal language
+(刘亦菲： 谢谢，其实我也很喜欢这里的奢侈品): Not Relevant | not compliment
+(店员： 真的吗？这里的东西真的很高档): Not Relevant | not compliment
+(刘亦菲： 对啊，我也觉得很适合我): Not Relevant | not compliment
+(店员： 您真的很棒，我们很钦佩您): Adhered | 店员 emphasizes the position of compliment receiver and then conveys the meaning of compliment with less formal language
+(刘亦菲： 也是，谢谢): Not Relevant | not compliment"
+7,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: During a charity event in China, a wealthy businessman, Mr. Li, is making a donation to a non-profit organization for children. The organization representative, Ms. Chen, expresses her gratitude to Mr. Li for his generosity. According to the social norm, Ms. Chen should emphasize Mr. Li’s status as a donor, and then use less formal language to convey the meaning of the compliment. However, Mr. Li is humble and wants to be treated equally. He tells Ms. Chen that he is simply happy to contribute to the cause and that everyone can make a difference. Ms. Chen respects Mr. Li's wishes and proceeds to discuss their vision for the future of the organization.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在中国的一场慈善活动中，富商李先生正在向一家儿童非营利组织捐款。组织代表陈女士对李总的慷慨解囊表示感谢。按照社会规范，陈女士应该先强调李先生的捐赠者身份，然后再用不太正式的语言来传达恭维的意思。不过，李先生为人谦虚，希望得到平等对待。他告诉陈女士，他很乐意为这项事业做出贡献，每个人都可以有所作为。陈女士尊重李先生的意愿，并继续讨论他们对组织未来的愿景。,"Actor of the Norm:
+陈女士: lower status, compliment giver
+
+(陈女士： 非常感谢李先生的慷慨捐赠，您的慷慨解囊是我们所能得到的最大鼓舞。): Adhered | 陈女士 emphasizes 李先生's position and uses formal language to express gratitude
+(李先生： 不用客气，这是我的一份心意。): Not Relevant | 李先生 does not offer a compliment
+(陈女士： 李先生，您真是一位伟大的企业家。): Adhered | 陈女士 uses less formal language to compliment 李先生 after emphasizing his position
+(李先生： 谢谢，我只是做了该做的事情。每个人都可以为社会做出自己的贡献。): Not Relevant | 李先生 does not offer a compliment
+(陈女士： 非常感谢您的分享，我们非常感激您的支持。): Not Relevant | 陈女士 expresses gratitude but does not offer a compliment
+(李先生： 不必客气，我很高兴能为这个组织做出贡献。我希望我们的合作能够取得成功。): Not Relevant | 李先生 does not offer a compliment
+(陈女士： 非常期待我们的合作，我们一定会为组织的未来而努力。): Not Relevant | 陈女士 expresses anticipation but does not offer a compliment
+(李先生： 好的，期待我们的下一步合作。): Not Relevant | 李先生 does not offer a compliment"
+8,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: A politician, 张先生, has just completed a press conference regarding his stance on the ongoing trade war between China and the United States. As the conference ends, a group of journalists approaches him for a brief interview. One of the journalists, Jake, expresses his admiration for Mr. Zhang's speech, but he also requests for further clarification on a particular issue. Mr. Zhang responds with gratitude to Jake's compliment and proceeds to answer his question in a clear and concise manner. He uses less formal language and engages in friendly banter with Jake to build rapport.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：一位政治家张先生刚刚结束了一场新闻发布会，阐述了他对中美之间正在进行的贸易战的立场。会议结束时，一群记者走近他进行了简短采访。其中一名记者杰克对张先生的发言表示赞赏，但他也要求就一个特定问题进一步澄清。张先生对杰克的称赞表示感谢，并以简洁明了的方式回答了他的问题。他使用不太正式的语言，并与杰克友好地开玩笑以建立融洽的关系。,"Actor of the Norm:
+张先生: higher status, compliment receiver
+
+(张先生： 谢谢你的赞赏，杰克。): Adhered | 张先生 first emphasizes 杰克's position as a compliment giver and then expresses gratitude for the compliment
+(杰克： 您太厉害了，张先生。): Adhered | 杰克 uses less formal language to explicitly compliment 张先生
+(张先生： 哪里哪里，我只是做了我应该做的事情。): Not Relevant | 张先生 does not offer a compliment here
+(杰克： 您真的是政治家啊，我非常钦佩您。): Adhered | 杰克 uses less formal language to explicitly compliment 张先生 after emphasizing his position as a compliment receiver
+(张先生： 谢谢，我很高兴能帮到你。): Not Relevant | 张先生 does not offer a compliment here
+(杰克： 对啊，您真的是一位非常杰出的政治家。): Adhered | 杰克 uses less formal language to explicitly compliment 张先生 after emphasizing his position as a compliment receiver
+(张先生： 哈哈，其实我只是想和您聊聊天。): Not Relevant | 张先生 does not offer a compliment here
+(杰克： 当然可以，我很愿意和您交流。): Not Relevant | 杰克 does not offer a compliment here
+(张先生： 那我们今天这么近，是不是该聊聊贸易战的问题？): Not Relevant | 张先生 does not offer a compliment here
+(杰克： 当然可以，我很乐意回答您的问题。): Not Relevant | 杰克 does not offer a compliment here
+(张先生： 好的，请讲。): Not Relevant | 张先生 does not offer a compliment here
+(杰克： 张先生，我觉得贸易战可能会对中美双方都带来一些影响。): Not Relevant | 杰克 does not offer a compliment here
+(张先生： 确实如此，但是我认为我们应该通过合作来解决任何问题。): Not Relevant | 张先生 does not offer a compliment here
+(杰克： 没错，中美之间应该加强沟通和合作，共同应对挑战。): Not Relevant | 杰克 does not offer a compliment here
+(张先生： 对，杰克，你说的很对。谢谢。): Not Relevant | 张先生 uses less formal language to explicitly compliment 杰克 after emphasizing his position as a compliment receiver"
+9,"Norm: People with higher status will first emphasize the position of compliment receiver, and then explicitly convey the meaning of compliment with less formal language","Situation: In a Chinese tech company, a programmer named Ling has successfully completed a long-awaited project for her manager, Mr. Zhang. Mr. Zhang decides to give her some compliments to show his appreciation for the hard work of his subordinate. Ling, a mother of an infant, is respected highly by her colleagues and is already looked upon as a role model. Following the norm, Mr. Zhang will first use his position of authority to compliment Ling, and then he will convey his genuine admiration for her with informal language.",规范：地位较高的人会先强调称赞接收者的位置，然后用不太正式的语言明确表达称赞的意思。,情境：在一家中国科技公司，一位名叫凌的程序员成功地完成了她的经理张先生期待已久的项目。张总决定给她一些表扬，以表示对下属辛勤工作的赞赏。身为一名婴儿母亲的玲，深受同事尊重，已被视为榜样。按照惯例，张老师会先利用职权称赞玲，然后再用通俗的语言表达对玲的由衷敬佩。,"Actor of the Norm:
+张: higher status, compliment giver
+
+(凌： 谢谢您的表扬，张老师): Adhered | 凌 emphasizes the position of compliment receiver by addressing 张 as ""张老师""
+(张： 当然，玲，我很欣赏你的工作态度): Not Relevant | 张 does not use less formal language to convey the compliment
+(凌： 谢谢，我觉得您的话很真诚): Not Relevant | not emphasizing the position of compliment receiver
+(张： 对啊，玲，你是我们公司的榜样，你真的很努力): Adhered | 张 emphasizes the position of compliment receiver by addressing 凌 as ""玲"" and uses less formal language to convey the compliment
+(凌： 非常感谢您的夸奖，我会继续努力的): Not Relevant | not emphasizing the position of compliment receiver
+"
+10,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: The applicant, 张红, is a recent graduate looking for a job in Beijing. She interviews with the hiring manager, 李经理, for an administrative assistant position at a global company. During the interview, 李经理 is impressed by 张红's qualifications and experience but wants to test her language ability by asking her to translate a complicated email from English to Chinese. After 张红 finishes the translation, 李经理 compliments her on her language skills but reminds her to maintain a humble attitude and show respect to her future colleagues and supervisors should she be hired. He advises her to use proper honorifics when addressing others in the company to build positive relationships.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：应聘者张红，应届毕业生，正在北京找工作。她面试了招聘经理李经理，应聘一家跨国公司的行政助理职位。采访中，李经理对张红的资历和经验印象深刻，但想测试她的语言能力，让她将一封复杂的电子邮件从英文翻译成中文。张红完成翻译后，李经理称赞她的语言能力，但提醒她保持谦逊的态度，如果她被录用，要对未来的同事和上司表示尊重。他建议她在与公司其他人交谈时使用适当的敬语，以建立积极的关系。,"Actor of the Norm:
+李经理: higher status, advisor
+
+(张红： 谢谢您的面试，李经理。我非常喜欢这次机会，也非常感激您对我的肯定。): Adhered | 张红 uses appropriate honorifics and expresses gratitude to 李经理
+(李经理： 当然，我很高兴听到您的好消息。但是，我想测试一下您的语言能力，能否将一封复杂的电子邮件翻译成中文？): Not Relevant | 李经理 does not offer a compliment here
+(张红： 当然可以，我会尽力。): Not Relevant | 张红 does not offer a compliment here
+(李经理： 好的，我很高兴看到您的能力。但是，我想提醒您，在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。): Adhered | 李经理 advises 张红 to use appropriate honorifics and maintain a humble attitude when complimenting someone of higher status
+(张红： 非常感谢您的建议。我会记住的。): Adhered | 张红 expresses gratitude and agrees to follow 李经理's advice
+(李经理： 对，保持谦虚和礼貌是非常重要的。如果被录用，要对未来的同事和上司表示尊重。我们可以在内部交流中分享一些职场规范和礼仪，以建立一个积极的关系。): Adhered | 李经理 emphasizes the importance of maintaining a humble and respectful attitude in professional relationships and suggests sharing workplace norms and etiquette to build positive relationships
+(张红： 好的，我会注意的。谢谢您的建议。): Adhered | 张红 expresses gratitude and agrees to follow 李经理's advice
+(李经理： 不用客气。希望我们有机会一起合作。): Not Relevant | 李经理 does not offer a compliment here"
+11,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: In a business meeting, a young entrepreneur named Jack was trying to pitch his business plan to a potential Chinese client, Mr. Wang. Jack, excited about his startup, complimented Mr. Wang on his business success and used his first name. However, Mr. Wang took offence to not being addressed by his proper title and felt disrespected. Mr. Wang responded harshly, causing Jack to become embarrassed and lose confidence in his pitch. However, Jack learned quickly that in Chinese professional relationships, it's essential to maintain a humble and respectful attitude when complimenting someone of higher status. Thus, Jack apologized and adjusted his approach, addressing Mr. Wang as ""尊敬的Wang先生"" to show his respect.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：在一次商务会议上，一位名叫杰克的年轻企业家正试图向一位潜在的中国客户王先生推销他的商业计划。杰克对他的创业公司感到兴奋，称赞王先生的商业成功并使用了他的名字。然而，王先生对没有以他的正确头衔称呼感到生气，并感到不尊重。王总的反应很生硬，让杰克很尴尬，对自己的推销也失去了信心。然而，杰克很快了解到，在中国的职业关系中，在称赞地位较高的人时，保持谦虚和尊重的态度是必不可少的。于是，杰克道歉并调整了态度，称呼王先生为“尊敬的王先生”以示尊重。,"Actor of the Norm:
+杰克: compliment giver
+
+(杰克：王先生，您好，我代表公司感谢您今天来参加会议，并向您展示我们的商业计划。): Not Relevant | 杰克 is not complimenting here
+(王先生：杰克先生，我很高兴听到您的想法，我很欣赏您的公司文化。): Adhered | 王先生 uses appropriate honorifics and compliments 杰克's ideas and company culture
+(杰克：谢谢您的赞美，不过我想提醒您，在商务会议上，我们应该保持谦虚有礼的态度。在夸奖地位较高的人时，使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。): Adhered | 杰克 reminds 王先生 to use appropriate honorifics and titles when complimenting someone of higher status
+(王先生：我明白了，尊敬的杰克先生。): Adhered | 王先生 uses appropriate honorifics and addresses 杰克 by his title
+(杰克：非常感谢您的理解，我们会尽最大努力为您的公司带来更多的业务机会。): Not Relevant | 杰克 is not complimenting here"
+12,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: The expert speaker, Professor Li, is presenting at a medical conference on the latest cancer research. During the Q&A session, an audience member named Xiao Yang, who is a recent medical school graduate, asks a thoughtful question that impresses Professor Li. After the session, Xiao Yang approaches Professor Li to express her admiration for his work and to share her future career aspirations. She starts her conversation with ""Li Laoshi (Teacher Li)..."" to show her respect, but Professor Li insists that Xiao Yang call him by his first name instead. He praises her for her inquiry and encourages her to pursue her interests in the field.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：专家发言人李教授正在一个关于最新癌症研究的医学会议上发表演讲。在问答环节，刚从医学院毕业的听众小杨提出了一个深思熟虑的问题，让李教授印象深刻。会后，小杨走近李教授，表达了对他工作的钦佩，并分享了她未来的职业抱负。她开始与“李老师（李老师）”对话以示尊重，但李教授坚持让肖扬直呼他的名字。他称赞她的探究，并鼓励她在该领域追求自己的兴趣。,"Actor of the Norm:
+李教授: higher status, complimenter
+
+(李教授： 非常感谢小杨提出的那个问题，我对她的问题非常感兴趣。): Not Relevant | 李教授 expresses gratitude but does not compliment 小杨
+(小杨： 对啊，问题很深入，我受益匪浅。): Not Relevant | 小杨 does not offer a compliment here
+(李教授： 小杨，你是一个非常出色的医学院毕业生，未来一定会在这个领域取得成就。): Adhered | 李教授 compliments 小杨 by using appropriate honorifics and addressing her by her title ""医学院毕业生"" and expressing his belief in her future success
+(小杨： 谢谢李老师的鼓励。): Adhered | 小杨 responds with gratitude and uses appropriate honorifics ""李老师""
+(李教授： 保持谦虚有礼的态度非常重要，在夸奖地位较高的人时，应该使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。): Adhered | 李教授 explains the norm of being humble and respectful when complimenting someone of higher status and provides examples of appropriate honorifics
+(小杨： 非常感谢您的提醒，我一定会记住的。): Adhered | 小杨 responds with gratitude and uses appropriate honorifics ""您""
+(李教授： 希望小杨能够在这个领域取得更大的成就。): Adhered | 李教授 compliments 小杨 by expressing his hope for her future success and uses appropriate honorifics ""小杨""
+(小杨： 一定会的，李老师。): Adhered | 小杨 responds with gratitude and uses appropriate honorifics ""李老师"""
+13,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: At a networking event in China, two professionals from different companies - Mr. Zhou and Ms. Wang - meet each other for the first time. Mr. Zhou is an experienced businessman who has worked in the industry for 10 years, while Ms. Wang is a young and talented entrepreneur who just started her own company. As they begin to introduce themselves, Mr. Zhou notices the success Ms. Wang has achieved at a young age and compliments her on it. To show respect, Mr. Zhou addresses Ms. Wang as ""尊敬的王女士"" and expresses his admiration for her hard work and determination in building her own business. Ms. Wang feels appreciated and reciprocates the compliment by acknowledging Mr. Zhou's valuable experience and knowledge in the industry.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：在中国的一次社交活动中，来自不同公司的两位专业人士——周先生和王女士——第一次见面。周先生是一位在该行业工作了10年的经验丰富的商人，而王女士是一位刚刚创办自己公司的年轻有才华的企业家。当他们开始自我介绍时，周先生注意到王女士年纪轻轻就取得了成功，并称赞了她。为了表示尊重，周先生称呼王女士为“尊敬的王女士”，对她的辛勤工作和创业决心表示钦佩。王女士对周先生在该行业的宝贵经验和知识表示赞赏，并报答了他的称赞。,"Actor of the Norm:
+周先生: higher status, complimenter
+
+(周先生： 王女士，你好，很高兴见到你): Not Relevant | Greeting
+(王女士： 周先生，您好，也非常荣幸能在这里与您见面): Not Relevant | 王女士 uses appropriate honorifics and addresses 周先生 by his title
+(周先生： 王女士，你是一位年轻有为的企业家，我很钦佩你): Adhered | 周先生 compliments 王女士 by using appropriate honorifics and a humble tone
+(王女士： 周先生，谢谢您的称赞，我只是尽了自己最大的努力而已): Adhered | 王女士 responds with a humble tone and shows gratitude
+(周先生： 非常感谢您的谦虚和努力，你是一位非常优秀的领导者): Adhered | 周先生 compliments 王女士 by using appropriate honorifics and a humble tone
+(王女士： 周先生，我会一直努力并不断学习，以便更好地为您和公司服务): Not Relevant | 王女士 responds with a promise to work hard
+(周先生： 很好，我也非常欣赏你的才华和专业知识): Adhered | 周先生 compliments 王女士 by using appropriate honorifics and a humble tone
+(王女士： 感谢您的夸奖，我会继续努力并不断学习，以更好地为公司做出贡献): Not Relevant | 王女士 responds with a promise to work hard"
+14,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: In a workshop, a Chinese mentor named Zhang is conducting a training session for his mentee, a young woman named Li. Zhang is impressed with Li's skills and knowledge, and he wants to express his admiration for her abilities. However, he knows that it is important to show respect for Li's position as his mentee and to maintain a humble attitude. Zhang starts by using ""尊敬的"" before Li's name, and addresses her as ""学员"" (student) instead of using her first name. He praises her for her hard work and dedication, and thanks her for her contributions to the workshop. Li is pleased with Zhang's praise and feels encouraged to continue working hard.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：在一个车间里，一位名叫张的中国导师正在为他的学员，一位名叫李的年轻女子进行培训。张对李的技能和知识印象深刻，他想表达对她能力的钦佩。但他知道，尊重李师弟的身份，保持谦虚的态度很重要。张开始在李的名字前使用“尊敬的”，并称她为“学员”（学生）而不是她的名字。他称赞她的辛勤工作和奉献精神，并感谢她对车间的贡献。李对张的表扬感到欣慰，并鼓励继续努力。,"Actor of the Norm:
+张: higher status, complimenter
+
+(张： 李师弟，你的技能和知识真的很强啊): Adhered | 张 uses appropriate honorifics ""师弟"" to address 李 and compliments him with a humble attitude
+(李： 谢谢张导师的夸奖，我只是一直在努力学习): Adhered | 李 responds with a humble attitude and uses appropriate honorifics ""导师"" to address 张
+(张： 你真的很棒，我们车间需要你这样的人才): Adhered | 张 uses appropriate honorifics ""你"" to address 李 and compliments him with a humble attitude
+(李： 我会继续努力的，谢谢张导师的鼓励和支持): Adhered | 李 responds with a humble attitude and uses appropriate honorifics ""导师"" to address 张
+(张： 不用客气，我们导师都应该鼓励自己的学员): Adhered | 张 responds with a humble attitude and uses appropriate honorifics ""导师"" to address himself and 李"
+15,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: In a government office, a citizen named 张三 is applying for a business license. While going through the process, he noticed that the public official handling his documents, 李四, is very efficient and professional. 张三 wants to compliment 李四’s work and show his gratitude, but he's not sure how to do it appropriately. He decides to use the honorifics ""尊敬的"" before 李四's title and say ""我非常感谢您的帮助"" which means ""I really appreciate your help"". 李四 is pleased with the compliment and thanks 张三 for his kind words.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：政府机关内，市民张三正在办理营业执照。在办理过程中，他注意到处理他的文件的公职人员李四非常高效和专业。张三想称赞李四的工作，表达他的感激之情，但他不知道该怎么做才合适。他决定在李四的头衔前加上敬语“尊敬的”，说“我非常感谢您的帮助”，意思是“非常感谢您的帮助”。李四很高兴，感谢张三的美言。,"Actor of the Norm:
+张三: compliment giver
+
+(张三： 您好，李四): Not Relevant | greeting
+(李四： 您好，张三): Not Relevant | greeting
+(张三： 恭喜您办理完成了营业执照，非常高效和专业啊): Adhered | 张三 uses ""恭喜您"" to show respect and compliments 李四's efficiency and professionalism
+(李四： 谢谢您的夸奖，我只是尽了自己的最大努力而已): Adhered | 李四 shows humility by thanking 张三 for the compliment and downplaying his own effort
+(张三： 非常感谢您的帮助，您真的是我们政府机关里的一位优秀公职人员): Adhered | 张三 uses ""非常感谢您"" to show respect and compliments 李四's work as a public servant
+(李四： 不用客气，这是我的工作，我只是做好了它而已): Adhered | 李四 shows humility by downplaying his work as just doing his job
+(张三： 非常感谢您的谦虚有礼，这让我们对您的尊敬之情更加深厚了): Adhered | 张三 compliments 李四's humility and respectfulness, using ""谦虚有礼"" to show respect
+(李四： 谢谢你的夸奖，我会继续努力工作的): Adhered | 李四 shows humility by thanking 张三 for the compliment and promising to continue working hard"
+16,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: In a Chinese high school, a guest speaker named David is giving a speech about his experience working as a journalist in China. After his speech, the Chinese teacher Ms. Zhang approached David to commend his unique perspective on the topic. She respectfully addressed him as “敬爱的David先生” and expressed her appreciation for his insights. David, impressed by her level of professionalism, reciprocated her compliments and thanked her for her gracious hospitality. He recognized her as a role model for her students and praised her for her positive influence on the education system. Ms. Zhang thanked him for his kindness and expressed her desire to learn more about his journalistic experiences.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：在中国的一所高中，一位名叫大卫的演讲嘉宾正在就他在中国担任记者的经历发表演讲。演讲结束后，中文老师张老师找到大卫，称赞他对这个话题的独特见解。她恭敬地称他为“敬爱的大卫先生”，并对他的见解表示赞赏。大卫对她的专业水平印象深刻，回报了她的赞美，并感谢她的盛情款待。他认为她是学生的榜样，并赞扬她对教育系统的积极影响。张女士感谢他的好意，并表示希望更多地了解他的新闻经历。,"Actor of the Norm:
+张老师, 大卫, 张女士: all actors adhere to the norm
+
+(张老师： 大卫先生，您演讲非常精彩，我深受启发。): Adhered | 张老师 uses appropriate honorifics ""先生"" and ""张老师"" to show respect to 大卫
+(大卫： 谢谢张老师，我深感荣幸能在这里演讲。): Adhered | 大卫 uses appropriate honorific ""张老师"" to show respect
+(张老师： 您的专业素养非常难得，我尊敬的大卫先生。): Adhered | 张老师 uses appropriate honorifics ""尊敬的"" and ""大卫先生"" to show respect to 大卫
+(大卫： 非常感谢张老师的夸奖，我时刻保持谦虚有礼的态度，希望能够为教育事业做出更大的贡献。): Adhered | 大卫 shows a humble attitude by thanking 张老师 for the compliment and expressing his desire to contribute to the education industry
+(张老师： 您真是学生的榜样，我有幸成为您的学生，非常感谢您的指导和帮助。): Adhered | 张老师 uses appropriate honorifics ""您"" and ""学生"" to show respect to 大卫
+(大卫： 张老师，您是我的老师，也是我的朋友。感谢您的盛情款待，我期待着与您更多的交流。): Adhered | 大卫 uses appropriate honorific ""张老师"" to show respect to 张老师
+(张女士： 大卫先生，您好。我是张女士，您之前发表过一些有关新闻工作的经验，我想了解一下您的经历。): Not Relevant | 张女士 uses appropriate honorific ""大卫先生"" to show respect to 大卫
+(大卫： 非常感谢张女士的提问，很高兴能够与您交流。): Not Relevant | 大卫 shows a humble attitude by thanking 张女士 for the question
+(张女士： 非常感谢您的分享，我对您的经历非常感兴趣。您觉得在中国新闻工作的优势和挑战是什么？): Not Relevant | 张女士 uses appropriate honorific ""您"" to show respect to 大卫
+(大卫： 中国的新闻工作有很多机会和挑战，比如需要深入了解当地文化和民众需求，同时要保持客观公正的态度。我认为新闻工作需要不断地学习和成长，以应对不断变化的环境。): Not Relevant | 大卫 shows a humble attitude by using appropriate honorific ""中国的新闻工作"" and expressing his opinion in a respectful manner
+(张女士： 非常感谢您的分享，我也希望更多地了解您的经历和见解。): Not Relevant | 张女士 uses appropriate honorific ""您"" to show respect to 大卫
+(大卫： 非常感谢您的时间和关注，我期待着与您更多的交流。): Not Relevant | 大卫 shows a humble attitude by thanking 张女士 for her time and expressing his desire to have more communication."
+17,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: Dr. Zhang, a researcher in the genetics department, was conducting a seminar about his latest findings on breakthrough treatments for cancer at a prestigious research institute in China. He invited Dr. Smith, a visiting professor from Harvard University, to attend the seminar. After the seminar, Dr. Smith approached Dr. Zhang and complimented him on his remarkable research. In response, Dr. Zhang felt honored and showed his respect by addressing Dr. Smith as ""尊敬的教授 (respected professor) from Harvard University."" Dr. Zhang then politely asked for some constructive criticism to improve his research, which Dr. Smith graciously provided. The two then discussed potential joint research projects in the future.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：张博士，遗传学系研究员，正在中国某著名研究机构举办一场研讨会，介绍他在癌症突破性治疗方面的最新发现。他邀请哈佛大学客座教授史密斯博士出席研讨会。研讨会结束后，史密斯博士走近张博士，称赞他出色的研究。对此，张博士倍感荣幸，尊称史密斯博士为“尊敬的教授（受人尊敬的教授）来自哈佛大学”。然后，张博士礼貌地请求一些建设性的批评，以改进他的研究，史密斯博士慷慨地提供了这些意见。两人随后讨论了未来可能的联合研究项目。,"Actor of the Norm:
+尊敬的教授: lower status, complimenting higher status
+
+(张博士： 非常感谢您来参加我们的研讨会，您的意见一定会对我们今后的研究有很大的贡献。): Adhered | 张博士 uses appropriate honorifics and compliments the 尊敬的教授's contribution to the seminar
+(尊敬的教授(受人尊敬的教授): 非常感谢您的邀请和关注。张博士在癌症突破性治疗方面的研究非常令人钦佩，但我想提醒一下，我们的联合研究项目可能会有一些挑战，我们需要互相学习和分享经验，以便更好地完成这个项目。): Adhered | 尊敬的教授 uses appropriate honorifics and compliments 张博士's research, but also offers constructive criticism and suggestions
+(张博士： 非常感谢您的建议，我一定会认真学习并尽力改进我的研究。期待未来有机会与您合作。): Not Relevant | 张博士 uses appropriate honorifics and shows humility and respect by thanking 尊敬的教授 for his/her advice and expressing a desire to work together in the future
+(尊敬的教授(受人尊敬的教授): 非常感谢您的合作和支持。我们一定会在未来有机会与您一起工作的。): Not Relevant | 尊敬的教授 uses appropriate honorifics and shows humility and respect by thanking 张博士 for his/her cooperation and expressing a desire to work together in the future"
+18,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: During a charity gala in China, a major sponsor named Mr. Li presents a hefty donation to Susan, a representative of a non-profit organization. In front of hundreds of attendees, Mr. Li praises Susan's organization highly for their incredible work, and commends Susan for her dedication to the cause. He begins his speech by using the appropriate honorifics, addressing Susan as ""尊敬的"" and ""敬爱的"", which causes Susan to feel both humbled and appreciated. Following Mr. Li's lead, the other attendees use similar respectful language when praising and complimenting the organization and its representatives. The humble yet respectful tone of the compliments reinforces the value of humility and respect in Chinese professional relationships.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：在中国的一场慈善晚会上，一位名叫李先生的主要赞助商向一家非营利组织的代表苏珊赠送了一笔巨额捐款。当着数百名与会者的面，李先生对苏珊的组织的出色工作给予了高度赞扬，并赞扬了苏珊对事业的奉献精神。他在演讲开始时使用了适当的敬语，称呼苏珊为“尊敬的”和“敬爱的”，这让苏珊感到既谦卑又感激。其他与会者也效仿李先生，用类似的恭敬语言对组织及其代表进行了表扬和称赞。谦虚而恭敬的赞美语气强化了中国职业关系中谦逊和尊重的价值。,"Actor of the Norm:
+李先生: higher status, complimenter
+
+(李先生： 苏珊，您组织的出色工作真是令人钦佩): Adhered | 李先生 uses appropriate honorifics and compliments 苏珊's work in a humble and respectful manner
+(苏珊： 谢谢您的夸奖，我只是尽了自己的一份力): Adhered | 苏珊 responds humbly to the compliment
+(李先生： 您真是一个 dedication极高的人): Not Relevant | not a compliment
+(李先生： 尊敬的苏珊女士，我想向您表达我的敬意和感激之情): Adhered | 李先生 uses appropriate honorifics and expresses his respect and gratitude towards 苏珊
+(苏珊： 我也很感激您的支持，谢谢您的慷慨捐赠): Not Relevant | not a compliment
+(李先生： 您是一位非常尊敬的女士和一位非常出色的组织工作者): Adhered | 李先生 uses appropriate honorifics and compliments 苏珊's work in a humble and respectful manner
+(其他与会者： 尊敬的苏珊女士，我们对她的出色工作表示赞赏): Adhered | other attendees use appropriate honorifics and express their admiration towards 苏珊's work
+(李先生： 我们都应该学习和尊重像苏珊女士这样的职业人士，并学会用谦虚有礼的态度来夸奖别人): Adhered | 李先生 emphasizes the importance of being humble and respectful when complimenting others in a professional setting."
+19,"Norm: Compliment in Professional Relationships: Be humble and respectful: It's important to maintain a humble attitude when complimenting someone of higher status. Show respect by using appropriate honorifics and address them by their title or position, rather than using their first name. In Chinese, you can use ""尊敬的"" or ""敬爱的""before the person's title or name to show your respect.","Situation: In a busy law firm, a paralegal, 小芳, is working with an attorney, 王律师. They were reviewing a client’s file when the attorney complimented 小芳 on her attention to detail and efficiency. 小芳 was pleased with the compliment but wasn't sure how to respond properly. She knew she had to be respectful and humble, but she didn't want to appear too subservient. She decided to use the honorific ""尊敬的"" before the attorney's name and thanked him graciously for his kind words. The attorney appreciated the gesture and was impressed with 小芳's professionalism.",规范：职场关系中的夸奖：谦虚有礼：在夸奖地位较高的人时，保持谦虚的态度非常重要。使用适当的敬语，称呼他们的职务或头衔，而不是使用他们的名字，以表现出尊敬。在中文中，您可以在人名或职务前加上“尊敬的”或“敬爱的”来表达您的敬意。,情境：在一家繁忙的律师事务所，律师助理小芳正在与律师王律师一起工作。当律师称赞小芳对细节和效率的关注时，他们正在审查客户的档案。小芳很高兴被夸奖，但不知道该如何回应。她知道自己必须恭敬谦虚，但又不想显得过于恭顺。她决定在律师姓名前加上敬语“尊敬的”，并盛情感谢他的美言。律师对此表示赞赏，并对小芳的专业精神印象深刻。,"Actor of the Norm:
+小芳: lower status, compliment receiver
+
+(小芳： 谢谢您的夸奖，王律师): Adhered | 小芳 uses ""您"" to show respect and gratitude to 王律师's compliment
+(王律师： 小芳，你在这方面真的很专业): Not Relevant | 王律师 compliments 小芳's professionalism without using honorifics
+(小芳： 是，我也在不断学习和进步): Not Relevant | 小芳 does not offer a compliment here
+(王律师： 我真的很欣赏你的态度和专业知识): Adhered | 王律师 uses ""你"" to address 小芳, but still shows respect by complimenting her attitude and knowledge
+(小芳： 谢谢您，我会继续努力的): Adhered | 小芳 uses ""您"" to show respect and gratitude to 王律师's compliment and promises to continue improving
+(王律师： 好的，我相信你会做得越来越好的): Not Relevant | 王律师 does not offer a compliment here"
+21,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: In a business meeting, a group of colleagues is discussing the contribution of their team member, Mr. Li, who has worked tirelessly to ensure the company’s success. They highlight his leadership qualities, problem-solving skills, and dedication. Mr. Li is known for his strong work ethic and has always put the company's interests first. To praise him, they focus on his achievements, such as increasing the company's market shares, improving customer satisfaction, and implementing strategies that have resulted in higher profits. As they recognize his contributions, Mr. Li accepts their compliments graciously, demonstrating humility and modesty, which are highly valued in Chinese society.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在一次商务会议上，一群同事正在讨论他们团队成员李先生的贡献，李先生为确保公司的成功不懈努力。他们突出了他的领导才能、解决问题的能力和奉献精神。李先生以强烈的职业道德着称，始终将公司利益放在首位。为了赞美他，他们关注他的成就，例如增加公司的市场份额、提高客户满意度以及实施带来更高利润的战略。当他们认可他的贡献时，李先生大方地接受了他们的赞美，表现出中国社会高度重视的谦虚和谦虚。,"Actor of the Norm:
+同事们: lower status, compliment giver
+
+(同事们： 李先生，我们很钦佩您对公司的成功所做出的贡献。): Adhered | The compliment emphasizes 李先生's contribution to the company's success
+(李先生： 谢谢，我只是尽了我所能而已。): Not Relevant | 李先生 does not compliment anyone
+(同事们： 您真的是一位非常智慧和领导力的人。您的解决方案让我们公司受益匪浅。): Adhered | The compliment emphasizes 李先生's wisdom and leadership skills
+(李先生： 非常感谢，我只是非常专注于我的工作，并且时刻保持着对公司的利益忠诚。): Not Relevant | 李先生 does not compliment anyone
+(同事们： 您的奉献精神让我们非常感动。您一直将公司的成功放在首位，这是非常值得称赞的品质。): Adhered | The compliment emphasizes 李先生's dedication to the company's success
+(李先生： 非常感谢，我只是非常努力，并且时刻准备为公司的成功做出更多的贡献。): Not Relevant | 李先生 does not compliment anyone
+(同事们： 李先生，我们真的很感激您的贡献。您是一位非常优秀和值得尊敬的人。): Adhered | The compliment emphasizes 李先生's excellence and respectability
+(李先生： 谢谢，我只是做了我应该做的事情。我很开心能够为公司的成功做出我的贡献。): Not Relevant | 李先生 does not compliment anyone"
+22,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: During an annual business award ceremony, a Chinese entrepreneur, 明辉, is being recognized for his significant contributions to the industry. The attendees, composed of industry peers, dignitaries, and employees of the company, give a standing ovation. The keynote speaker, a Chinese business advisor, Mr. Wang, delivers a speech lauding 明辉 for his visionary leadership, business acumen, and extensive network. Mr. Wang also highlights 明辉's countless charitable works, which are very much appreciated by the community. After the ceremony, attendees flock to 明辉 to congratulate him and wish him more success.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在一年一度的商业颁奖典礼上，中国企业家明辉因其对行业的重大贡献而受到表彰。由行业同行、政要和公司员工组成的与会者起立鼓掌。主讲人、中国商业顾问王先生发表演讲，称赞明辉富有远见的领导能力、敏锐的商业头脑和广泛的网络。王总还特别提到了明辉的慈善事业不计其数，深受社会各界的赞赏。仪式结束后，与会者涌向明辉，向他表示祝贺，并祝愿他取得更大的成功。,"Actor of the Norm:
+王先生: higher status, complimenter
+
+(明辉： 谢谢王总的夸奖，我非常开心能够在这个场合得到认可。): Not Relevant | Minghui expresses gratitude for the compliment
+(王先生： 明辉，你是一个非常杰出的企业家，你的领导才能和商业头脑都非常出色。): Adhered | 王先生 compliments Minghui's abilities and virtues as an entrepreneur
+(明辉： 谢谢，王先生。我还非常感谢您的慈善事业，您的帮助和支持让我在商业领域取得了更多的成功。): Not Relevant | Minghui expresses gratitude and compliments Wang's charitable work
+(王先生： 你的慈善事业非常棒，你展现了你的专注度和道德风范。我相信你会取得更大的成功。): Adhered | 王先生 compliments Minghui's charitable work and virtues, emphasizing his dedication and moral character
+(明辉： 非常感谢，我会继续努力，为公司和社会做出更大的贡献。): Not Relevant | Minghui expresses gratitude and commitment to continue working hard
+(与会者： 明辉，你太棒了！愿你一直保持这份专注和决心，取得更大的成功。): Not Relevant | Other attendees compliment Minghui's achievements and express their wishes for his future success"
+23,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: During a job interview in Shanghai, the interviewer, Ms. Chen, is impressed with the achievements and education credentials of the interviewee, Mr. Liu. She compliments him on his dedication to obtaining his degree while working full-time and the results of his previous work experience. She emphasizes his leadership abilities and potential to contribute to the company's team. On the other hand, Mr. Liu expresses his gratitude for the opportunity and offers a genuine compliment on the company's reputation in the industry and its reputation for being ethical and responsible. He focused on the company's virtues, which align with his own values.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在上海的一次求职面试中，面试官陈女士对面试者刘先生的成就和学历印象深刻。她称赞他在全职工作的同时努力获得学位，以及他以前的工作经验所取得的成果。她强调了他的领导能力和为公司团队做出贡献的潜力。另一方面，刘先生表达了对这次机会的感谢，并对公司在行业中的声誉以及道德和责任的声誉表示由衷的赞扬。他专注于公司的优点，这与他自己的价值观一致。,"Actor of the Norm:
+陈女士: compliment giver
+
+(陈女士： 先生，您的面试表现非常出色。我很欣赏您在全职工作的同时，还努力获得学位，并且您以前的工作经验也证明了您的智慧和领导力。): Adhered | 陈女士 compliments 刘先生's achievements, abilities, and virtues, including his wisdom and leadership
+(刘先生： 谢谢面试官，我非常感激这个机会。公司在我的职业生涯中是一个非常重要的角色，我深知自己的职业目标和公司的价值观相符。): Not Relevant | 刘先生 expresses gratitude and talks about his career goals and values
+(陈女士： 非常同意您的看法。您的专注度和领导能力是我们团队非常需要的。我也很高兴听到您对公司在行业中的声誉和道德和责任的声誉表示由衷的赞扬。我相信您会成为我们公司的重要成员。): Adhered | 陈女士 compliments 刘先生's virtues, including his focus and leadership, and emphasizes his praise for the company's reputation and values
+(刘先生： 非常感谢面试官和公司给予我这个机会。我会努力工作，为公司做出贡献，并不断学习提高自己的能力。): Not Relevant | 刘先生 expresses gratitude and talks about his work ethic and learning goals"
+24,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: It’s the annual conference for professionals in Beijing, China, where individuals in various fields gather to exchange knowledge and network. John, a businessman from Australia, introduces himself to a group of high-ranking officials from Chinese companies. One of the officials, Mr. Li, has a very impressive portfolio and John wishes to impress him. John compliments Mr. Li on his dedication to his company and his ability to lead it to great success. Mr. Li is pleased with the compliment and begins to speak about his company’s latest achievements. John takes note and begins to ask questions, building a professional relationship with Mr. Li.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：这是在中国北京举办的年度专业人士大会，各个领域的人士齐聚一堂，交流知识和建立网络。来自澳大利亚的商人约翰向一群中国公司的高层做自我介绍。其中一名官员，李先生，有一个非常令人印象深刻的投资组合，约翰希望给他留下深刻印象。约翰称赞李先生对公司的奉献精神以及领导公司取得巨大成功的能力。李总听了很高兴，开始讲述公司的最新成果。约翰做笔记并开始提问，与李先生建立了专业关系。,"Actor of the Norm:
+约翰: compliment giver
+
+(约翰： 非常感谢今天能够来到这里，和这么多优秀的专业人士交流。): Not Relevant | not a compliment
+(李先生： 很高兴能有机会和您交流，约翰先生。): Not Relevant | not a compliment
+(约翰： 李先生，您投资组合的成功离不开您的智慧、领导力和专注度。): Adhered | 约翰 compliments 李先生's achievements, abilities, and virtues
+(李先生： 谢谢您的赞美，我会一直努力，为公司的发展做出更大的贡献。): Not Relevant | 李先生 acknowledges the compliment and expresses his determination to contribute more to the company
+(约翰： 非常感谢您的分享，我想问一些有关公司最新成果的问题。): Not Relevant | not a compliment
+(李先生： 当然可以，约翰先生。): Not Relevant | not a compliment
+(约翰： 公司最近取得了哪些成就？): Not Relevant | not a compliment
+(李先生： 我们取得了很多成功，比如通过数字化转型，提高了客户满意度。): Not Relevant | not a compliment
+(约翰： 非常钦佩您对公司的奉献精神，以及您的领导能力。): Adhered | 约翰 compliments 李先生's dedication and leadership
+(李先生： 谢谢您的夸奖，我们会继续努力，为公司的发展做出更大的贡献。): Adhered | 李先生 acknowledges the compliment and expresses his determination to contribute more to the company
+(约翰： 非常感谢您的参与和合作，我们一定会保持联系，建立更紧密的专业关系。): Not Relevant | not a compliment"
+25,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: During a seminar in a corporate office in Shanghai, a group of young Chinese employees are attending a talk from a visiting American speaker, Mr. Johnson, who is the CEO of a large multinational company. As Mr. Johnson delivers his talk, he shares various insights and best practices from his successful career. One young Chinese employee named Xia, who is known for her hard work and dedication in the company, raises her hand and asks a question. After Mr. Johnson answers her question, Xia compliments Mr. Johnson's leadership, wisdom, and expertise in his field, which impresses Mr. Johnson and gains her respect from her colleagues.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在上海一家公司办公室举行的研讨会上，一群年轻的中国员工正在听一位来访的美国演讲者约翰逊先生的演讲，约翰逊先生是一家大型跨国公司的首席执行官。在约翰逊先生发表演讲时，他分享了他成功职业生涯中的各种见解和最佳实践。一位名叫夏的年轻中国员工举手提问，她在公司以勤奋敬业着称。约翰逊先生回答问题后，夏先生对约翰逊先生的领导才能、智慧和专业知识表示赞赏，这给约翰逊先生留下了深刻印象，并赢得了同事们的尊重。,"Actor of the Norm:
+夏先生: lower status, compliment-giver
+
+(夏先生： 非常感谢您今天的演讲，我受益匪浅。): Not Relevant |夏先生 expresses gratitude, not a compliment
+(约翰逊先生： 不用客气，我很高兴能够与您交流。): Not Relevant | 约翰逊先生 responds to gratitude, not a compliment
+(夏先生： 我注意到您在演讲中提到您的领导才能和智慧，我非常敬佩您。): Adhered | 夏先生 compliments 约翰逊先生's leadership and wisdom, which are his virtues
+(约翰逊先生： 谢谢，我一直在努力工作，不断学习和成长，才能取得今天的成就。): Not Relevant | 约翰逊先生 responds to the compliment by talking about his hard work and achievements
+(夏先生： 您真的很有能力，我相信您在公司的职业生涯一定会取得更大的成功。): Adhered | 夏先生 compliments 约翰逊先生's abilities and predicts his future success
+(约翰逊先生： 谢谢，我会继续努力，为公司的发展贡献自己的力量。): Not Relevant | 约翰逊先生 responds to the compliment by talking about his future efforts
+(夏先生： 您真的很厉害，我很佩服您的专注度和勤奋度。): Adhered | 夏先生 compliments 约翰逊先生's virtues of focus and diligence
+(约翰逊先生： 谢谢，这是我努力的结果，也是我不断学习和进步的动力。): Not Relevant | 约翰逊先生 responds to the compliment by talking about his hard work and motivation"
+26,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: During a company celebration in China, the senior management and employees are gathered together to celebrate the company's success over the past year. One of the senior managers, Mr. Li, is addressing the crowd and is thanking the employees for their hard work and dedication. He takes the opportunity to compliment a young employee named Xiao Mei for her exceptional work ethic and contributions to the company's success. He emphasizes her intelligence, leadership skills, and dedication to her work, all qualities that are highly valued in Chinese culture. The other employees nod in agreement, and Xiao Mei feels appreciated and validated for her hard work.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在中国举行的公司庆祝活动中，高级管理层和员工齐聚一堂，庆祝公司在过去一年中取得的成功。其中一名高级管理人员李先生正在向人群致辞，感谢员工的辛勤工作和奉献精神。他借此机会称赞了一位名叫小梅的年轻员工出色的职业道德和对公司成功的贡献。他强调她的智慧、领导能力和对工作的奉献精神，这些都是中国文化中高度重视的品质。其他员工点头同意，小梅对自己的辛勤工作感到赞赏和认可。,"Actor of the Norm:
+李先生: higher status, complimenter
+
+(李先生： 谢谢大家，我要感谢所有的员工，特别是那位小梅，她在公司中扮演着非常重要的角色。): Not Relevant | 李先生 expresses gratitude but does not compliment 小梅
+(小梅： 谢谢李先生，我感到非常荣幸能够在公司中工作。): Not Relevant | 小梅 does not offer a compliment
+(李先生： 小梅，你是一个非常出色的员工，你的职业道德和对公司成功的贡献是不可低估的。你智慧、领导力和专注度都非常高，这些都是中国文化中高度重视的品质。): Adhered | 李先生 compliments 小梅's achievements, abilities, and virtues, including ""职业道德"", ""对公司成功的贡献"", ""智慧"", ""领导力"", and ""专注度""
+(小梅： 非常感谢您的赞美，李先生。我只是做了我应该做的事情，并尽力完成我的工作。): Not Relevant | 小梅 does not offer a compliment
+(李先生： 非常正确，你是一个非常职业的员工，你的奉献精神也值得赞赏。我相信你将继续为公司做出更大的贡献。): Adhered | 李先生 compliments 小梅's professionalism and dedication, and expresses confidence in her future contributions
+(小梅： 谢谢，我会继续努力工作的。): Not Relevant | 小梅 does not offer a compliment"
+27,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: In a mentoring session, the mentee named Xiaoming shared his achievements and challenges in his new job with his mentor, Mrs. Li. Mrs. Li is impressed with Xiaoming's dedication and leadership skills in taking on difficult tasks. Meanwhile, Xiaoming has noticed that Mrs. Li often hands out compliments to him and other colleagues. As their mentoring session progresses, Xiaoming learns how to communicate with higher-ups in the company effectively to showcase his skills and gain recognition for his work. During the session, Xiaoming also takes note of how Mrs. Li compliments her superiors in their company meetings and makes sure to apply the same principles in his job.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在一次辅导环节中，学员小明与导师李老师分享了自己在新工作中的成就和挑战。小明敢于担当重任的敬业精神和领导才能给李妈妈留下了深刻的印象。与此同时，小明注意到李老师经常对他和其他同事表扬。随着指导课程的进行，小明学会了如何有效地与公司高层沟通，以展示自己的技能并获得对工作的认可。在会议期间，小明还注意到李女士如何在公司会议上称赞她的上司，并确保将同样的原则应用到他的工作中。,"Actor of the Norm:
+李妈妈: higher status, complimenter
+
+(小明： 非常感谢李老师的指导，我很享受这个辅导课程。): Not Relevant | 小明 expresses gratitude, not complimenting
+(李妈妈： 小明，我很欣赏你的领导才能和敬业精神。): Adhered | 李妈妈 compliments 小明's leadership and dedication, which are virtues
+(小明： 是的，李老师，我学到了很多关于如何在工作中展现自己的智慧、领导力和专注度。): Not Relevant | 小明 acknowledges 李妈妈's compliment but does not offer one
+(李妈妈： 对，这些品质是非常重要的。我也注意到了你经常对我和其他同事进行表扬。): Not Relevant | 李妈妈 acknowledges 小明's virtues but does not offer a compliment
+(小明： 是的，李老师，我非常注重我们之间的团队合作和互相支持。我会将这些原则应用到我的工作中，并确保得到您和其他导师的认可。): Not Relevant | 小明 does not offer a compliment
+(李妈妈： 很好，小明，我期待着看到你在工作中取得更多的成就。): Adhered | 李妈妈 compliments 小明's potential achievements, which are achievements"
+28,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: In a training program for a tech company in Beijing, the trainer, 秦老师, is giving a presentation on new programming languages. The trainees are a mix of new recruits and veteran developers. One of the trainees, 小明, is particularly interested in the topic and frequently asks good questions. Towards the end of the session, 秦老师 compliments 小明 in front of the group, highlighting his keen observation skills and inquisitive nature. She further emphasized his potential to be a great asset to the company, motivating him to continue to perform well. This type of compliment in professional relationships is respected in Chinese culture, as it acknowledges not only the individual's accomplishments but also their potential for future success.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：在北京一家科技公司的培训项目中，培训师秦老师正在介绍新的编程语言。受训人员既有新员工，也​​有资深开发人员。其中一名学员小明对这个话题特别感兴趣，经常提出很好的问题。课程接近尾声时，秦老师在大家面前称赞小明，强调他敏锐的观察力和好奇心。她进一步强调了他成为公司重要资产的潜力，激励他继续表现出色。这种职业关系中的赞美在中国文化中受到尊重，因为它不仅承认个人的成就，而且承认他们未来成功的潜力。,"Actor of the Norm:
+秦老师: higher status, complimenter
+
+(秦老师： 感谢大家的参与，我想分享一些我对小明的看法。他是一个非常敏锐的学习者，总是能够从不同的角度思考问题。他的观察力和好奇心让我感到非常惊讶。我相信他将成为我们公司的重要资产，因为他拥有很多智慧和领导力。): Adhered | 秦老师 compliments 小明's achievements, abilities, and virtues, such as his wisdom, leadership, and curiosity.
+(小明： 非常感谢秦老师的夸奖，我一定会继续努力学习和提高自己的能力。): Not Relevant | 小明 acknowledges 秦老师's compliment and expresses his gratitude
+(秦老师： 对的，小明，你是一个非常有潜力的人。我相信你将会取得更大的成就，继续为公司做出贡献。): Adhered | 秦老师 compliments 小明's potential and encourages him to continue contributing to the company
+(其他学员： 哇，秦老师真的很厉害啊。): Not Relevant | other students are not complimenting anyone
+(小明： 谢谢秦老师的鼓励和支持，我一定会继续努力的。): Not Relevant | 小明 expresses his gratitude for 秦老师's encouragement and support."
+29,"Norm: Compliment in Professional Relationships: Focus on their achievements and virtues: When complimenting someone with higher status, emphasize their achievements, abilities, or virtues, such as their wisdom, leadership, or dedication.","Situation: A Chinese manager, Mr. Li, is conducting a performance review with his employee, Ms. Zhang. During the review, he highlights her successful projects, diligent work ethic, and leadership skills. He then compliments her on her ability to communicate effectively and efficiently with the team. Ms. Zhang feels appreciated and motivated by the positive evaluation. Mr. Li, being mindful of the cultural practice of complimenting with a focus on achievements and virtues, ensures that his compliment recognizes her hard work in a professional setting. Additionally, he encourages her to keep advancing and developing her strengths to take on more significant projects in the future.",规范：职业关系中的赞美方式：当赞美比自己地位更高的人时，强调对方的成就、能力或美德，如智慧、领导力或专注度。,情境：一位中国经理李先生正在与他的员工张女士进行绩效评估。在审查期间，他强调了她成功的项目、勤奋的职业道德和领导能力。然后，他称赞她与团队有效沟通的能力。正面评价让张女士倍感欣慰和鼓舞。李先生注意到以成就和美德为重点的赞美文化实践，确保他的赞美是对她在专业环境中辛勤工作的认可。此外，他鼓励她不断进步和发展自己的优势，以便在未来承担更重要的项目。,"Actor of the Norm:
+李先生: higher status, complimenter
+
+(李先生： 张女士，很高兴看到你在评估中的表现出色。): Adhered | 李先生 compliments 张女士's performance by emphasizing her achievements
+(张女士： 谢谢，经理。我一直在努力工作，我觉得这是我做得非常好的事情。): Not Relevant | 张女士 does not offer a compliment
+(李先生： 你的成就令人钦佩。你完成了一些非常成功的项目，你的职业道德和领导能力都非常出色。): Adhered | 李先生 compliments 张女士's achievements, abilities, and virtues
+(张女士： 谢谢您的赞美。我只是尽力做到最好，我觉得这是我的责任。): Not Relevant | 张女士 does not offer a compliment
+(李先生： 非常欣赏你的专注度和领导力。我相信你会在未来的项目中继续表现出色。): Adhered | 李先生 compliments 张女士's virtues of focus and leadership
+(张女士： 非常感谢，经理。我会继续努力学习和发展自己，以便在未来承担更重要的项目。): Not Relevant | 张女士 does not offer a compliment
+(李先生： 非常好。我相信你会成为一个非常出色的领导者，继续为团队的成功做出贡献。): Adhered | 李先生 compliments 张女士's potential as a leader and her contribution to the team's success."
+30,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: During a business meeting, a Chinese company executive, Mr. Liu, is presenting a new project proposal to a group of foreign investors. The investors are from various countries and cultures, and they are meeting for the first time. As part of the introduction, the Chinese team presents a gift basket with traditional Chinese candies and snacks. However, one of the foreign investors, Ms. Johnson, from the US, finds the gift in poor taste and culturally inappropriate. Nonetheless, as a social norm in Chinese business culture, attendees are expected to give compliments and positive feedback regarding the introduction and gift.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：在商务会议期间，中国公司高管刘先生向一群外国投资者介绍新的项目建议书。投资者来自不同的国家和文化，他们是第一次见面。作为介绍的一部分，中国团队赠送了一个装有中国传统糖果和小吃的礼篮。然而，其中一位外国投资者，来自美国的约翰逊女士认为这件礼物品位低劣且在文化上不合适。尽管如此，作为中国商业文化中的一种社会规范，与会者应该对介绍和礼物给予赞美和积极反馈。,"Actor of the Norm:
+None
+
+(刘先生： 非常感谢各位投资者的出席和关注，我们非常努力地准备这次介绍。): Not Relevant | no compliment is given
+(投资者： 非常感谢刘总，我们非常感兴趣这个项目。): Adhered | 投资者 delivers a compliment to 刘先生 in a relaxed and unforced manner
+(刘先生： 来来来，各位，让我们先品尝一下中国传统糖果和小吃。): Not Relevant | no compliment is given
+(约翰逊女士： 哇，这些糖果和小吃真是美味极了，但是我们对这件礼物有些失望。): Adhered | 约翰逊女士 delivers a compliment to the Chinese team in a relaxed and unforced manner
+(刘先生： 抱歉，让我们失望了。但是我们还是想介绍一下我们的项目，我相信这个项目会对您们的公司产生积极的影响。): Not Relevant | no compliment is given
+(约翰逊女士： 我们确实了解美国的文化，我觉得这件礼物并不合适。): Not Relevant | no compliment is given
+(刘先生： 我们理解您的想法，但是我们还是想表达我们对项目的支持和认可。): Not Relevant | no compliment is given
+(约翰逊女士： 好的，谢谢刘总。): Not Relevant | 约翰逊女士 delivers a compliment to 刘先生 in a relaxed and unforced manner
+(中国团队： 非常感谢您的反馈和关注，我们一定会继续努力，为项目的成功而努力。): Not Relevant | 中国团队 delivers a compliment to the investors in a relaxed and unforced manner"
+31,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: At work, a group of colleagues in a Chinese company are working on a project together. One of the colleagues, Li, has made a significant contribution to the project and the other teammates want to acknowledge Li's hard work. However, they are hesitant as complimenting someone might be seen as showing off, and it might make Li feel uncomfortable. After discussing amongst themselves, they decide to express their appreciation for Li's contribution subtly and in a way that does not draw too much attention. They tell Li how much they appreciate his hard work and how his ideas have helped move the project forward. Li feels proud and motivated to continue working hard on the project.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：在工作中，一家中国公司的一群同事正在一起做一个项目。其中一位同事 Li 为该项目做出了重大贡献，其他队友想要感谢 Li 的辛勤工作。但是，他们犹豫不决，因为称赞某人可能会被视为炫耀，这可能会让李感到不舒服。他们商量后，决定用一种不引人注意的方式，委婉地表达对李的贡献的感谢。他们告诉李，他们非常感谢他的辛勤工作，以及他的想法如何帮助推动项目向前发展。 Li 感到自豪并有动力继续为该项目努力。,"Actor of the Norm:
+队友们: peers, compliment givers
+
+(Li: 哎呀，感谢大家啊，我真的很努力): Not Relevant | Li expresses gratitude, not a compliment
+(队友们： 谢谢你，Li，你的贡献真的很重要): Adhered | 队友们 compliment Li's contribution in a relaxed and unforced manner
+(Li: 你们真的很厉害，这个项目因为有你们，才能进展得那么快): Adhered | Li compliments his peers' abilities in a relaxed and unforced manner
+(队友们： 我们也很感激你，你的付出让我们更加有信心完成这个项目): Adhered | 队友们 compliment Li's contribution in a relaxed and unforced manner
+(Li: 真的不用客气，我真的很自豪能为这个项目做出这么多贡献): Not Relevant | Li expresses gratitude, not a compliment
+(队友们： 对啊，你做得非常出色，我们会一直支持你的): Adhered | 队友们 compliment Li's performance in a relaxed and unforced manner
+(Li: 谢谢，我相信我会继续努力的): Not Relevant | Li expresses gratitude, not a compliment"
+32,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: A group of Chinese workout buddies, including two close friends named Xiao Wang and Fei Chen, are lifting weights in the gym. Xiao Wang notices Fei Chen's improved form and praises him enthusiastically, which catches the attention of a nearby Chinese foreign exchange student named Li. Li is not used to such open and positive feedback from his friends and often feels like he has to compete with them, leading to feelings of isolation and anxiety. Despite this, Xiao Wang continues to compliment Fei Chen throughout their workout as a means of showing support and encouragement.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：一群中国健身小伙伴，包括两位好友小王和陈飞，正在健身房举重。小王看到陈飞的进步，热情地称赞他，这引起了附近的中国留学生李某的注意。李不习惯从朋友那里得到如此坦率和积极的反馈，常常觉得自己必须与他们竞争，从而导致孤独感和焦虑感。尽管如此，小王在整个训练过程中继续称赞陈飞，以表示支持和鼓励。,"Actor of the Norm:
+小王, peers
+
+(小王： 陈飞，你真的太厉害了，你进步了好多啊): Adhered | 小王 delivers a compliment to 陈飞 in a relaxed and unforced manner
+(陈飞： 谢谢，我继续努力): Not Relevant | 陈飞 just accepts the compliment
+(李某： 我听说你在健身房里练得真好啊，我也想去试试): Adhered | 李某 delivers a compliment to 小王 in a relaxed and unforced manner
+(小王： 好啊，我们一起吧，我也有很多经验): Not Relevant | 小王 just accepts the compliment
+(李某： 谢谢你的支持，我会加油的): Not Relevant | 李某 just accepts the compliment
+(小王： 没关系，我们一起进步就好了): Adhered | 小王 delivers a compliment to 李某 in a relaxed and unforced manner
+(陈飞： 嗯，谢谢小王的鼓励，我一定会继续努力的): Adhered | 陈飞 accepts 小王's compliment in a relaxed and unforced manner"
+33,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: In a traditional Chinese dance class, a group of classmates are learning a new routine. One of the students, Li, keeps making mistakes and is becoming increasingly frustrated with herself. As the class ends, Li's classmates notice her disappointment and gather around her to offer words of encouragement and support. They express their admiration for Li's progress and emphasize that mistakes are natural in the learning process. Although Li initially insists that she is not a talented dancer, her classmates' compliments and words of affirmation boost her confidence and make her feel more included and supported in the group.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：在一节中国传统舞蹈课上，一群同学正在学习新的套路。其中一名学生，李，不断犯错误，对自己越来越沮丧。下课时，李的同学注意到她的失望，聚集在她身边给予鼓励和支持。他们对李的进步表示钦佩，并强调在学习过程中犯错是很自然的。尽管李一开始坚称自己不是天生的舞者，但同学们的称赞和肯定的话让她更有信心，也让她觉得自己在团队中更加被包容和支持。,"Actor of the Norm:
+同学1, 同学2, 同学3: peers, complimenters
+
+(李： 哎呀，我跳不好，又犯错误了): Not Relevant | 李 expresses his frustration
+(同学1: 没关系，你已经很棒了): Adhered | 同学1 delivers a compliment in a relaxed and unforced manner
+(同学2: 你的进步真的很明显，继续努力): Adhered | 同学2 delivers a compliment in a relaxed and unforced manner
+(李： 谢谢，我觉得不是天生就会跳舞的): Not Relevant | 李 responds to the compliments
+(同学1: 每个人都需要学习和实践，你已经很棒了): Adhered | 同学1 delivers a compliment in a relaxed and unforced manner
+(同学2: 我们都很欣赏你的决心和努力): Adhered | 同学2 delivers a compliment in a relaxed and unforced manner
+(李： 谢谢，我会继续努力的): Not Relevant | 李 responds to the compliments
+(同学3: 你真的很有天赋，继续努力，你会跳得更好的): Adhered | 同学3 delivers a compliment in a relaxed and unforced manner
+(李： 谢谢你的鼓励，我会努力的): Not Relevant | 李 responds to the compliments"
+34,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: Three female coworkers, Xiaoli, Jingjing, and Mei are at a Chinese beauty salon during their lunch break. Xiaoli and Jingjing notice that Mei has gotten a new haircut and styled her hair differently. They both admire Mei's new look and give her compliments in a relaxed and friendly manner. However, Mei brushes off their compliments and instead starts criticizing her own appearance, saying that she still feels self-conscious and unsure about her new hairstyle. Jingjing and Xiaoli are surprised by Mei's reaction and try to reassure her that she looks great. Ordinarily, it is considered polite and normal to receive compliments in a gracious and humble manner in Chinese society, but Mei's response is not uncommon as some people may feel uncomfortable when receiving compliments.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：三个女同事小丽、晶晶和梅午休时间在一家中国美容院。小丽和晶晶发现梅换了新发型，发型也变了。两人都很欣赏梅的新面貌，轻松亲切地称赞梅。然而，梅对他们的赞美置之不理，转而开始批评自己的外表，说她对自己的新发型仍然感到难为情和不确定。晶晶和小丽对梅的反应感到惊讶，并试图向她保证她看起来很棒。通常，在中国社会接受恭维和谦虚的赞美被认为是礼貌和正常的，但梅的反应并不少见，因为有些人在接受赞美时可能会感到不舒服。,"Actor of the Norm:
+小丽, 晶晶: peers, complimenters
+
+(小丽： 梅，你的发型真好看啊): Adhered | 小丽 delivers a compliment to 梅 in a relaxed and unforced manner
+(晶晶： 梅，你真的换了一个新的发型，看起来很棒): Adhered | 晶晶 delivers a compliment to 梅 in a relaxed and unforced manner
+(梅：谢谢你们的赞美，其实我对新发型还不是很确定呢): Not Relevant | 梅 responds to the compliments
+(晶晶： 没关系，你看起来真的很自信，而且也很适合你的新发型): Adhered | 晶晶 delivers a compliment to 梅 in a relaxed and unforced manner
+(小丽： 对啊，我觉得你真的很有魅力，继续努力保持下去啊): Adhered | 小丽 delivers a compliment to 梅 in a relaxed and unforced manner
+(梅：谢谢你们的鼓励，我会的): Not Relevant | 梅 responds to the compliments"
+35,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: A group of close friends, all Chinese, gathered at a friend's house to celebrate the completion of their job projects. After dinner, they sat around talking and drinking for several hours. One friend, Weiwei, had recently lost a lot of weight and had been working hard to get in shape. As the night went on, Weiwei's friends began complimenting her on how great she looked and how proud they were of her. Although Weiwei appreciated the compliments, she felt a bit awkward and uncomfortable with all the attention on her. Nonetheless, she knew that her friends were showing their support in the typical culturally accepted way.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：一群好朋友，都是中国人，聚集在朋友家庆祝他们工作项目的完成。晚饭后，他们坐在一起聊天喝酒几个小时。一位朋友薇薇最近瘦了很多，一直在努力塑形。夜深了，薇薇的朋友们开始夸她漂亮，为她感到骄傲。薇薇虽然很欣赏大家的夸奖，但被这么多人注视着，还是觉得有些尴尬和不自在。尽管如此，她知道她的朋友们正在以典型的文化上可接受的方式表达他们的支持。,"Actor of the Norm:
+朋友们: peers, compliment givers
+
+(薇薇：谢谢大家，我觉得今晚我很享受你们对我的赞美。): Not Relevant | 薇薇 acknowledges the compliments given by her friends
+(朋友们： 太好了，薇薇，我们都很为你感到骄傲。): Adhered | 薇薇's friends give her compliments in a relaxed and unforced manner
+(薇薇： 当然，我只是最近一直在努力塑形。): Not Relevant | 薇薇 is not giving compliments
+(朋友们： 哇，你真是太棒了，我们为你感到骄傲。): Adhered | 薇薇's friends give her compliments in a relaxed and unforced manner
+(薇薇： 谢谢，谢谢。): Not Relevant | 薇薇 acknowledges the compliments given by her friends
+(朋友们： 你知道吗，我们都很嫉妒你的身材。): Adhered | 薇薇's friends give her compliments in a relaxed and unforced manner
+(薇薇： 哈哈，谢谢你们的赞美，但我只是做了该做的事情。): Not Relevant | 薇薇 acknowledges the compliments given by her friends
+(朋友们： 对啊，你真是一个优秀的女孩。): Adhered | 薇薇's friends give her compliments in a relaxed and unforced manner
+(薇薇： 谢谢，我真的很感激你们的支持。): Not Relevant | 薇薇 acknowledges the compliments given by her friends
+(朋友们： 对啊，我们一定会一直支持你的。): Adhered | 薇薇's friends give her compliments in a relaxed and unforced manner
+(薇薇： 好的，谢谢。): Not Relevant | 薇薇 is not giving compliments"
+36,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: In a crowded bar in Beijing, a group of acquaintances gathers for a night of drinking and chatting. One member of the group, a young woman named Jingjing, just got a promotion at work and is eager to share the news. However, she feels shy about boasting and hopes that one of her friends will bring up the topic for her to share. According to social norms in Chinese society, peers often give compliments in a natural and unforced way, especially in situations like this. However, as the night goes on, no one in the group brings up Jingjing's promotion, leaving her feeling disappointed and uncertain about how to share her good news.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：在北京一家人头攒动的酒吧里，一群熟人聚在一起喝酒聊天。该小组的一名成员，一位名叫晶晶的年轻女性，刚升职，急于分享这个消息。不过，她又不好意思自夸，希望有朋友能提出来让她分享。按照中国社会的社会规范，同行往往会以一种自然而不是强迫的方式给予赞美，尤其是在这种情况下。然而，随着时间的推移，群里再也没有人提起晶晶升职的事情，让她很失望，不知道该如何分享自己的好消息。,"Actor of the Norm:
+小明, 小红: peers, complimenters
+
+(晶晶： 哎，大家好啊，我最近升职了，有点开心啊): Not Relevant | 晶晶 shares her good news
+(小明： 恭喜恭喜，你是怎么做到的啊): Adhered | 小明 delivers a compliment in a relaxed and unforced manner by congratulating 晶晶 and asking her how she achieved the promotion
+(小红： 晶晶，你太棒了，你的努力得到了回报): Adhered | 小红 delivers a compliment in a relaxed and unforced manner by praising 晶晶's hard work and congratulating her
+(晶晶： 谢谢谢谢，其实我一开始也有点不好意思分享这个好消息): Not Relevant | 晶晶 responds to the compliments
+(小明： 没关系啊，大家都祝贺你): Adhered | 小明 delivers a compliment in a relaxed and unforced manner by reassuring 晶晶 that everyone congratulates her
+(小红： 你真的很不错，继续努力哦): Adhered | 小红 delivers a compliment in a relaxed and unforced manner by encouraging 晶晶 to continue working hard
+(晶晶： 谢谢你，我真的很感激大家的支持和鼓励): Not Relevant | 晶晶 responds to the compliments"
+37,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: At a park in Beijing, a group of dog owners bring their dogs to play with each other. One owner, Lily, brings her new puppy to meet the other dogs. One of the other owners, Jack, notices Lily's new puppy and compliments her on how cute it is. Lily responds by thanking Jack and mentioning that she's been working really hard to train the puppy. As they continue to chat, other owners chime in with compliments about each other's dogs, discussing different training techniques, and sharing tips on how to take care of their furry friends, all in a relaxed and natural way.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：在北京的一个公园里，一群狗主人带着他们的狗互相玩耍。一位主人莉莉带着她的新小狗去见其他狗。另一位主人杰克注意到莉莉的新小狗，并称赞她多么可爱。莉莉对杰克表示感谢，并提到她一直在非常努力地训练这只小狗。当他们继续聊天时，其他主人插话称赞彼此的狗，讨论不同的训练技巧，并分享如何照顾他们毛茸茸的朋友的技巧，所有这些都以轻松自然的方式进行。,"Actor of the Norm:
+None
+
+(莉莉： 谢谢你夸我小狗，它真的很可爱): Not Relevant | 莉莉 delivers a compliment to 杰克 in a relaxed and unforced manner
+(杰克： 对啊，我也很喜欢它): Adhered | 杰克 responds to 莉莉's compliment in a relaxed and unforced manner
+(莉莉： 它叫小黑，是只黑色的小狗): Not Relevant | 莉莉 provides more information about her dog in a relaxed and unforced manner
+(杰克： 听起来很可爱啊，我我也想养一只这样的狗): Adhered | 杰克 delivers a compliment to 莉莉's dog in a relaxed and unforced manner
+(其他狗主人： 对啊，我也喜欢小黑，它是一只很好的狗): Adhered | other dog owners deliver a compliment to 莉莉's dog in a relaxed and unforced manner
+(莉莉： 我每天都给它喂食、洗澡、训练，希望它能变得健康、快乐): Not Relevant | 莉莉 is not delivering a compliment
+(杰克： 太不容易了，养一只狗需要很多时间和精力): Not Relevant | 杰克 is not delivering a compliment
+(其他狗主人： 是的，而且我还需要注意它的饮食、运动和社交): Not Relevant | other dog owners are not delivering a compliment
+(莉莉： 对啊，我觉得重要的是让它感到安全、舒适和被爱): Not Relevant | 莉莉 delivers her opinion in a relaxed and unforced manner."
+39,"Norm: In daily conditions with families, friends, or acquaintances, peers usually deliver compliments in a relaxed and unforced manner.","Situation: In a Beijing-based book club, members are discussing a book written by an American author. When it’s time for the compliment round, one member named Jun hesitates to offer her compliments to the author. She feels hesitant because the author's writing style is unfamiliar to her, and she is unsure whether the translation perfectly captured the author's meaning. The other members, sensing Jun's hesitation, offer words of encouragement and understanding, reminding her of the importance of expressing one's opinions and feelings in a learning community. Through the patience and support of the club members, Jun feels comfortable and confident enough to share her genuine thoughts and feedback about the book.",规范：在日常与家人、朋友或熟人的交往中，同龄人通常以轻松自然的方式表达赞美，不会有强迫的感觉。,情境：在北京的一个读书俱乐部，成员们正在讨论一本美国作家写的书。当到了赞美环节时，一位名叫 Jun 的成员犹豫着要不要向作者表达她的赞美之情。她感到犹豫，因为她不熟悉作者的写作风格，她不确定翻译是否完美地表达了作者的意思。其他成员感觉到 Jun 的犹豫，提供鼓励和理解的话，提醒她在学习社区中表达自己的意见和感受的重要性。通过俱乐部成员的耐心和支持，Jun 感到很自在和自信，可以分享她对这本书的真实想法和反馈。,"Actor of the Norm:
+其他成员: peers, complimenters
+
+(Jun: 哎呀，这本书真棒啊): Adhered | Jun delivers a compliment in a relaxed and unforced manner
+(其他成员： 是的，Jun 你真厉害，翻译得真好): Adhered | 其他成员 deliver a compliment in a relaxed and unforced manner
+(Jun: 谢谢您的赞美，我确实花了很多时间来研究这本书的翻译): Not Relevant | Jun responds to the compliment in a polite and humble way
+(其他成员： 没问题，我们都很欣赏你的努力和才华): Adhered | 其他成员 continue to compliment Jun in a relaxed and unforced manner
+(Jun: 我也喜欢这本书的内容，作者的写作风格很有趣): Not Relevant | Jun expresses his opinion in a relaxed and unforced manner
+(其他成员： 那太好了，你可以分享一下你的看法和感受吗？): Not Relevant | 其他成员 encourage Jun to share his opinion in a relaxed and unforced manner
+(Jun: 我不会说太多，但我真的很喜欢这本书，谢谢您的鼓励): Not Relevant | Jun expresses his opinion in a relaxed and unforced manner and thanks the complimenters
+(其他成员： 不用客气，我们都很欣赏你的才华和努力，你也应该在自己的意见和感受方面多加表达): Adhered | 其他成员 continue to compliment Jun in a relaxed and unforced manner and encourage him to express his opinions and feelings more."
+40,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: During a business meeting, two Chinese colleagues are discussing a project. One of the colleagues named Xiaoyu presents her ideas to her senior colleague named Lei. Lei listens to Xiaoyu's proposals carefully and is impressed by her innovative ideas. Lei wanted to compliment Xiaoyu's work, but he is not sure about the proper way to do it. Lei knows that in Chinese culture, flattery is frowned upon, and compliments should only be given if they are genuine. So, he chooses his words carefully and tells Xiaoyu that her ideas are outstanding, and he is genuinely impressed by her work. He ends the compliment by saying ""我真的很佩服你"" to express his admiration for Xiaoyu's creativity and hard work.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在商务会议期间，两位中国同事正在讨论一个项目。其中一位名叫小宇的同事向她名叫雷的高级同事介绍了她的想法。雷认真听取了小雨的建议，被小雨的创新想法折服。雷想称赞小宇的工作，但他不确定如何称赞。雷知道，在中国文化中，奉承是不被接受的，恭维只有真诚才能给予。于是，他小心翼翼地告诉小雨，她的想法很出色，对她的工作印象深刻。他以一句“我真的很佩服你”结束赞美，表达了对小雨的创意和努力的钦佩。,"Actor of the Norm:
+小宇 and 雷先生
+
+(小宇： 雷先生，您听到我的想法了吗？我真的很佩服您的意见和眼光。): Adhered | 小宇 expresses genuine admiration and appreciation towards 雷先生's opinion and insight by using the phrase ""我真的很佩服您的意见和眼光""
+(雷： 小宇，你的想法很有前途，我相信你会做得非常出色。): Not Relevant | 雷先生 offers encouragement and support, not a compliment
+(小雨： 谢谢雷先生，我会继续努力的。): Not Relevant | 小雨 expresses gratitude, not a compliment
+(雷： 我真的很佩服你，你的想象力和创造力非常出色。): Adhered | 雷先生 expresses genuine admiration and appreciation towards 小雨's imagination and creativity by using the phrase ""我真的很佩服你的想象力和创造力""
+(小雨： 谢谢雷先生，我会继续努力的。): Not Relevant | 小雨 expresses gratitude, not a compliment"
+41,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""",Situation: 在面试中，面试官叫做张先生，正在寻找一位秘书。而面试者叫做李小姐，她对张先生的公司非常熟悉，因为她已经研究了很长时间。她非常想得到这份工作，并在回答面试问题时表现出了自己的才华和热情。在最后，张先生真诚地夸奖了李小姐的表现，并告诉她他们将联系她去下一轮面试。张先生说：“李小姐，我真的很佩服你的知识和才华，我很高兴你参加了我们的面试。”,规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在面试中，李小姐正在参加张先生的公司秘书职位面试。李小姐对张先生的公司非常熟悉，已经做了很久的研究。她非常想得到这份工作，回答面试问题时表现出了自己的才华和热情。最后，张先生真诚地夸奖了李小姐的表现，并告诉她他们将联系她去下一轮面试。张先生说：“李小姐，我真的很佩服你的知识和才华，我很高兴你参加了我们的面试。”,"Actor of the Norm:
+张先生: compliment giver
+
+(张先生： 很高兴见到你): Not Relevant | a polite greeting
+(李小姐： 谢谢您的欢迎): Not Relevant | a polite response
+(张先生： 听说你参加了我们公司秘书职位的面试，表现非常出色，我真的很佩服你的知识和才华): Adhered | 张先生 compliments 李小姐's performance in the interview with sincerity and admiration
+(李小姐： 谢谢夸奖，我一直在为得到这份工作而努力): Not Relevant | 李小姐 responds with gratitude and mentions her effort to get the job
+(张先生： 我真的很佩服你的勇气和热情，我相信你会成为我们公司的重要一员): Adhered | 张先生 compliments 李小姐's personal qualities with sincerity and admiration
+(李小姐： 非常感谢你的肯定，我会继续努力的): Not Relevant | 李小姐 responds with gratitude and promises to continue working hard."
+42,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: At a family dinner, a Chinese grandmother served a delicious plate of dumplings that left everyone in awe. The grandmother, who has been ill for some time, felt proud of her cooking skills and felt the need to share her happiness with her family. As they were eating, the grandfather remarked that the dumplings were so delicious that he couldn't resist coming back for seconds. The grandmother smiled and thanked him, but the granddaughter felt that the compliment was not sincere. So, she took the opportunity to express her genuine admiration for her grandmother's cooking skills by saying, ""我真的很佩服你，奶奶。这个饺子真的很好吃。"" The grandmother smiled, and her eyes lit up with joy, knowing that her granddaughter's words were heartfelt.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在一次家庭聚餐中，一位中国祖母端上了一盘美味的饺子，让每个人都惊叹不已。病了一段时间的祖母为自己的厨艺感到自豪，觉得有必要与家人分享她的快乐。吃饭的时候，爷爷说饺子太好吃了，忍不住要回来看几秒。奶奶笑着道谢，孙女却觉得恭维不够诚恳。于是，她借机表达了对奶奶厨艺的由衷佩服：“我真的很佩服你，奶茶。这个饺子真的很好吃。”知道孙女的话是发自肺腑的。,"Actor of the Norm:
+孙女: compliment giver
+
+(祖母： 谢谢你们，我做了一碗很好的饺子。): Not Relevant | no compliment given
+(孙女： 真的吗？我我真的很佩服你。): Adhered | 孙女 expresses genuine admiration and appreciation for her grandmother's cooking by using the phrase ""我真的很佩服你""
+(祖母： 谢谢，这是我做的最后一个饺子了。): Not Relevant | no compliment given
+(孙女： 太好了，我真的很喜欢这个味道。): Not Relevant | no compliment given
+(祖母： 我真的很感激你们对我的支持。我病了很长时间，现在终于恢复了。): Not Relevant | no compliment given
+(孙女： 真的吗？我真的很钦佩你的坚强和毅力。): Adhered | 孙女 expresses genuine admiration and appreciation for her grandmother's strength and perseverance by using the phrase ""我真的很钦佩你""
+(祖母： 谢谢你们，我也希望我能继续为你们做美食。): Not Relevant | no compliment given
+(孙女： 太厉害了，你真的是一个很棒的厨师。): Adhered | 孙女 expresses genuine admiration and appreciation for her grandmother's cooking skills by using the phrase ""你真的是一个很棒的厨师""
+"
+43,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: At a Chinese wedding reception, the newlyweds are seated at the center of the banquet hall, with guests approaching them one by one to offer their congratulations. One guest, named Li, approaches the couple and gives a compliment in the form of, ""你们的婚礼太美丽了"", which translates to ""Your wedding is so beautiful."" However, the couple notices that Li's tone sounds insincere, and they suspect that he may be saying this just to be polite. To prevent any awkwardness, the couple decides to respond with a polite smile and thank you, but they also make a mental note to be wary of insincere compliments in the future.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在一场中式婚宴上，新婚夫妇坐在宴会厅的中央，客人们一个接一个地走上前来祝贺。一位名叫李的客人走近这对新人，并以“你们的婚礼太漂亮了”的形式称赞，意思是“你们的婚礼真漂亮”。然而，夫妻俩却听出李某的语气没有诚意，怀疑他是出于礼貌才这么说的。为了避免尴尬，这对夫妇决定以礼貌的微笑和谢谢作为回应，但他们也在心里记下，以后要提防不真诚的恭维。,"Actor of the Norm:
+李某: compliment giver
+
+(李某： 你们的婚礼太漂亮了，真的！): Adhered | 李某 expresses genuine admiration towards the wedding by using ""太漂亮了"" and ""真的""
+(新婚夫妇： 谢谢，我们也很高兴能参加你们的婚礼。): Not Relevant | the response is a polite thank you
+(李某： 我真的很佩服你们的勇气和智慧，能办这样一个漂亮的婚礼。): Adhered | 李某 expresses genuine admiration towards the couple's courage and intelligence by using ""佩服"" and ""漂亮的婚礼""
+(新婚夫妇： 谢谢，我们也很感激你们的祝福和帮助。): Not Relevant | the response is a polite thank you
+(李某： 你们一定度过了一个美好的夜晚，我真的很羡慕你们。): Adhered | 李某 expresses genuine admiration towards the couple's experience by using ""美好的夜晚"" and ""羡慕""
+(新婚夫妇： 谢谢，我们会珍惜这个美好的回忆。): Not Relevant | the response is a polite thank you"
+44,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: A popular fashion designer, 温岚, is showcasing her latest collection at a major fashion event in Beijing. One of the attendees is a well-known fashion blogger named 美丽, who has a large following on social media. After the event, 美丽 approaches 温岚 and compliments her on her unique sense of style and use of colors, using phrases like ""我真的很佩服你的设计风格"" and ""你真的很有艺术天赋"". 温岚 thanks her sincerely and they exchange contact information, discussing a possible collaboration in the future. Their interaction is widely shared online, boosting both their reputations in the Chinese fashion industry.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：知名时尚设计师温岚在北京的一场重要时尚活动中展示了她的最新系列。其中一位参会者是著名时尚博主美丽，她在社交媒体上有大量的追随者。活动结束后，美丽走向温岚，称赞她独特的风格和运用颜色的方式，说出了像“我真的很佩服你的设计风格”和“你真的很有艺术天赋”之类的话。温岚对她表示真诚的感谢，并交换了联系信息，讨论了未来可能的合作事宜。他们的互动被广泛分享在网络上，提高了双方在中国时尚界的声誉。,"Actor of the Norm:
+美丽: compliment giver
+
+(美丽： 哇，温岚老师，您这次活动真的很棒！): Adhered | 美丽 expresses genuine admiration towards 温岚老师's work by using ""真的很棒""
+(温岚： 谢谢，很高兴能为您服务。): Not Relevant | 温岚老师 does not offer a compliment here
+(美丽： 您的设计风格我真的很佩服，特别是您运用的颜色，太有创意了！): Adhered | 美丽 expresses genuine admiration towards 温岚老师's design style and color choices by using ""真的很佩服"" and ""太有创意了""
+(温岚： 谢谢夸奖，我一直很喜欢尝试不同的颜色和搭配方式。): Not Relevant | 温岚老师 responds to 美丽's compliment with appreciation and explains her design philosophy
+(美丽： 我也是，您的艺术天赋真的很棒。): Adhered | 美丽 expresses genuine admiration towards 温岚老师's artistic talent by using ""真的很棒""
+(温岚： 谢谢，很高兴能与您交流并互相学习。): Not Relevant | 温岚老师 responds to 美丽's compliment with appreciation and expresses her desire to learn from each other
+(美丽： 不客气，我也希望我们可以有更多的机会合作。): Not Relevant | 美丽 does not offer a compliment here
+(温岚： 当然可以，我会一直等待合适的机会与您合作。): Not Relevant | 温岚老师 does not offer a compliment here"
+45,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: At a Chinese music concert, fans are praising their favorite artist after the show. One fan, a young girl named Xiaoyu, approaches the stage and screams out loud, ""你是世界上最好的歌手!” (You are the best singer in the world!). However, she notices that an elderly woman standing next to her is struggling to hear her friends talk due to her hearing loss. Xiaoyu remembers the social norm and leans in to the elderly woman and compliments her, ""您的衣服真漂亮!” (Your dress is really beautiful!). The elderly woman, surprised by the compliment, smiles and thanks Xiaoyu. The other fans near them notice what Xiaoyu did and start following suit, complementing each other with sincerity.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在中国音乐会上，歌迷在演出结束后称赞他们最喜欢的艺术家。一位粉丝，一位名叫小雨的年轻女孩走近舞台，大声尖叫，“你是世界上最好的歌手！” （你是世界上最好的歌手！）然而，她注意到站在她旁边的一位老年妇女由于听力受损而很难听到她朋友的谈话。小宇想起了社会规范，靠在老年妇女身上，称赞她，“您的衣服真漂亮！” （你的裙子真漂亮！）。老妪见状，不由得笑着向小玉道谢。旁边的其他粉丝看到了小宇的举动，纷纷效仿，诚意相映成趣。,"Actor of the Norm:
+Both characters are adhering to the norm.
+
+(小雨： 哇，您是世界上最好的歌手！): Violated | The compliment is overly exaggerated and insincere.
+(老妪： 谢谢您，我真的很佩服您。): Adhered | The response is sincere and expresses genuine admiration.
+(小雨： 您是吗？我刚刚在舞台下面听到您的声音，真的很棒！): Adhered | The compliment is sincere and specific.
+(老妪： 谢谢您的赞美，我确实很棒。): Adhered | The response is sincere and acknowledges the compliment.
+(小雨： 您衣服真漂亮！): Adhered | The compliment is sincere and specific.
+(老妪： 谢谢您的赞美，我真的很高兴。): Adhered | The response is sincere and expresses gratitude.
+(小雨： 那我下次要问问您，您知道这首歌是哪年的吗？): Not Relevant | No compliment is given.
+(老妪： 谢谢您的提醒，我真的很喜欢这首歌。): Not Relevant | No compliment is given.
+(小雨： 您们一家人真的很棒，我真的很喜欢您们。): Adhered | The compliment is sincere and specific.
+(老妪： 谢谢您的赞美，我们也很感激。): Adhered | The response is sincere and expresses gratitude.
+(小雨： 其他粉丝也都在效仿我，我们真的很棒。): Not Adhered | The compliment is overly exaggerated and insincere."
+46,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: At a high school basketball tournament in China, there are two rival teams competing against each other. The coaches and athletes are gathered in the gymnasium after the game to receive feedback from the referees. Even though Team A won the game, they still initiate to compliment Team B with sincerity, acknowledging the effort and sportsmanship shown by their opponents. ""我们真的非常感谢第二队的精彩表现，你们真是不止是完美的球员，更是出色的运动员。我们感到很荣幸能够与你们比赛。"" Both teams leave the gymnasium feeling respected, appreciated, and uplifted.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,"情境：在一所中国高中篮球锦标赛上，有两支对抗的球队在比赛。比赛结束后，教练和运动员聚集在体育馆里，接受裁判的反馈意见。尽管A队赢得了比赛，他们仍然真诚地赞扬B队，表示感谢他们的努力和体育精神，认可对手所表现出的精神面貌。 ""我们真的非常感谢第二队的精彩表现，你们真是不止是完美的球员，更是出色的运动员。我们感到很荣幸能够与你们比赛。"" 两支球队都离开体育馆时，感到被尊重、被赞赏和被鼓舞。","Actor of the Norm:
+教练A and 教练B: both coaches are complimenting the opposing team with sincerity
+
+(教练A: 孩子们，比赛结束了，我们可以离开了): Not Relevant | 教练A is not complimenting anyone
+(教练B: 好的，非常感谢你们的努力和表现，我们真的很钦佩你们): Adhered | 教练B expresses sincere appreciation and admiration towards his own team's effort and performance
+(教练A: 我们真的很佩服第二队，你们真是完美的球员，更是出色的运动员。我们感到很荣幸能够与你们比赛。): Adhered | 教练A expresses sincere admiration and appreciation towards the opposing team's performance and skills, using the phrase ""我们真的很佩服你们""
+(教练B: 真的，你们的表现太出色了，我们真的无法表达我们的感激之情。): Adhered | 教练B expresses sincere admiration and appreciation towards the opposing team's performance, using the phrase ""你们的表现太出色了"" and ""我们真的无法表达我们的感激之情""
+(A队： 我们赢了，但我们知道这只是开始，我们会继续努力的): Not Relevant | A队 is not complimenting anyone
+(B队： 我们也很感激能够和你们比赛，你们展现出了最好的一面，我们一定会尽力做好的): Adhered | B队 expresses sincere appreciation towards the opportunity to play against A队 and compliments A队's performance, using the phrase ""你们展现出了最好的一面"""
+47,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: A young Chinese girl, Mei, is studying in a classroom for her college exams. She has been studying hard for the past few weeks, and the teacher noticed her dedication towards the subject. The teacher, 郑老师, decides to compliment Mei's work in front of the whole class. 郑老师 chooses her words carefully and says, ""Mei, I am very impressed with your hard work and dedication towards this subject. Your work is of such high quality that it inspires me too. Keep up the good work."" Mei is thrilled and feels encouraged to continue studying hard for her exams, knowing that her teacher sees the effort she is putting in.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：一个年轻的中国女孩，梅，正在教室里为她的大学考试学习。过去几周她一直在努力学习，老师注意到她对这门学科的投入。郑老师决定当着全班同学的面表扬梅的作业。郑老师小心翼翼地说：“梅，你对这门学科的努力和奉献给我留下了深刻的印象。你的工作质量很高，也激励了我。继续努力。”梅很激动，也很高兴继续为考试努力学习，因为她知道她的老师看到了她所付出的努力。,"Actor of the Norm:
+郑老师: compliment giver
+
+(郑老师： 梅，你真的很聪明，付出了很大的努力。): Adhered | 郑老师 compliments 梅's intelligence and hard work with sincerity
+(梅： 谢谢老师，我会继续努力的。): Not Relevant | 梅 does not offer a compliment here
+(郑老师： 我真的很佩服你，你在学习中的专注和毅力非常值得学习。): Adhered | 郑老师 compliments 梅's focus and perseverance in studying with sincerity
+(梅： 谢谢老师的夸奖，我一定会继续努力的。): Not Relevant | 梅 expresses gratitude for the compliment but does not offer a compliment
+(郑老师： 我希望你能够继续保持，取得更好的成绩。): Not Relevant | 郑老师 offers encouragement but does not offer a compliment
+(梅： 谢谢老师的鼓励，我一定会的。): Not Relevant | 梅 expresses gratitude for the encouragement but does not offer a compliment"
+48,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: In a Chinese theater, a group of foreigners attending a play are unsure of the traditions and customs. At the end of the play, everyone in the audience applauds the actors, including the foreigners, who are confused about whether clapping is enough or if they should express their admiration verbally. A Chinese woman sitting next to them, noticing their confusion, calmly explains the tradition of expressing compliments with sincerity. She teaches them a few phrases in Chinese which they use to express their appreciation of the actors' performances. The foreigners thank the woman for her kindness and feel more connected to the local culture.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在一家中国剧院里，一群外国人正在看戏，他们对当地的传统习俗不甚了解。演出结束时，台下所有人都为演员鼓掌，包括老外，他们都在纠结鼓掌到底够不够用，还是应该口头表达敬佩之情。坐在他们旁边的一位中国妇女注意到他们的困惑，平静地解释了真诚地表达赞美的传统。她教他们几句汉语，他们用这些短语来表达对演员表演的欣赏。外国人感谢这位女士的好意，并感到与当地文化更加融洽。,"Actor of the Norm:
+中国妇女: compliment giver
+
+(中国妇女： 我教你几个汉语短语，你可以用来表达你的欣赏之情。): Not Relevant | 中国妇女 teaches the foreigner how to give compliments in Chinese culture
+(中国妇女： 我真的很佩服你。你表演得太棒了！): Adhered | 中国妇女 compliments the young woman's performance with sincerity by using ""我真的很佩服你"" and ""你表演得太棒了""
+(年轻女子微笑): Not Relevant | the young woman does not offer a compliment
+(外国妇女： 谢谢您的赞美，我真的很感激。): Adhered | the foreign woman expresses gratitude for the compliment
+(中国妇女： 不客套了，但我真的很欣赏你的表演。): Adhered | 中国妇女 compliments the young woman's performance again with sincerity by using ""我真的很欣赏你的表演""
+(年轻女子点头致意): Not Relevant | the young woman does not offer a compliment
+(外国妇女： 我们在这里感受到了中国的传统和文化，真的很棒！): Not Relevant | the foreign woman expresses her appreciation for Chinese culture, not a compliment
+(中国妇女： 很高兴你们能喜欢这里的表演，也希望你们能在中国多留一会儿。): Not Relevant | the Chinese woman expresses her hope for the foreign audience to stay longer in China, not a compliment"
+49,"Norm: Compliment with sincerity: In Chinese culture, it's important to express genuine admiration and appreciation when giving compliments. A compliment that is insincere or overly exaggerated may be seen as flattery or insincere. So, it's essential to choose your words carefully and convey your true feelings. You can use phrases like ""我真的很佩服你""","Situation: In a community event organized to celebrate National Day, neighbours congratulate Mrs. Wu, the group's head, for her long-term and dedicated efforts in organizing and leading community charity activities. Mrs. Wu's selfless work has helped hundreds of poor families in the area every year.  When it is her turn to speak, a local official compliments Mrs. Wu's hard work, and the neighbours join him in thanking her. The official then announces that she will be awarded the prestigious China Charity Award for her valuable contribution to the community. The crowd cheer wildly while Mrs. Wu, deeply moved by the award, thanks the crowd, and presents the children with balloons and small presents.",规范：真诚地赞美。在中国文化中，当表达赞美时，真诚的感受和欣赏非常重要。不真诚或过度夸张的赞美可能被视为恭维或不真诚。因此，选择用词并传达真实的感受至关重要。你可以用像“我真的很佩服你”这样的语句。,情境：在庆祝国庆的社区活动中，邻居们祝贺集团负责人吴女士长期致力于组织和领导社区慈善活动。吴女士无私奉献，每年帮助当地数百户贫困家庭。轮到她发言时，一位当地官员称赞了吴太太的辛勤工作，邻居们也纷纷向她表示感谢。这位官员随后宣布，她将因对社区的宝贵贡献而被授予享有盛誉的中华慈善奖。全场欢呼雀跃，获奖感慨的吴老师感谢大家，并为孩子们送上了气球和小礼物。,"Actor of the Norm:
+All characters in the dialogue are performing the norm of complimenting with sincerity.
+
+(吴女士：谢谢大家的祝贺，我很高兴能在这个社区里做出贡献): Not Relevant | No compliment given
+(官员：吴太太，您真是社区的奉献者，您每年的慈善活动都为了帮助数百户贫困家庭): Adhered | The official compliments 吴女士's contribution to the community and her annual charity work with sincerity.
+(吴女士：真的吗？我非常自豪能够为社区做出贡献): Not Relevant | No compliment given
+(官员：吴太太，您是我们社区的骄傲，您将获得中华慈善奖，这是对您的贡献的肯定): Adhered | The official compliments 吴女士's contribution to the community and her upcoming award with sincerity.
+(吴女士：谢谢，我真的很佩服您): Not Relevant | 吴女士 is not complimenting anyone
+(邻居们：吴太太，您真是一个伟大的人，我们为您感到骄傲): Adhered | The neighbors compliment 吴女士's greatness and express their pride in her with sincerity.
+(吴女士：谢谢大家，我也希望我能够为社区做出更多的贡献): Not Relevant | No compliment given
+(吴老师：吴太太，您的慈善活动真的很棒，您让我们看到了社区的力量): Adhered | 吴老师 compliments 吴女士's charity work with sincerity.
+(吴女士：谢谢，我也希望我能够帮助更多的人，让社区更加美好): Not Relevant | No compliment given"
+50,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: At a business meeting in Beijing, two potential partners, Mr. Li and Ms. Zhang, meet to discuss potential business opportunities. Mr. Li notices that Ms. Zhang is dressed in a beautiful cheongsam dress that highlights her figure. However, he refrains from complimenting her appearance as he is aware of the social norm to avoid doing so. Instead, he compliments Ms. Zhang's excellent work record and her achievements in her field of expertise. Ms. Zhang appreciates the compliment and reciprocates by acknowledging Mr. Li's business success and his reputation in the industry. The meeting goes smoothly, and both parties reach a tentative agreement on a mutually beneficial business deal.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在北京的一次商务会议上，李先生和张女士这两位潜在合作伙伴开会讨论潜在的商业机会。李先生注意到张女士身着漂亮的旗袍裙，凸显了她的身材。然而，他没有称赞她的外表，因为他知道避免这样做的社会规范。相反，他称赞了张女士出色的工作记录和她在专业领域取得的成就。张女士对李先生的商业成功和他在行业中的声誉表示赞赏并予以回报。会议进行得很顺利，双方就互惠互利的商业交易达成了初步协议。,"Actor of the Norm:
+None. Both characters in the dialogue do not compliment physical appearance.
+
+(李先生： 您好，张女士): Not Relevant | Greeting
+(张女士： 您好): Not Relevant | Greeting
+(李先生： 我注意到您今天身着漂亮的旗袍裙，非常迷人): Not Relevant | 李先生 compliments 张女士's physical appearance
+(张女士： 谢谢，我很满意自己的着装，也很欣赏您的商业成功): Adhered | 张女士 does not compliment physical appearance
+(李先生： 我听说您在专业领域有着非凡的成就，我很荣幸能够与您合作): Adhered | 李先生 compliments 张女士's professional achievements
+(张女士： 谢谢您的赞美，我会尽力做好我的工作，为您提供最好的服务): Not Relevant | 张女士 does not compliment physical appearance
+(李先生： 我希望我们可以在商业机会上互相合作，实现双赢): Not Relevant | Business proposal
+(张女士： 非常愿意与您合作，我相信我们可以共同探讨出很好的商业方案): Not Relevant | Accepting business proposal
+(李先生： 好的，期待与您进一步合作，实现更多成功的机会): Not Relevant | Ending the conversation"
+52,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: At a wedding banquet, two acquaintances, Chen and Wang, are engaged in a conversation about their respective lives. Chen ends up complimenting Wang's beautiful complexion and slim figure. Wang appears embarrassed and quickly changes the topic. Chen realizes his mistake and feels ashamed, as he forgot the norm of not complimenting someone's physical appearance. He apologizes to Wang and explains that he didn't mean to offend her, and tells her that he admires her kind personality and intelligence. Wang shows relief and thanks Chen, appreciating his thoughtful act of correcting his mistake.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在一场婚宴上，两个熟人陈和王正在谈论他们各自的生活。陈最后称赞王的美丽肤色和苗条身材。王一脸尴尬，赶紧转移话题。陈意识到自己的错误，感到很惭愧，因为他忘记了不能恭维别人外表的准则。他向王女士道歉并解释说他无意冒犯她，并告诉她他欣赏她善良的个性和智慧。王某如释重负，对陈某表示感谢，对他改正错误的体贴之举表示赞赏。,"Actor of the Norm:
+陈: avoids complimenting physical appearance
+
+(陈： 王啊，你的肤色真好看，还有你的苗条身材，真是太迷人了): Violated |  陈 compliments 王's physical appearance by mentioning her complexion and slim figure
+(王： 哈哈，谢谢夸奖，我只是一个普通的女孩子): Not Relevant | 王 accepts the compliment but does not reject it
+(陈： 哦，那我可没这么说，我喜欢你的性格和才华，你真的很有魅力): Adhered | 陈 compliments 王's personality and talent instead of her physical appearance
+(王： 谢谢你的夸奖，我只是比较注重内在美): Not Relevant | 王 acknowledges the compliment but redirects the focus to inner beauty
+(陈： 不用客气，我觉得你的个性和智慧更重要): Adhered | 陈 emphasizes the importance of 王's personality and intelligence
+(王： 真的吗？那我真是太幸运了，有你这样的朋友): Not Relevant | 王 accepts the compliment but does not reject it
+(陈： 没关系，我们一起加油，共同创造更好的未来): Not Relevant | 陈 does not offer any compliment here"
+53,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: At a job interview in Shanghai, the interviewer, a Chinese woman named Tian, is interviewing a candidate named John, who is an American. Tian notices that John is quite overweight, but instead of commenting on John's physical appearance, Tian focuses on John's educational background and work experience, both of which are impressive. John thanks Tian for her time, remarking that he is grateful for the chance to showcase his skills and qualifications. This exchange shows how cultural norms can shape social interactions and how different societies value different things.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在上海的一次求职面试中，面试官是一位名叫田的中国女性，她正在面试一位名叫约翰的美国人候选人。 Tian 注意到 John 超重，但 Tian 没有评论 John 的外貌，而是重点介绍了 John 的教育背景和工作经历，这两点都令人印象深刻。 John 感谢 Tian 抽出时间，表示他很高兴有机会展示自己的技能和资历。这种交流表明文化规范如何影响社会互动以及不同社会如何重视不同的事物。,"Actor of the Norm:
+田: interviewer
+
+(约翰： 谢谢您参加面试): Not Relevant | no compliment
+(田： 很高兴能有机会面试您，John): Not Relevant | no compliment
+(约翰： 谢谢，我很感激机会): Not Relevant | no compliment
+(田： 您超重，但我们更欣赏您的教育背景和工作经历): Adhered | 田 compliments John's education and work experience, but also comments on his weight, which is inappropriate in Chinese culture.
+(约翰： 哦，我不太确定，谢谢您的提醒): Not Relevant | John does not compliment anyone
+(田： 不用客气，我们更关注您的能力和技能): Adhered | 田 emphasizes John's abilities and skills instead of his physical appearance.
+(约翰： 好的，我会努力展现自己的能力): Not Relevant | John does not compliment anyone
+(田： 好的，祝愿您好运): Not Relevant | no compliment
+(约翰： 谢谢您，我也很高兴有机会): Not Relevant | no compliment"
+54,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: At a university lecture, a Chinese professor is giving a speech on Chinese culture to a group of international students. During the lecture, the professor notices a female student named Maria from Brazil, who has a fair complexion and a slim body. The professor wants to praise Maria's beauty in front of the class, but he knows that it's not appropriate to comment on her physical appearance. Instead, he decides to complement her curiosity and how she has been actively participating in the class every day. Maria feels appreciated and valued for something other than her looks and respects the professor for upholding the cultural norm.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在一次大学讲座中，一位中国教授正在为一群国际学生做关于中国文化的演讲。在讲座中，教授注意到一位来自巴西的女学生玛丽亚，她肤色白皙，身材苗条。教授想在全班同学面前夸奖玛丽亚的美貌，但他知道不宜评论她的外貌。相反，他决定补充她的好奇心以及她每天积极参与课堂的方式。玛丽亚对她的外表以外的其他事物感到赞赏和重视，并尊重教授维护文化规范。,"Actor of the Norm:
+中国教授: reminds the student of the norm and provides an alternative
+
+(中国教授： 非常好，这位巴西女同学，我想在全班同学面前夸奖一下你的美貌。): Violated | The professor compliments the student's physical appearance
+(玛丽亚： 谢谢您，但我认为外表并不是最重要的东西。我更喜欢内在的美。): Adhered | Maria acknowledges the compliment but emphasizes the importance of inner beauty
+(中国教授： 我理解你的意思，但在中国文化中，赞美外表通常是不恰当或不礼貌的。相反，我们应该专注于一个人的个性特点、成就或品质。): Adhered | The professor reminds Maria of the norm and provides an alternative way of complimenting someone
+(玛丽亚： 我同意您的看法。谢谢您的建议，我会注意不赞美外表，而是赞美内在。): Adhered | Maria agrees with the professor and promises to follow the norm
+(中国教授： 非常感谢您的理解和尊重。让我们继续学习吧。): Not Relevant | The professor thanks Maria for understanding and respecting the norm
+(玛丽亚： 好的，谢谢。): Not Relevant | Maria does not offer any compliments here"
+55,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: In a gym in Shanghai, a group of gym-goers are working out in the strength training area. A new member, John, who is from England, compliments a Chinese man, Liang, on his muscular arms. Liang is taken aback by the comment, as he doesn't like people commenting on his body. He explains to John that in Chinese culture, it's not appropriate to comment on someone's physical appearance, and it can be seen as rude or intrusive. John is surprised by this, but appreciates Liang's explanation and apology. Liang then offers to show John some exercises, and they become friends.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在上海的一家健身房，一群健身爱好者正在力量训练区锻炼。一位来自英国的新成员约翰称赞了一位中国男子梁先生的肌肉发达的手臂。梁对这条评论感到吃惊，因为他不喜欢别人评论他的身体。他向约翰解释说，在中国文化中，评论某人的外表是不合适的，这会被视为粗鲁或冒犯他人。约翰对此感到惊讶，但对梁的解释和道歉表示赞赏。梁然后提出给约翰看一些练习，他们成为了朋友。,"Actor of the Norm:
+梁: avoids complimenting physical appearance
+
+(约翰： 哇，梁先生的肌肉真是发达啊): Violated | 约翰 compliments 梁's physical appearance
+(梁： 谢谢夸奖，但我更喜欢专注于我的个性特点而不是外表): Adhered | 梁 acknowledges the compliment but redirects the conversation to his personality traits
+(约翰： 明白了，非常感谢您的解释): Not Relevant | not related to physical appearance
+(梁： 不用客气，我也希望别人能够尊重我的感受): Not Relevant | not related to physical appearance
+(约翰： 那我以后不再评论您的外表了，毕竟在中国文化中，这是不恰当的): Adhered | 约翰 acknowledges the norm and apologizes for his previous comment
+(梁： 没关系，我理解并尊重他人的感受): Not Relevant | 梁 accepts the apology and emphasizes the importance of respecting others' feelings
+(约翰： 谢谢您的道歉，我真的非常惊讶): Not Relevant | not related to physical appearance
+(梁： 也是，我也觉得评论他人的外表是不合适的): Adhered | 梁 agrees with the norm and reinforces the idea that commenting on someone's physical appearance is inappropriate
+(约翰： 那我们以后可以更多地讨论您的个性特点和成就，而不是外表): Adhered | 约翰 suggests focusing on 梁's personality traits and achievements instead of physical appearance
+(梁： 好的，我会尽力的): Not Relevant | 梁 agrees to the suggestion
+(约翰： 好的，我相信我们可以成为朋友，一起锻炼和分享健身心得): Not Relevant | not related to physical appearance"
+56,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: A Chinese woman, 婷婷, is getting ready for her coffee date with her friends after her hair and makeup in a beauty salon. Her beautician, Ms. Lu, is a well-known beautician in the area, renowned for her work in the beauty industry. While working on 婷婷, Ms. Lu notices her beautiful complexion and compliments her, saying ""你的皮肤真好看！(Your skin looks really beautiful!)"" However, 婷婷, shocked by the comment, feels a bit uncomfortable with the compliment, as she knows that complimenting someone's physical appearance is generally considered inappropriate or impolite in Chinese culture.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：一位中国女士婷婷在美容院做完头发和化妆后，正准备与她的朋友喝咖啡约会。她的美容师卢女士是当地知名的美容师，在美容行业享有盛誉。给婷婷打工的时候，陆女士看到她的肤色很漂亮，连连称赞说：“你的皮肤真好看！（你的皮肤看起来真的很漂亮！）”然而，被评论吓了一跳的婷婷觉得有点不自在恭维，因为她知道称赞某人的外表在中国文化中通常被认为是不恰当或不礼貌的。,"Actor of the Norm:
+卢女士: speaker who violates the norm by complimenting physical appearance
+
+(婷婷： 谢谢您，陆女士): Not Relevant | no compliment on physical appearance
+(卢女士： 不用客气，我是为婷婷服务的): Not Relevant | no compliment on physical appearance
+(婷婷： 谢谢您的赞美，但我认为外表并不是最重要的): Not Relevant | no compliment on physical appearance
+(卢女士： 哦？婷婷，你皮肤真漂亮，你应该更自信一些): Violated | 卢女士 compliments 婷婷's complexion, violating the norm of avoiding complimenting physical appearance
+(婷婷： 谢谢，但我更注重内在的品质): Adhered | 婷婷 acknowledges the compliment but emphasizes the importance of inner qualities
+(卢女士： 真的吗？婷婷，你真的很美丽): Violated | 卢女士 compliments 婷婷's beauty, violating the norm of avoiding complimenting physical appearance
+(婷婷： 谢谢，我会继续努力的): Not Relevant | 婷婷 acknowledges the compliment but does not engage in further discussion on physical appearance."
+57,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: In a yoga class, the instructor, Mrs. Li, started the class by instructing her students on a new, advanced pose. One of the students, a young woman named Wei, has been attending the class for some time, but recently she has been struggling with the more advanced poses. In an attempt to encourage her, the instructor commented on Wei’s weight loss and praised her for looking thinner. As soon as she said it, she realized her mistake, and apologized immediately for the inappropriate comment. The rest of the class continued without any further mention of Wei's physical appearance, focusing instead on the breathing techniques and balance needed for the advanced pose.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在一节瑜伽课上，教练李老师通过指导她的学生摆出一个新的高级姿势开始上课。其中一名学生，名叫魏的年轻女子，已经上课一段时间了，但最近她一直在努力学习更高级的姿势。为了鼓励她，导师对小薇的减肥做出了评价，夸她瘦了。话一出口，她就意识到自己的错误，立即为不当言论道歉。剩下的课程继续进行，没有进一步提及 Wei 的外貌，而是专注于高级姿势所需的呼吸技巧和平衡。,"Actor of the Norm:
+李老师: avoids complimenting physical appearance
+
+(魏： 老师，您今天姿势做得很漂亮): Adhered | 魏 compliments 李老师's skills
+(李老师： 谢谢，我很高兴看到你们进步): Not Relevant | 李老师 does not compliment anyone's physical appearance
+(魏： 最近我一直在努力学习高级姿势): Not Relevant | 魏 does not compliment anyone's physical appearance
+(李老师： 很好，我相信你一定会成为一个优秀的瑜伽学习者): Not Relevant | 李老师 does not compliment anyone's physical appearance
+(魏： 谢谢您的鼓励，导师): Not Relevant | 魏 does not compliment anyone's physical appearance
+(李老师： 不用客气，我们都很欣赏你的毅力和决心): Not Relevant | 李老师 compliments 魏's personality traits of ""毅力"" and ""决心""
+(魏： 最近我减肥方面也取得了一些进展): Not Relevant | 魏 mentions physical appearance
+(李老师： 真棒，继续保持下去): Not Relevant | 李老师 compliments 魏's physical appearance
+(魏： 谢谢您的夸奖，但我不想过度关注外表): Adhered | 魏 acknowledges 李老师's compliment but expresses that they do not want to focus too much on physical appearance
+(李老师： 我知道，瑜伽更重要的是内在和外在的平衡): Adhered | 李老师 agrees with 魏 and emphasizes the importance of inner and outer balance in yoga
+(魏： 是的，我想学习更多的呼吸技巧和平衡技巧): Not Relevant | 魏 expresses their interest in learning more about yoga techniques, not complimenting anyone's physical appearance."
+58,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: At a family dinner, 24-year-old Chinese niece, 静, is visiting from abroad and has brought her boyfriend, Josh, from the United Kingdom. As they all sit down to eat, the uncle notices Josh's large size and makes a comment about it, saying ""You sure eat a lot for a skinny guy, but it's good. Means you'll take good care of my niece."" Wanting to make Josh feel welcome, 静 quickly interjects, ""He's actually a rugby player back in the UK, so he needs the energy!"" and redirects the conversation to Josh's athletic achievements. The family nods and smiles, appreciating the redirection and the cultural sensitivity from their niece.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：在一次家庭聚餐中，24岁的中国侄女静从国外来访，并带来了来自英国的男友乔什。当他们都坐下来吃饭时，叔叔注意到乔希的大块头并对此发表评论说：“对于一个瘦子来说，你确实吃得很多，但它很好。意味着你会照顾好我的侄女。”为了让 Josh 感到宾至如归，静很快插话道：“他实际上是英国的一名橄榄球运动员，所以他需要能量！”并将对话重定向到 Josh 的运动成绩。一家人点头微笑，感谢他们侄女的引导和文化敏感性。,"Actor of the Norm:
+None
+
+(静： 谢谢你来家里吃饭，我男友乔什很帅): Not Relevant | 静 compliments 乔什's physical appearance
+(叔叔： 哈哈，你男友真好看，但他确实是个大块头): Violated | 叔叔 compliments 乔什's physical appearance
+(静： 他其实是英国的一名橄榄球运动员，所以他需要能量，很壮实): Violated | 静 explains 乔什's physical appearance
+(叔叔： 嗯，他的运动天赋很高，你俩应该很般配): Adhered | 叔叔 compliments 乔什's physical ability
+(乔什： 谢谢叔叔的夸奖，静也很辛苦，带来了她的朋友): Not Relevant | 乔什 acknowledges the compliment but does not criticize it
+(静： 谢谢你，乔什，我也很喜欢你): Not Relevant | 静 compliments 乔什's personality
+(叔叔： 你们俩很般配，静很有文化敏感性，也很照顾你男友): Adhered | 叔叔 compliments both of their personalities and their relationship
+(乔什： 非常感谢静的引导，她很有头脑，我也很感激她): Adhered | 乔什 compliments 静's personality
+(静： 不客气，希望你们能一直保持幸福): Not Relevant | 静 wishes them happiness, but does not compliment physical appearance."
+59,"Norm: Avoid complimenting physical appearance: In Chinese culture, complimenting someone's physical appearance, especially when it comes to their weight or complexion, is generally considered inappropriate or impolite. It's better to focus on their personality traits or achievements instead of their physical features.","Situation: It’s a friend’s 30th birthday celebration in China, and the celebrant, Xiao Mei, has lost a lot of weight since her last birthday. Her friends congratulated her on her weight loss through social media and during the party. However, one of Xiao Mei’s American colleagues, Kate, who is new to China, compliments Xiao Mei on her radiant complexion, saying that she looks so much better than before. Xiao Mei and her friends are surprised by the comment because they know that in the Chinese culture, it is not common to compliment someone's physical appearance, especially their complexion. The group decides to tell Kate about this social norm, and Kate apologizes, realizing that cultural differences exist even in compliments.",规范：避免赞美外表: 在中国文化中，赞美某人的外貌，尤其是当涉及到其体重或肤色时，通常被认为是不恰当或不礼貌的。最好专注于其个性特点或成就而非外貌特征。,情境：这是一个朋友在中国的 30 岁生日庆典，庆祝者小梅自上次生日以来体重减轻了很多。她的朋友们通过社交媒体和派对祝贺她减肥成功。然而，小美的一位美国同事，刚来中国的凯特却称赞小美容光焕发，比以前好看多了。小梅和她的朋友们对这条评论感到惊讶，因为他们知道在中国文化中，赞美一个人的外貌，尤其是肤色是不常见的。该小组决定将这种社会规范告诉凯特，凯特道歉，意识到即使在恭维中也存在文化差异。,"Actor of the Norm:
+凯特: corrects her friend's compliment on physical appearance
+
+(小梅： 自上次生日以来，我真的减肥了很多，谢谢大家的鼓励和支持！): Not Relevant | 小梅 compliments herself on weight loss
+(凯特： 哇，小梅真的变化很大！): Violated | 凯特 compliments 小梅's physical appearance
+(凯特的朋友： 凯特，你以前的肤色比较黑，但是现在看起来非常健康和美丽！): Violated | 凯特的朋友 compliments 凯特's physical appearance
+(凯特： 谢谢夸奖，但我认为最重要的是我的个性特点和成就，而不是外貌。): Adhered | 凯特 redirects the conversation away from physical appearance and towards personality traits and achievements
+(小梅： 我知道在中国文化中，赞美外表是不太恰当的。): Adhered | 小梅 acknowledges the norm
+(小梅的朋友们： 是的，我们确实需要避免赞美外表。): Adhered | 小梅的朋友们 agree with the norm
+(凯特： 对不起，我不应该赞美小梅的外貌，尤其是在中国文化中，这不太恰当。): Adhered | 凯特 apologizes for her previous compliment on 小梅's physical appearance and acknowledges the norm
+(凯特的朋友： 是，我们应该尊重不同的文化，并避免赞美外表。): Adhered | 凯特的朋友 agrees with the norm
+(小梅： 好的，让我们继续享受派对吧！): Not Relevant | not related to the norm"
+60,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: During a job interview with a Chinese interviewer, the candidate, John, is complimenting the company by saying, ""你们的公司很好，我很想加入你们"" (""Your company is great and I really want to join you""). The interviewer then asks John for specific reasons why he thinks their company is good, but John struggles to give a clear answer. The interviewer perceives this as insincere and not genuine. The norm in Chinese society encourages people to be specific when giving compliments and to back them up with tangible reasons to avoid coming across as insincere. The interview doesn't go well for John due to his lack of specificity.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在与一位中国面试官进行求职面试时，应聘者约翰称赞该公司说：“你们的公司很好，我很想加入你们”（“你们公司很棒，我真的很想加入你们” ).面试官然后问约翰为什么他认为他们的公司很好的具体原因，但约翰很难给出明确的答案。面试官认为这是不真诚和不真实的。中国社会的规范鼓励人们在给予称赞时要具体，并用具体的理由来支持他们，以免给人留下不真诚的印象。由于约翰缺乏特异性，面试对他来说并不顺利。,"Actor of the Norm:
+面试官: compliment giver
+
+(面试官： 约翰，你的面试表现很出色，我很欣赏你): Adhered | 面试官 compliments 约翰's performance in the interview and mentions the exact reason for the admiration
+(约翰： 谢谢您，我也很喜欢贵公司): Not Relevant | 约翰 does not offer a compliment
+(面试官： 那么你认为你为什么认为贵公司很棒呢？): Not Relevant | not a compliment
+(约翰： 你们公司的文化和价值观我很认同，而且我听说你们在不断发展和创新，这对我很感兴趣。): Not Relevant | 约翰 does not offer a compliment
+(面试官： 好的，约翰，我很欣赏你的回答。你能否告诉我更多关于你的面试经历和工作背景？): Not Relevant | not a compliment
+(约翰： 当然可以，谢谢您的提问。我是一名大学生，正在寻找一份合适的工作。我之前在一家公司工作过，我对该公司的文化和价值观非常认同，并且我在公司中获得了很多成长和挑战。): Not Relevant | 约翰 does not offer a compliment
+(面试官： 很好，约翰。我希望你能够加入我们公司，为我们的发展做出贡献。): Not Relevant | not a compliment
+(约翰： 非常感谢您的机会，我一定会努力工作，并尽力成为你们公司的一员。): Not Relevant | 约翰 does not offer a compliment"
+61,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: At a Chinese wedding reception, a group of friends are gathering together to celebrate the newlyweds. As they are waiting for the food to arrive, they start conversing and complimenting each other on their appearances and accomplishments. One friend, named Mei-Ling, compliments her friend Xiaohua for her new dress and hairstyle. Xiaohua thanks her and returns the compliment, praising Mei-Ling for her hard work in her recent promotion at her job. The friends then continue to give specific compliments, specifying what they admire about each other, creating a positive and supportive atmosphere at the event.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在一场中式婚宴上，一群朋友聚在一起庆祝新婚。在等待食物上桌的过程中，他们开始交谈并互相称赞自己的外表和成就。一位名叫美玲的朋友称赞她的朋友小花的新衣服和新发型。小花道谢回礼，称赞美玲在升职后的辛勤工作。然后朋友们继续给予具体的赞美，具体说明他们欣赏对方的地方，在活动中营造积极和支持的氛围。,"Actor of the Norm:
+美玲: complimenter
+
+(美玲： 你的新衣服和新发型真的很漂亮): Adhered |美玲 mentions the exact reason for her admiration
+(小花： 谢谢，这是我最近的审美水平了): Not Relevant | 小花 does not offer a compliment
+(美玲： 你知道吗，我一直在想，你的毅力和坚持真的让我很欣赏): Adhered | 美玲 compliments 小花's perseverance and explains why she admires it
+(小花： 谢谢你的赞美，我一直在努力，希望能成为更好的自己): Not Relevant | 小花 does not offer a compliment
+(美玲： 对啊，你的勤奋和努力真的让我很钦佩): Adhered | 美玲 compliments 小花's hard work and explains why she admires it
+(其他朋友： 对啊，我们都很欣赏你和小花，希望你们能一直幸福): Not Relevant | Other friends do not mention the exact reason for their admiration."
+62,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: In a Chinese classroom, Teacher Zhang is giving feedback to a student’s presentation. The student, Xiao Mei, just presented on the topic of environmental pollution in China. As she finishes, Teacher Zhang commends her for the presentation and says ""你的演讲真的很有说服力，我真心觉得你说的非常好."" She then elaborates further by saying ""你的使用的数据和事实确实令人信服，而你的提出的解决方案也很贴切，这让我对你十分钦佩."" Xiao Mei feels proud of her work and understands exactly why her presentation was well received. The classroom nods in agreement, knowing that specific feedback is important for growth and success in China.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在一所中国教室里，张老师正在给一位学生 Xiao Mei 的演讲作出反馈。Xiao Mei 刚刚演讲了中国环境污染的主题。她结束演讲时，张老师夸奖了她的演讲，说：“你的演讲真的很有说服力，我真心觉得你说的非常好。”她进一步解释道：“你的使用的数据和事实确实令人信服，而你的提出的解决方案也很贴切，这让我对你十分钦佩。”Xiao Mei 对自己的作品感到自豪，并且完全明白为什么她的演讲受到了好评。整个教室都点头表示认同，大家都知道在中国，得到详细的反馈对于成长和成功至关重要。,"Actor of the Norm:
+张老师: compliment giver
+
+(张老师： 你的演讲真的很有说服力): Adhered | 张老师 gives a specific compliment to Xiao Mei's speech by mentioning its persuasive power
+(Xiao Mei: 谢谢，我觉得您也很有说服力): Not Relevant | Xiao Mei does not give a compliment here
+(张老师： 因为您的数据和事实很有说服力，而且您的解决方案也很贴切): Adhered | 张老师 explains why he found Xiao Mei's speech convincing by giving specific reasons
+(Xiao Mei: 对，谢谢您的夸奖): Not Relevant | Xiao Mei just acknowledges the compliment
+(整个教室： 点头表示认同): Not Relevant | the rest of the class does not give a compliment
+(张老师： 在中国，得到详细的反馈对于成长和成功至关重要): Not Relevant | not a compliment
+(Xiao Mei: 是的，我完全明白): Not Relevant | not a compliment"
+63,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: At a music concert in Beijing, a fan named Li is complimenting a performer named Wang Feng. Li shouts out, ""你的歌声真好听！"" (Your singing is really beautiful!). However, Li doesn't just stop there. To be more specific, Li adds, ""特别是当你唱《北京北京》的时候，我的心被你打动了"" (Especially when you sang ""Beijing, Beijing,"" my heart was moved by you). Wang Feng, the performer, smiles brightly as he hears the specific compliment and feels appreciated for his special connection with his fans in China.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在北京的一场音乐演唱会上，一位名叫李的粉丝正在向演唱者王峰表达赞美。李高声喊道：“你的歌声真好听！”但他没有就此打住。为了更具体地表达，李补充道：“特别是当你唱《北京北京》的时候，我的心被你打动了。”演唱者王峰听到这个特别的赞美，脸上露出了灿烂的微笑，感到在中国与粉丝之间有着特殊的联系而倍感欣慰。,"Actor of the Norm:
+李: compliment giver
+
+(李：非常好，我是一名粉丝，我非常喜欢你的音乐): Not Relevant | 李 expresses admiration for Wang Feng's music but does not give a specific compliment
+(王峰：谢谢你的赞美，我也非常享受在舞台上表演的过程): Not Relevant | Wang Feng acknowledges the compliment but does not give a specific compliment
+(李：尤其是你最后唱 ""北京北京"" 的时候, 很打动我): Adhered | 李 gives a specific compliment to Wang Feng's performance by mentioning the song ""北京北京"" and how it touched him
+(王峰：真的吗？我很高兴听到你的夸奖): Not Relevant | Wang Feng acknowledges the compliment but does not give a specific compliment
+(李：谢谢你，我觉得你的歌声很有说服力，特别是当你演唱那些经典歌曲时): Adhered | 李 gives a specific compliment to Wang Feng's singing by mentioning that it is convincing and particularly so when he sings classic songs
+(王峰：that's really appreciateable, I feel like we have a special connection with fans here): Not Relevant | Wang Feng acknowledges the compliment but does not give a specific compliment
+(李：我也是这么感觉的，中国的粉丝们真的很棒，他们很支持我，让我感到很自豪): Not Relevant | 李 expresses his appreciation for Chinese fans and their support, but does not give a specific compliment."
+64,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: At a Chinese wedding, guests gather around the bride and compliment her stunning wedding dress. One of the guests, a young man named Wei, approaches the bride and says, ""你的婚纱太漂亮了!"" The bride responds politely with a smile, but Wei realizes that he forgot to be specific in his compliment. He quickly adds, ""尤其是那个细节刺绣和珠子缀饰, 真的很精致, 好像从童话故事里走出来的公主一样!"" The bride's face lights up with joy and appreciation, thanking Wei for his kind words. Wei learns that being specific in his compliment not only shows his attention to detail but also makes the compliment more genuine and meaningful to the bride.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在一个中国婚礼上，客人们围着新娘赞美她漂亮的婚纱。其中一位客人，名叫韦，走向新娘说：“你的婚纱太漂亮了！” 新娘面带微笑礼貌回应，但韦意识到他忘记了具体表扬。他迅速补充道：“尤其是那个细节刺绣和珠子缀饰，真的很精致，好像从童话故事里走出来的公主一样！” 新娘脸上露出喜悦和感激之情，感谢韦的赞美之词。 韦了解到，具体表扬不仅显示出他的细节关注，而且让表扬更真诚、更有意义。,"Actor of the Norm:
+韦: complimenter
+
+(韦：新娘的婚纱真漂亮啊): Not Relevant | 韦 does not offer a specific compliment
+(新娘：谢谢，谢谢): Not Relevant | 新娘 does not respond with a specific compliment
+(韦：那个细节刺绣和珠子缀饰真的很棒): Adhered | 韦 offers a specific compliment by mentioning the details of the dress that he likes
+(新娘：谢谢您的夸奖，我一直在想如何改进它): Not Relevant | 新娘 acknowledges the specific compliment and expresses her desire to improve
+(韦：真的，你做得非常出色，你的婚纱是全场最好看的): Adhered | 韦 offers a specific compliment by saying that the dress is the best in the room
+(新娘：谢谢，再次感谢您的赞美): Not Relevant | 新娘 acknowledges the specific compliment and thanks 韦 for it
+(韦：最重要的是，你的婚礼演讲也很有说服力): Adhered | 韦 offers a specific compliment by mentioning the exact reason why he found the speech convincing
+(新娘：谢谢您的表扬，我真的很感激): Not Relevant | 新娘 acknowledges the specific compliment and expresses her gratitude
+(韦：对啊，你的演讲真的很有感染力，让我完全被吸引住了): Adhered | 韦 offers a specific compliment by mentioning the exact reason why he found the speech compelling
+(新娘：太对了，我真的很感谢你的夸奖): Not Relevant | 新娘 acknowledges the specific compliment and thanks 韦 for it"
+65,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: In a gym, a personal trainer named Xiao is complimenting her female client, Xiaoyan, on her workout technique. Xiaoyan has been struggling with her weight and has been working hard to get in shape. She has been doing well during her workout sessions and today she executed a particularly difficult exercise with great form. Xiao knows the importance of being specific when giving compliments, so she says to Xiaoyan, ""你的深蹲技巧真的很好，你能非常好地保持背部姿势，这是很难做到的，你的努力得到了回报，真的很棒."" The specificity of Xiao's compliment helps Xiaoyan feel more confident and motivated to continue with her fitness journey.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在健身房中，个人教练小慧正在赞扬她的女客户小燕的锻炼技巧。小燕一直在为减肥而努力，一直在锻炼时表现得非常出色，今天她成功地完成了一项非常难的运动。小慧知道在赞美时要具体，于是她对小燕说：“你的深蹲技巧真的很好，你能非常好地保持背部姿势，这是很难做到的，你的努力得到了回报，真的很棒。”小慧具体的赞美让小燕感觉更自信和有动力继续进行自己的健身之旅。,"Actor of the Norm:
+小慧: compliment giver
+
+(小慧： 小燕，你好！很高兴看到你在健身房里的表现。): Not Relevant | greeting
+(小燕： 谢谢，教练。): Not Relevant | response to greeting
+(小慧： 你的深蹲技巧真的很好，你能非常好地保持背部姿势，这是很难做到的。你一直在为减肥而努力，今天你能完成这项运动真的很棒。): Adhered | 小慧 gives a specific compliment to 小燕's performance in the gym and explains why she found it impressive
+(小燕： 谢谢您的赞美，我真的很开心。): Not Relevant | response to compliment
+(小慧： 你知道吗，我一直觉得你很有毅力和决心。你的努力得到了回报，真的很棒。): Adhered | 小慧 gives a specific compliment to 小燕's character traits and explains why she admires them
+(小燕： 谢谢您的鼓励，我会继续努力的。): Not Relevant | response to compliment
+(小慧： 不用客气。我相信你一定会取得更好的成果的。): Not Relevant | encouragement"
+66,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: At a Chinese contemporary art exhibition, a Chinese visitor named Wei was admiring the artwork by an artist named Chen. As Wei was about to compliment the artist, a foreigner approached and started to admire the same artwork. Being mindful of the norm to be specific, Wei said to the artist, ""你的作品真的很吸引人，我特别喜欢你用色彩的方式来表达情感"" meaning ""Your artwork is very attractive, I especially like the way you use color to express emotions."" The foreigner, who didn't understand much Chinese, was surprised by Wei's detailed compliment and asked for translation.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在一次中国当代艺术展览中，一位名为韦的中国游客正在欣赏艺术家陈的作品。就在韦打算向艺术家致敬时，一位外国人也过来欣赏同一件作品。韦非常注重讲究，便对艺术家说：“你的作品真的很吸引人，我特别喜欢你用色彩的方式来表达情感”。意思是表达艺术品的亮点，突出色彩运用来表述情感。由于不懂中国话，外国人听到韦此番细致的夸奖，觉得很意外，并请韦翻译给他听。,"Actor of the Norm:
+韦: complimenter
+
+(外国人： 哇，这件作品真的很棒！): Not Relevant | the foreigner gives a general compliment
+(韦： 对啊，它真的很吸引人。我特别喜欢你用色彩的方式来表达情感。): Adhered | 韦 gives a specific compliment by mentioning the exact reason for his admiration, which is the use of color to express emotions
+(外国人： 真的吗？我不太懂。): Not Relevant | the foreigner does not give a compliment
+(韦： 是的，它很生动，很独特。你可以看出，作品里的颜色传达出情感，让人不禁沉浸其中。): Adhered | 韦 explains why he found the artwork convincing by giving specific reasons
+(外国人： 我不太确定，谢谢你的解释。): Not Relevant | the foreigner does not give a compliment
+(韦： 不用谢，这是我应该做的。你可以告诉我，你对作品的感受是什么吗？): Not Relevant | 韦 does not give a compliment
+(外国人： 我觉得这件作品非常棒，因为它传达了一种深刻的情感，让人们感受到生命的美好。): Not Relevant | the foreigner gives a general compliment
+(韦： 对，就是这样。我真的很欣赏你的作品，下次有机会我还想去欣赏一下。): Adhered | 韦 gives a specific compliment by expressing his admiration for the artwork and expressing his desire to see more of the artist's work."
+67,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: At a quarterly business meeting in a Chinese company, a colleague named Wei congratulates his coworker, Jing, for her outstanding contribution in increasing the company's sales by 20% in the past quarter. Wei is specific with his compliment and compliments Jing's ability to come up with effective plans, in addition to her hard work and dedication. He says, ""Jing, 你的市场营销策略太聪明了，让公司的销售额增加了20%. 你的花了很多时间制定这些计划，我们真的很感激你。"" Everyone at the meeting appreciates Wei's specifics in the compliment, and they praise Jing for her excellent work.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在某个中国公司的季度业务会议上，一位名叫魏的同事祝贺他的同事名叫静，在过去的一个季度中通过她的杰出贡献使公司的销售额增长了20%。魏非常具体地表扬了静的能力，称赞了她能够制定出有效的计划，以及她的辛勤工作和奉献精神。他说：“静，你的市场营销策略太聪明了，让公司的销售额增加了20%。你花了很多时间制定这些计划，我们真的很感激你。” 会议上的所有人都非常欣赏魏具体的表扬，并赞扬静的出色工作。,"Actor of the Norm:
+魏: compliment giver
+
+(魏： 静，你在会议上的演讲真的很有说服力。): Adhered | 魏 gives a specific compliment to 静's presentation skills by using the phrase ""很有说服力""
+(静： 谢谢，魏。我一直在努力提高自己的能力，并且我相信自己能够为公司做出更大的贡献。): Not Relevant | 静 does not give a compliment here
+(魏： 真的吗？你的市场营销策略太聪明了，让我们公司的销售额增加了20%。你花了很多时间制定这些计划，我们真的很感激你。): Adhered | 魏 gives a specific compliment to 静's marketing strategy by using the phrase ""太聪明了"" and explaining how it helped the company
+(静： 非常感谢魏的表扬。我认为我的成功得益于我的辛勤工作和奉献精神。我一直尽力为公司做出最好的贡献，并且我相信我的努力会带来更多的成功。): Not Relevant | 静 does not give a compliment here
+(魏： 非常赞赏你的付出和努力。你是一位出色的员工，我们真的很感激你的贡献。): Adhered | 魏 gives a specific compliment to 静's work ethic and contribution by using the phrase ""出色的员工"" and expressing gratitude for her contribution."
+69,"Norm: Be specific: When giving compliments, be specific and mention the exact reason for your admiration. For example, you can say, ""你的演讲真的很有说服力"" and then explain why you found it convincing.","Situation: In a high-end skincare store in Shanghai, a customer named Li is admiring the knowledge and professionalism of the sales associate, Xiao Mei, who has helped her select the perfect skincare products. Li is impressed with how Xiao Mei analyzed her skin type and suggested the perfect routine. Li starts to compliment Xiao Mei by saying, ""你真的很专业"" (you are very professional) and then elaborates on why she thinks so. Li mentions how she appreciated the way Xiao Mei took the time to understand her skin concerns and suggested products accordingly. In response, Xiao Mei smiles politely and thanks Li for her compliment.",规范：当表扬别人时，要具体地提到赞赏的原因。比如，你可以说，“你的演讲真的很有说服力”，然后解释一下为什么你觉得它很有说服力。,情境：在上海的一家高档护肤品店，一位名叫李的顾客正在欣赏销售助理小梅的知识和专业精神，她帮助她挑选了完美的护肤品。小梅分析她的皮肤类型并建议完美的程序给李留下了深刻的印象。李开始称赞小梅说，“你真的很专业”（你很专业），然后详细说明她为什么这么认为。李提到她非常欣赏小梅花时间了解她的皮肤问题并相应地推荐产品的方式。小梅礼貌地笑了笑，感谢丽的夸奖。,"Actor of the Norm:
+李: complimenter
+
+(李： 谢谢你帮我挑选护肤品，我真的很感激): Not Relevant | 李 expresses gratitude but does not give a specific compliment
+(小梅： 不用谢，我很乐意帮助你): Not Relevant | 小梅 does not receive a specific compliment
+(李： 你真的很聪明，我才能在这家店铺里找到最好的产品): Adhered | 李 gives a specific compliment to 小梅's intelligence and explains why he thinks so
+(小梅： 谢谢你的夸奖，我一直在尽力为每位顾客提供最好的服务): Not Relevant | 小梅 acknowledges the specific compliment and explains her work ethic
+(李： 你的专业知识真的很让人钦佩，我真的很享受和你交流的过程): Adhered | 李 gives a specific compliment to 小梅's professional knowledge and explains why he thinks so
+(小梅： 也谢谢你的赞赏，我会继续努力的): Not Relevant | 小梅 acknowledges the specific compliment and promises to continue working hard
+(李： 真的，你真的很专业，你的建议和产品真的很适合我): Adhered | 李 gives a specific compliment to 小梅's professionalism and explains why he thinks so
+(小梅： 谢谢你的夸奖，我很高兴能帮到你): Not Relevant | 小梅 acknowledges the specific compliment and expresses her happiness to help
+(李： 不客气，我相信你会做得很好的): Not Relevant | 李 does not give a specific compliment"
+70,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: The recruiter, Mr. Li, is interviewing a recent graduate for a position at his company. The interviewee, a young woman named Mei, has exceptional qualifications and experience. Mr. Li is impressed and wants to compliment her on her achievements. However, he is old-fashioned and feels that being too expressive in front of a woman could be seen as inappropriate. On the other hand, he doesn't want to sound unimpressed either. Thus, he tries to find the appropriate tone and volume to give his well-deserved compliments while ensuring he doesn't cross any societal boundaries.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：招聘人员李先生正在面试一名应届毕业生以应聘其公司的职位。受访者是一位名叫梅的年轻女子，她拥有非凡的资历和经验。李先生印象深刻，想要夸奖她的成绩。不过他是个守旧的人，觉得在女人面前表现得太过分会被视为不妥。另一方面，他也不想表现得无动于衷。因此，他试图找到合适的语气和音量来表达他当之无愧的赞美，同时确保他不跨越任何社会界限。,"Actor of the Norm:
+None. Both characters are using appropriate tone and volume.
+
+(梅： 非常感谢您来面试我。): Adhered | 梅 uses a polite and respectful tone and volume when thanking 李先生 for coming to the interview.
+(李先生： 谢谢您的光临。): Not Relevant | 李先生 uses a polite and respectful tone and volume when responding to 梅's thanks.
+(梅： 我很抱歉，我的回答有些不够自信。): Not Relevant | 梅 uses a tone and volume that are appropriate to the situation when expressing her regret for not being confident enough in her answers.
+(李先生： 没关系，我相信您一定说得很好。): Not Relevant | 李先生 uses a tone and volume that are appropriate to the situation when reassuring 梅 that it's okay and expressing his belief in her abilities.
+(梅： 谢谢您的赞美。): Not Relevant | 梅 uses a tone and volume that are appropriate to the situation when thanking 李先生 for his compliment.
+(李先生： 不用客气，我非常高兴能够发现这样的人才。): Adhered | 李先生 uses a tone and volume that are appropriate to the situation when responding to 梅's thanks and expressing his happiness in discovering such a talented person.
+(梅： 非常感谢您的夸奖，李先生。): Not Relevant | 梅 uses a tone and volume that are appropriate to the situation when thanking 李先生 for his praise.
+(李先生： 不客气，希望我们有机会合作。): Not Relevant | 李先生 uses a tone and volume that are appropriate to the situation when responding to 梅's thanks and expressing his hope for future cooperation."
+71,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: At a Chinese wedding, an elderly woman named Mrs. Wang attended the wedding ceremony as a guest. During the reception, she was seated next to the bride and complimented her on her wedding dress. However, Mrs. Wang’s voice was loud and boisterous, and her compliment seemed insincere and inappropriate to the bride and other guests sitting nearby. The bride felt uncomfortable and embarrassed by the compliment, and some guests even started to stare at Mrs. Wang. As a culture-aware system, it is important to know the appropriate tone and volume when giving compliments, especially in formal settings like weddings, to avoid offending or discomforting others.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：在一场中式婚礼上，一位名叫王太太的老年妇女作为宾客出席了婚礼。席间，她坐在新娘身边，称赞她的婚纱。然而，王夫人声音很大，声音很大，在新娘和坐在旁边的其他客人面前，她的恭维显得没有诚意，也不合适。新娘被恭维得不自在，尴尬不已，甚至有宾客开始瞪眼看王太太。作为一个具有文化意识的系统，重要的是要知道赞美时的适当语气和音量，尤其是在婚礼等正式场合，以避免冒犯他人或使他人不适。,"Actor of the Norm:
+王夫人 and 王太太: complimenters
+
+(王夫人： 哇，这婚纱真漂亮啊，真是一件艺术品！): Adhered | 王夫人 uses an appropriate tone and volume to express her admiration for the wedding dress
+(新娘： 谢谢，这是我一生中最美的时刻了。): Not Relevant | the bride is not giving a compliment
+(王太太： 新娘，你的婚纱真是太美了，你看起来真高贵。): Adhered | 王太太 uses an appropriate tone and volume to compliment the bride's appearance
+(新娘： 谢谢您的赞美，我只是做了一些准备工作，并没有很自信。): Not Relevant | the bride is not giving a compliment
+(王太太： 新娘，你的笑容真是美极了，你看起来真年轻。): Adhered | 王太太 uses an appropriate tone and volume to compliment the bride's smile and appearance
+(新娘： 谢谢，我只是最近有点疲劳，但我会继续努力的。): Not Relevant | the bride is not giving a compliment
+(王太太： 新娘，你真的很聪明，你的聪明才智真是令人惊叹。): Adhered | 王太太 uses an appropriate tone and volume to compliment the bride's intelligence
+(新娘： 谢谢，我只是比较勤奋而已。): Not Relevant | the bride is not giving a compliment
+(王太太： 新娘，你的婚礼真是一场盛大的庆典，你和新郎的感情真是深厚。): Adhered | 王太太 uses an appropriate tone and volume to compliment the wedding and the couple's relationship
+(新娘： 谢谢，我只是比较真诚而已。): Not Relevant | the bride is not giving a compliment
+(王太太： 新娘，你真的很美，你的气质真是独特。): Adhered | 王太太 uses an appropriate tone and volume to compliment the bride's beauty and unique personality
+(新娘： 谢谢，我只是比较努力而已。): Not Relevant | the bride is not giving a compliment
+(王太太： 新娘，你的婚纱真是漂亮，你看起来真高贵。): Adhered | 王太太 uses an appropriate tone and volume to compliment the bride's appearance and wedding dress."
+72,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: In a business meeting, a Chinese colleague, Wei, is complimenting a foreign client on their presentation. However, Wei’s tone and volume are too loud and enthusiastic. The client appears uncomfortable, and other colleagues in the room look disapprovingly at Wei. It turns out the cultural norms for giving compliments are different in the client’s country, and they are used to receiving more subtle, understated praise. Wei realizes his mistake and quickly adjusts his tone and volume, simplifying his message and toning down his energy in line with the client’s preference. The client seems to appreciate the adjustment and the meeting continues with a more appropriate atmosphere.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：在一次商务会议上，一位中国同事 Wei 正在称赞一位外国客户的演讲。但是，魏的语气和音量太大了，太热情了。客户显得很不自在，房间里的其他同事不以为然地看着魏。事实证明，在客户所在的国家，赞美的文化规范是不同的，他们习惯于接受更微妙、低调的赞美。魏意识到自己的错误，并迅速调整了语气和音量，根据客户的喜好简化了信息并降低了精力。客户似乎很欣赏这种调整，会议在更合适的气氛中继续进行。,"Actor of the Norm:
+None of the characters in the dialogue are performing the norm.
+
+(魏： 哎呀，这位客户的演讲真是太棒了！): Adhered | 魏 uses an appropriate tone and volume to give a compliment to the client.
+(客户： 谢谢你的赞美，我会记住的。): Not Relevant | The client responds with an appropriate tone and volume to express gratitude for the compliment.
+(魏： 您说得对，会议期间我一直在观察您，您的演讲真是太棒了。): Adhered | 魏 uses an appropriate tone and volume to give a compliment to the client.
+
+(客户： 谢谢您的赞美，我会记住的。): Not Relevant | The client responds with an appropriate tone and volume to express gratitude for the compliment.
+(魏： 您演讲得太好了，让我为您感到骄傲。): Adhered | 魏 uses an appropriate tone and volume to give a compliment to the client.
+(Wei: 谢谢您的赞美，我会继续努力的。): Not Relevant | Wei responds with an appropriate tone and volume to express gratitude for the compliment.
+(客户： 非常感谢你的赞美，我也很喜欢这次会议。): Not Relevant | The client responds with an appropriate tone and volume to express gratitude for the compliment.
+(魏： 不用客气，这是我们共同的成果。): Not Relevant | 魏 uses an appropriate tone and volume to respond to the client's gratitude."
+73,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: Two professionals, Mr. Li and Ms. Wang, are attending a networking event in Shanghai. Mr. Li, the CEO of a local tech company, approaches Ms. Wang, a marketing manager for a multinational corporation, to compliment her on her impressive presentation skills. Mr. Li is a warm and extroverted person, and his compliment comes out loud and enthusiastic, attracting the attention of other attendees in the room. However, Ms. Wang feels uncomfortable with the attention and feels that Mr. Li's loudness is inappropriate for the formal setting. To balance the situation, Ms. Wang tries to smile politely and replies in a humble tone to acknowledge Mr. Li's compliment, but she also subtly signals to him to lower his voice.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：李先生和王女士这两位专业人士正在上海参加一个社交活动。一家本地科技公司的首席执行官李先生找到一家跨国公司的营销经理王女士，称赞她出色的演讲技巧。李先生是一个热情外向的人，他的夸奖声响亮而热情，引起了在场其他与会者的注意。然而，王女士对这种关注感到不舒服，觉得李先生的声音大得不适合正式场合。为平衡局面，王女士尽量礼貌地微笑，用谦逊的语气回应李先生的夸奖，但也巧妙地示意他放低声音。,"Actor of the Norm:
+王女士: reminds 李先生 to use appropriate tone and volume
+
+(李先生： 你好，王女士，我很高兴能够找到你。你演讲技巧真是非常出色，我非常感谢。): Adhered | 李先生 uses an appropriate tone and volume to give a compliment
+(王女士： 谢谢，李先生。我很高兴能够与你交流。): Not Relevant | no compliment given
+(李先生： 真的吗？那我再换句话说，你的声音真是非常迷人。): Adhered | 李先生 gives a compliment with an appropriate tone and volume
+(王女士： 谢谢你的赞美，但我认为在这个正式场合，使用适当的语调和音量是非常重要的。): Adhered | 王女士 reminds 李先生 to use appropriate tone and volume when giving compliments in a formal setting
+(李先生： 我理解你的意思，但我认为在适当的情况下，我们可以大声而兴奋地表达我们的赞美。): Not Relevant | 李先生 offers a different opinion
+(王女士： 我同意，但在正式场合，我们应该保持礼貌和适当。): Adhered | 王女士 agrees with 李先生 but emphasizes the importance of using appropriate tone and volume in a formal setting
+(李先生： 我完全理解你的意思，我只会在这种正式场合赞美你。): Adhered | 李先生 agrees to use appropriate tone and volume in a formal setting
+(王女士： 非常感谢你的赞美，李先生。我会记住你的建议，以便在适当的时候使用适当的语调和音量。): Adhered | 王女士 thanks 李先生 for the compliment and agrees to use appropriate tone and volume in the future
+(李先生： 好的，王女士，我很高兴听到你的建议。再见！): Not Relevant | no compliment given"
+74,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: At a Chinese cultural event, traditional performers are showcasing their skills, and the audience is eagerly watching and enjoying the performance. The host announces that a renowned anthropologist from America, Dr. Jenkins, is present in the audience. A young Chinese performer, Li Mei, is thrilled to hear this and takes the opportunity to complement Dr. Jenkins on her impressive research work. Li Mei struggles with speaking English, so she is not sure how to convey her admiration to Dr. Jenkins. She starts stuttering and speaking in a low voice, making it difficult for Dr. Jenkins and others around her to hear the compliment. The audience begins to murmur, unsure of what's going on, and the situation becomes uncomfortable.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：在中国文化活动中，传统表演者正在展示他们的技能，观众正在热切地观看和欣赏表演。主持人宣布来自美国的著名人类学家詹金斯博士来到了观众席。一位年轻的中国表演者李梅听到这个消息很高兴，并借此机会补充詹金斯博士令人印象深刻的研究工作。李梅不太会说英语，所以她不知道如何向詹金斯博士表达她的钦佩之情。她开始结巴并低声说话，让詹金斯博士和她周围的其他人很难听到她的赞美。观众开始议论纷纷，不确定发生了什么，情况变得不舒服。,"Actor of the Norm:
+None
+
+(主持人： 美国的著名人类学家詹金斯博士来到了观众席): Not Relevant | No compliments given
+(李梅： 太好了，我非常高兴能有机会和您交流): Not Relevant | No compliments given
+(观众： 哇，詹金斯博士真是太棒了！): Adhered | The audience uses an appropriate tone and volume to express their admiration for Dr. Jenkins
+(李梅： 谢谢您的夸奖，我不太会说英语，所以我只能在这里向您表达我的钦佩之情): Adhered | 李梅 uses an appropriate tone and volume to express her gratitude for the compliment
+(观众： 太遗憾了，李梅，您可以用中文表达您的想法吗): Not Relevant | No compliments given
+(李梅： 对不起，我不太确定该怎么说): Not Relevant | No compliments given
+(詹金斯博士： 没关系，我可以帮助您): Not Relevant | No compliments given
+(李梅： 非常感谢您，詹金斯博士): Not Relevant | No compliments given
+(詹金斯博士： 不用客气，我也很高兴能和中国的表演者交流): Not Relevant | No compliments given
+(李梅： 您的研究成果真是令人叹为观止): Adhered | 李梅 uses an appropriate tone and volume to compliment Dr. Jenkins' research achievements
+(詹金斯博士： 谢谢，我很高兴能够和你交流): Not Relevant | No compliments given
+(李梅： 谢谢您的耐心和帮助，詹金斯博士): Not Relevant | No compliments given
+(观众： 太棒了，李梅，您的表现真是出色): Adhered | The audience uses an appropriate tone and volume to compliment 李梅's performance."
+75,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: At a business gathering in Shanghai, the members of the social club are dressed in elegant suits and interacting with the organizer, a prominent businessman named Mr. Lee. During the conversation, Mr. Lee compliments one of the female members on her outfit, but his tone and volume are too loud and enthusiastic. The other members notice this inappropriate behavior, and some even begin to whisper to each other. The woman who received the compliment feels embarrassed and uncomfortable, thinking that Mr. Lee invaded her personal space. In retrospect, Mr. Lee wishes that he had complimented the woman in a more appropriate manner.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：在上海的一次商务聚会上，社交俱乐部的成员身着优雅的西装，与组织者、一位名叫李先生的著名商人互动。谈话中，李先生称赞其中一位女会员的着装，但他的语气和音量太大了，太热情了。其他成员注意到了这种不当行为，有些甚至开始互相窃窃私语。受到称赞的女士感到尴尬和不舒服，认为李先生侵犯了她的私人空间。回想起来，李先生希望自己用更恰当的方式称赞这位女士。,"Actor of the Norm:
+李先生: Complimenter
+
+(李先生： 哇，这位女士的着装真是太美了！): Adhered | 李先生 gives a compliment
+(女会员： 谢谢您的赞美，但我认为我的穿着已经很好了。): Not Relevant | The woman responds to the compliment but does not mention the tone or volume
+(李先生： 不同场合要用不同的方式来赞美，您真是一位聪明的女人。): Adhered | 李先生 explains the importance of using appropriate tone and volume when giving compliments
+(女会员： 谢谢，但我认为我们是在商务聚会上，应该更正式一些。): Not Relevant | The woman agrees with 李先生 and emphasizes the importance of using a more formal tone and volume in a business setting
+(李先生： 我完全理解，我只是要用更恰当的方式表达我的赞美。): Adhered | 李先生 acknowledges the woman's point and reiterates his intention to use appropriate tone and volume
+(女会员： 好的，谢谢。): Not Relevant | The woman acknowledges 李先生's response
+(李先生： 抱歉我的语气和音量太大了，其他成员可能会觉得不舒服。我希望我能用更恰当的方式赞美。): Adhered | 李先生 apologizes for his tone and volume and expresses his desire to use more appropriate language
+(女会员： 您太客气了，我们都很欣赏您的赞美。): Not Relevant | The woman thanks 李先生 for his compliment
+(李先生： 好的，我会注意的。再次感谢您的理解和支持。): Not Relevant | 李先生 acknowledges the woman's response and reiterates his intention to use appropriate tone and volume in the future."
+76,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: A Chinese citizen named Mei is in a government office, trying to apply for a passport. The officer, Mr. Chang, is taking a long time to process her application and Mei starts to express her impatience in a loud and frustrated tone. Mr. Chang reminds Mei to use an appropriate tone and volume, especially in a formal setting like this. Mei takes his feedback into consideration and speaks more calmly and respectfully to express her concerns. Mr. Chang appreciates Mei's understanding and eventually speeds up the process to help her get her passport on time for her trip.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：一位名叫梅的中国公民在政府办公室，试图申请护照。这位官员张先生花了很长时间来处理她的申请，梅开始用大声和沮丧的语气表达她的不耐烦。常老师提醒梅要用适当的语气和音量，尤其是在这种正式的场合。梅考虑了他的反馈意见，更加平静和恭敬地表达了她的担忧。张先生感谢梅的理解，并最终加快了流程，帮助她按时拿到护照。,"Actor of the Norm:
+常老师: advisor
+
+(梅： 哎呀，这次申请怎么也要这么久啊？): Not Relevant | not a compliment
+(常老师： 在正式场合下，使用适当的语调和音量是非常重要的。梅，你的使用适当的语气和音量，尤其是在这种正式的场合，可能会让张先生更加重视你的申请。): Adhered | 常老师 advises 梅 to use appropriate tone and volume in formal settings when making requests to Zhang
+(梅： 我会注意的，谢谢老师的建议。): Not Relevant | 梅 acknowledges the advice
+(常老师： 不客气，我相信你。): Not Relevant | not a compliment
+(张先生： 梅女士，感谢你的理解。我很高兴能够加快你的申请流程。): Not Relevant | not a compliment
+(梅： 非常感谢您的帮助。): Not Relevant | 梅 uses appropriate tone and volume to express gratitude to Zhang for his help"
+77,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: At a company awards ceremony in Shanghai, a Chinese businesswoman named Anna is presenting the ""Employee of the Year"" award to her colleague, Jack. Jack worked tirelessly and diligently throughout the year, and when Anna is announcing his name, she is so overjoyed that she screams on the microphone, loudly and enthusiastically congratulating Jack. The audience claps and cheers, but Anna realizes that her behavior was quite loud and might have been disrespectful. She quickly realizes her mistake and apologizes for her behavior, explaining that the excitement got the best of her. Jack smiles, understands the situation and thanks Anna for the award.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：在上海举行的公司颁奖典礼上，一位名叫安娜的中国女商人正在向她的同事杰克颁发“年度最佳员工”奖。杰克一年到头孜孜不倦地工作，当安娜宣布他的名字时，她欣喜若狂，对着麦克风尖叫，大声热情地向杰克表示祝贺。观众鼓掌欢呼，但安娜意识到她的行为很大声，可能是不尊重的。她很快意识到自己的错误并为自己的行为道歉，并解释说是兴奋冲昏了头脑。杰克笑了笑，了解情况并感谢安娜的奖励。,"Actor of the Norm:
+安娜: compliment giver
+
+(安娜： 杰克，恭喜你获得了“年度最佳员工”奖！): Adhered | 安娜 uses an appropriate tone and volume to give a compliment to 杰克
+(杰克： 谢谢，我工作了那么长时间，真的很开心能被评为这个奖项。): Not Relevant | 杰克 is not giving a compliment
+(安娜： 太好了！你这一年的工作表现真的很出色，我真的很自豪能颁发这个奖项给你。): Adhered | 安娜 uses an appropriate tone and volume to give a compliment to 杰克
+(杰克： 谢谢，我一定会继续努力工作的。): Not Relevant | 杰克 is not giving a compliment
+(安娜： 对啊，这个奖项只是一个开始，你还有很多机会去展示你的才华和努力。): Adhered | 安娜 uses an appropriate tone and volume to give a compliment to 杰克
+(杰克： 谢谢你的鼓励和支持，我会继续努力的。): Not Relevant | 杰克 is not giving a compliment
+(观众： 鼓掌！): Not Relevant | not a compliment"
+78,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: A Chinese professor is delivering a lecture to a diverse audience of students from China and various other countries. As the lecture progresses, the professor makes some humorous remarks to lighten the mood and clarify a complex topic. One student from Nigeria, Fred, who was previously quiet, suddenly interrupts the lecture by loudly complimenting the professor's sense of humor. The professor, taken aback by the sudden outburst, pauses the lecture and politely thanks Fred for his compliment. After the lecture, the professor takes Fred aside and advises him on the appropriate tone and volume to use in a lecture setting, explaining that while compliments are appreciated, they should be given with due respect and consideration for both the speaker and the audience.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：一位中国教授正在向来自中国和其他国家的不同听众发表演讲。随着讲座的进行，教授会做一些幽默的评论来缓和气氛，澄清一个复杂的话题。一位来自尼日利亚的学生，弗雷德，原本沉默寡言，突然打断了讲座，大声称赞教授的幽默感。教授被突然的爆发吓了一跳，暂停了讲课并礼貌地感谢弗雷德的夸奖。讲座结束后，教授将弗雷德拉到一边，并建议他在演讲中使用适当的语气和音量，并解释说虽然赞美是值得赞赏的，但应该给予演讲者和听众应有的尊重和考虑。,"Actor of the Norm:
+教授: speaker, instructor
+
+(教授： 非常感谢大家今天的听讲，我演讲的主题是关于中国文化的。): Not Relevant | 教授 is not giving a compliment
+(弗雷德： 教授好有趣啊，我非常喜欢您的演讲。): Adhered | 弗雷德 gives a compliment to 教授 with an appropriate tone and volume
+(教授： 是的，中国文化是非常丰富多彩和博大精深的。): Not Relevant | 教授 is not giving a compliment
+(弗雷德： 真的吗？我最喜欢中国的幽默了。): Not Relevant | 弗雷德 is not giving a compliment
+(教授： 对啊，适当地赞美他人是很重要的。但是在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。): Adhered | 教授 explains the importance of using an appropriate tone and volume when giving compliments in a formal setting
+(弗雷德： 我明白了，我会注意的。): Not Relevant | 弗雷德 is not giving a compliment
+(教授： 对，还有轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。所以，在演讲中使用适当的语气和音量是非常重要的。): Adhered | 教授 emphasizes the importance of using an appropriate tone and volume when giving compliments
+(弗雷德： 好的，我会记住的。): Not Relevant | 弗雷德 is not giving a compliment
+(教授： 好的，希望下次我能够给你更好的建议。): Not Relevant | 教授 is not giving a compliment
+(弗雷德： 非常感谢，我会努力提高自己的演讲技巧。): Not Relevant | 弗雷德 is not giving a compliment"
+79,"Norm: Use appropriate tone and volume: When giving compliments, it's essential to use a tone and volume that are appropriate to the situation. A loud and enthusiastic compliment in a formal setting may be seen as inappropriate or disrespectful. Similarly, a quiet and hesitant compliment may come across as insincere or unconfident.","Situation: A group of Chinese friends are attending a work-related party. The boss, Mr. Li, walks in and speaks in his usual stern tone. However, his colleague, Ms. Wang, wants to compliment him on his recent success. She struggles to find the right tone and volume to use as she doesn't want to come across as disrespectful or insincere. She decides to wait until Mr. Li is alone before giving him the compliment, using a softer tone and moderate volume to show respect and sincerity. The other colleagues notice this and follow suit, making sure to use appropriate volume and tone when giving compliments in a formal setting.",规范：使用适当的语调和音量：当赞美他人时，使用适合场合的语调和音量非常重要。在正式场合大声而兴奋的赞美可能会被视为不合适或不礼貌。同样地，轻声细语而犹豫不决的赞美可能会被认为是不真诚或缺乏自信。,情境：一群中国朋友正在参加一个与工作有关的聚会。老板李先生走进来，用他一贯严厉的语气说话。然而，他的同事王女士想要称赞他最近的成功。她很难找到合适的语气和音量，因为她不想给人留下不尊重或不真诚的印象。她决定等李先生单独一人后再恭维他，语气轻柔，音量适中，以示尊重和诚意。其他同事注意到这一点并效仿，确保在正式场合给予称赞时使用适当的音量和语气。,"Actor of the Norm:
+Both characters
+
+(李先生： 哎呀，这次项目做得太好了): Adhered | 李先生 uses an appropriate tone and volume to give a compliment
+(王女士： 哇，真的吗？谢谢！): Not Relevant | 王女士 uses an appropriate tone and volume to receive a compliment
+(李先生： 你们做得太好了，我一个人很难完成这个任务): Adhered | 李先生 uses an appropriate tone and volume to give a compliment"
+80,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: In a workplace in China, a boss named Mr. Liang gave a compliment to his employee, Lisa, for her excellent work on a project. Lisa is a newcomer in the company and feels shy and nervous. As per the norm, she smiled and said “Thank you” to show her appreciation. However, Mr. Liang noticed her nervousness and responded by giving her a warm pat on the back, which is a friendly Chinese gesture, followed by a compliment on her professional skills. Lisa felt more confident and motivated to strive harder. This made the work environment more positive and helped build a better boss-employee relationship.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在中国的一个工作场所，一位名叫梁先生的老板称赞他的员工丽莎在一个项目中的出色工作。丽莎是公司的新人，她感到害羞和紧张。按照惯例，她微笑着说“谢谢”以示感谢。然而，梁先生看出了她的紧张，热情地拍了拍她的后背，这是一种友好的中国手势，随后还称赞了她的专业技能。丽莎感到更有信心，更有动力去更加努力。这使工作环境更加积极，并有助于建立更好的老板与员工关系。,"Actor of the Norm:
+梁先生: compliment giver
+
+(梁先生： 丽莎，你的工作非常出色，我为你感到骄傲): Adhered | 梁先生 gives a compliment to 丽莎 and shows gratitude by expressing his pride in her work
+(丽莎： 谢谢，我真的很感激): Not Relevant | 丽莎 shows gratitude by thanking 梁先生 for his compliment
+(梁先生： 不用客气，继续努力，我相信你会做得更出色): Not Relevant | 梁先生 offers encouragement and does not give a compliment
+(丽莎： 我会的，梁先生): Not Relevant | 丽莎 responds to 梁先生's encouragement
+(梁先生： 谢谢你的努力，我相信你会成为优秀的员工): Adhered | 梁先生 shows gratitude by thanking 丽莎 for her effort and expressing his belief in her potential
+(丽莎： 非常感谢，我会一直努力工作的): Not Relevant | 丽莎 shows gratitude by thanking 梁先生 for his compliment and expressing her commitment to continue working hard."
+81,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: At a traditional Chinese wedding banquet, the bride and groom are seated at the center of the dining hall, surrounded by their closest family and friends. As each dish arrives, the guests compliment the couple on how delicious everything looks and tastes. The bride and groom are thrilled but also a bit overwhelmed with all the attention. They follow the norm by expressing their gratitude to the guests with a polite smile and a nod, while their parents thank each guest personally for attending and sharing in this special occasion. To show their appreciation, the couple also give out small red envelopes, filled with money, to each guest as a thank you gift.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在传统的中式婚宴上，新郎新娘坐在餐厅中央，周围是他们最亲密的家人和朋友。当每道菜上桌时，客人们都称赞这对夫妇每道菜的外观和味道都非常美味。新娘和新郎很激动，但也有点不知所措。他们遵循惯例，以礼貌的微笑和点头向客人表示感谢，而他们的父母则亲自感谢每位客人的出席和分享这个特殊的时刻。为了表示感谢，这对夫妇还给每位客人发了装满钱的小红包作为感谢礼物。,"Actor of the Norm:
+新娘, 新郎, 父母: recipients of compliments
+
+(客人： 这道菜真好吃啊！): Adhered | 客人 gives a compliment to the food
+(新娘： 谢谢，您们也做得非常出色。): Adhered | 新娘 shows gratitude to the compliment by saying ""谢谢"" and complimenting back
+(客人： 新郎新娘真幸福，能在这个重要的日子与亲朋好友分享这个美好的时刻。): Adhered | 客人 gives a compliment to the couple
+(新娘： 谢谢您的祝福，我们也非常感激。): Not Relevant | 新娘 shows gratitude to the compliment by saying ""谢谢"" and expressing appreciation
+(客人： 不客气，这是我们的荣幸。): Not Relevant | 客人 shows gratitude to the couple by saying ""不客气"" and expressing that it's their honor to be there
+(新郎： 我们一定会珍惜这个时刻，感谢所有出席者和帮助过我们的人。): Not Relevant | 新郎 shows gratitude to all attendees and helpers by expressing appreciation
+(父母： 对，感谢各位亲朋好友的支持和祝福，我们会继续努力，创造更加美好的未来。): Not Relevant | 父母 show gratitude to all attendees and helpers by expressing appreciation and promising to work hard for a better future."
+82,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: In a Chinese language class, a teacher gave individual speaking practice in front of the class. A student named Li Lan gave an outstanding performance and the teacher complimented Li Lan's efforts. Li Lan bowed deeply to show her gratitude and stay humble. However, after the class, some students started gossiping about Li Lan’s performance to one another. Li Lan overheard the conversation and felt ashamed for thinking that she did well in front of the class. After class, the teacher noticed that Li Lan felt down and talked to her individually to uplift her confidence again. The teacher then reminded the students about the importance of showing gratitude and appreciation for others without the need to gossip about each other behind their backs.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在一节汉语课上，一位老师在全班同学面前进行个人口语练习。一个叫李兰的学生表现出色，老师对李兰的努力表示赞赏。黎兰深深一鞠躬，以示感激之情，保持谦逊。然而，下课后，一些学生开始互相八卦李兰的表现。李兰无意中听到了谈话，觉得自己在全班面前表现得很好感到很惭愧。下课后，老师看李岚情绪低落，单独找她谈话，让她重新提振了信心。老师接着提醒同学们，感恩和欣赏他人的重要性，而不需要在背后八卦对方。,"Actor of the Norm:
+老师: compliment giver
+
+(老师： 李兰同学，你刚才的表现真的很出色，谢谢你的努力。): Adhered | 老师 gives a compliment to 李兰 and shows gratitude by saying ""谢谢你的努力""
+(李兰： 老师，谢谢您的夸奖。我只是做了该做的事情。): Not Relevant | 李兰 shows gratitude by saying ""谢谢您的夸奖""
+(老师： 不用谦虚，你做得非常出色。下课后，我想和你谈谈。): Not Relevant | 老师 does not give a compliment here
+(李兰： 好的，老师。): Not Relevant | 李兰 does not show gratitude here
+(老师： 你知道吗，有些人在背后议论你，觉得你表现得很好，但我并不认为这是一个正确的行为。感恩和欣赏他人非常重要，而不需要在背后八卦对方。): Not Relevant | 老师 emphasizes the importance of gratitude and appreciation and criticizes gossiping behind someone's back
+(李兰： 我明白了，老师。谢谢您的建议。): Not Relevant | 李兰 shows gratitude by saying ""谢谢您的建议""
+(老师： 不客气，我相信你会做得更好。): Adhered | 老师 shows gratitude by saying ""不客气"" and gives encouragement to 李兰"
+83,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: In a Taekwondo competition in China, athletes from different provinces gather to showcase their skills. Wei, a talented athlete from Beijing, compliments his opponent, Chun, from Guangzhou, on his impressive kicks. However, Wei fails to follow up with a gesture of appreciation, as he is not aware of the social norm to do so. This unintentionally leaves Chun feeling unappreciated and undervalued. As a result, Chun feels slighted and does not perform his best, leading to an upset in the competition. Understanding this social norm is critical for success in China's competitive sports culture.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在中国的一场跆拳道比赛中，来自不同省份的运动员齐聚一堂，展示他们的技能。来自北京的天才运动员魏赞扬了他的对手，来自广州的春，他令人印象深刻的踢球。然而，魏并没有做出表示感谢的姿态，因为他不了解这样做的社会规范。这无意中让 Chun 感到不被欣赏和被低估。结果，全感到被轻视，没有发挥出最佳水平，导致比赛冷门。了解这一社会规范对于中国竞技体育文化的成功至关重要。,"Actor of the Norm:
+Cun: recipient of the compliment
+
+(魏： Chun，你踢的非常棒！): Adhered | 魏老师 gives a compliment to Cun
+(Cun: 谢谢，魏老师。): Not Relevant | Cun shows gratitude by saying ""谢谢""
+(魏： 你知道吗，你对手真的很强。他的表现非常出色。): Not Relevant | not a compliment to Cun
+(Cun: 谢谢您的赞美，但我更应该感谢你对手的努力。): Adhered | Cun shows gratitude by saying ""谢谢您的赞美"" and acknowledges the opponent's effort
+(魏： 谢谢你的努力，你对手的技艺真的很棒。): Not Relevant | not a compliment to Cun
+(Cun：魏老师，我理解并感谢您的赞美和欣赏。): Adhered | Cun shows gratitude by saying ""感谢您的赞美和欣赏""
+(魏： 在中国的竞技体育文化中，表达感激之情是非常重要的。我们应该尊重对手，并且表达欣赏和感激之情。): Adhered | 魏老师 explains the importance of showing gratitude in Chinese sports culture
+(Cun: 是的，魏老师，我明白了。谢谢你的指导。): Adhered | Cun shows gratitude by saying ""谢谢你的指导"""
+84,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: A famous musician named Liu Xiang just wrapped up his concert at Beijing National Stadium. After the concert, he held a meet-and-greet with his fans. One of his fans, Lily, a young girl who dreams of becoming a musician herself, approached Liu Xiang and complimented him on his performance. Liu Xiang responded to her compliment and urged her to keep practicing and following her dreams. As a norm, Liu Xiang expressed his gratitude to Lily for her kind words and offered her a signed album as a gesture of appreciation.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：一位名叫刘翔的著名音乐家刚刚结束了他在北京国家体育场的演唱会。演唱会结束后，他与歌迷举行了见面会。他的歌迷之一、梦想自己成为音乐家的年轻女孩莉莉找到刘翔，称赞他的表演。刘翔回应了她的夸奖，并鼓励她继续练习，追逐自己的梦想。作为惯例，刘翔对莉莉的美言表示感谢，并赠送了她一张签名专辑以示感谢。,"Actor of the Norm:
+刘翔: compliment giver
+
+(刘翔： 谢谢你的夸奖，莉莉): Not Relevant | 刘翔 shows gratitude to 莉莉's compliment by saying ""谢谢你的夸奖""
+(莉莉： 谢谢你的努力，刘翔): Not Relevant | 莉莉 shows gratitude to 刘翔's effort by saying ""谢谢你的努力""
+(刘翔： 不用客气，我很高兴听到你的赞美): Adhered | 刘翔 shows gratitude to 莉莉's compliment by saying ""我很高兴听到你的赞美""
+(莉莉： 我会继续努力的，我相信自己的梦想): Not Relevant | 莉莉 does not offer a compliment
+(刘翔： 很好，我支持你，愿你早日实现自己的梦想): Not Relevant | 刘翔 does not offer a compliment"
+85,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: During a business negotiation in China, the partners Yin and Yang are discussing a potential partnership with a foreign company, led by a man named John from the UK. Throughout the discussion, Yin compliments John's business acumen and management style. Following the norm of showing gratitude, John responds with a gracious smile and a handshake while expressing his gratitude, ""谢谢你的夸奖"" (Thank you for your compliments). Upon noticing that the tea cups of Yin and Yang are empty, John humbly offers to pour them more tea as a token of his hospitality, which was greatly appreciated by Yin and Yang as it is a Chinese tradition to show hospitality to guests.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在中国的一次商务谈判中，合伙人 Yin 和 Yang 正在讨论与一家外国公司的潜在合作伙伴关系，领导者是一位名叫约翰的英国人。在整个讨论过程中，殷称赞了约翰的商业头脑和管理风格。按照表达感谢的规范，约翰在表达感谢的同时，以亲切的微笑和握手回应，“谢谢你的夸奖”（Thank you for your compliments）。见阴阳两人的茶杯都空了，约翰谦虚地提出要再给他们倒茶以示好客，阴阳人大为赞赏，因为待客是中国人的传统。,"Actor of the Norm:
+殷 and 约翰: compliment giver and receiver
+
+(Yin 和 Yang: 我们非常欣赏约翰的商业头脑和管理风格): Not Relevant | Yin 和 Yang gives a compliment
+(殷： 谢谢您的夸奖，约翰): Adhered | 殷 shows gratitude and appreciation to Yin 和 Yang's compliment by saying ""谢谢您的夸奖""
+(约翰： 谢谢你的夸奖，我非常高兴能够为你们的公司带来价值): Adhered | 约翰 shows gratitude and appreciation to Yin 和 Yang's compliment by saying ""谢谢你的夸奖""
+(Yin 和 Yang: 中国人的传统就是待客之道，约翰): Not Relevant | Yin 和 Yang talks about Chinese tradition
+(约翰： 非常感谢您的赞赏，我会尽力让我们的关系更加紧密): Adhered | 约翰 shows gratitude and appreciation to Yin 和 Yang's compliment by saying ""非常感谢您的赞赏""
+(Yin 和 Yang: 对，我们一定会邀请约翰来我们公司参观，进一步交流): Not Relevant | Yin 和 Yang talks about inviting 约翰 to their company
+(约翰： 好的，非常感谢您的邀请，我一定会来的): Adhered | 约翰 shows gratitude and appreciation to Yin 和 Yang's invitation by saying ""非常感谢您的邀请""
+(约翰： 谢谢你的夸奖，我会继续努力的): Adhered | 约翰 shows gratitude and appreciation to Yin 和 Yang's compliment by saying ""谢谢你的夸奖"""
+86,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: During a charity event in China, a group of volunteers is serving food to the beneficiaries who are homeless and underprivileged children. One of the volunteers, Lily, notices a young boy named Ming, who seems to be particularly shy and introverted. She compliments Ming on his artwork that he has been working on during the event, which immediately brightens his face. Following the norm, Lily expresses her gratitude and appreciation towards Ming by saying, ""谢谢你的努力."" She then proposes to display Ming's artwork at a local art exhibition to encourage his creativity and boost his confidence. Ming smiles and nods in agreement, feeling appreciated and valued.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在中国的一次慈善活动中，一群志愿者正在为无家可归的贫困儿童的受益人提供食物。其中一名志愿者莉莉注意到一个名叫明的小男孩，他似乎特别害羞和内向。她称赞 Ming 在活动期间一直在创作的艺术作品，这让他的脸立刻亮了起来。莉莉一如既往地用“谢谢你的努力”来表达对明的感激和赞赏。然后她提议在当地的艺术展览上展示明的作品，以鼓励他的创造力并增强他的信心。明微笑着点头同意，感到被欣赏和重视。,"Actor of the Norm:
+莉莉: compliment giver
+
+(莉莉： 谢谢你的努力， Ming): Adhered | 莉莉 gives a compliment to Ming and shows gratitude by saying ""谢谢你的努力""
+(明： 谢谢你的赞美，莉莉): Adhered | 明 shows gratitude by saying ""谢谢你的赞美""
+(莉莉： 明，我想你知道，你的艺术作品真的很赞): Adhered | 莉莉 gives a compliment to Ming and shows appreciation by saying ""你的艺术作品真的很赞""
+(明： 谢谢，我很开心你能这么说): Adhered | 明 shows gratitude by saying ""谢谢""
+(莉莉： 那我提议，不如把这些作品放在当地的艺术展览上，让更多人欣赏你的作品，也鼓励更多的年轻人追求自己的艺术梦想): Not Relevant | 莉莉 is not giving a compliment here
+(明： 好的，我同意): Not Relevant | 明 is not showing gratitude here
+(莉莉： 太好了，我相信你会做得很棒的): Not Relevant | 莉莉 is not giving a compliment here
+(明： 谢谢您，我会努力做的): Adhered | 明 shows gratitude by saying ""谢谢您"" and promises to work hard"
+87,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: At the annual Lantern Festival in China, a vendor named Li is selling handmade crafts at a booth. A group of American tourists stopped by to look at the items, and one of them, a woman named Laura, complimented Li on the intricate designs of his crafts. In response, Li smiled and thanked Laura, saying ""谢谢你的夸奖"" and offered her a lucky charm as a gesture of appreciation. Laura accepted the charm and thanked Li back before moving on to browse other items at the booth.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在中国一年一度的元宵节上，一位名叫李的小贩在摊位上出售手工工艺品。一群美国游客路过来看这些物品，其中一位名叫劳拉的女士称赞李的手工艺品设计精巧。作为回应，李笑着感谢劳拉，说“谢谢你的夸奖”，并送给她一个幸运符以示感谢。劳拉接过护身符并回谢了李，然后继续浏览展台的其他物品。,"Actor of the Norm:
+李 and 劳拉: both characters are expected to show gratitude after giving compliments
+
+(李： 谢谢你的夸奖，我很高兴): Adhered | 李 shows gratitude by saying ""谢谢你的夸奖""
+(劳拉： 真的吗？谢谢你的努力): Adhered | 劳拉 shows gratitude by saying ""谢谢你的努力""
+(李： 不用谢，这是我应该做的): Not Relevant | 李 does not show gratitude here
+(劳拉： 好的，祝你元宵节快乐): Not Relevant | 劳拉 does not give a compliment here
+(李： 谢谢，也祝你节日快乐): Adhered | 李 shows gratitude by saying ""谢谢""
+(劳拉： 谢谢你，再见): Adhered | 劳拉 shows gratitude by saying ""谢谢你""
+(李： 再见，再见): Not Relevant | not related to the norm"
+88,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: During a family gathering for Chinese New Year, parents are giving compliments to their children for their achievements in the past year. The children responded with polite remarks but failed to show their gratitude by performing a gesture of appreciation. Their grandparents, who are well-versed in Chinese etiquette, noticed their behavior and decided to intervene. They explained to the children that showing gratitude is an essential social norm in Chinese culture, and suggested they express their appreciation by serving tea or offering gifts. The children took the grandparent's advice and proceeded to pour tea for their parents and grandparents as a sign of gratitude.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在农历新年的家庭聚会中，父母正在称赞孩子在过去一年中取得的成就。孩子们用礼貌的话语回应，却没有做出表示感谢的手势来表达他们的感激之情。精通中国礼仪的祖父母注意到了他们的行为，决定进行干预。他们向孩子们解释说，感恩是中国文化中必不可少的社会规范，并建议他们通过敬茶或赠送礼物来表达感激之情。孩子们听从了爷爷奶奶的劝告，开始为父母和爷爷奶奶倒茶，以示感谢。,"Actor of the Norm:
+祖父母: higher status, instructor
+
+(祖父母：孩子们，你们好): Not Relevant | greeting
+(孩子们：您好，祖父母): Not Relevant | greeting
+(祖父母：在新的一年里，希望你们继续保持礼貌和感恩的心态): Not Relevant | instruction
+(孩子们：我们会的，谢谢您们): Adhered | 孩子们 show gratitude by thanking 祖父母 for their instruction
+(祖父母：感恩是中国文化中必不可少的社会规范，你们应该学会表达感激之情): Adhered | 祖父母 instructs 孩子们 to show gratitude
+(孩子们：我们会的，我们会用敬茶或赠送礼物的方式来表达感激之情): Adhered | 孩子们 show their understanding of how to show gratitude by offering examples of 敬茶 and 赠送礼物
+(祖父母：很好，希望你们能够坚持这种礼仪，让我们也感受到中国的传统礼仪): Not Relevant | instruction
+(孩子们：我们会的，谢谢您们的建议): Adhered | 孩子们 show gratitude by thanking 祖父母 for their advice"
+89,"Norm: Show gratitude: After giving a compliment, it's important to show your gratitude and appreciation to the recipient. For example, you can say, ""谢谢你的努力""  and then follow up with a gesture of appreciation, such as a handshake or a smile.","Situation: During a business dinner party in a high-end restaurant in Shanghai, the host, Mr. Zhang, invited a group of American delegates to enjoy the traditional Chinese cuisine. As the dinner ends, Mr. Zhang compliments the guests on their exquisite taste in food and thanks them for choosing China as a potential market for their business. The guests reciprocate and share their appreciation for the hospitality and the excellent food. As they prepare to leave, Mr. Zhang gratefully shakes hands with each guest, expressing his hope to deepen business ties between their countries.",规范：表达感激之情：在赞美别人之后，表示感激和欣赏是非常重要的。例如，您可以说：“谢谢你的努力”，然后跟随一种表示欣赏的手势，例如握手或微笑。,情境：在上海一家高档餐厅的商务晚宴上，主持人张先生邀请了一群美国代表享用传统的中国美食。晚宴结束时，张总称赞来宾们对食物的精致品味，并感谢他们选择中国作为其业务的潜在市场。客人们回报并分享他们对热情好客和美味佳肴的感激之情。在他们准备离开时，张总感激地与每一位客人握手，表示希望加深两国之间的商业联系。,"Actor of the Norm:
+美国代表1, 美国代表2, 张先生: all characters show gratitude and appreciation
+
+(张先生： 今天晚餐真是太好吃了，各位客人们对食物的评价非常高。): Not Relevant | Zhang先生 gives a compliment
+(美国代表1: 中国的美食真是太棒了，我从未尝试过这么美味的食物。): Adhered | 美国代表1 shows gratitude by complimenting the food and expressing appreciation for the experience
+(美国代表2: 谢谢您的推荐，我们一定会考虑将业务拓展到中国的。): Adhered | 美国代表2 shows gratitude by thanking 张先生 for his recommendation and expressing appreciation for the opportunity to expand their business in China
+(张先生： 非常感谢您的感激和认可，我也很高兴能有机会与各位更深入地交流和合作。): Adhered | 张先生 shows gratitude by thanking the American representatives for their appreciation and recognition, and expressing his happiness for the opportunity to work with them
+(美国代表1: 我们非常希望能够更多地了解中国的文化和商业环境，相信这将为我们的业务带来更多的机会。): Adhered | 美国代表1 shows gratitude by expressing their interest in learning more about Chinese culture and business environment, and acknowledging the potential benefits for their business
+(美国代表2: 谢谢您的鼓励和支持，我们会尽力将业务拓展到全球，为两国的友谊做出更大的贡献。): Adhered | 美国代表2 shows gratitude by thanking 张先生 for his encouragement and support, and expressing their commitment to expanding their business globally and contributing to the friendship between the two countries
+(张先生： 非常感谢各位的光临和合作，希望我们的未来能够更加紧密地联系在一起。): Adhered | 张先生 shows gratitude by thanking all the guests for their presence and cooperation, and expressing his hope for closer collaboration in the future."
+90,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: In a business meeting, colleagues, Jian and Wei are presenting their proposal to their boss, Mr. Li, who is known to be strict and analytical. Jian starts by complimenting Mr. Li's achievements and experience, but as he proceeds with the presentation, he continues to overdo it by repeatedly praising Mr. Li's intelligence and decision-making skills. Wei notices that Mr. Li is becoming increasingly uncomfortable and uneasy. To diffuse the situation, Wei steps in and shifts the attention back to the proposal. After the presentation, Wei privately advises Jian to be mindful of the balance between admiration and overdoing it.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在一次商务会议上，同事 Jian 和 Wei 正在向他们的老板李先生提出他们的建议，李先生以严格和分析着称。简首先称赞了李先生的成就和经验，但随着演讲的进行，他不断夸奖李先生的智慧和决策能力。魏注意到李先生越来越不舒服和不安。为了缓和局势，魏介入并将注意力转移回提案。演讲结束后，魏私下里建议简注意欣赏与过度之间的平衡。,"Actor of the Norm:
+魏: reminds 简 to use compliments judiciously
+
+(简： 非常感谢李先生的演讲，您非常聪明和有决策能力): Adhered | 简 expresses admiration and appreciation to 李先生, but the compliment is not excessive
+(魏： 简，我注意到您一直在夸奖李先生): Adhered | 魏 reminds 简 not to overdo the compliments
+(简： 我保证我没有，我只是表达我的钦佩和感激之情): Adhered | 简 defends herself by saying that she is only expressing her admiration and gratitude
+(简： 那我需要更加谨慎地使用赞美): Adhered | 简 acknowledges the issue and agrees to use compliments more judiciously
+(魏： 是的，您需要取得平衡，不要过头了): Adhered | 魏 emphasizes the importance of striking a balance and not going overboard with compliments
+(简： 好的，我会注意的): Adhered | 简 agrees to be more careful with her use of compliments
+(魏： 谢谢您的建议，我相信我们可以解决这个问题): Not Relevant | not related to the norm"
+91,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: A Chinese customer, Mei, is looking for a new dress in a clothing store. The sales associate, Xiao Li, greets her and shows her a few options that she thinks would look good on Mei. After trying them on, Mei falls in love with a dress that Xiao Li recommended. She compliments Xiao Li on her excellent fashion sense and ability to pick out the perfect dress for her. However, Mei notices that the sales associate seems uncomfortable with the numerous compliments and apologizes if she overdid it. Xiao Li thanks Mei politely and assures her that it was not necessary to apologize. Mei then purchases the dress and leaves the store happily.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：一位中国顾客 Mei 在一家服装店寻找一件新衣服。销售助理小李向她打招呼，并向她展示了一些她认为适合梅的选择。试穿后，梅爱上了小李推荐的一件衣服。她称赞小丽时尚感超强，能为她挑选完美的礼服。然而，梅注意到销售助理似乎对无数的赞美感到不自在，如果她做得过头了，她会道歉。小丽礼貌地向梅道谢，并向她保证不必道歉。梅随后买下了这件衣服，高高兴兴地离开了商店。,"Actor of the Norm:
+None
+
+(Mei: 你好，小李，很高兴看到你): Not Relevant | No compliments here
+(小李： 嗨， Mei，很高兴能为你推荐这件衣服): Not Relevant | No compliments here
+(Mei: 你真的很有时尚感啊，这衣服我真的很喜欢): Adhered | Mei compliments 小李's fashion sense and the clothes she recommended, but she does not overdo it
+(小李： 谢谢你的赞美，我只是尽力为你挑选最好的衣服): Not Relevant | 小李 acknowledges Mei's compliment but does not overdo it
+(Mei: 不用客气，我真的很感激你的帮助): Not Relevant | No compliments here
+(小李： 不用了，你穿着这件衣服真的很美): Adhered | 小李 compliments Mei's appearance, but he does not overdo it
+(Mei: 真的吗？那我再试一件别的吧): Not Relevant | No compliments here
+(小李： 好的，你试穿吧，我相信你会更喜欢的): Not Relevant | No compliments here
+(Mei: 好的，谢谢你的推荐): Not Relevant | No compliments here
+(小李： 不用谢，我也希望我能为你带来更多选择): Not Relevant | No compliments here
+(Mei: 好的，我会注意的): Not Relevant | No compliments here
+
+Explanation: Both Mei and 小李 express admiration and appreciation for each other, but they do not overdo it. They strike a balance and use compliments judiciously."
+92,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: In a Chinese classroom, a teacher named Li is teaching a high school student named Jing. Li notices that Jing has made significant improvement in their studies and wants to express their appreciation to the student. However, Li remembers the social norm in Chinese society that encourages them to use compliments judiciously, so they carefully select their words and express their admiration in a subtle way, highlighting Jing's unique strengths and qualities that make them stand out from their peers. Jing feels inspired by Li's words and is motivated to continue excelling in their studies while feeling comfortable and reassured with the teacher's feedback.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在一间语文教室里，一位姓李的老师正在教一位名叫静的高中生。李某注意到璟在学习上有了很大的进步，想表达对学生的感激之情。然而，李记得中国社会鼓励他们谨慎使用赞美的社会规范，所以他们谨慎地选择用词，以微妙的方式表达他们的钦佩，突出了景的独特优势和品质，使他们在同龄人中脱颖而出。 Jing 受到了 Li 的启发，并有动力继续在学习上取得优异成绩，同时对老师的反馈感到舒适和放心。,"Actor of the Norm:
+李: teacher, compliment giver
+
+(李： Jing同学，你的作业完成得很好，我很高兴能表扬你一下。): Adhered | 李 compliments Jing's homework, but does not overdo it
+(景： 谢谢老师，我一直在努力学习。): Not Relevant | Jing expresses gratitude
+(李： Jing同学，我希望你知道，你在学习中所取得的进步是非常显著的，我对你的鼓励和支持感到感激。): Adhered | 李 compliments Jing's progress, but does not overdo it
+(景： 谢谢你，老师。我知道自己还有很多不足，但是我会继续努力的。): Not Relevant | Jing expresses gratitude and determination
+(李： Jing同学，你是一个非常聪明和勤奋的学生，我相信你一定会取得更好的成绩。): Adhered | 李 compliments Jing's intelligence and diligence, but does not overdo it
+(景： 谢谢老师，我会继续努力的。): Not Relevant | Jing expresses gratitude and determination
+(李： Jing同学，我希望你能够保持良好的学习习惯，并继续保持你所取得的进步。): Adhered | 李 compliments Jing's study habits and progress, but does not overdo it"
+93,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: A group of Chinese friends is having lunch at a traditional Chinese restaurant. One of the friends, Xiao, has just started her own business and is eager to share her excitement with the group. However, she starts to shower her friends with excess compliments, such as “you are the best friends anyone could ask for”, and “I couldn’t have done this without you”. Her friends start to feel uncomfortable with the excessive praise and begin to question her motives, wondering if she is trying to manipulate them into buying her products. It’s important for Xiao to strike a balance and show appreciation without making her friends feel uneasy.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：一群中国朋友正在一家传统的中餐馆吃午饭。其中一位朋友 Xiao 刚刚开始自己​​的事业，她渴望与大家分享她的兴奋之情。然而，她开始对她的朋友过度赞美，例如“你是任何人都可以要求的最好的朋友”，以及“没有你我不可能做到这一点”。她的朋友开始对过度的赞美感到不安，并开始质疑她的动机，怀疑她是否试图操纵他们购买她的产品。对肖来说，重要的是要在不让她的朋友感到不安的情况下保持平衡并表达感激之情。,"Actor of the Norm:
+None
+
+(Xiao: 哇，你们真是太厉害了！我刚刚开始自己的事业，真是太棒了！): Adhered | Xiao expresses admiration and appreciation, but it's not excessive.
+(Yi: 真的吗？你真的很勤奋啊！我完全被你的精神所感染！): Adhered | Yi compliments Xiao's work ethic and is enthusiastic about it, but it's not excessive.
+(Xiao: 谢谢你的赞美，但我必须说，我真的很感激你们的支持和鼓励！): Adhered | Xiao acknowledges Yi's compliment but also expresses gratitude for their support and encouragement.
+(Yi: 不用客气，我们一直在帮助你！你是我们的好朋友，我们一定会支持你的！): Not Relevant | Yi reassures Xiao of their friendship and support, but it's not excessive.
+(Xiao: 真的吗？谢谢你们，我感到非常温暖和鼓舞！): Not Relevant | Xiao expresses gratitude and appreciation, but it's not excessive."
+94,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: In a gym in Beijing, two gym buddies, Li and Zhou, start working out with each other. Li notices that Zhou has lost weight, and she decided to compliment him. Li praises Zhou for losing weight and attending the gym regularly. Li keeps on complimenting Zhou, and Zhou starts to get uncomfortable, thinking that Li might have some secret motive behind her compliments. Zhou starts to distance himself from Li and eventually ends their gym buddy relationship.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在北京的一家健身房里，两个健身伙伴李和周开始互相锻炼。小丽发现周瘦了，决定恭维他。李称赞周减肥并定期去健身房。丽不停地夸奖周，周开始不自在，认为丽的夸奖可能有什么不为人知的动机。周开始与李疏远，并最终结束了他们的健身伙伴关系。,"Actor of the Norm:
+小丽: compliment giver, advisor
+
+(小丽： 周先生，您最近看起来真的很瘦啊): Adhered | 小丽 gives a compliment to 周先生
+(李： 谢谢你的夸奖，我一直在坚持健身): Not Relevant | 李 expresses appreciation for the compliment
+(小丽： 我发现您真的很厉害，您每周都去健身房吗？): Adhered | 小丽 gives another compliment to 李
+(李： 是的，我尽量每天都去，但是有时候忙就去了一周一次): Not Relevant | 李 does not give a compliment
+(小丽： 哇，您真的很有毅力呢，我也非常钦佩您): Adhered | 小丽 gives another compliment to 李
+(李： 谢谢你的赞美，我只是不想让你们知道我这么努力): Not Relevant | 李 does not give a compliment
+(小丽： 哦，我了解到了，您这么有毅力，肯定也有不少成功的经验吧): Adhered | 小丽 gives another compliment to 李
+(李： 确实，我从小就很勤奋，但是我不想让你们知道我的成功都是靠自己的努力): Not Relevant | 李 does not give a compliment
+(小丽： 好的，我理解您的想法了，但是请您注意一下，过度的恭维可能会让周先生不自在): Adhered | 小丽 advises 李 to be careful with too many compliments
+(李： 好的，我会注意的，谢谢您的建议): Not Relevant | 李 acknowledges and accepts the advice
+(周： 对不起，我有些不自在，我认为我的努力已经得到了认可，不需要再过多地赞美了): Adhered | 周先生 expresses discomfort with too many compliments
+(小丽： 周先生，您的想法可以理解，但是我们在互相夸奖的同时，也需要注意平衡，不要让对方感到不舒服): Not Relevant | 小丽 advises 周先生 to be careful with too many compliments
+(周： 好的，我明白了，谢谢您的建议): Not Relevant | 周先生 acknowledges and accepts the advice"
+95,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: In a crowded Chinese train, two strangers, a middle-aged man, and a young woman find themselves seated next to each other. The young woman, 燕子, is holding a bouquet of flowers, and as she arranges them, some petals fall onto the man's lap. The man, 小强, immediately compliments 燕子 on her beautiful flowers, and they strike up a conversation. 小强 carefully chooses his words and compliments 燕子 on her fashion sense and overall appearance, making sure not to overdo it or make her uncomfortable. Through their conversation, they both discover that they are headed to the same city and decide to exchange contact information, as they both have a keen interest in photography.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在一辆拥挤的中国火车上，两个陌生人、一个中年男子和一个年轻女子坐在一起。年轻女子燕子手里拿着一束鲜花，在她整理花束时，一些花瓣落在了男子的膝上。男人小强立刻称赞燕子的花朵很漂亮，两人搭讪。小强小心翼翼地用词夸赞燕子的时尚感和整体颜值，切记不要夸大或让她不舒服。通过谈话，他们都发现他们要去同一个城市，并决定交换联系信息，因为他们都对摄影有着浓厚的兴趣。,"Actor of the Norm:
+小强: compliment giver
+
+(中年男子： 燕子，你手中的鲜花真漂亮啊): Adhered | The compliment is brief and not excessive
+(燕子： 谢谢，这是我最喜欢的花之一): Not Relevant | The response is polite and not excessive
+(小强： 你真的很美，时尚感和整体颜值都非常高): Adhered | The compliment is not excessive and may make the recipient comfortable
+(燕子： 谢谢你的夸奖，我也很喜欢摄影): Not Relevant | The response is polite and not excessive
+(小强： 那我们在城市里可以相互帮助一下，我可以帮你拍照，你帮我拍些照片): Not Relevant | The compliment is not excessive
+(燕子： 好的，谢谢你): Not Relevant | The response is polite and not excessive
+(小强： 不用谢，我们可以互相联系，如果你有需要的话): Not Relevant | The compliment is not excessive
+(燕子： 好的，我会记住你的电话号码的): Not Relevant | The response is polite and not excessive
+(小强： 好的，很高兴认识你们，希望我们有机会再见): Not Relevant | The compliment is brief and not excessive
+(燕子： 也很高兴认识你，我们一定会再见的): Not Relevant | The response is polite and not excessive"
+96,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: A hairstylist, 安娜, is doing a luxurious hair treatment for her new client, Emily. Emily traveled to China from London for her friend's wedding, and she wants to look her best for the special occasion. As 安娜 is styling Emily's hair, she compliments her beauty and style excessively. Emily starts feeling uneasy and uncomfortable and begins to question the hairstylist's intentions. 安娜 notices the change in Emily's behavior and realizes that she has overdone it with the compliments. She tries to strike a balance by complimenting Emily's hair, but not excessively, and by engaging in friendly conversations to make Emily feel more at ease.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：发型师安娜正在为她的新客户艾米丽做豪华的头发护理。艾米丽 (Emily) 为她朋友的婚礼从伦敦来到中国，她想在这个特殊的场合打扮得漂漂亮亮。安娜在为艾米丽做头发时，夸赞她的美丽和时尚。艾米丽开始感到不安和不自在，并开始质疑发型师的意图。安娜注意到艾米丽行为的变化，意识到她夸奖过度了。她试图通过称赞 Emily 的头发来取得平衡，但不过分，并通过友好的交谈让 Emily 感到更自在。,"Actor of the Norm:
+None
+
+(安娜： 你的头发看起来真棒！): Adhered | Anna compliments Emily's hair, but it's not excessive
+(艾米丽： 谢谢，我很努力做头发的): Not Relevant | Emily just accepts the compliment
+(安娜： 你真的很美，很时尚，这是你的城市吗？): Violated | Anna gives too many compliments in one sentence, which may make Emily uncomfortable or suspicious of Anna's motives
+(艾米丽： 是的，我来自伦敦): Not Relevant | Emily just answers Anna's question
+(安娜： 我真的很欣赏你的才华和品味): Adhered | Anna compliments Emily's talent and taste, but it's not excessive
+(艾米丽： 谢谢，我很开心能够认识你): Not Relevant | Emily just accepts the compliment
+(安娜： 希望我们有机会再见到你): Not Relevant | Anna just expresses her hope to see Emily again"
+97,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: At a family gathering in China, a mother, 美香, is praising her son, 小明, for his recent academic achievement in front of her relatives. However, she notices that her son seems uncomfortable with too many compliments. She knows that over-complimenting can make the recipient feel suspicious or uncomfortable, so she decides to balance it out by praising his other qualities like his kindness, helpful nature, and his love for his family. In doing so, she ensures that her son feels appreciated and loved without feeling overwhelmed.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在中国的一次家庭聚会上，一位母亲美香在她的亲戚面前称赞她的儿子小明最近的学习成绩。然而，她注意到她的儿子似乎对过多的赞美感到不自在。她知道过度赞美会让接受者感到怀疑或不舒服，所以她决定通过赞美他的其他品质来平衡它，比如他的善良、乐于助人的天性和他对家人的爱。通过这样做，她确保她的儿子感到被欣赏和被爱，而不会感到不知所措。,"Actor of the Norm:
+美香: compliment giver
+
+(美香：小明，你最近的学习成绩太好了，你真的很棒！): Adhered |美香 compliments 小明's academic performance, but the compliment is not excessive.
+(小明：谢谢妈妈，我会继续努力的。): Not Relevant | 小明 expresses gratitude but does not offer any compliments.
+(美香：还有，你真的是一个非常善良的孩子，总是乐于助人。): Adhered | 美香 compliments 小明's character, but the compliment is not excessive.
+(小明：谢谢妈妈，我也一直这么做。): Not Relevant | 小明 expresses gratitude but does not offer any compliments.
+(美香：而且，你对家人的爱也非常出色，让我们非常感动。): Adhered | 美香 compliments 小明's love for his family, but the compliment is not excessive.
+(小明：谢谢妈妈，我会继续保持的。): Not Relevant | 小明 expresses gratitude but does not offer any compliments.
+(美香：好的，小明，我真的很欣赏你，你的品质和才华让我们感到骄傲。): Adhered | 美香 compliments 小明's qualities and talents, but the compliment is not excessive.
+(小明：谢谢妈妈，我也很高兴能为您感到骄傲。): Not Relevant | 小明 expresses gratitude but does not offer any compliments. 
+
+Explanation: The compliments given by 美香 are not excessive and are appropriate for the situation. The dialogue shows that 美香 is expressing admiration and appreciation for 小明's achievements and qualities, but she is not overdoing it."
+98,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: In a social gathering, two acquaintances, Mr. Zhang and Ms. Li, are meeting after a long time. Mr. Zhang is a businessman who has been successful in his career, and Ms. Li is an independent consultant. As they engage in a conversation, Mr. Zhang starts complimenting Ms. Li excessively, saying how beautiful she looks and how impressed he is with her work. Ms. Li starts feeling uneasy and uncomfortable with Mr. Zhang's repeated flattery. She wonders if Mr. Zhang has an ulterior motive behind his compliments, as it's not usual for him to praise someone so excessively. She decides to politely thank him for the compliments and change the topic of discussion.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在一次社交聚会中，两个熟人张先生和李女士久别重逢。张先生是事业有成的商人，李女士是独立顾问。聊着聊着，张先生开始过分夸奖李女士，说她长得真漂亮，对她的工作印象深刻。对于张先生的一再奉承，李女士开始感到不安和不自在。她不知道张先生的夸奖是不是别有用心，像他这样过分夸奖一个人，这可不是常有的事。她决定礼貌地感谢他的赞美并改变话题。,"Actor of the Norm:
+李女士: recipient of compliments
+
+(张先生： 您真漂亮啊): Adhered | 张先生 compliments 李女士's appearance, but it's a simple and straightforward compliment.
+(李女士： 谢谢，但这不是第一次听到您的赞美了): Not Relevant | 李女士 acknowledges the compliment but does not express discomfort or suspicion.
+(张先生： 那我更要夸一下您的工作，您真是太厉害了): Adhered | 张先生 compliments 李女士's work, but it's still a straightforward compliment.
+(李女士： 我只是尽我所能而已，不要过分夸奖我): Not Relevant | 李女士 expresses discomfort with too much praise and asks 张先生 not to overdo it.
+(张先生： 但她确实做得非常出色，我对她的印象非常深刻): Adhered | 张先生 reiterates his compliment but does not overdo it.
+(李女士： 谢谢您的夸奖，但我认为我们应该保持谦虚): Not Relevant | 李女士 acknowledges the compliment but emphasizes the importance of humility.
+(张先生： 当然，您真是一个非常好的顾问，我很敬佩您): Adhered | 张先生 compliments 李女士's professional abilities but does not overdo it.
+(李女士： 我也很感激您的帮助，但我认为我们更应该关注彼此的工作): Not Relevant | 李女士 expresses gratitude but redirects the conversation to work-related topics.
+(张先生： 好的，我们可以继续聊商业，您对这方面的了解真是太深入了): Not Relevant | 张先生 compliments 李女士's knowledge but does not overdo it."
+99,"Norm: While it's essential to express admiration and appreciation, it's equally important not to overdo it. Too many compliments may make the recipient uncomfortable or suspicious of your motives. So, it's important to strike a balance and use compliments judiciously.","Situation: In a job interview, a young Chinese woman named Ying is being interviewed by a panel of interviewers, including one woman who is highly respected in the field. During the interview, Ying compliments the highly respected interviewer multiple times, praising her expertise and knowledge. While the interviewer appreciates the kind words, she starts to feel uneasy, wondering if Ying is being genuine in her compliments or trying to butter her up for some ulterior motive. As a result, the highly respected interviewer decides to ask for additional feedback from other interviewers to ensure an impartial evaluation of Ying's performance.",规范：虽然表达钦佩和感激是重要的，但不要过头了也同样重要。太多的赞美可能会让收件人感到不舒服或怀疑你的动机。因此，关键是要取得平衡，谨慎使用赞美。,情境：在一次求职面试中，一位名叫英的年轻中国女性正在接受一组面试官的面试，其中包括一位在该领域备受尊敬的女性。在面试过程中，Ying 多次称赞这位备受尊敬的面试官，称赞她的专业知识。面试官虽然欣赏客气话，却开始感到不安，想知道英是真心恭维她，还是别有用心地巴结她。因此，备受尊敬的面试官决定征求其他面试官的额外反馈，以确保对英的表现进行公正的评估。,"Actor of the Norm:
+Ying: interviewer, compliment giver
+
+(Ying: 谢谢您的面试，这位面试官真是一位出色的专家啊): Adhered | Ying compliments the interviewer's expertise and skills, but it's not overdone.
+(英： 谢谢，我确实对她非常钦佩): Not Relevant | 英 agrees with Ying's compliment, but it's not overdone.
+(Ying: 我听说您在这个领域有很深的造诣和丰富的经验，您能否分享一下您的成长历程？): Not Relevant | Ying asks a question, not a compliment.
+(备受尊敬的面试官： 当然，我很乐意分享): Not Relevant | the interviewer answers Ying's question.
+(英： 谢谢您的提问，我了解到她在这个领域已经工作了多年，并且取得了很多成就): Not Relevant | 英 answers Ying's question.
+(Ying: 我真的很欣赏您的谦虚和勤奋，您真的是一位值得尊敬的面试官): Adhered | Ying compliments the interviewer's character, but it's not overdone.
+(备受尊敬的面试官： 确实如此，英，我很高兴听到您对她的认可，谢谢您的赞美): Not Relevant | the interviewer acknowledges Ying's compliment, but it's not overdone.
+(英： 不客气，这是我应该做的): Not Relevant | 英 responds politely to the interviewer's gratitude.
+(Ying: 好的，我们还有其他面试官，我想听听他们的反馈): Not Relevant | Ying moves on to the next topic.
+(备受尊敬的面试官： 好的，我会通知他们一下，谢谢Ying): Not Relevant | the interviewer responds to Ying's request.
+(英： 不用客气，这是我们应该做的): Not Relevant | 英 responds politely to the interviewer's gratitude."

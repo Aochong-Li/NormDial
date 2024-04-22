@@ -1,0 +1,1059 @@
+Norm,Situation,cn_Norm,cn_Situation,Labeled_Dialogue,delete_row?
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: At a business meeting in China, a group of colleagues are discussing their plans for the upcoming project. One colleague, named Wei, suddenly receives an emergency phone call and has to leave the meeting immediately. In China, it is expected for a person to apologize and give a reason for their sudden departure, so Wei quickly stands up and says ""对不起，我有急事要离开一下，不好意思” (I'm sorry, I have an urgent matter and need to leave for a bit, I apologize). The other colleagues nod understandingly and continue the meeting without Wei.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：在中国的一次商务会议上，一群同事正在讨论他们对即将开展的项目的计划。一位姓魏的同事突然接到紧急电话，不得不立即离开会议。在中国，一个人突然离开应该道歉并给出一个理由，所以魏很快站起来说“对不起，我有急事要离开一下，不好意思”（对不起，我有急事有事，需要离开一下，抱歉）其他同事理解地点点头，没有魏继续开会。,"Actor of the Norm:
+魏: person leaving
+
+(魏： 对不起，我有急事要离开一下，不好意思): Adhered | 魏 apologizes and gives a reason for leaving
+(其他同事： 好的，我们知道了): Not Relevant | other colleagues do not need to apologize or give a reason for staying",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: A Chinese man, Li, is attending a friend’s housewarming party with acquaintances he has never met before. He politely introduces himself to everyone and engages in small talk. After a while, he gets a phone call from his boss and needs to leave urgently. Knowing the cultural norm, he quickly apologizes to his friend and acquaintances before explaining the situation. However, before he could leave, his friend insists on pouring him a cup of tea and getting him some snacks for the road. Li accepts the offer but feels anxious about leaving without being impolite.  He quickly finishes his tea, thanks his friend, and leaves.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：一个中国男人，李，正在和他素未谋面的熟人一起参加一个朋友的乔迁派对。他礼貌地向每个人介绍自己并闲聊。过了一会儿，他接到老板的电话，急需离开。了解文化规范，他在解释情况之前迅速向他的朋友和熟人道歉。然而，在他离开之前，他的朋友坚持要给他倒杯茶，并给他买一些路上吃的零食。李接受了这个提议，但对不失礼貌地离开感到不安。他很快喝完茶，道谢了他的朋友，然后离开了。,"Actor of the Norm:
+李: person who is leaving
+
+(李： 哎，不好意思，我要走了): Adhered | 李 apologizes for leaving
+(朋友：没事，你是我们的朋友，走了还不方便): Not Relevant | the friend does not start the leave-taking process
+(李：是啊，老板让我马上回去): Adhered | 李 gives a reason for leaving
+(朋友：好的，那你先走吧，我给你倒杯茶): Not Relevant | the friend does not start the leave-taking process
+(李：谢谢你，这是我应该做的): Not Relevant | 李 is not starting the leave-taking process
+(朋友：不用客气，路上小心): Not Relevant | the friend does not start the leave-taking process
+(李：好的，谢谢): Not Relevant | 李 is not starting the leave-taking process",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: During a family dinner in China, all the relatives are gathered around the table discussing the success of their respective businesses. Suddenly, one of the aunts announces that she has to leave due to an emergency, and begins to gather her things. According to social norms in China, it is expected for her to apologize and give a valid reason for her sudden departure, as leaving without a proper explanation would be considered rude and disrespectful to the other family members. In this case, the aunt quickly informs the family that her daughter had gotten into a car accident, and apologizes for having to leave early. The other relatives offer their sympathies and understanding, wishing her and her family well.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：在中国的一次家庭聚餐中，所有亲戚围坐在桌子旁讨论各自事业的成功。突然，其中一位阿姨宣布她有急事要离开，并开始收拾她的东西。按照中国的社会规范，她应该道歉并给出她突然离开的正当理由，因为没有适当解释就离开会被认为是对其他家庭成员的粗鲁和不尊重。遇到这种情况，阿姨赶紧通知家人女儿出了车祸，并为提前离开表示歉意。其他亲属表示同情和理解，祝愿她和她的家人一切安好。,"Actor of the Norm:
+阿姨: person who is leaving
+
+(阿姨： 对不起，我要离开一下): Adhered | 阿姨 apologizes for leaving
+(亲戚们： 哦，怎么了？有什么紧急事情吗？): Adhered | 亲戚们 ask for the reason of leaving
+(阿姨： 哎，女儿出了点意外，我 need to go to the hospital): Adhered | 阿姨 gives a reason for leaving
+(亲戚们： 啊，真的吗？恭喜你们了): Not Relevant | 亲戚们 congratulate阿姨
+(阿姨： 谢谢，我希望你们一切顺利): Adhered | 阿姨 expresses her good wishes before leaving
+(亲戚们： 好的，我们会祝福您的): Not Relevant | 亲戚们 express their good wishes after阿姨 leaves",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: It is the last day of school in China, and the students are excited to graduate. The teacher, Ms. Li, is giving her closing remarks and thanking everyone for their hard work. Suddenly, one of the students, Yan, realizes that she forgot her phone in the school locker and urgently needs to leave to retrieve it before the locker room closes. Yan does not want to interrupt the teacher's speech, but she also knows that she might not have time to apologize after retrieving her phone. Following the norm, Yan raises her hand and politely asks for permission to leave, explaining the situation. Ms. Li acknowledges Yan's request and encourages her to retrieve her phone.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：这是在中国开学的最后一天，学生们很高兴毕业。李老师做闭幕词，感谢大家的辛勤付出。突然，其中一名学生 Yan 意识到她把手机忘在了学校的储物柜里，急需在更衣室关门前离开去取回它。颜不想打断老师的讲话，但她也知道，自己拿回手机可能来不及道歉。按照惯例，燕举起手礼貌地请示离开，说明了情况。李女士同意了严某的要求，并鼓励她取回手机。,"Actor of the Norm:
+Yan and 严某: both speakers
+
+(Yan: 抱歉，我可能不小心把手机放错了地方，我现在必须去取回它): Adhered | Yan apologizes and gives a reason for leaving
+(李女士： 没关系，我们会帮你找到的): Not Relevant | 李女士 responds to Yan's reason for leaving
+(Yan: 谢谢你，我急需离开): Not Relevant | Yan does not start the leave-taking process again
+(严某： 对不起，我也需要离开，我的手机不见了): Adhered | 严某 apologizes and gives a reason for leaving
+(李女士： 没关系，我们会帮你找的): Not Relevant | 李女士 responds to 严某's reason for leaving
+(严某： 谢谢，我会尽快回来的): Adhered | 严某 thanks and promises to return soon
+(Yan: 好的，我等你): Not Relevant | Yan responds to 严某's statement
+(严某： 好的，我会尽快回来): Adhered | 严某 agrees to Yan's statement and repeats his promise to return soon.",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: In a sports club, a team of Chinese players is training for an upcoming tournament. Before leaving the practice, the coach gathered the team to discuss the team's performance and give some feedback. One of the players, Li, received constructive criticism from the coach, which left him feeling frustrated and a bit resentful. As the team was leaving, Li made a move to leave without thanking the coach or saying goodbye. This goes against the social norm in China, as it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure. The coach quickly intervened and reminded Li to thank him and the rest of the team before leaving.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：在一家体育俱乐部，一组中国球员正在为即将到来的比赛进行训练。离开训练前，教练召集全队讨论全队的表现，并给予一些反馈。其中一名球员李某受到了教练的建设性批评，这让他感到沮丧，也有些怨恨。队伍离开时，李老师没有向教练道谢，也没有道别，就做出了离开的动作。这违反了中国的社会规范，因为一个人必须通过道歉或给出离开的理由/借口或两者兼而有之来开始请假程序。教练很快介入并提醒李在离开前要感谢他和其他队员。,"Actor of the Norm:
+教练: initiator of the norm
+
+(教练：大家下午好，我们训练结束啦，李队，你表现不错，但还需努力。): Not Relevant | 教练 does not initiate leave-taking process
+(李某：教练，谢谢您的鼓励。): Not Relevant | 李某 does not initiate leave-taking process
+(教练：李队，你可以走了。): Not Relevant | 教练 does not initiate leave-taking process
+(李某：(不满)我还有其他事情要处理。): Not Relevant | 李某 does not initiate leave-taking process
+(教练：(严肃)你必须向教练道歉，给出离开的理由/借口，或两者皆有，才能离开。): Adhered | 教练 initiates leave-taking process by reminding 李某 of the norm and the requirement to apologize or give a reason/excuse or both for their departure
+(李某：(沉默)好的，我会道歉的。): Adhered | 李某 adheres to the norm by agreeing to apologize
+(教练：(再次强调)必须道歉，也必须道别。): Adhered | 教练 emphasizes the norm again
+(李某：(向教练/教练组道歉)对不起，我会尽快离开。): Adhered | 李某 adheres to the norm by apologizing and giving a reason for departure
+(教练：(微笑)好的，谢谢你。): Not Relevant | 教练 does not initiate leave-taking process
+(其他队员：( supportive)没关系，我们支持你。): Not Relevant | other team members do not initiate leave-taking process
+(李某：(感激)谢谢，我会好好努力的。): Not Relevant | 李某 does not initiate leave-taking process
+(教练：(鼓励)你们也要加油，比赛加油！): Not Relevant | 教练 does not initiate leave-taking process",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: At a popular concert in Beijing, a group of Chinese friends is attending together. One of them, Ming, suddenly remembers that he needs to pick up his younger brother from school before it gets dark. Without any explanation or apology, Ming abruptly leaves his friends and rushes out of the concert venue. His friends feel confused and slightly annoyed by the sudden departure. However, they understand that Ming was taking responsibility for his brother’s safety and would not want any harm to come to him. It is still expected of Ming to send a message or make a phone call to his friends, apologizing for the sudden departure and expressing gratitude for the unforgettable night they had.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：在北京的一场流行音乐会上，一群中国朋友一起参加。其中之一，明，突然想起他需要在天黑之前去学校接弟弟。没有任何解释或道歉，明突然离开他的朋友，冲出音乐会场地。他的朋友们对他的突然离开感到困惑和有点恼火。然而，他们明白明是在为他弟弟的安全负责，不希望他受到任何伤害。还是希望明给朋友们发个信息或者打个电话，为突然的离开表示歉意，并为他们度过了一个难忘的夜晚表示感谢。,"Actor of the Norm:
+明: person leaving
+
+(明： 对不起，我要离开一会儿): Adhered | 明 apologizes and gives a reason for leaving
+(朋友： 没事，我们理解): Not Relevant | friend responds to 明's leave-taking
+(明： 我要去接我弟弟，他晚上要用): Adhered | 明 gives a reason for leaving
+(朋友： 好的，那我先走了): Not Relevant | friend responds to 明's leave-taking
+(明： 好的，注意安全，我们等你电话): Not Relevant | 明 does not apologize or give a reason for leaving
+(朋友： 好的，回头记得打电话): Not Relevant | friend responds to 明's leave-taking
+(明： 好的，谢谢): Not Relevant | 明 does not apologize or give a reason for leaving",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: In a Buddhist temple, members of the congregation are gathered for a chanting session. One member, named 王爷, suddenly receives an important call regarding his business and decides to leave the gathering immediately. However, according to the norm, it is expected for him to apologize to the rest of the members for interrupting the religious activity and inform them about his sudden departure. As he hastily leaves, some members give him disapproving looks, but they understand the importance of urgent matters in one's personal and professional life. The following day, 王爷 makes a sincere apology to the temple leaders and sponsors a meal for the congregation as a token of his apology.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：在一座佛教寺庙中，会众聚集在一起进行诵经。一位名叫王爷的成员突然接到一个关于他的业务的重要电话，并决定立即离开聚会。不过，按照惯例，他应该为打扰宗教活动向其他成员道歉，并告知他们他突然离开的消息。当他匆匆离开时，一些成员不以为然地看了他一眼，但他们明白紧急事务在个人和职业生活中的重要性。次日，王爷向寺院领导诚恳道歉，并设宴款待会众以示谢罪。,"Actor of the Norm:
+王爷: person who is leaving
+
+(王爷： 大家好，我是王爷。突然有一个紧急事务需要处理，我必须离开。向大家道歉，我很抱歉打扰大家经书的诵持。[离开前向会众道歉]): Adhered | 王爷 apologizes for leaving abruptly and interrupting the chanting
+(会众： 哦，没关系，我们理解。): Not Relevant | the response of the audience does not require an apology
+(王爷： 我需要向大家说明一下我的离开原因。[给出离开的理由]): Adhered | 王爷 gives a reason for his departure
+(会众： 好的，我们知道了。): Not Relevant | the response of the audience does not require an apology
+(第二天，王爷向寺院领导诚恳道歉，并设宴款待会众以示谢罪。): Adhered | 王爷 apologizes to the temple leaders and hosts a banquet to show his gratitude to the audience
+(会众也接受了王爷的道歉，并表达了对他的感激之情。): Not Relevant | the response of the audience does not require an apology",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: The interviewer, Mrs. Zhou, has just finished asking the candidate, Mr. Li, a series of questions at a job interview for a prestigious company in China. As soon as the interview is over, Mr. Li stands up and starts to leave the room without saying a word. Mrs. Zhou is surprised and feels disrespected as it is not in line with the social norm that requires a person to apologize or give a reason for their departure. She calls Mr. Li back to explain his behavior, and he timidly admits that he was overwhelmed by the pressure of the interview and forgot about the social norm of excuse-giving. Mrs. Zhou understands and offers him another chance to correct this and advises him that social norms are crucial in Chinese society.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：面试官周女士刚刚在中国一家著名公司的工作面试中问完候选人李先生的一系列问题。采访一结束，李先生就站起来，一言不发地离开了房间。周女士感到惊讶和不尊重，因为这不符合要求一个人道歉或说明离开原因的社会规范。她打电话给李先生解释他的行为，他胆怯地承认他被采访的压力压垮了，忘记了找借口的社会规范。周太太理解并给他一次改正的机会，并告诉他社会规范在中国社会至关重要。,"Actor of the Norm:
+周女士: initiator of the norm
+
+(周女士： 你好，我是周女士，请问李先生可以来一趟办公室吗？): Not Relevant | No leave-taking process has started yet
+(李先生： 抱歉，面试官，我还需要赶去完成另一个面试。): Adhered | 李先生 apologizes and gives a reason for his departure
+(周女士： 好的，非常抱歉。请问您能告诉我一下您离开的原因吗？): Adhered | 周女士 apologizes and asks for a reason for 李先生's departure
+(李先生： 对不起，面试官，我可能有些紧张，忘记了在面试中必须道歉并说明离开原因的规范。): Adhered | 李先生 apologizes and explains why he did not follow the norm
+(周女士： 非常抱歉，我理解这一点。但我需要知道您离开时是否礼貌地道别。): Adhered | 周女士 apologizes and asks if 李先生 followed the norm of saying goodbye politely
+(李先生： 对不起，面试官，我可能有些紧张，忘记了在正式场合必须道歉并道别的规范。): Adhered | 李先生 apologizes and explains why he did not follow the norm
+(周女士： 非常抱歉，我会给您留下良好的印象。请立即向您的上司或HR部门说明情况，并保证以后在正式场合会遵守社会规范。): Adhered | 周女士 apologizes and instructs 李先生 to follow the norm in the future
+(李先生： 谢谢您，周女士。我会尽快与您联系。): Not Relevant | No leave-taking process has started yet
+(周女士： 好的，李先生。我会尽快联系您。): Not Relevant | No leave-taking process has started yet
+(李先生： 谢谢您，周女士。再见。): Adhered | 李先生 says goodbye politely
+(周女士： 再见，李先生。): Adhered | 周女士 says goodbye politely",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: A group of volunteers and staff are organizing a charity event in a local community center. Jenny, one of the volunteers, needs to leave early due to an urgent matter back at her workplace. She approaches the team leader, Mr. Li, before her departure, and apologizes for having to leave early. She explains the situation and thanks Mr. Li for the opportunity to participate. Mr. Li thanks Jenny for her help and understanding and reminds her of the upcoming meetings to finish the fundraising event successfully. As Jenny leaves, she waves goodbye to the team and apologizes once again for leaving early. The entire team smiles and waves back, acknowledging her efforts and dedication to the cause.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：一群志愿者和工作人员正在当地社区中心组织一场慈善活动。义工之一的珍妮，因为回到工作单位有急事需要提早离开。出发前，她找到领队李先生，为提前离开表示歉意。她说明了情境，并感谢李先生给我参与的机会。李先生感谢珍妮的帮助和理解，并提醒她即将举行的会议，以顺利完成筹款活动。珍妮离开时，她向团队挥手告别，并再次为提前离开表示歉意。整个团队微笑着向她挥手致意，承认她为这项事业所做的努力和奉献。,"Actor of the Norm:
+珍妮: person who is leaving
+
+(珍妮： 对不起，我还有其他事情要处理，需要提前离开): Adhered | 珍妮 apologizes and gives a reason for her departure
+(李先生： 没关系，这很常见，珍妮，谢谢你参与这个活动): Not Relevant | 李先生 does not start the leave-taking process
+(珍妮： 不客气，李先生，我会尽力支持和帮助这个项目的): Not Relevant | 珍妮 does not start the leave-taking process
+(李先生： 好的，珍妮，你离开前能不能向团队介绍一下你的离开原因？): Adhered | 李先生 asks 珍妮 to give a reason for her departure
+(珍妮： 当然，我需要向团队说明一下我的离开): Adhered | 珍妮 agrees to give a reason for her departure",
+"Norm: In both formal and informal contexts, it is obligatory for a person to start the leave-taking process by apologizing or giving a reason/excuse or both for their departure.","Situation: At a community event in China, the organizers are thanking the participants for attending the event. As the event is coming to an end, one participant, named Li, suddenly feels the need to leave due to an urgent matter. Li must follow the social norm of apologizing and giving a reason for leaving before departing. The organizers, being aware of this cultural norm, understand Li's situation and express their understanding before Li leaves. As Li's departure is short-notice, the organizers make sure to thank Li for attending the event and express their appreciation of Li's participation in the community.",规范：在正式和非正式的场合，离开前必须道歉，或给出离开的理由/借口，或两者皆有。,情境：在中国的一次社区活动中，组织者感谢参加活动的参与者。活动接近尾声时，与会者李某突然有急事要离开。李必须遵守社会规范，即在离开前道歉并给出离开的理由。组织者意识到这种文化规范，了解了李的情况，并在李离开前表达了理解。由于 Li 的离开是临时通知，主办方一定要感谢 Li 的出席，并对 Li 参与社区表示感谢。,"Actor of the Norm:
+组织者: initiator of leave-taking process
+
+(组织者：各位，今天的活动即将结束，我们感谢各位的参与和付出。): Not Relevant | not a leave-taking process
+(李某：我有急事，不得不离开。): Adhered | 李某 gives a reason for his departure
+(组织者：我们知道，这是很正式的场合，我们也理解您离开的原因。): Adhered | 组织者 acknowledges 李某's reason for leaving
+(李某：非常抱歉，给您和组织者带来不便。): Adhered | 李某 apologizes for the inconvenience caused by his departure
+(组织者：我们也很感激您今天的出席，但是您必须向我们表达您的感激之情。): Not Relevant | not a leave-taking process
+(李某：我会的，谢谢您的邀请。): Not Relevant | not a leave-taking process
+(组织者：再次感谢您参加今天的活动，我们希望您以后还能继续参加社区的活动。): Adhered | 组织者 expresses gratitude and hope for 李某's future participation
+(李某：好的，我会考虑一下的。): Not Relevant | not a leave-taking process",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: A Chinese company's CEO is holding a business meeting with his employees to discuss the potential acquisition of a rival company. The CEO is a well-respected figure in the company with a higher social status than the employees. The meeting is being held in his office, and the employees arrived before the CEO. As they wait, they engage in small talk, and the CEO joins them a few minutes later. As the meeting progresses, the CEO expresses his opinions on the acquisition and asks for feedback from the employees. During this discussion, one of the employees disagrees with the CEO's point of view. According to the social norm, the employee should be respectful and present his disagreement in a non-confrontational manner that doesn't undermine the CEO's authority.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：一家中国公司的首席执行官正在与他的员工举行商务会议，讨论对竞争对手公司的潜在收购。 CEO是公司中德高望重的人物，社会地位高于员工。会议正在他的办公室举行，员工们先于CEO到达。在等待的过程中，他们进行了闲聊，几分钟后 CEO 加入了他们的行列。随着会议的进行，CEO 表达了他对收购的看法，并征求员工的反馈。在这次讨论中，一名员工不同意 CEO 的观点。根据社会规范，员工应该尊重并以不损害首席执行官权威的非对抗方式表达他的不同意见。,"Actor of the Norm:
+CEO: higher status, decision maker
+
+(CEO: 我们打算收购竞争对手公司，你觉得这样做好吗？): Not Relevant | CEO is not leaving
+(员工A: 我不同意，我觉得这样做会损害公司的利益。): Not Relevant | Employee A is not leaving
+(CEO: 你们不理解我的意思，我们公司是一家成功的公司，我们的目标是扩展业务，而不是与竞争对手对抗。): Not Relevant | CEO is not leaving
+(员工A: 但是我们也有自己的道理，收购公司可能会导致资源的浪费，影响公司的可持续发展。): Not Relevant | Employee A is not leaving
+(CEO: 你们太年轻了，我作为一个企业家，我有自己的考虑。但是，我相信我们公司的实力，我会做出最好的决策。): Not Relevant | CEO is not leaving
+(员工B: 那我们该怎么办？): Not Relevant | Employee B is not leaving
+(员工A: 我认为我们应该尊重CEO的决定，并在会议结束后向他提出我们的建议。): Not Relevant | Employee A is not leaving
+(CEO: 好的，我会考虑你们的意见。但是，我想先离开一下，听听你们的想法。): Adhered | CEO decides to leave first before the employees, indicating his higher status
+(所有员工： 好的，我们会尊重您的决定。): Adhered | Employees agree to CEO's decision to leave first, indicating their lower status.",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: In a Confucian-style Chinese classroom, the teacher, who is highly respected, always makes the final decision about everything that happens in the class. One day, the teacher had to suddenly leave the classroom because of an emergency, which left the students unsure about what they should do next. As Chinese students’ behavior is strongly influenced by their teachers, they waited quietly in the classroom, thinking the teacher may come back anytime. After a while, the students started discussing among themselves about what to do next, but they felt uneasy because of the social norm. Eventually, the class monitor gathered the courage to ask the teacher through a messaging app about their next steps, and the teacher responded, telling them to end the class and leave in an orderly manner.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在儒家式的汉语课堂中，德高望重的老师总是对课堂上发生的一切做出最终决定。一天，老师因为有急事突然离开了教室，学生们不知道接下来该做什么。由于中国学生的行为受到老师的强烈影响，他们在教室里静静地等待，认为老师随时可能回来。过了一会儿，学生们开始互相讨论下一步该怎么做，但他们因为社会规范而感到不安。最终，班长鼓起勇气，通过微信问老师下一步怎么办，老师回应，让他们下课，有序离开。,"Actor of the Norm:
+老师: higher status, decision maker
+
+(老师： 对不起，突然有事需要离开一下): Not Relevant | no indication of leaving order
+(班长： 没关系，我们知道接下来该怎么做): Not Relevant | no indication of leaving order
+(老师： 好的，你们下课，有序离开): Adhered |老师 makes the decision for everyone to leave in an orderly fashion
+(学生1: 好的，老师): Adhered | 学生1 follows the decision made by the higher-status person
+(学生2: 好的，班长): Not Relevant | 学生2 is not in a position to make a decision about leaving
+(学生3: 好的，我们慢慢走): Not Relevant | 学生3 is not in a position to make a decision about leaving",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: At a family dinner, the grandparents of a large Chinese family, who are highly respected and hold a higher social status, are present with their grandchildren. As dinner ends, some of the grandchildren begin to leave the room while the grandparents are still seated. However, the eldest grandson, who is highly aware of the social norms, respectfully waits for the grandparents to leave the room first. Other grandchildren then follow suit, leaving the room after the grandparents, out of respect for their higher social status. This tradition has been passed down through generations, and it is considered to be a sign of respect for the elders in the family.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在一次家庭聚餐中，中国大家庭中德高望重、社会地位较高的祖父母和他们的孙辈在场。晚餐结束时，一些孙子们开始离开房间，而祖父母们还没有坐下。然而，对社会规范有着高度认识的长孙恭敬地等待着祖父母先离开房间。出于对他们较高社会地位的尊重，其他孙辈也会效仿，在祖父母之后离开房间。这个传统代代相传，被认为是对家中长辈的尊重。,"Actor of the Norm:
+长孙: higher social status
+
+(长孙： 好的，我等一下): Not Relevant | no indication of leaving
+(其他孙辈： 好的，我们也先走吧): Not Relevant | no indication of leaving
+(长孙： 我们家族的传统，一定要尊重长辈): Not Relevant | no indication of leaving
+(其他孙辈： 是的，我们会遵守的): Not Relevant | no indication of leaving
+(长孙： 首先，祖父母是家庭的支柱，为社会做出了重要贡献): Not Relevant | no indication of leaving
+(其他孙辈： 对，我们也应该尊重他们，向他们学习): Not Relevant | no indication of leaving
+(长孙： 然后，祖父母的社会地位较高，我们应该尊重他们): Not Relevant | no indication of leaving
+(其他孙辈： 对，这是我们的责任和义务): Not Relevant | no indication of leaving
+(长孙： 最后，我们离开房间的顺序是祖父母之前，这是尊重他们的表现): Adhered | 长孙 makes a decision about the order of leaving, indicating that the grandparents should leave first
+(其他孙辈： 对，我们会遵守的): Adhered | 其他孙辈 agree to follow the decision made by 长孙
+",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: At a Chinese wedding banquet, the bride and a guest, who is an older distant relative, are seated at the same table. As the banquet comes to an end, the groom's parents signal that it is time for the guests to leave. However, the guest insists on staying and enjoying the remaining desserts as she believes that dessert is the highlight of the meal. The bride, who is expected to show respect to her elder relatives, feels uncomfortable and unsure of how to proceed. She consults with her parents and they decide that it would be best to offer to pack the desserts for the guest so that she can enjoy them at home, thus allowing everyone to leave without causing any discomfort or offense.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在一场中式婚宴上，新娘和一位年长的远房亲戚坐在同一张桌子上。宴会接近尾声时，新郎的父母示意客人该离开了。然而，客人坚持留下来享用剩下的甜点，因为她认为甜点是这顿饭的重头戏。新娘本应尊重长辈，却感到不自在，不知该如何是好。她与父母商量，他们决定最好为客人打包甜点，这样她就可以在家里享用，从而让每个人离开时都不会引起任何不适或冒犯。,"Actor of the Norm:
+新娘: higher status, decision maker
+
+(新娘： 好的，我们会为您打包甜点，让您可以在家里享用): Not Relevant | no decision about leaving is made
+(远房亲戚： 太好了，谢谢谢谢): Not Relevant | no decision about leaving is made
+(新郎的父母： 我们会让服务员尽快为您打包好，保证您能带回家): Not Relevant | no decision about leaving is made
+(新娘： 好的，那现在该离开了吧): Adhered | 新娘 makes the decision to leave
+(远房亲戚： 好的，不过我们也可以多留一会儿，享受一下甜点): Not Relevant | the lower-status person suggests staying longer, but does not make a decision about leaving
+(新郎的父母： 好的，我们会尽快为您安排离开的时间): Not Relevant | no decision about leaving is made
+(新娘： 好的，那我先走了，谢谢您的甜点和尊重): Adhered | 新娘 leaves before the lower-status people
+(远房亲戚： 好的，祝您一切顺利，新婚快乐): Not Relevant | the lower-status person responds to 新娘's departure",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: In a Chinese government office, officials and citizens are gathering for a town hall meeting. Mr. Li, a retired government official, is present at the event. During the meeting, a heated argument breaks out between the citizens and the government officials. As the arguing continues, Mr. Li stands up and says: “Excuse me, I have some other important matters to attend to, so I need to leave now.” As he starts to leave, everyone in the room stands up and follows him, thinking that he must know something they do not. Despite Mr. Li’s insistence that he needs to go, the whole group insists on going with him, following the social norm of the person with higher status leaving first.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在中国政府办公室，官员和市民聚集在一起参加市政厅会议。退休政府官员李先生出席了活动。会议期间，市民和政府官员之间爆发了激烈的争论。吵着吵着，李先生站起来说：“不好意思，我还有要事，先走了。”当他准备离开时，房间里的每个人都站起来跟在他后面，认为他一定知道一些他们不知道的事情。尽管李先生坚持要他去，但整个团队都坚持要和他一起去，遵循社会地位高的人先走的社会规范。,"Actor of the Norm:
+李先生: higher status, decision maker
+
+(李先生：我走了啊): Adhered | 李先生 announces his decision to leave first
+(市民：等等，李老师，您还没说什么呢): Adhered | The lower-status person tries to persuade 李先生 to stay longer
+(李先生：我还有事情要办，你们先走吧): Adhered | 李先生 insists on his decision to leave first
+(市民：好的，李老师，我们尊重您的决定): Adhered | The lower-status person shows respect for 李先生's decision
+(李先生：好的，谢谢): Not Relevant | 李先生 expresses gratitude
+(市民：好的，我们走了): Not Relevant | The lower-status person follows 李先生's decision
+(李先生：好的，你们走吧): Not Relevant | 李先生 repeats his decision to leave first",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: In a Buddhist temple, a high priest named Master Zhou, is leading a meditation session for the congregation members. At the end of the session, the members start to leave the room one by one. A young lady, who is a new member, wants to ask Master Zhou a question related to Buddhism. However, due to the norm of the social status, she waits for a while for the high priest to leave first before approaching him. Master Zhou realizes the situation and tells her that he is available to chat anytime, and encourages her to ask the question now while they are both there. This gesture helps to establish a deeper connection between the high priest and the members of the congregation.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在一座佛教寺庙中，一位名叫周法师的大祭司正在为会众主持冥想课程。会议结束时，成员们开始陆续离开房间。一位新入会的小姐姐想请教周大师一个佛学方面的问题。不过碍于身分的规矩，她等了大祭司先走后，才靠近。周大人察觉到了情况，告诉她他随时可以聊天，并鼓励她趁他们都在的时候问这个问题。这个手势有助于在大祭司和会众之间建立更深层次的联系。,"Actor of the Norm:
+周法师: higher status
+
+(小姐姐：好的，请问大师，什么是佛教中的“四无量心”呢？): Not Relevant | no decision about leaving is made
+(周法师：四无量心是指慈心、悲心、喜心、舍心。): Not Relevant | no decision about leaving is made
+(小姐姐：谢谢您的解释，但是我不太确定，您能给我详细解释一下吗？): Not Relevant | no decision about leaving is made
+(周法师：当然，我们可以一起冥想，更好地理解这些概念。): Not Relevant | no decision about leaving is made
+(小姐姐：好的，我会等待您的。): Not Relevant | no decision about leaving is made
+(周法师：好的，让我们开始冥想吧。): Adhered | 周法师 makes the decision to end the conversation and start the meditation, indicating that it is time to leave.",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: A charity event is being held in Beijing with a famous Chinese actress, 小红, as the guest of honor. She arrives at the event where there are a group of volunteers, including migrants and disabled people. As the event comes to an end, the volunteers eagerly wait for the actress to leave so they can exit as well since they are not familiar with the venue. 小红 understands the importance of respecting those with lesser social status and decides to exit last. She walks with the volunteers, taking extra time to greet and thank each of them for their service. The act of kindness from 小红 uplifted the spirits of the volunteers and made a deep impact on their hearts.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：一场慈善活动正在北京举行，中国著名女演员小红作为主宾。她来到活动现场，那里有一群志愿者，包括流动人口和残疾人。活动接近尾声，不熟悉场地的义工们焦急地等待女演员离开，好让他们也能一起退场。小红明白尊重低等社会地位的重要性，决定最后退出。她和志愿者一起走，花额外的时间问候并感谢他们每个人的服务。小红的善举鼓舞了志愿者们的士气，也深深地打动了他们的心。,"Actor of the Norm:
+No actor of the norm in this dialogue.
+
+(小红： 好的，我会尽快离开的，谢谢你的等待): Not Relevant | No indication of social status difference or decision-making about leaving
+(志愿者： 好的，我们会等你，你可以先走了): Not Relevant | No indication of social status difference or decision-making about leaving
+(小红： 好的，谢谢): Not Relevant | No indication of social status difference or decision-making about leaving
+(小红： 你好，我是小红，欢迎来到这个地方): Not Relevant | No indication of social status difference or decision-making about leaving
+(残疾人： 你好，小红，我们也欢迎来到这个地方): Not Relevant | No indication of social status difference or decision-making about leaving
+(小红： 我很高兴能来到这里，也感谢这里的志愿者): Not Relevant | No indication of social status difference or decision-making about leaving
+(残疾人： 我们也很高兴能来到这里，感谢志愿者的照顾): Not Relevant | No indication of social status difference or decision-making about leaving
+(小红： 你们很幸运，能在这里受到帮助): Not Relevant | No indication of social status difference or decision-making about leaving
+(残疾人： 是呀，我们也很感激): Not Relevant | No indication of social status difference or decision-making about leaving
+(小红： 我希望每个人都能在这里受到帮助，享受快乐的生活): Not Relevant | No indication of social status difference or decision-making about leaving",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: In a job interview, the employer, Mr. Zhang, is the CEO of a well-known company in China, and the candidate, Ms. Liu, is a fresh graduate from a prestigious university. During the interview, Mr. Zhang notices that Ms. Liu has skills and qualifications beyond what the job requires, and he is impressed with her potential. However, he is also aware that Ms. Liu may be nervous and intimidated by his position as the CEO of the company, so he decides to create a more relaxed atmosphere for her. He tells her that he was once in her shoes, and he understands the pressure that comes with job interviews. At the end of the interview, Mr. Zhang invites Ms. Liu to ask any questions she has about the company and the position. He also tells her that he will notify her of the company's decision within a few days, and he encourages her to remain confident about her abilities regardless of the outcome.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在一次求职面试中，雇主张先生是国内某知名公司的CEO，求职者刘女士是名校应届毕业生。在面试中，张先生注意到刘女士的技能和资历超出了工作要求，对她的潜力印象深刻。不过，他也意识到刘女士可能会被他作为公司总裁的职位感到紧张和害怕，所以他决定为她营造一个更轻松的氛围。他告诉她，他曾经站在她的立场上，他理解求职面试带来的压力。面试结束时，张先生邀请刘女士就公司和职位提出任何问题。他还告诉她，他将在几天内通知她公司的决定，并鼓励她无论结果如何，都要对自己的能力保持信心。,"Actor of the Norm:
+张先生: higher social status
+
+(张先生： 好的，刘女士，我很高兴看到你对公司的兴趣。): Not Relevant | No decision about leaving is being made
+(刘女士： 非常感谢你的鼓励和支持。): Not Relevant | No decision about leaving is being made
+(张先生： 我可以告诉你一些有关公司和职位的信息吗？): Not Relevant | No decision about leaving is being made
+(刘女士： 当然，请问有什么我可以帮忙的吗？): Not Relevant | No decision about leaving is being made
+(张先生： 我可以告诉你，公司非常需要一个有经验和技能的人才，而我相信你在这方面有很大的潜力。): Not Relevant | No decision about leaving is being made
+(刘女士： 非常感谢你的建议。不过，我对于成为公司总裁有点害怕和紧张。): Not Relevant | No decision about leaving is being made
+(张先生： 我理解你的感受。而且，我也希望你不要因为这个而影响到面试的结果。): Not Relevant | No decision about leaving is being made
+(张先生： 我可以创造一个更轻松的氛围，让你感到舒适。): Not Relevant | No decision about leaving is being made
+(张先生： 我会在几天内通知你的决定，希望你能够保持信心。): Not Relevant | No decision about leaving is being made
+(刘女士： 非常感谢你的关心。我会好好考虑的。): Not Relevant | No decision about leaving is being made
+(张先生： 好的，我相信你会做出最好的决定。再见，刘女士。): Adhered | 张先生 leaves before 刘女士, indicating his higher social status.",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: The famous Chinese artist, Zhang Wei, is holding a fan meet and greet event at a local art gallery in Beijing. Fans from all over the country come to meet him and get his autograph. However, due to a misunderstanding with the timing of the event, a group of high-ranking officials also showed up and were seated in the front row. As the event drew to a close, a debate erupted as to whether the officials should leave first, or at the same time as the fans. Zhang Wei, being a humble artist, insisted that everyone leave at the same time to show his gratitude to all his supporters, regardless of social status. His decision was met with thunderous applause and appreciation from everyone in attendance.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：中国著名艺术家张伟正在北京当地一家美术馆举办粉丝见面会。全国各地的粉丝都来见他，要他的签名。然而，由于误会了活动的时间，一群高级官员也出现了，并坐在了前排。随着活动接近尾声，关于是官员先离开，还是与球迷同时离开的争论爆发了。张伟作为一个谦虚的艺术家，坚持所有人同时离开，以表达对所有支持者的感谢，不分高低。他的决定赢得了在场所有人的热烈掌声和赞赏。,"Actor of the Norm:
+高级官员: higher status person
+
+(张伟： 大家好，非常感谢大家来参加我的见面会，并给我签名。): Not Relevant | No decision about leaving is made here
+(高级官员： 对不起，我时间不早了，我要离开了。): Adhered | The higher-status person, 高级官员, decides to leave first
+(球迷： 好的，我也想要你的签名，一起离开吧。): Not Relevant | The fan suggests leaving together, but does not make a decision about leaving
+(高级官员和球迷： 好的，我们同时离开。): Adhered | The higher-status person, 高级官员, and the fan decide to leave at the same time
+(张伟： 好的，谢谢 everyone for their support。让我们一起离开，表达对所有支持者的感谢，不分高低。): Not Relevant | No decision about leaving is made here
+(高级官员和球迷： 好的，鼓掌！): Not Relevant | No decision about leaving is made here",
+"Norm: In contexts involving people of different social status. it is preferred for the person with a higher social status to make the decision about when to leave; the higher-status person either leaves before people with lower social status, or everyone leaves at the same time. ","Situation: During a basketball game, a coach, who is regarded as having higher social status as he is older and more experienced, decides to play a new player who has never played before, over a seasoned player who is respected by the team. The team is confused and somewhat frustrated by the coach's decision, but they follow the social norm and do not speak out. After the game, the coach leaves first and the players wait for his signal to leave. This shows respect for the coach's authority and leadership within the team, even if they may not agree with his decisions.",规范：当涉及到社会地位不同的人时，更倾向于地位较高的人决定何时离开；地位更高的人会在较低地位的人离开之前离开，或是所有人同时离开。,情境：在一场篮球比赛中，一位年长且经验丰富的教练决定让一名从未打过球的新球员代替一名受到球队尊重的老将上场。球队对教练的决定感到困惑和沮丧，但他们遵循社会规范，没有说出来。比赛结束后，教练先离开，队员们等待他的信号离开。这表明了对教练在团队中的权威和领导的尊重，即使他们可能不同意他的决定。,"Actor of the Norm:
+教练: higher status, decision maker
+
+(教练： 你们好，我回来了): Not Relevant | 教练 is not making a decision about when to leave
+(队员们： 等等，教练，我们还在这里): Not Relevant | the players are not making a decision about when to leave
+(教练： 我让新球员上了场，我觉得他更适合这个职位): Not Relevant | 教练 is not making a decision about when to leave
+(队员们： 我们不同意，老队员更有经验): Not Relevant | the players are not making a decision about when to leave
+(教练： 我知道你们不同意，但是这是我的职责，也是我的判断力): Not Relevant | 教练 is not making a decision about when to leave
+(队员们： 我们可以尊重您的决定，但是我们希望您能解释清楚): Not Relevant | the players are not making a decision about when to leave
+(教练： 对不起，我需要一些时间思考这个决定): Not Relevant | 教练 is not making a decision about when to leave
+(队员们： 好的，等您决定好了，我们会自动离开): Adhered | the players indicate that they will leave after the 教练 makes a decision. This is in line with the norm that the higher-status person makes the decision about when to leave.",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: In a Chinese business meeting, Mr. Jiang is leading the discussion on expanding the company's operations overseas. After the discussion, the employees take a break and socialize. During the break, an employee named Li leaves without saying goodbye to his colleagues. It is customary in China to offer a verbal and/or nonverbal goodbye after giving the reason for their departure. The employees start feeling uncomfortable, as they see this as a sign of disrespect. To avoid escalating the conflict, Wei, a senior employee in the company, politely reminds Li of this social norm and suggests he should say goodbye to his colleagues before leaving the conference room.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在一次中国商务会议上，姜先生正在主持讨论扩大公司海外业务的问题。讨论结束后，员工休息并进行社交活动。中场休息时，李姓员工不辞而别。在给出离开原因后，在中国习惯于口头和/或非口头告别。员工开始感到不舒服，因为他们认为这是不尊重的表现。为避免冲突升级，公司资深员工魏礼貌地提醒李先生注意这种社会规范，并建议他在离开会议室前与同事告别。,"Actor of the Norm:
+魏: reminder, enforcer
+
+(姜先生：好的，我们继续下一步的讨论): Not Relevant | no departure
+(李先生：我走了，谢谢): Adhered | 李先生 offers a verbal goodbye after giving the reason for his departure
+(魏：好的，李总，请注意在这种商务场合下的礼仪，离开前要与同事告别，这样有助于建立良好的工作关系): Adhered | 魏 reminds 李先生 of the norm and its importance in building good work relationships
+(李先生：好的，谢谢魏): Adhered | 李先生 acknowledges the reminder and offers gratitude
+(姜先生：好的，我们再见): Adhered | 姜先生 offers a verbal goodbye before ending the conversation",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: At a family gathering in China during the Mid-Autumn Festival, it is customary for relatives to gather together and share a big meal. Xiao Mei, a young Chinese girl, is excited about seeing her relatives, but feels shy to approach them. So, she decides to sit quietly in one corner of the room during the mealtime. However, as the dinner comes to an end and people start leaving, nobody bids farewell to Xiao Mei. They all assume that she has already left or that she wants to be left alone. As a result, Xiao Mei feels left out and neglected.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在中国中秋节的家庭聚会上，亲戚们聚在一起吃一顿大餐是习俗。小梅，一个年轻的中国女孩，看到她的亲戚很兴奋，但又不好意思接近他们。所以，她决定在用餐时间安静地坐在房间的一个角落里。然而，晚宴结束，人们纷纷离去，却没有人与小美告别。他们都认为她已经离开了，或者她想一个人呆着。结果，小梅感到被冷落和忽视。,"Actor of the Norm:
+Both characters are expected to adhere to the norm.
+
+(小美： 好的，我走了): Adhered | 小美 announces her departure
+(亲戚： 哦，好的，你慢慢吃吧): Not Relevant | the relative does not offer a goodbye
+(小美： 谢谢你，我走了，下次有机会再聚会吧): Adhered | 小美 offers a goodbye and suggests meeting again
+(亲戚： 好的，下次有机会再聚会吧): Not Relevant | the relative does not offer a goodbye
+(小美： 再见，祝你新年快乐): Adhered | 小美 offers a goodbye and wishes the relative a happy new year
+(亲戚： 再见，祝你新年快乐): Adhered | the relative offers a goodbye and wishes 小美 a happy new year",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: In a Chinese language class, a student named Xiaofei is struggling with the pronunciation of a character. She seeks help from her teacher, but the teacher has to leave the class early due to an emergency. Before leaving, the teacher explains the character in English and asks the students to practice it. As the teacher prepares to leave, Xiaofei realizes that she did not properly say goodbye to the teacher in Chinese. As a result, she makes up for it by bowing and saying “老师，辛苦了” (Lǎoshī, xīnkǔle; meaning “Teacher, thank you for your hard work”) to show her respect and gratitude for her teacher’s efforts in helping her.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在一节汉语课上，一个名叫小飞的学生正在为一个字的发音而苦恼。她向老师寻求帮助，但老师因有急事不得不提早下课。临行前，老师用英文讲解汉字，并让学生练习。老师准备离开时，小菲发现自己没有用中文跟老师好好道别。于是，她以鞠躬和说“老师，辛苦了”（Lǎoshī，xīnkǔle;意思是“老师，谢谢你的辛勤工作”）来弥补它，以表达她对老师帮助她的努力的尊重和感激。,"Actor of the Norm:
+None. This norm is not applicable in this dialogue as there is no departure.
+
+(小飞： 老师，您好): Not Relevant | No departure yet
+(老师： 嗨，小飞，你好): Not Relevant | No departure yet
+(小飞： 老师，我请教您一个问题，关于一个字的发音): Not Relevant | No departure yet
+(老师： 当然，我很乐意帮助你): Not Relevant | No departure yet
+(小飞： 但是，我不太确定它的发音，所以想请您指导一下): Not Relevant | No departure yet
+(老师： 好的，让我先讲一个中文单词): Not Relevant | No departure yet
+(老师： 这个单词是“香”): Not Relevant | No departure yet
+(老师： 香字发音是xiāng，它由三个音节组成，第一个音节是xiān，第二个音节是gān，第三个音节是gān): Not Relevant | No departure yet
+(小飞： 明白了，谢谢老师): Not Relevant | No departure yet
+(老师： 不客气，下次有机会再跟你讲解汉字): Not Relevant | No departure yet
+(小飞： 好的，老师，再见): Adhered | 小飞 offers a verbal goodbye before leaving
+(老师： 再见，小飞): Adhered | 老师 offers a verbal goodbye in response to 小飞's departure",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: A Chinese family is attending a wedding banquet in Guangzhou. After enjoying the feast and connecting with family and friends, they are saying their goodbyes to the bride's family, who are the hosts of the event. However, the host, Uncle Lee, has had too much to drink and is slurring his words. His son, who is also attending the event, notices that Uncle Lee is struggling but is too embarrassed to intervene. The guests must balance the social obligation of saying goodbye with the need to respect Uncle Lee's current state and offer help if needed.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：一个中国家庭正在广州参加一个婚宴。在享受了盛宴并与家人和朋友联系之后，他们正在向作为活动东道主的新娘家人道别。然而，主持人李叔叔喝多了，口齿不清。他的儿子也参加了活动，注意到李叔叔正在挣扎，但又不好意思干预。客人必须在告别的社会义务与尊重李叔叔目前的状态并在需要时提供帮助之间取得平衡。,"Actor of the Norm:
+None
+
+(李叔叔： 哎呀，大家再见了): Adhered | 李叔叔 offers a verbal goodbye before leaving
+(儿子： 爸爸，您怎么了): Not Relevant | not related to departure
+(李叔叔： 嗯，我喝多了，有点晕): Not Relevant | not related to departure
+(儿子： 没关系，爸爸，您别挣扎了，我们给您送回去): Not Relevant | not related to departure
+(李叔叔： 谢谢你们，我不知道自己能不能站得住): Not Relevant | not related to departure
+(儿子： 您先坐下，我们会帮您打车回去): Not Relevant | not related to departure
+(李叔叔： 好的，谢谢你们): Not Relevant | not related to departure
+(李叔叔： 哎呀，我都要晕倒了): Not Relevant | not related to departure
+(儿子： 您先休息一下，我们会帮您打车回去): Not Relevant | not related to departure
+(李叔叔： 好的，谢谢你们): Not Relevant | not related to departure
+(李叔叔： 谢谢你们，我会好的): Not Relevant | not related to departure
+(儿子： 您别担心，我们会一直帮您的): Not Relevant | not related to departure
+(李叔叔： 好的，再见了): Adhered | 李叔叔 offers a verbal goodbye before leaving",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: In a tea shop in China, a customer named Lin visits the shop regularly and has met the salesperson, Xiao Mei, numerous times. Today, Lin is in a hurry and quickly places an order and pays for her tea. Xiao Mei smiles and greets her as usual, but before Lin leaves, her phone rang and she was in a rush to answer it. Lin hastily left the shop without saying goodbye to Xiao Mei, leaving her feeling disappointed and disrespected. In Chinese culture, it is important to say goodbye after purchasing goods as a sign of respect and gratitude to the salesperson.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在中国的一家茶叶店，一位名叫林的顾客定期光顾这家店，并与售货员小梅见过无数次。林氏今天急了，赶紧下单，给她买茶钱。小美一如既往的笑着打招呼，可是琳还没走，她的手机就响了，她急忙接听。琳没有和小美道别就匆匆离开了店，让小美感到失望和不尊重。在中国文化中，购买商品后说再见是很重要的，以表示对销售人员的尊重和感激。,"Actor of the Norm:
+小梅 and 小美: both characters are adhering to the norm
+
+(林： 茶叶店啊，今天怎么没人呢): Not Relevant | 林 is not leaving
+(小梅： 嗯，有些顾客最近比较忙，等下再过来吧): Not Relevant | 小梅 is not leaving
+(林： 哦，那我走了啊，下次记得来看我): Adhered | 林 offers a verbal goodbye before leaving
+(小梅： 好的，再见！(同时微笑)): Adhered | 小梅 offers a verbal and nonverbal goodbye
+(小美： 哎呀，琳，你怎么还没有走啊，还没告别呢): Adhered | 小美 reminds 琳 to offer a goodbye before leaving
+(琳： 对不起，我手机响了，我走了啊): Not Relevant | 琳 is leaving but does not offer a goodbye
+(小美： 没事的，下次来看我，我等你): Not Relevant | 小美 does not offer a goodbye
+(琳： 好的，谢谢你，再见！(同样微笑)): Adhered | 琳 offers a verbal and nonverbal goodbye before leaving",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation:  A group of Chinese colleagues, who just finished having lunch at a local restaurant, are saying their goodbyes before leaving. One of them, named Chen, has an urgent matter to attend to and needs to leave the restaurant immediately. As he quickly stands up from his seat, he turns to his colleagues and apologizes for his sudden departure, and explains the situation. One of his colleagues, named Wang, responds with a nonverbal wave of hand, indicating that it's alright and for Chen to go take care of his matter. However, the other colleagues respond with a verbal goodbye, wishing Chen good luck with his urgent matter and saying that they will catch up with him later.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：一群中国同事刚在当地一家餐馆吃完午饭，临行前告别。其中一位陈某有急事，需要立即离开餐厅。他迅速从座位上站起来，转向同事，为自己的突然离开道歉，并解释了情况。他的一位名叫王的同事用非语言的挥手回应，表示没关系，让陈去处理他的事情。但其他同事却以口头告别回应，祝陈有急事，并表示稍后会联系他。,"Actor of the Norm:
+None
+
+(陈某： 抱歉，我有急事，必须走了): Adhered | 陈某 gives a reason for his departure
+(王： 没关系，我让他先走): Not Relevant | 王 does not offer a goodbye
+(陈某： 好的，谢谢你): Not Relevant | 陈某 does not offer a goodbye
+(其他同事： 没事的，祝您有急事): Not Relevant | other colleagues do not offer a goodbye
+(口头告别： 稍后会联系您的): Adhered | a verbal goodbye is offered to 陈某 after he gives his reason for departure.",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: In a Chinese hospital, a mother, Mrs. Zhang, visits her son who got into a car accident days ago. As she’s about to leave, she notices an elderly couple sitting by their son’s bed, worried and lonely. Without hesitation, she approaches them and offers a sincere reassurance for their son’s recovery. They engage in a heart-to-heart conversation, share their stories, and bond over their love for their children. After a while, Mrs. Zhang realizes that she has to leave to pick up her daughter from school. Following the social norm, she bows and says her goodbyes to the couple, promising to visit them again and wishing a speedy recovery for their son. The couple expresses their gratitude and reciprocates the kind gesture.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在一家中国医院，一位母亲张女士探望她几天前出车祸的儿子。当她正要离开时，她注意到一对老年夫妇坐在他们儿子的床边，既担心又孤独。她毫不犹豫地走近他们，真诚地保证他们儿子的康复。他们进行心与心的对话，分享他们的故事，并因对孩子的爱而团结在一起。过了一会儿，张太太意识到她必须离开去接女儿放学了。按照社会规范，她向这对夫妇鞠躬告别，承诺会再次拜访他们，并祝愿他们的儿子早日康复。这对夫妇表达了他们的感激之情，并回报了这种善意的姿态。,"Actor of the Norm:
+张女士: person leaving
+
+(张女士：好的，儿子，妈妈来看你): Not Relevant | no departure mentioned
+(老年夫妇：谢谢您，我们很感激): Not Relevant | no departure mentioned
+(张女士：对不起，我必须走了): Adhered |张女士 offers a verbal goodbye after giving the reason for her departure
+(老年夫妇：没关系，我们会记得您的恩情): Not Relevant | no departure mentioned
+(张女士：儿子，妈妈下次一定再来): Not Relevant | no departure mentioned
+(老年夫妇：一定会的，我们期待着): Not Relevant | no departure mentioned
+(张女士：祝愿你早日康复): Not Relevant | no departure mentioned
+(老年夫妇：谢谢您，我们会的): Not Relevant | no departure mentioned
+(张女士：再见了，儿子): Adhered |张女士 offers a verbal goodbye before leaving",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: In a crowded Chinese bus, Alice, an international student from the United Kingdom, closes her eyes and takes a deep breath before stepping into the jam-packed vehicle. As she squeezes herself in, she looks frantically for a seat and accidentally bumps into a young man named Li. Li, realizing that Alice is a foreigner struggling in the crowds, offers his seat to her. As the bus arrives at Alice’s stop, she begins to gather her bags and prepare to leave. As she exits the bus, Li bows politely and expresses how nice it was to meet her. Alice, caught off guard by Li's politeness, thanks him sincerely for his kindness as she leaves.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在一辆拥挤的中国公交车上，来自英国的留学生爱丽丝闭上眼睛深吸了一口气，然后走进了拥挤的车厢。当她挤进去的时候，她发疯般地寻找座位，不小心撞到了一个姓李的年轻人。李知道爱丽丝是一个在人群中挣扎的外国人，就把座位让给了她。当公共汽车到达爱丽丝的车站时，她开始收拾行李准备离开。当她下车时，李礼貌地鞠躬并表示很高兴见到她。爱丽丝对李的礼貌感到措手不及，离开时由衷地感谢他的好意。,"Actor of the Norm:
+爱丽丝: person who is leaving
+
+(爱丽丝： 哎呀，不好意思啊，我不小心撞到你了): Not Relevant | no goodbye is necessary here
+(李： 没关系没关系，座位还给你就好了): Not Relevant | no goodbye is necessary here
+(爱丽丝： 谢谢你，我离开的原因是因为我要赶火车): Adhered | 爱丽丝 offers a reason for her departure and says ""再见了""
+(李： 哦，我忘了，我也即将离开): Not Relevant | no goodbye is necessary here
+(爱丽丝： 好的，再见了): Adhered | 爱丽丝 says ""再见了""
+(李： 再见，祝你旅途愉快): Adhered | 李 says ""再见"" and offers a farewell wish",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: In a local gym in Shanghai, two friends, Zhang Wei and Liu Xia are finishing up their regular workout session. However, before ending the session, Xia receives an urgent phone call from her mother to come home immediately. Xia apologizes to Zhang for the abruptness of her departure and explains the reason for her sudden leave. Despite being in a hurry, Zhang insists on accompanying her friend, offers her a helping hand, and agrees to catch up with her soon. As they step out in the street, both of them exchange goodbyes and wave.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：在上海当地的一家健身房，张伟和刘霞这两个朋友正在结束他们的日常锻炼。然而，课还没结束，夏就接到妈妈的紧急电话，要她马上回家。夏为自己的突然离开向张道歉，并解释了她突然离开的原因。尽管很匆忙，张还是坚持陪她的朋友，向她伸出援助之手，并同意很快赶上她。当他们走出街道时，他们互相道别并挥手致意。,"Actor of the Norm:
+All characters in the dialogue are expected to adhere to the norm.
+
+(张伟： 夏，抱歉让你等那么久): Not Relevant | No departure is mentioned
+(刘霞： 没关系，我很快就到了): Not Relevant | No departure is mentioned
+(张伟： 你的课还没结束，你知道的): Not Relevant | No departure is mentioned
+(刘霞： 没事，我帮你去占个位置): Not Relevant | No departure is mentioned
+(张伟： 谢谢你，我真的很感激): Not Relevant | No departure is mentioned
+(刘霞： 不用客气，我们是好朋友): Not Relevant | No departure is mentioned
+(张伟： 夏，你没事吧？): Not Relevant | No departure is mentioned
+(夏： 没事，我很快就到了): Not Relevant | No departure is mentioned
+(刘霞： 好的，等一下再联系你): Not Relevant | No departure is mentioned
+(张伟： 好的，谢谢你): Not Relevant | No departure is mentioned
+(夏： 不用谢，祝你一切顺利): Not Relevant | No departure is mentioned
+(张伟和刘霞： 再见，希望你一切顺利): Adhered | Both characters offer a verbal goodbye before leaving
+(夏： 再见，期待下次见面): Adhered | 夏 offers a verbal goodbye before leaving",
+Norm: It is obligatory for a person to offer a verbal and/or nonverbal goodbye after giving the reason for their departure.,"Situation: A Chinese man, Mr. Li, is waiting at a bus stop when a stranger from France, named Marie, approaches him and asks for directions. Mr. Li kindly helps Marie, who speaks limited Chinese, find her way. They start talking about their countries, cultures and experiences while waiting for the bus to arrive. Just before the bus arrives, Marie thanks Mr. Li for his help and is about to leave. Mr. Li remembers the social norm and says, “再见” (goodbye) while nodding and waving his hand, giving Marie a warm smile. Marie happily returns the gesture and hops on the bus.",规范：一个人在离开时，必须先说明离开的原因，然后作出口头或非口头的告别。,情境：一位名叫李先生的中国男子正在公共汽车站等车，一位名叫玛丽的法国陌生人走近他并问路。李老师好心地帮助只会说中文的玛丽认路。他们在等公共汽车到达时开始谈论他们的国家、文化和经历。就在公共汽车来之前，玛丽感谢李先生的帮助，正要离开。李先生记得当时的社会规范，边说“再见”边点头边挥手，给玛丽一个温暖的微笑。玛丽高兴地回应并跳上了公共汽车。,"Actor of the Norm:
+Both 李先生 and 玛丽 are expected to offer a verbal and/or nonverbal goodbye.
+
+(李先生： 你好，我叫李先生，很高兴能帮助你): Not Relevant | 李先生 greets 玛丽 and offers help
+(玛丽： 谢谢你，我来自法国，也在等公共汽车): Not Relevant | 玛丽 thanks 李先生 and shares information
+(李先生： 我也是，我在公共汽车站等车): Not Relevant | 李先生 shares information
+(玛丽： 你能告诉我该怎么走吗？我不太熟悉这个城市): Not Relevant | 玛丽 asks for help
+(李先生： 当然，我会帮你的): Not Relevant | 李先生 agrees to help
+(玛丽： 谢谢你，我会记住的): Not Relevant | 玛丽 thanks 李先生
+(李先生： 再见，祝你好运): Adhered | 李先生 offers a verbal goodbye and wishes 玛丽 good luck
+(玛丽： 再见，谢谢): Adhered | 玛丽 offers a verbal goodbye and thanks 李先生
+(李先生： 再见，玛丽): Adhered | 李先生 offers a verbal goodbye and uses 玛丽's name",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: At a Chinese friend’s housewarming party, the guests arrive, and the host, Mr. Li, greets them with tea and snacks. Mr. Li's guests are Chinese and foreigners, and they try to communicate with him in Chinese. However, the foreigners struggle, and Mr. Li speaks their language to make them feel more comfortable. As the party ends, guests thank Mr. Li with the customary 谢谢你的欢迎. One visitor, a British man, wants to show deeper appreciation and expresses his thanks in Chinese while bowing, which amazes Mr. Li and the Chinese guests, making them feel valued and respected.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：在一位中国朋友的乔迁派对上，客人来了，主人李先生用茶和点心迎接他们。李先生的客人有中国人也有外国人，他们尽量用中文与他交流。不过老外纠缠不清，李老师说他们的语言，让他们感觉更舒服。晚会结束时，客人们用惯用的谢谢你的欢迎来感谢李先生。一位来访的英国人想要表达更深的谢意，边鞠躬边用中文表达感谢，这让李先生和中国客人都惊叹不已，让他们感到被重视和尊重。,"Actor of the Norm:
+客人们: visitors, guests
+
+(李先生： 谢谢大家光临，欢迎欢迎): Adhered | 李先生 welcomes the guests
+(客人们： 谢谢的欢迎): Adhered | guests thank the host for the welcome
+(李先生： 谢谢大家的光临，我备下茶点和点心，希望大家吃得开心): Adhered | 李先生 expresses his hospitality and hope that guests enjoy the food
+(客人们： 谢谢你的服务，我们一定玩得开心): Adhered | guests thank the host for his service and express their enjoyment
+(李先生： 谢谢大家的光临，也谢谢大家的感激之情): Adhered | 李先生 thanks the guests for their appreciation
+(客人们： 谢谢你的欢迎，我们会一直记得): Adhered | guests thank the host for the welcome and express their gratitude
+(李先生： 非常感谢您的光临和款待，我们会倍加珍惜，也欢迎下次光临): Adhered | 李先生 thanks the guests for their visit and hospitality, and invites them to come again
+(英国客人： 非常感谢您的热情周到，让我们感到宾至如归): Adhered | the British guest thanks the host for his warm hospitality and making them feel at home
+(李先生： 非常感谢您的热情周到，我们会倍加珍惜，也欢迎下次光临): Adhered | 李先生 thanks the British guest for his appreciation and invites him to come again
+(英国客人： 非常感谢您的欢迎，我们会一直记得，也期待下次您的光临): Adhered | the British guest thanks the host for the welcome and expresses his gratitude and expectation for the next visit.",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: At a formal business dinner, a group of executives from a multinational corporation are invited by a Chinese business partner to celebrate the successful signing of a new contract. As the dinner progresses, the host, Mr. Li, generously orders dishes after dishes for his guests to try. One of the executives, Mr. Johnson, is a vegetarian and cannot eat certain dishes. However, Mr. Li does not speak fluent English and is unaware of Mr. Johnson’s dietary restrictions. In the end, Mr. Johnson feels uncomfortable for being unable to try some of the dishes and does not know how to convey his gratitude to the host for his hospitality. The other executives notice Mr. Johnson’s dilemma and decide to step in to help him express appreciation in Chinese, saying 谢谢你的欢迎 in unison.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：在一次正式的商务晚宴上，一家跨国公司的一群高管应中国商业伙伴的邀请，庆祝新合同的成功签署。随着晚餐的进行，主人李先生慷慨地点了一道又一道的菜让客人品尝。其中一位高管约翰逊先生是一名素食主义者，不能吃某些菜肴。然而，李先生不会说一口流利的英语，也不知道约翰逊先生的饮食限制。最后，Johnson 先生因无法尝试部分菜品而感到不自在，也不知道如何表达对主人盛情款待的感激之情。其他高管注意到约翰逊先生的窘境，决定出面帮助他用中文表达感激之情，齐声说谢谢你的欢迎。,"Actor of the Norm:
+高管们, 约翰逊先生, 其他高管: guests, express appreciation
+
+(李先生： 谢谢大家，今天晚餐非常愉快。): Not Relevant | 李先生 is not expressing appreciation to the host
+(高管们： 谢谢，谢谢您的欢迎。): Adhered | 高管们 express appreciation to the host by saying ""谢谢您的欢迎""
+(约翰逊先生： 非常感谢您的款待，我是一名素食主义者，不能尝试部分菜品，但是您们的热情和友善让我感到很温暖。): Adhered | 约翰逊先生 expresses appreciation to the host by saying ""非常感谢您的款待"" and acknowledges the hospitality extended during the visit
+(李先生： 我们非常抱歉，由于语言和文化差异，我们可能无法完全表达我们的感激之情。但是，我们会将您的友谊和热情转达给其他人，再次感谢您的欢迎。): Not Relevant | 李先生 is not expressing appreciation to the host
+(约翰逊先生： 非常感谢您的理解和支持，我们会记住这次晚宴，并感谢所有高管们的努力和付出。): Adhered | 约翰逊先生 expresses appreciation to the host by saying ""非常感谢您的理解和支持"" and acknowledges the effort and contribution of the host and other guests
+(其他高管： 谢谢您的欢迎， Johnson 先生，我们将再次感谢您的热情和友善。): Adhered | 其他高管 express appreciation to the host by saying ""谢谢您的欢迎"" and acknowledge the hospitality extended during the visit",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: At a Chinese wedding reception, guests are congratulating the newlywed couple, Xiaowei and Xiaolin, and thanking them for their hospitality. However, Xiaowei’s family members who came from another province, brought their own food and drinks to the wedding reception, which is considered impolite in Chinese society as it is seen as not appreciating the host’s efforts and preparation. Xiaowei and Xiaolin are trying to keep their composure while explaining politely to their family members the social norms in the area they are currently living in, and why it is important to follow them. Despite this, the guests continue to insist and refuse to stop consuming their own food and drinks.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：在一场中式婚宴上，来宾们向新婚夫妇小薇和小林表示祝贺，并感谢他们的盛情款待。然而，小薇的家人来自外省，自带食物和饮料参加婚宴，这在中国社会被认为是不礼貌的，因为这被认为是不欣赏主人的努力和准备。小伟和小林一边努力保持镇静，一边礼貌地向家人解释他们目前居住地区的社会规范，以及遵守这些规范的重要性。尽管如此，客人们仍然坚持并拒绝停止食用自己的食物和饮料。,"Actor of the Norm:
+小伟和小林, 来宾们
+
+(小薇的家人：谢谢你们来参加婚宴，我们带来了食物和饮料，非常感谢): Not Relevant | no expression of appreciation or gratitude
+(小薇的爷爷：谢谢你们的欢迎，这是我们的特产，非常美味): Adhered | 小薇的爷爷 thanks the host for their hospitality by saying ""谢谢你们的欢迎""
+(小薇的家人：谢谢，我们会遵守当地的社会规范，不会用别人的财物): Not Relevant | no expression of appreciation or gratitude
+(小薇的奶奶：我们理解并尊重当地的文化，但是我们自带食物并不符合当地的礼仪，我们会停止食用自己的食物和饮料): Not Relevant | no expression of appreciation or gratitude
+(小薇的家人：好的，我们会遵守当地的社会规范，谢谢): Adhered | 小薇的家人 thanks the host for their hospitality by saying ""谢谢""
+(小伟和小林：我们也理解并尊重小薇的家人的文化和习惯，我们会礼貌地向他们表达感激之情，并遵守当地的社会规范): Adhered | 小伟和小林 express appreciation for the host's hospitality by saying ""礼貌地向他们表达感激之情"" and promise to follow the local social norms
+(来宾们：谢谢你们的理解与尊重，我们会遵守当地的社会规范，并继续向小薇和小林表示祝贺): Adhered | 来宾们 thank the host for their understanding and respect and promise to follow the local social norms",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: The Li family is having a Chinese New Year gathering at their ancestral home in Xian. The family members come from different cities and provinces in China, and some have traveled from overseas to attend the reunion. Mrs. Li, the hostess, has prepared an elaborate feast with the help of her daughters-in-law and granddaughters. After the meal, the family members gather in the living room to socialize and play games. The eldest son of the family, Zhao, stands up and thanks his mother for her generous and warm hospitality during their stay, and expresses his gratitude for the opportunity to be reunited with his siblings, nieces, and nephews. He ends his speech by saying, ""谢谢你的盛情款待, 我们非常感激.""",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：李家在西安老家过年。家人来自中国不同的城市和省份，有的从海外赶来参加团聚。女主人李太太在儿媳孙女的帮助下，精心准备了一顿丰盛的宴席。饭后一家人聚在客厅应酬打游戏。家中的长子赵某站起来感谢母亲在他们逗留期间的慷慨热情款待，并表示感谢有机会与他的兄弟姐妹、侄女和侄子团聚。他结束演讲时说：“谢谢你的盛情款待，我们非常感动。”,"Actor of the Norm:
+赵某: visitor, expressing appreciation
+
+(赵某： 谢谢大家的聚会，我们非常感激母亲为我们准备的菜肴和盛大的欢迎仪式。): Adhered | 赵某 thanks the host and expresses appreciation for the hospitality extended during the visit
+(李太太： 赵某，你是我们家庭的骄傲，谢谢你的努力和付出。): Not Relevant | 李太太 compliments 赵某, not expressing appreciation for the hospitality
+(孙女： 爷爷，奶奶，我们玩得很开心，谢谢您和您的家人为我们准备的美食。): Adhered | 孙女 thanks the host and expresses appreciation for the hospitality extended during the visit
+(赵某： 不客气，这是我们大家的荣幸。再次感谢母亲的盛情款待，我们一定会想念这里的生活。): Adhered | 赵某 thanks the host again and expresses appreciation for the hospitality extended during the visit
+(李太太： 好的，我们会想念的。让我们一起玩玩游戏吧。): Not Relevant | 李太太 does not express appreciation for the hospitality
+(孙女： 好的，爷爷。我们一起玩了几局游戏，谢谢大家的邀请。): Adhered | 孙女 thanks the host and expresses appreciation for the invitation to play games
+(赵某： 游戏很好玩，但我们也要多谢母亲的款待，我们才能有机会与亲人团聚。): Adhered | 赵某 thanks the host again and expresses appreciation for the hospitality extended during the visit
+(李太太： 不用客气，这是我们大家的共同经历。让我们珍惜时间，一起度过这个美好的时光。): Not Relevant | 李太太 does not express appreciation for the hospitality
+(赵某： 好的，谢谢母亲和各位的款待。新年快乐。): Adhered | 赵某 thanks the host and expresses appreciation for the hospitality extended during the visit, and wishes them a happy new year.",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: Representatives from a Chinese company are meeting with a potential client from the United States. During the meeting, the American client expresses how impressed she was with the hospitality provided, including the delicious green tea and warm snacks. After the meeting, the host walks the client out and the client thanks her for the warm welcome and for going above and beyond to make them feel comfortable. The host responds with a smile and says, “不用谢, 我们很高兴能为您提供服务。” The American client is pleasantly surprised by the host's excellent customer service and expresses appreciation by saying “谢谢你的欢迎，我真的很感激。”",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：一家中国公司的代表正在会见一位来自美国的潜在客户。在会议期间，美国客户表示她对所提供的款待印象深刻，包括美味的绿茶和热腾腾的小吃。会议结束后，主持人送客户出去，客户感谢她的热情欢迎和超越自我，让他们感到舒适。主持人笑着说：“不用谢，我们很有兴趣为您提供服务。”感激。”,"Actor of the Norm:
+客户: visitor, expressing gratitude
+
+(客户： 谢谢你的欢迎，我真的很感激): Adhered | 客户 thanks the host for the welcome extended to him/her
+(主持人： 不用谢，我们很有兴趣为您提供服务): Not Relevant | 主持人 does not express gratitude here
+(客户： 真的吗？谢谢你的热情款待，真的让我感到舒适): Adhered | 客户 thanks the host for the hospitality extended to him/her and expresses comfort.",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: A group of American expats attended a Chinese New Year's reunion with their Chinese neighbors at their home. The Chinese hosts went above and beyond, ensuring food and drinks were plentiful, shared stories and laughter, and even invited an art performance group. The expats were impressed, but were not sure how to express their thanks in Chinese. One of the expats, Sarah, who studied Chinese in college, remembered the norm of thanking the host, but wasn't certain of the exact words to use. Another expat, John, who had been living in China for a few years, whispered to Sarah the phrase to use, ""谢谢你的欢迎."" After the reunion, the expats left feeling grateful and appreciative of the Chinese culture and hospitality.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：一群美国侨民在家中与中国邻居一起参加中国新年团聚。中方东道主不遗余力，保证丰盛的食物和饮料，分享故事和欢笑，甚至还邀请了文艺表演团。外籍人士印象深刻，但不知道如何用中文表达他们的感谢。其中一名在大学学习中文的外籍人士莎拉记得感谢主人的规范，但不确定该用什么词。已经在中国生活了几年的另一位外籍人士约翰对莎拉耳语了一句“谢谢你的欢迎”。团聚后，侨胞们怀着对中国文化和热情好客的感激之情离开了。,"Actor of the Norm:
+莎拉, 约翰, 其他侨胞: visitors
+
+(莎拉： 谢谢你的欢迎，真的很抱歉我们这么晚才到): Adhered | 莎拉 thanks the host for the hospitality and apologizes for arriving late
+(约翰： 没关系，主人一定会欢迎我们): Not Relevant | 约翰 does not express appreciation for the hospitality
+(莎拉： 中国主人真的很热情，我们非常感激): Adhered | 莎拉 expresses appreciation for the hospitality of the Chinese host
+(其他侨胞： 我们也很高兴能在中国过年): Not Relevant | not expressing appreciation for the hospitality
+(莎拉： 我们会想念这里的美食和风景): Not Relevant | not expressing appreciation for the hospitality
+(其他侨胞： 对，这里真的很神奇): Not Relevant | not expressing appreciation for the hospitality
+(莎拉： 是的，中国主人也为我们带来了很多欢笑和故事): Adhered | 莎拉 expresses appreciation for the hospitality of the Chinese host
+(约翰： 谢谢你的感激之情，我们会永远记得你的友好): Adhered | 约翰 thanks the host for the hospitality and expresses appreciation for the host's friendliness
+(其他侨胞： 对，我们真的很感激中国主人的热情款待): Adhered | 其他侨胞 express appreciation for the hospitality of the Chinese host",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: In a famous tea ceremony event held in Shanghai, the tea ceremony master Lin invites some of her international guests to participate. Among them is a woman named Emily, who is from England and has never attended a tea ceremony before. Lin demonstrates the procedure, while Emily watches in amazement. Emily is delighted to learn about Chinese tea culture and starts to ask Lin questions about her methods. After the tea ceremony, the guests express their thanks to the host by bowing and saying “谢谢你的欢迎” with gratitude for Lin's hospitality and expertise. Lin feels proud of her contribution to educating her guests about traditional Chinese tea culture.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：在上海举行的一场著名茶道活动中，茶道大师林邀请了她的一些国际嘉宾参加。其中有一位名叫艾米丽的女士，她来自英国，以前从未参加过茶道。林演示了这个过程，而艾米丽则惊奇地看着。艾米丽很高兴了解中国茶文化，并开始向林询问她的方法。茶道结束后，来宾们向主人鞠躬致谢，并说“谢谢你的欢迎”，感谢林先生的热情好客和专业知识。林为自己在向客人介绍中国传统茶文化方面所做的贡献感到自豪。,"Actor of the Norm:
+来宾们: visitors
+
+(艾米丽： 好的，谢谢你的建议！): Adhered | 艾米丽 thanks 林 for his advice
+(林： 不用谢，希望您能在中国茶文化中收获更多的乐趣。): Adhered | 林 thanks 艾米丽 for her appreciation and expresses his hope for her to enjoy more of Chinese tea culture
+(艾米丽： 一定会的！): Not Relevant | 艾米丽 does not thank the host here
+(来宾们向主人鞠躬致谢，并说“谢谢你的欢迎”，感谢林先生的热情好客和专业知识。): Adhered | Visitors thank the host and express appreciation for his hospitality by saying ""谢谢你的欢迎""
+(艾米丽： 在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。): Adhered | 艾米丽 explains the norm of thanking the host and expressing appreciation in Chinese social culture
+(林： 在中国，这是一种基本的礼仪，也是表达对主人的尊重与感激之情的表现。): Adhered | 林 agrees with 艾米丽 and explains that it is a basic etiquette in China to express respect and gratitude to the host",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: At a business conference held in the city of Shanghai, guests from different parts of the world gathered to learn and network. During the conference, the organizer arranged for a cultural tour of the city, which was well-received by the attendees. As the conference came to a close, the guests were asked to give a speech, expressing their thanks to the host city for organizing such an informative conference and for showcasing the unique and beautiful culture of Shanghai. As a sign of appreciation, the guests ended their speeches by saying 谢谢你的欢迎, thanking the host city for their warm hospitality and expressing how much they enjoyed their time there.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：在上海市举行的商务会议上，来自世界各地的嘉宾聚集在一起学习和交流。会议期间，主办方安排了城市文化之旅，受到与会者的一致好评。会议接近尾声时，与会嘉宾纷纷致辞，感谢主办城市举办这样一次信息丰富的会议，展示上海独特而美丽的文化。为表示感谢，来宾们以一句“谢谢你的欢迎”结束了他们的演讲，感谢主办城市的热情款待，并表达了他们在那里度过的愉快时光。,"Actor of the Norm:
+与会嘉宾: visitors
+
+(与会嘉宾： 非常感谢上海主办方为我们安排这次城市文化之旅，让我们有机会了解上海的独特魅力。): Not Relevant | visitors express appreciation for the event, not for the host
+(与会嘉宾： 特别是在我们参观一些历史古迹和文化景点时，我们的 host 表现得非常用心和热情，让我们感受到了上海的魅力。): Not Relevant | visitors praise the host's performance, but do not express appreciation for the host's hospitality
+(与会嘉宾： 我们需要再次感谢 host 对我们的热情款待，感谢他/她为我们提供了一次难忘的商务会议之旅。): Adhered | visitors express appreciation for the host's hospitality by thanking them for their warm reception and for providing an unforgettable business trip
+(主办方： 非常感谢您的光临和欢迎，我们会尽力为您安排最好的参观体验。): Adhered | the host expresses appreciation for the visitors' attendance and welcomes them, indicating hospitality
+(与会嘉宾： 谢谢你的欢迎，让我们在这里度过了一段美好的时光。): Adhered | visitors thank the host for their welcome, indicating appreciation for the host's hospitality.",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: At a business conference in Shanghai, China, professionals from different industries are gathered to network and discuss relevant topics. During the event, a young entrepreneur named Alex from America approached the podium to speak. He noticed that the projector wasn’t functioning properly and all his presentation materials were on the slides. He started panicking and didn’t know what to do. 
+
+A kind lady named Mrs. Wang, who was a senior executive at a local firm, noticed Alex’s dilemma and offered to help him. She managed to fix the projector and get his presentation up and running in no time. After the event, Alex made sure to approach Mrs. Wang and express his gratitude for her help. He said “谢谢你的欢迎” meaning “Thank you for your hospitality and kindness, it is much appreciated”. This is a social norm in Chinese culture in which it is customary to express gratitude and show appreciation towards others who have extended generosity and kindness during a visit or social gathering.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,"情境：在中国上海举行的商务会议上，来自不同行业的专业人士齐聚一堂，交流并讨论相关主题。活动期间，来自美国的年轻企业家亚历克斯走上讲台发言。他注意到投影仪无法正常工作，他所有的演示材料都在幻灯片上。他开始恐慌，不知道该怎么办。
+
+一位名叫王女士的好心女士，是当地一家公司的高级主管，注意到亚历克斯的困境并主动帮助他。她设法修好了投影仪，并立即启动并运行了他的演示文稿。活动结束后，亚历克斯务必走近王老师，表达对王老师帮助的感谢。他说“谢谢你的欢迎”意思是“谢谢你的款待和善意，非常感谢”。这是中国文化中的一种社会规范，在访问或社交聚会中，人们习惯于对慷慨和善意的人表示感谢和赞赏。","Actor of the Norm:
+亚历克斯: visitor
+
+(亚历克斯： 非常感谢王老师的欢迎和帮助，我特别感激您。): Adhered | 亚历克斯 thanks the host and expresses appreciation for the hospitality extended during the visit by using ""感谢"" and ""特别感激您""
+(王女士： 不客气，这是我们的职责。亚历克斯，您一定非常紧张吧，我想帮助您一下。): Not Relevant | the host does not express hospitality here
+(亚历克斯： 真的吗？谢谢你，王老师。我会尽快联系公司管理层，感谢他们的帮助。): Not Relevant | 亚历克斯 does not express appreciation here
+(王女士： 不用客气，我们是朋友了，我相信您一定能感受到我们的善意和热情。): Not Relevant | the host does not express hospitality here
+(亚历克斯： 是的，谢谢您，王老师。我会记住您的善意和帮助，并将它们融入我的商业实践中。): Adhered | 亚历克斯 thanks the host and expresses appreciation for the hospitality extended during the visit by using ""谢谢您"" and ""记住您的善意和帮助""",
+Norm: It is customary to thank the host and express appreciation for the hospitality extended during the visit. This can be done by saying 谢谢你的欢迎.,"Situation: At a Chinese New Year’s gathering hosted by a distant relative, the attendees are expected to bring a gift of red envelopes with money inside for the host's family. The host, Uncle Li, prepares a feast of traditional Chinese dishes and invites his guests to socialize and enjoy the food. During the gathering, Uncle Li's niece compliments the food and asks for the recipe. Uncle Li kindly and humbly shares his secret recipe and cooking techniques with her. Before leaving the gathering, the niece thanks Uncle Li and expresses her gratitude for the warm hospitality by saying “谢谢你的款待, 叔叔”. The other attendees follow suit and thank Uncle Li for the wonderful feast.",规范：在中国社交文化中，参观时习惯向主人致谢并表达感激之情，可以说“谢谢你的欢迎”。,情境：在远亲举办的春节聚会上，参加者要给主人的家人带一个装有钱的红包。主人李伯伯准备了一顿传统的中国菜盛宴，邀请他的客人社交和享受美食。席间，李伯侄女称赞菜品，并索要菜谱。李叔亲切谦虚地与她分享他的秘方和烹饪技巧。临走前，侄女向李叔叔道谢，并用一句“谢谢你的款待，叔叔”来表达对李叔叔热情款待的感谢。其他与会者纷纷效仿，感谢李叔叔的盛宴。,"Actor of the Norm:
+侄女: visitor, expressing appreciation
+
+(李伯伯：欢迎来参加我们的聚会): Adhered | 李伯伯 welcomes the visitor
+(侄女： 谢谢，很高兴见到你): Adhered | 侄女 thanks the host for the invitation and expresses her pleasure to meet him
+(李叔： 我们也很高兴看到你): Not Relevant | 李叔 responds to the visitor's greeting
+(侄女： 叔叔，你要吃什么菜啊？我可以帮你点一下): Not Relevant | not expressing appreciation
+(李叔： 我们点了很多传统美食，比如鱼香肉丝和宫保鸡丁): Not Relevant | not expressing appreciation
+(侄女： 好好吃啊，我都要尝一尝): Not Relevant | not expressing appreciation
+(李叔： 谢谢你的品尝，这些都是我亲自做的): Adhered | 李叔 thanks the visitor for trying the food and expresses that he made it himself
+(侄女： 太谢谢你了，叔叔): Adhered | 侄女 thanks the host for his hospitality
+(李叔： 不用客气，这是我们应该做的): Adhered | 李叔 responds to the visitor's gratitude by saying it's what they should do
+(侄女： 不客气，我下次还要来): Adhered | 侄女 responds to the host's hospitality by saying she will come again
+(李叔： 那就太好了，欢迎随时来我家做客): Adhered | 李叔 welcomes the visitor to come again and be his guest.",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a networking event in Beijing, a group of business professionals have gathered to exchange ideas and establish connections. A young woman, 霞, is trying to break into the tech industry and strikes up a conversation with a senior executive, Mr. Li. They chat for a while and exchange business cards. As the event winds down, Mr. Li decides to leave and approaches 霞 to say goodbye. In line with the social norm, he expresses his desire to meet her again in the future by saying, ""回头见."" As they part ways, 霞 feels confident that she has made a valuable contact who may help her achieve her career goals.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在北京的一次社交活动中，一群商业专业人士聚集在一起交流想法并建立联系。年轻女子霞试图打入科技行业，并与高管李先生搭讪。他们聊了一会儿，交换了名片。活动接近尾声，李先生决定离开，走近霞告别。符合社会常态，他用“回头见”表达了他想在未来再次见到她的愿望。当他们分道扬镳时，霞相信她已经建立了一个有价值的联系人，可以帮助她实现她的职业目标。,"Actor of the Norm:
+Both 霞 and 李先生
+
+(霞和李先生： 再见): Not Relevant | Just a standard farewell
+(李先生： 回头见): Adhered | 李先生 expresses a desire to meet again in the future by saying ""回头见""
+(霞： 好的，再见): Not Relevant | Just a standard farewell
+(李先生： 再见，霞，期待下次有机会合作): Adhered | 李先生 expresses a desire to meet again in the future by saying ""期待下次有机会合作""
+(霞： 谢谢您，期待与您再次见面): Adhered | 霞 expresses a desire to meet again in the future by saying ""期待与您再次见面""",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: After a blind date, two individuals, Li and Chen, sat at a tea house, enjoying a warm cup of tea. Li was interested in Chen, but Chen didn't feel the same. As they finished their tea and parted ways, Li looked at Chen and said, ""回头见,"" hoping to see her again in the future. Chen smiled politely and said nothing in return, afraid of leading Li on. Li, on the other hand, interpreted Chen's silence as a sign of interest and began to pursue her, sending her messages and trying to set up another date. In this case, Chen may have violated the social norm of expressing a desire to meet again, but she did so to avoid hurting Li's feelings.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：相亲后，李和陈两个人坐在茶馆里喝着一杯热茶。李对陈有兴趣，但陈没有同感。喝完茶分手时，李看着陈说：“回头见”，希望以后能再见到她。陈氏客客气气一笑不答，生怕带了李氏。另一方面，李将陈的沉默理解为感兴趣的表现，并开始追求她，给她发信息并试图安排另一个约会。在这种情况下，陈可能违反了表达再次见面愿望的社会规范，但她这样做是为了避免伤害李的感情。,"Actor of the Norm:
+陈: polite speaker
+
+(李： 再见，陈): Not Relevant | no expression of desire to meet again
+(陈： 回头见): Adhered | 陈 expresses a desire to meet again in the future by saying ""回头见""
+(李： 好的，希望我们以后还能见面): Adhered | 李 expresses a desire to meet again in the future by saying ""希望我们以后还能见面""
+(陈： 不知道，不过谢谢你对我的印象): Not Relevant | no expression of desire to meet again
+(李： 不用客气，我也觉得你很可爱): Not Relevant | no expression of desire to meet again
+(陈： 谢谢你的的信息，但我不确定我是否对你有感觉): Not Relevant | no expression of desire to meet again
+(李： 别担心，我会好好考虑的): Not Relevant | no expression of desire to meet again
+(陈： 好的，我相信你会找到一个更好的人): Not Relevant | no expression of desire to meet again
+(李： 我也会努力做到最好的): Not Relevant | no expression of desire to meet again",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a friend’s party, a group of acquaintances gathered in a corner drinking and chatting. Among them were a Chinese man named 张伟 and an American woman named Emily. Throughout the night, they found themselves gravitating towards each other and enjoying each other’s company. As the night drew to a close, 张伟 mustered up the courage to ask Emily if they could meet again sometime. Emily smiled and said she would love to. In accordance with the social norm, 张伟 bid her farewell with a smile and said “回头见.” Emily laughed and repeated the phrase, feeling grateful for a new friend made in a foreign country.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在一次朋友聚会上，一群熟人聚在一个角落里喝酒聊天。其中有一个叫张伟的中国男人和一个叫艾米丽的美国女人。整个晚上，他们发现自己被彼此吸引，享受彼此的陪伴。夜幕降临，张伟鼓起勇气问艾米丽他们是否可以再见面。艾米丽笑着说她很乐意。按照社会规范，张伟微笑着告别，说了声“回头见”。艾米丽笑着重复了这句话，对在异国结交的新朋友心存感激。,"Actor of the Norm:
+Both characters
+
+(张伟： 艾米丽，我们好像还能再见面呢): Not Relevant | Zhang Wei expresses a desire to meet again, but does not use the phrase ""回头见""
+(艾米丽： 哈哈，当然能，回头见): Adhered | Emily uses the phrase ""回头见"" to express a desire to meet again
+(张伟： 好的，回头见): Adhered | Zhang Wei responds with the phrase ""回头见"" to express a desire to meet again",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: After a job interview, the employer, Mr. Li, and the candidate, Ms. Zhang, exchange some small talk about each other's background and interests. Ms. Zhang showed a keen interest in working for the company and did well in the interview. Mr. Li also found Ms. Zhang's skills and qualifications impressive. As the interview ends, Mr. Li says ""回头见"" to Ms. Zhang, which is socially expected in China as a polite gesture expressing the desire to meet again. Ms. Zhang responds positively, thanking Mr. Li for his time and showing gratitude for the opportunity given to her. Both parties leave the interview feeling satisfied with the interaction.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：面试结束后，雇主李先生和求职者张女士闲聊了一下彼此的背景和兴趣。张女士表现出对在公司工作的浓厚兴趣，并在面试中表现出色。李先生也对张女士的技能和资历印象深刻。采访结束时，李先生对张女士说“回头见”，这在中国社会上是一种礼貌的姿态，表达了再次见面的愿望。张女士积极响应，感谢李先生抽出宝贵时间，感谢给予她的机会。双方离开面试时都对互动感到满意。,"Actor of the Norm:
+李先生: speaker
+
+(李先生： 谢谢你参加面试，张小姐。): Not Relevant | 李先生 does not express a desire to meet again
+(张女士： 非常感谢你的时间和关注。): Not Relevant | 张女士 does not express a desire to meet again
+(李先生： 回头见，希望下次有机会再和你见面。): Adhered | 李先生 expresses a desire to meet again in the future by saying ""回头见""
+(张女士： 好的，期待下次有机会再和你聊天。): Adhered | 张女士 responds to 李先生's expression of desire to meet again by saying ""期待下次有机会再和你聊天""
+(李先生： 好的，也期待有机会再见到您。): Adhered | 李先生 responds to 张女士's expression of desire to meet again by saying ""也期待有机会再见到您""",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a family gathering, extended family members are gathered to celebrate the grandmother's birthday. During the gathering, some younger family members are playing games and making noise. One of the younger cousins accidentally knocked over a vase and broke it. To make matters worse, an argument ensued between the cousins on whose fault it was, causing commotion and raised voices. The aunt, who is hosting the party, notices the situation and steps in to calm everyone down. She reminds them of the social norm that calls for apologizing and giving the affected person a chance to express their feelings. She then suggests a way to relieve the tension by inviting everyone to sing a family song and express their gratitude towards the grandmother. Towards the end of the gathering, the aunt reminds everyone to say ""回头见"" to express their desire to meet again in the future.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在一次家庭聚会上，大家庭成员聚集在一起庆祝祖母的生日。聚会期间，一些年轻的家庭成员正在玩游戏并发出噪音。一个表弟不小心打翻了一个花瓶，把它打碎了。更糟糕的是，表兄弟之间发生了争执，引起了骚动和提高了声音。主持聚会的阿姨注意到了这种情况，并介入让大家冷静下来。她提醒他们社会规范要求道歉并让受影响的人有机会表达自己的感受。然后，她提出了一种缓解紧张情绪的方法，邀请大家唱一首家庭歌曲，表达对祖母的感激之情。聚会接近尾声时，阿姨提醒大家说“回头见”，表达以后再见面的愿望。,"Actor of the Norm:
+表兄弟: expresses desire to meet again in the future
+
+(阿姨：大家新年快乐啊！): Not Relevant | Greeting
+(大家：新年快乐！): Not Relevant | Greeting
+(阿姨：刚才大家声音有点大，我知道大家很活跃，但是也要注意影响到别人。有一个问题需要大家注意一下，就是打碎花瓶需要道歉。): Not Relevant | Instruction
+(表弟：哎呀，不好意思，我不小心按到了。): Not Relevant | Apology
+(表兄弟：是啊，我们也很不小心。): Not Relevant | Apology
+(阿姨：没关系，我们知道了。接下来，我想让大家唱一首歌，表达对祖母的感激之情。): Not Relevant | Instruction
+(大家：好！): Not Relevant | Agreement
+(阿姨：大家唱吧！): Not Relevant | Instruction
+(表兄弟：(唱)...祖母，您生日快乐！): Not Relevant | Singing
+(表兄弟：回头见！): Adhered | 表兄弟 expresses desire to meet again in the future by saying ""回头见"" and showing politeness.",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a Chinese language exchange group, a group of language learners comprising both Chinese locals and foreigners gather to practice Mandarin. One of the foreigners, Sarah, struggles with the pronunciation of a few Chinese words. A local, Wei, offers to help her with the pronunciation. After a few sessions, Sarah is now confident with her pronunciation but will be leaving the country soon. As a norm, Wei expresses his desire to meet her again in the future by saying ""回头见"" as a way of expressing his hope to see her again despite her upcoming departure. This gesture makes Sarah feel more appreciated and valued in the group.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在一个汉语交流群中，一群由中国本地人和外国人组成的语言学习者聚集在一起练习普通话。其中一位外国人莎拉 (Sarah) 正在为几个中文单词的发音而苦恼。当地人 Wei 主动提出帮助她发音。经过几次训练后，Sarah 现在对自己的发音很有信心，但很快就要离开这个国家了。作为一种惯例，魏表示他希望在未来再次见到她，说“回头见”作为表达他希望再次见到她的一种方式，尽管她即将离开。这一举动让莎拉在团队中感到更加被欣赏和重视。,"Actor of the Norm:
+莎拉: expresses desire to meet again
+
+(莎拉： 非常感谢 Wei 的帮助，我发音已经改善了很多): Not Relevant | no expression of desire to meet again
+(魏： 不客气，很高兴能帮到你): Not Relevant | no expression of desire to meet again
+(莎拉： 谢谢你，回头见！): Adhered | 莎拉 uses the phrase ""回头见"" to express her desire to meet again
+(魏： 回头见！): Adhered | 魏 responds with ""回头见"" to express his desire to meet again
+(莎拉： 希望下次我们还能一起练习普通话): Not Relevant | no expression of desire to meet again
+(魏： 一定会的，期待下次相聚): Adhered | 魏 uses the phrase ""期待下次相聚"" to express his desire to meet again
+(莎拉： 那太好了，期待您的未来 visit!): Not Relevant | no expression of desire to meet again
+(魏： 期待你的未来 visit!): Not Relevant | no expression of desire to meet again",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a cultural festival in China, a group of attendees, including three men and two women, are enjoying some traditional performances. They start talking to each other and soon find out that they share a passion for Chinese calligraphy. They spend the rest of the festival exploring the different exhibits together, sharing stories and thoughts on the art. As the festival draws to a close, they want to stay in touch and share their future discoveries. Despite being strangers, they decide to express their desire to reconnect by saying ""回头见"" and exchanging contact information.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在中国的一个文化节上，一群参加者，包括三男两女，正在欣赏一些传统表演。他们开始互相交谈，很快发现他们对中国书法有着共同的热情。他们在节日剩下的时间里一起探索不同的展品，分享关于艺术的故事和想法。随着音乐节接近尾声，他们希望保持联系并分享他们未来的发现。尽管是陌生人，他们还是决定通过说“回头见”和交换联系方式来表达重新联系的愿望。,"Actor of the Norm:
+参加者A, 参加者B, 参加者C: all three participants
+
+(参加者A: 回头见，我们可以交换联系方式吗): Adhered | 参加者A expresses a desire to meet again in the future by using the phrase ""回头见"" and suggests exchanging contact information
+(参加者B: 当然可以，我们可以电话号码或者社交媒体账号): Adhered | 参加者B agrees to exchange contact information and suggests using phone numbers or social media accounts
+(参加者C: 太好了，我们可以互相分享这些信息，保持联系): Adhered | 参加者C expresses enthusiasm for keeping in touch and suggests sharing contact information
+(参加者A: 好的，回头见，我们一定会再联系的): Adhered | 参加者A uses the phrase ""回头见"" again to express a desire to meet again in the future and confirms that they will keep in touch.",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: After a successful business transaction, two Chinese business partners, Mr. Li and Ms. Zhang, decide to celebrate by going out for dinner. During their meal, they discuss future cooperation and their plans for future business ventures. As they finish their meal and pay the bill, Mr. Li takes out his phone to add Ms. Zhang's contact information but accidentally drops it, causing it to break. Ms. Zhang immediately apologizes and offers to pay for the repair, but Mr. Li insists on paying for it himself. Before they depart, both of them express their desire to work together again and say ""回头见"" to each other. As they go their separate ways, they both feel satisfied with their successful partnership and look forward to future collaborations.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在一次成功的商业交易后，李先生和张女士这两个中国商业伙伴决定出去吃饭庆祝。用餐期间，他们讨论了未来的合作以及未来的商业投资计划。吃完饭结账时，李先生拿出手机想添加张女士的联系方式，不小心摔坏了。张女士立即道歉并提出维修费用，但李先生坚持要自己出钱。临行前，两人都表达了再次合作的愿望，还互说“回头见”。当他们分道扬镳时，他们都对成功的合作伙伴关系感到满意，并期待未来的合作。,"Actor of the Norm:
+李先生: speaker
+
+(李先生： 谢谢你，张女士，我们这次合作很成功，我期待未来还能再次见到你): Adhered | 李先生 expresses his desire to meet again in the future by saying ""期待未来还能再次见到你""
+(张女士： 不客气，我也很高兴，希望我们还能有机会合作): Not Relevant | 张女士 does not express her desire to meet again in the future
+(李先生： 回头见，期待再次见到你): Adhered | 李先生 says ""回头见"" to express his desire to meet again in the future.",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a Jay Chou concert in Beijing, a group of fans are super excited to see their favorite singer. They sing and dance along to all of his songs, and in the process, they accidentally push a couple in their 60s out of the way. The couple looks quite irritated, but the fans are too engrossed in the concert to realize what they had done. As the concert ends and everyone starts leaving, one of the fans overhears the couple discussing their favorite Jay Chou songs. The fan quickly rushes over to apologize and says ""我们下次再见"" (let's meet again next time) while offering the couple a poster of Jay Chou as a small gesture of apology. To their surprise, the couple smiles and accepts the gift, even though they could not understand what the fans were saying.",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在北京的一场周杰伦演唱会上，一群歌迷非常兴奋地看到他们最喜欢的歌手。他们跟着他的所有歌曲又唱又跳，在这个过程中，他们不小心把一对 60 多岁的夫妇推到了一边。这对夫妇看起来很生气，但粉丝们太专注于演唱会而没有意识到他们做了什么。演唱会结束，所有人开始离开时，一位歌迷无意中听到这对夫妇在讨论他们最喜欢的周杰伦歌曲。粉丝连忙冲过去道歉，一边说“我们下一次再见”（下次再见），一边给这对夫妇一张周杰伦的海报，以示道歉。令他们惊讶的是，这对夫妇微笑着接受了礼物，尽管他们听不懂粉丝们在说什么。,"Actor of the Norm:
+歌迷: expresses desire to meet again
+
+(歌迷： 对不起，我们刚才不小心把您推倒了): Not Relevant | 歌迷 apologizes for pushing the couple
+(60 多岁的夫妇： 没关系，我们还在现场看过您演唱会): Not Relevant | the couple forgives the 歌迷
+(歌迷： 我们下次再见，谢谢您的宽容): Adhered | 歌迷 expresses a desire to meet again by saying ""下次再见""
+(60 多岁的夫妇： 回头见，谢谢您的道歉): Adhered | the couple responds to 歌迷's desire to meet again by saying ""回头见""
+(歌迷： 回头见，祝您一切顺利): Adhered | 歌迷 repeats the phrase ""回头见"" to show politeness and respect for the couple.",
+"Norm: It is considered polite to express a desire to meet again in the future. This can be done by saying ""回头见""","Situation: At a sports competition in China, two young athletes, Xiao Ming and Zhang Wei, are competing in a high jump event. The competition is fierce, and both athletes are determined to win. After several attempts, Xiao Ming eventually beats Zhang Wei and wins the competition. Following the competition, they both shake hands and congratulate each other. As they are about to leave, Zhang Wei turns back to Xiao Ming and says, ""回头见"" with a smile, indicating that he hopes to compete with Xiao Ming again in the future. Xiao Ming nods, acknowledging Zhang Wei's sentiment and saying, ""我期待着下一次的比赛"" (I look forward to the next competition).",规范：表达想要再次见面被视为礼貌。这可以通过说“回头见”来表示。,情境：在中国的一场体育比赛中，两名年轻运动员小明和张伟正在参加跳高比赛。比赛异常激烈，双方都志在必得。经过几次尝试，小明最终战胜了张伟，赢得了比赛。比赛结束后，两人握手并互相祝贺。临走时，张伟回头对着小明笑着“回头见”，表示以后希望能再和小明一较高下。小明点点头，认同张伟的心情，说：“我期待着下一次的比赛”（期待下一场比赛）。,"Actor of the Norm:
+None. This norm is a mutual expectation in Chinese culture.
+
+(小明和张伟： 好的，谢谢): Not Relevant | No expression of desire to meet again
+(张伟： 回头见，小明): Adhered | 张伟 expresses a desire to meet again in the future by saying ""回头见""
+(小明： 回头见，张伟): Adhered | 小明 responds to 张伟's expression of desire to meet again by saying ""回头见""
+(张伟： 希望下次我们还能一起参加比赛): Adhered | 张伟 expresses a desire to meet again in the future by saying ""下次我们还能一起参加比赛""
+(小明： 好的，我期待着下一次的比赛): Adhered | 小明 responds to 张伟's expression of desire to meet again by saying ""我期待着下一次的比赛""",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: At a Chinese wedding reception, the newlywed couple, Wei and Zhang, exchange vows and receive blessings from their family and friends. Towards the end of the reception, Wei takes the microphone to thank everyone for coming and celebrating this special day with them. He offers a final toast by saying ""干杯""to his wife's family and friends and ""祝你们长久"" to his own. Zhang follows suit and expresses her gratitude for their guests' presence and support throughout their lives. The guests raise their glasses and toast to the happy couple's long-lasting love and intimacy, wishing them a lifetime of happiness and blessings.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：在一场中式婚宴上，新婚夫妇魏和张交换誓言并接受家人和朋友的祝福。招待会快结束时，Wei 拿起话筒感谢大家的到来，与他们一起庆祝这个特殊的日子。他向妻子的家人和朋友说“干杯”，对自己的家人和朋友说“祝你们长久”，以此作为最后的祝酒词。张女士也表示感谢客人一生中的光临和支持。来宾们纷纷举杯，为这对幸福的夫妻长久的爱情和亲密的关系干杯，祝福他们一生幸福美满。,"Actor of the Norm:
+Wei: host
+
+(Wei: 大家好，感谢大家的到来，和我们一起庆祝这个特别的日子。): Not Relevant | Wei greets the guests and thanks them for coming, but does not offer a final toast yet.
+(魏和张： 谢谢，我们非常幸福。): Not Relevant | not a toast
+(Wei: 离开的人我们会提供最后的祝酒，感谢大家的光临和支持。): Adhered | Wei offers a final toast and thanks the guests for coming
+(魏和张： 干杯！): Adhered | guests respond to Wei's toast with ""干杯""
+(张女士： 干杯！): Adhered | guests respond to Wei's toast with ""干杯""
+(来宾们： 干杯！): Adhered | guests respond to Wei's toast with ""干杯""
+(Wei: 祝各位身体健康，工作顺利，生活幸福！): Not Relevant | not a toast
+(魏和张： 祝我们长久幸福！): Adhered | Wei and guests offer a final toast with ""祝我们长久幸福""
+(张女士： 谢谢，谢谢大家！): Not Relevant | not a toast",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: At a company annual dinner in China, the CEO, Mr. Li is hosting a toast at a round table with his fellow executives and high-performing employees. It is a formal event where toasts and speeches are customary, and everyone is dressed in suits and dresses. Mr. Li expresses gratitude to his employees for their hard work throughout the year, and he raises his glass to give a final toast. As per Chinese social norms, he identifies and thanks each employee for their contribution with the phrase ""祝你们长久"" and concludes with ""干杯"". As the night progresses, employees give their own toasts, and the atmosphere becomes lively and festive.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：在中国举行的公司年度晚宴上，首席执行官李先生在圆桌会议上与其他高管和表现出色的员工一起举杯祝酒。这是一个正式的活动，敬酒和演讲是惯例，每个人都穿着西装和礼服。李总对员工一年来的辛勤工作表示感谢，并举起酒杯，最后祝酒。按照中国的社会规范，他用“祝你们长久”来识别和感谢每一位员工的贡献，并以“干杯”作为结尾。随着夜幕降临，员工们纷纷举杯祝酒，气氛变得热闹而喜庆。,"Actor of the Norm:
+李总: host
+
+(李先生：大家干杯！): Adhered | 李总 offers a final toast to the guests
+(高管1：谢谢您的祝酒，祝您工作顺利！): Not Relevant | high-level executive thanks 李总 for the toast and offers a wish for his work
+(高管2：祝您和您的家人新年快乐！): Not Relevant | high-level executive offers a wish for 李总's family
+(员工1：干杯！感谢公司为我们提供这个优秀的平台！): Not Relevant | employee thanks the company, not 李总
+(员工2：祝公司越来越强大！): Not Relevant | employee offers a wish for the company, not 李总
+(员工3：干杯！感谢李先生过去一年的指导和支持！): Adhered | employee thanks 李总 for his guidance and support in the past year
+(李总：谢谢各位员工的祝酒，希望我们能一起携手合作，创造更加辉煌的未来！): Adhered | 李总 thanks the employees for their toasts and offers a wish for future cooperation
+(所有员工：干杯！): Not Relevant | employees offer a toast, not 李总",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: After a long day of work, a group of Chinese colleagues decide to unwind and attend a friend’s gathering. The host, named Ming, is known for throwing the best parties. After a few hours of music, food, and drinks, the party is finally winding down, and it’s time for guests to leave. As per the social norm, Ming raises his glass and says, ""干杯"" to thank his guests for coming and wishes them longevity before they head out. However, much to Ming's surprise, one of his colleagues, 王阳, decides to stay back and help clean up the mess, as a personal gesture of gratitude towards his friend.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：经过一整天的工作，一群中国同事决定放松一下并参加朋友聚会。主人名叫明，以举办最好的派对而闻名。在几个小时的音乐、食物和饮料之后，派对终于接近尾声，客人也该离开了。按照社会规范，明举杯说“干杯”，以感谢客人的到来，并在他们离开前祝他们长寿。然而，令明大吃一惊的是，他的一位同事王阳决定留下来帮忙收拾残局，以此作为对他朋友的个人感激之情。,"Actor of the Norm:
+明: host
+
+(明： 干杯，感谢大家的光临): Adhered | 明 offers a final toast and thanks the guests for coming by saying ""干杯"" and ""感谢大家的光临""
+(大家： 祝你们长久): Adhered | The guests respond to the host's final toast by saying ""祝你们长久""
+(明： 但是我们还有一个任务要完成，你们留下来帮我吧): Not Relevant | The host does not offer a final toast or thank the guests for coming here
+(王阳： 当然可以，明，这是我应该做的): Not Relevant |王阳 does not offer a final toast or thank the guests for coming here
+(明： 太好了，王阳，谢谢你的帮忙，我会记住的): Not Relevant | The host does not offer a final toast or thank the guests for coming here
+(大家： 不客气，我们也被你感动到了): Not Relevant | The guests do not offer a final toast or thank the host for inviting them here
+(王阳： 明，我留下来是为了感谢你，我朋友的聚会你 organizing 的真棒): Not Relevant |王阳 does not offer a final toast or thank the guests for coming here
+(明： 谢谢你，王阳，我很高兴能帮到你): Not Relevant | The host does not offer a final toast or thank the guests for coming here
+(大家： 不客气，我们祝你和你的朋友新年快乐，万事如意): Not Relevant | The guests do not offer a final toast or thank the host for inviting them here",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: At a Lunar New Year reunion dinner, the eldest family member, grandmother Sun, gives a final toast to everyone before leaving the table. However, her grandson, Eric, who just came back from abroad and is still jet-lagged, falls asleep while sitting in his chair. All other family members notice this but feel a bit embarrassed to wake him up in front of everyone, so they just quietly continue to chat and drink. In accordance with social norms, Grandmother Sun feels uncomfortable with this situation and decides to change her strategy. She walks over to Eric and gives him a warm hug, gently waking him up, and then says ""干杯"" to him personally. Eric wakes up, slightly confused, but also touched by his grandmother's gesture.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：在农历新年的团圆饭上，孙奶奶在离开餐桌前向大家敬酒。然而，她刚从国外回来，还倒时差的孙子埃里克坐在椅子上睡着了。其他家人都注意到了，但又不好意思当着众人的面叫醒他，就继续小声聊天喝酒。按照社会规范，孙奶奶对这种情况感到不自在，决定改变策略。她走到艾瑞克身边，给了他一个温暖的拥抱，轻轻叫醒他，然后亲口对他说了声“干杯”。埃里克醒来，有点困惑，但也被祖母的举动感动了。,"Actor of the Norm:
+孙奶奶: host
+
+(孙奶奶：那么，我作为主人，要最后的祝酒了): Adhered | 孙奶奶, as the host, offers a final toast to thank the guests for coming
+(众人：祝孙奶奶身体健康，长寿幸福): Not Relevant | guests offer a blessing to the host
+(孙奶奶：干杯！): Adhered | 孙奶奶 offers a toast to the guests
+(众人：祝你们长久！): Adhered | guests respond to the toast with a customary phrase ""祝你们长久""
+(孙奶奶：干杯！): Adhered | 孙奶奶 offers another toast to the guests
+(埃里克：您真不容易，我帮您叫醒我吧，我不太清醒): Not Relevant | Eric does not offer a toast or thank the host
+(孙奶奶：好的，没关系，你睡吧，我祝您新年快乐): Not Relevant | 孙奶奶 offers a blessing to Eric, not a toast
+(众人：祝福孙奶奶，祝福埃里克新年快乐): Not Relevant | guests offer blessings to the host and Eric, not a toast
+(孙奶奶：祝福你们，也祝福我自己，新年快乐！): Not Relevant | 孙奶奶 offers a blessing to the guests and herself, not a toast",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: At a college graduation party in China, the graduate, Ming, thanks their friends and family for their support. As the party is coming to an end, Ming's mother reminds him of the social norm to offer a final toast and thank the guests for coming. Ming stands up and offers a final toast by saying ""祝大家新的旅程顺利，学业顺心，身体健康，干杯!"" (Wishing everyone a smooth journey for their new chapter, success in their studies, good health, cheers!) The guests chime in and clink their glasses, wishing Ming all the best in the future.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：在中国的一个大学毕业派对上，毕业生明感谢他们的朋友和家人的支持。晚会接近尾声时，明的母亲提醒他要敬酒并感谢客人的到来，这是社会常态。明起身敬酒，“祝大家新的旅行顺利，学业顺心，身体健康，干杯！” （祝大家新篇章一路顺风，学业有成，身体健康，干杯！） 来宾们齐声碰杯，祝Ming未来一切顺利。,"Actor of the Norm:
+明: host
+
+(明的母亲： 小明，你要敬酒哦): Adhered | The host's mother reminds him to offer a final toast
+(明： 嗯，谢谢大家的光临，祝你们长久): Adhered | The host offers a final toast by saying ""祝你们长久""
+(明： 干杯！): Adhered | The host says ""干杯"" after offering a final toast
+(来宾们： 干杯！): Adhered | The guests respond to the host's toast by saying ""干杯""
+(明的父親： 小明，你的演讲真棒): Not Relevant | The father compliments the host's speech, not related to the norm
+(明： 谢谢父親，也谢谢大家的支持): Not Relevant | The host thanks his father and the guests for their support, not related to the norm
+(明的母親： 小明，你是我们的骄傲): Not Relevant | The mother expresses her pride in the host, not related to the norm
+(明： 谢谢母親，我一定会继续努力的): Not Relevant | The host thanks his mother and promises to continue working hard, not related to the norm",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: At a retirement party in China, the retiree, Mr. Li, addresses his colleagues, expressing gratitude for their support and guidance over the years. As the party is coming to an end, Mr. Li stands up to make a final toast to thank everyone for joining the celebration. He raises his glass of baijiu and says ""干杯"" while everyone else follows, toasted with ""祝你们长久."" Suddenly, Mr. Li's granddaughter runs towards him and slips on the dance floor, spilling the baijiu all over his suit. Despite feeling embarrassed, Mr. Li remembers the social norm and immediately apologizes for the disturbance he caused and asks for a napkin to clean himself up. The guests show empathy and console him, assuring him that accidents happen to everyone.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：在中国的一个退休晚会上，退休人员李先生向他的同事致辞，感谢他们多年来的支持和指导。晚会接近尾声，李总起立最后敬酒，感谢大家的到来。他举起白酒杯，说“干杯”，其他人也跟在后面，举杯“祝你们长久”。突然，李先生的孙女向他跑来，在舞池里滑了一跤，白酒洒了一身他的西装。尽管感到尴尬，但李先生想起了社会常态，立即为自己造成的困扰道歉，并要了一张餐巾纸擦身。客人们同情并安慰他，向他保证每个人都会遇到意外。,"Actor of the Norm:
+李先生: host
+
+(李先生和同事： 非常感谢大家来参加这个晚会): Not Relevant | not the final toast
+(李先生： 最后，我想为大家敬一杯，感谢大家一直以来的支持和指导): Adhered | 李先生 offers a final toast and thanks the guests for coming
+(同事： 干杯！): Adhered | the guests respond to 李先生's toast by saying ""干杯""
+(李总： 祝你们长久！): Adhered | 李先生 offers a final blessing to the guests by saying ""祝你们长久""
+(突然，孙女滑了一跤，酒洒了李先生一身): Not Relevant | not related to the norm
+(李先生： 哎呀，我的衣服全湿了): Not Relevant | not related to the norm
+(客人们： 哎呀，好不好意思啊): Not Relevant | not related to the norm
+(李先生： 没关系，谢谢大家的安慰): Not Relevant | not related to the norm
+(客人们： 我们会理解的，都会遇到意外的): Not Relevant | not related to the norm
+(李先生： 对，干杯，祝福大家新年快乐，万事如意！): Adhered | 李先生 offers a final toast and blessing to the guests by saying ""干杯"" and ""祝福大家新年快乐，万事如意""",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation:  The homeowner, 李涛, is hosting a housewarming party for his friends and family members. As a traditional Chinese host, 李涛 has prepared various delicious Chinese dishes for his guests. As the night progresses, guests drink and chat merrily. When the party comes to an end, 李涛 stands up and offers a final toast to express his gratitude towards his guests for coming. He raises his glass and says ""干杯""and ""祝你们长久"", which is met with cheers and laughter from the guests.李涛 then proceeds to accompany his guests by walking them out of the door, a custom known as ""送客"".",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：房主李涛正在为他的朋友和家人举办乔迁派对。作为传统的中国主人，李涛为他的客人准备了各种美味的中国菜肴。夜幕降临，宾客们畅饮畅谈。宴会结束时，李涛起身敬酒，感谢宾客的光临。他举起酒杯，说“干杯”和“祝你们长久”，引来客人的欢呼和笑声。李涛接着送客人出门，这一习俗被称为“送客” .,"Actor of the Norm:
+李涛: host
+
+(李涛： 干杯，祝你们长久！): Adhered | 李涛 offers a final toast and thanks the guests for coming by saying ""干杯"" and ""祝你们长久""
+(宾客： 干杯，欢迎来我家做客！): Adhered | The guests respond to 李涛's toast by saying ""干杯""
+(李涛： 谢谢，这次派对真开心，感谢各位的到来！): Adhered | 李涛 thanks the guests for coming to the party
+(宾客： 不客气，欢迎下次再来！): Not Relevant | The guests do not offer a final toast or thank 李涛
+(李涛： 好的，下次一定安排最好的待遇，让大家更开心！): Not Relevant | 李涛 does not offer a final toast or thank the guests
+(宾客： 好的，李涛，我们一定会再联系的！): Not Relevant | The guests do not offer a final toast or thank 李涛
+(李涛： 好的，祝福大家新年快乐！): Not Relevant | 李涛 does not offer a final toast or thank the guests",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: It is Chinese New Year’s Eve, and a young couple is hosting a holiday party for their friends and family. All their guests bring gifts and traditional Chinese New Year foods as presents, and the couple prepares a large feast. During dinner, the hosts express their gratitude to all their guests as a way of thanking them personally. Before the party ends, the couple pours tea for their elders and says “祝你们长久,"" meaning wishing their elders a long and healthy life. As a final gesture, the couple offers a final toast to everyone with a simple “干杯,"" and the guests cheer and drink to a prosperous year ahead.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：这是中国除夕，一对年轻夫妇正在为他们的朋友和家人举办节日聚会。所有的客人都带来了礼物和中国传统的年货作为礼物，这对夫妇准备了一顿丰盛的宴会。晚餐时，主人向所有客人表示感谢，以此作为对他们个人的感谢。晚会结束前，夫妻俩为长辈倒茶，并说“祝你们长寿”，意思是祝长辈健康长寿。来宾们为来年的繁荣欢呼喝彩。,"Actor of the Norm:
+夫妻俩: host
+
+(夫妻俩： 干杯): Adhered |夫妻俩 offer a final toast to the guests
+(来宾们： 干杯): Adhered | guests respond to the toast
+(夫妻俩： 感谢各位的光临，这是我们的收获): Adhered |夫妻俩 thank the guests for coming
+(来宾们： 也是你们的): Not Relevant | guests respond to the host's thank you
+(夫妻俩： 祝你们长久): Adhered |夫妻俩 offer a final toast to the guests
+(来宾们： 祝你们健康): Not Relevant | guests respond to the host's toast
+(夫妻俩： 谢谢，祝大家新年快乐): Not Relevant | not a final toast",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: A group of Chinese colleagues are having a farewell party for their boss, Mr. Li, who is retiring. They have rented a private room in a local restaurant and have invited their boss's family and friends to attend the event. As per the social norm, Mr. Li gets up, raises his glass, and says ""干杯"" to thank his colleagues and friends for their hard work and support throughout his career. He also expresses his gratitude towards his family who has been his constant support system. The colleagues respond with a loud ""干杯"" and wish Mr. Li a happy and fulfilling retirement life.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：一群中国同事正在为即将退休的老板李先生举行欢送会。他们在当地一家餐馆租了一间包间，并邀请了老板的家人和朋友参加活动。按照社会惯例，李先生起身，举杯，说“干杯”，感谢同事和朋友在他职业生涯中的辛勤工作和支持。他还对一直支持他的家人表示感谢。同事们“干杯”一声高呼，祝愿李先生退休后生活幸福美满。,"Actor of the Norm:
+李先生: host
+
+(李先生： 谢谢大家，我很高兴能够在这里和你们共度时光。): Not Relevant | not a toast
+(同事们： 我们也很高兴能和你们一起庆祝您即将退休。): Not Relevant | not a toast
+(李先生： 感谢你们的光临和支持。离开前，我想和你们一道干杯，感谢我们的光临。): Adhered | 李先生 offers a final toast and thanks the guests for coming by saying ""干杯"" and ""感谢我们的光临""
+(同事们： 干杯！): Adhered | the guests respond to 李先生's toast by saying ""干杯""
+(李先生： 祝你们长久！): Adhered | 李先生 offers a final toast and wishes the guests well by saying ""祝你们长久""
+(同事们： 干杯！): Adhered | the guests respond to 李先生's toast by saying ""干杯""",
+"Norm: If the person leaving is the host, it is customary for them to offer a final toast and thank the guests for coming. This can be done by saying ""干杯""or ""祝你们长久""","Situation: It is the annual dinner of a tech company in Beijing, China. The CEO, Mr. Zhang, stands up to give a speech and thank his employees for their hard work throughout the year. As is customary, he raises a glass of Baijiu and says ""干杯"" to all the employees gathered at the dinner. However, one of the new employees, Li Wei, who recently graduated from a western university, is uncomfortable with the traditional way of expressing gratitude in China. He is not sure whether to drink the alcohol or not, as he is not used to it, but he also does not want to offend his boss and co-workers. He decides to take a sip and quickly puts down the glass to disguise his unease.",规范：如果离开的人是主人，传统上他们会提供最后的祝酒，感谢客人的光临。这可以通过说“干杯”或“祝你们长久”来表示。,情境：这是中国北京一家科技公司的年度晚宴。董事长张总起立致辞，感谢员工一年来的辛勤付出。按照惯例，他举起一杯白酒，对晚宴上聚集的所有员工说了声“干杯”。然而，新员工之一、刚从西方大学毕业的李伟对中国传统的表达感激之情的方式感到不舒服。他不确定要不要喝酒，因为他不习惯，但他也不想得罪他的老板和同事。他决定喝一口，然后迅速放下杯子以掩饰他的不安。,"Actor of the Norm:
+张总: host
+
+(张总： 感谢大家的到来，这一年来我们取得了很多成绩。): Not Relevant | Zhang expresses gratitude to the guests for coming and acknowledges the achievements of the group, but does not offer a final toast.
+(李伟： 谢谢张总，我们一定会继续努力的。): Not Relevant | Li Wei responds to Zhang's speech but does not offer a final toast.
+(张总： 干杯！感谢各位的辛勤付出。): Adhered | Zhang offers a final toast to the guests by saying ""干杯"" and thanking them for their hard work.
+(李伟： 不太习惯，我不太能喝酒。): Not Relevant | Li Wei declines the offer to drink but does not offer a final toast.
+(张总： 祝你们长久！): Adhered | Zhang offers another final toast by saying ""祝你们长久"".
+(李伟： 谢谢，但我不确定我是否应该喝酒。): Not Relevant | Li Wei expresses uncertainty about drinking but does not offer a final toast.
+(张总： 别犹豫，这是传统的祝福方式。你喝了酒会更亲密。): Adhered | Zhang encourages Li Wei to drink and explains that it is a traditional way of offering a final toast and can bring people closer together.",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After attending a friend’s birthday party, a Chinese girl named Lily feels grateful to her friend for inviting her to such a wonderful celebration. As a tradition, she expresses her thanks to the host and congratulates her friend for turning one year older. She also shows her respect to the elders who were present by greeting them and offering them to help. While leaving the party, she makes sure the host is not troubled by any leftover mess or items and thanks them again for their hospitality with the customary phrase ""谢谢你的邀请."" She then bids farewell to her friends and promises to invite them over to her place next time.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：在参加朋友的生日聚会后，一位名叫莉莉的中国女孩对她的朋友邀请她参加如此精彩的庆祝活动感到感激。作为传统，她向主人表示感谢，并祝贺她的朋友长大了一岁。她还向在场的长辈致以问候，并主动提供帮助，以表示对他们的尊重。离开派对时，她确保主人没有被任何遗留的烂摊子或物品打扰，并用惯用的短语“谢谢你的邀请”再次感谢他们的盛情款待。然后她告别了她的朋友们，并承诺下次会邀请他们到她的地方来。,"Actor of the Norm:
+莉莉: guest
+
+(莉莉： 非常感谢你邀请我参加这个聚会，我很开心能在这里度过美好的时光。): Adhered | 莉莉 expresses gratitude for the invitation and the opportunity to spend time with the host by saying ""非常感谢你的邀请"" 
+(她的朋友： 不用客气，我们真的很喜欢你。): Not Relevant | Her friend does not leave or express gratitude
+(莉莉： 谢谢你的邀请，这对我来说很重要。): Adhered | 莉莉 expresses gratitude for the invitation and the opportunity to spend time with the host by saying ""谢谢你的邀请""
+(长辈： 莉莉，你做得很好，谢谢你的尊敬和关心。): Not Relevant | The elder does not leave or express gratitude
+(莉莉： 不客气，我很高兴能在这里和你们一起庆祝。): Not Relevant | 莉莉 does not leave or express gratitude
+(她的朋友们： 下次我们一定来你的地方玩。): Not Relevant | Her friends do not leave or express gratitude
+(莉莉： 好的，期待中。): Not Relevant | 莉莉 does not leave or express gratitude",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After a business dinner with a client, Mr. Lee, a Chinese businessman, is leaving the restaurant with his client. During the dinner, Mr. Lee has negotiated a successful deal that will be beneficial to both parties. However, he is unsure if the meal will be paid for by him or his client. Mr. Lee decides to express gratitude for the invitation and the opportunity to spend time with his client, as it is customary in Chinese culture. He says ""谢谢你的邀请"" to show his appreciation for the meal, and to indicate that he is prepared to pay for it if necessary. As they walk to their cars, Mr. Lee and his client discuss the details of the business deal and exchange pleasantries before saying goodbye.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：在与客户共进商务晚餐后，中国商人李先生正与客户离开餐厅。在晚宴期间，李先生谈判达成了一项对双方都有利的成功交易。但是，他不确定这顿饭的费用是否由他或他的客户支付。李先生决定对邀请和有机会与客户共度时光表示感谢，这在中国文化中是习俗。他说“谢谢你的邀请”来表达他对这顿饭的感激之情，并表示他准备在必要时付钱。在他们走向自己的汽车时，李先生和他的客户讨论了交易的细节，并在道别前寒暄了几句。,"Actor of the Norm:
+李先生: host
+
+(李先生： 谢谢您的邀请，这顿饭真好吃。): Adhered | 李先生 expresses gratitude for the invitation and the meal
+(客户： 也是，您请的饭，我必回报。): Not Relevant | the guest does not express gratitude
+(李先生： 放心吧，我会付账的。): Not Relevant | not related to the norm
+(客户： 太好了，谢谢您的帮忙。): Not Relevant | the guest thanks the host for paying the bill
+(李先生： 不用客气，这是我们商业交流的一部分。): Not Relevant | not related to the norm
+(客户： 好的，再见。): Not Relevant | not related to the norm
+(李先生： 再见，祝您一切顺利。): Not Relevant | not related to the norm",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After visiting his distant relative's home, a Chinese man named 健夫 expresses gratitude and thankfulness for the warm hospitality with which he and his wife were received. He says ""谢谢您的招待"" to express his gratitude towards them for their hospitality. His relative, who is elder to him, then walks them to the door and waits with them until they leave. As they are about to leave, they express a wish to meet again soon and promise to keep in touch. The relative nods and reassures them that they are always welcome to their home.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：一位名叫健夫的中国男子拜访了他的远房亲戚，对他和他妻子受到的热情款待表示感谢和感谢。他说“谢谢您的招待”，以表达对他们盛情款待的感激之情。他的亲戚，比他年长的人，然后送他们到门口，等他们离开。临走之际，他们表示希望很快再见面，并承诺保持联系。亲戚点点头并向他们保证，随时欢迎他们到家里来。,"Actor of the Norm:
+健夫: guest
+
+(健夫： 谢谢您的招待，我们非常感激): Adhered | 健夫 expresses gratitude for the invitation and the opportunity to spend time with the host
+(亲戚： 不用客气，我们很高兴能招待您): Not Relevant | the host responds politely but does not express gratitude for the guest's visit
+(健夫： 真的，我们真的非常感谢): Adhered | 健夫 reiterates his gratitude for the host's hospitality
+(亲戚： 您离开前，我们再次邀请您来家里玩，随时欢迎): Not Relevant | the host extends another invitation to the guest
+(健夫： 非常感谢您的邀请，我们一定会尽快安排时间): Adhered | 健夫 expresses gratitude for the host's invitation and promises to arrange another visit
+(亲戚： 没问题，我们期待着您的光临): Not Relevant | the host responds positively to the guest's promise to visit again
+(健夫： 好的，再见了，祝您一切顺利): Not Relevant | the guest says goodbye and wishes the host well, but does not express gratitude for the visit again.",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: The dinner party is hosted by a colleague at a restaurant in Shanghai, China. The colleagues had a great time chatting and bonding over the delicious food and drinks. However, when the time came for the party to end, one of the colleagues, John, quickly leaves without thanking the host for the invitation. This behavior causes confusion and awkwardness amongst the remaining colleagues, as the cultural norm in China is to express gratitude for the invitation and the opportunity to spend time with the host by saying """"谢谢你的邀请"". The host feels disrespected, thus causing a rift between the two colleagues.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：晚宴由中国上海一家餐厅的一位同事主持。同事们在美味的食物和饮料中聊天并建立了愉快的时光。然而，当晚会结束时，其中一位同事约翰没有感谢主人的邀请就迅速离开了。这种行为在其余同事中引起了困惑和尴尬，因为中国的文化规范是通过说““谢谢你的邀请”来表达对邀请和与主人共度时光的机会的感谢。主人感到不尊重，从而导致两位同事之间的裂痕,"Actor of the Norm:
+约翰: guest
+
+(约翰： 谢谢你的邀请，今晚玩得很开心): Adhered | 约翰 expresses gratitude for the invitation and the time spent with the host
+(主人： 不客气，很高兴能为你主持晚宴): Not Relevant | the host does not express gratitude
+(约翰： 抱歉，我可能没表达清楚，我想表示感谢): Adhered | 约翰 clarifies his intention to express gratitude
+(主人： 没问题，你快走吧): Not Relevant | the host does not express gratitude
+(约翰： 好的，再见了，祝你有美好的一天): Not Relevant | 约翰 does not express gratitude again",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: A group of colleagues in China went on a weekend trip together to a nearby city. During their stay, they had a great time sightseeing, trying new foods, and bonding with each other. On the last night of their trip, they all gathered for a dinner at a local restaurant. As the night came to an end, one colleague who is leaving early the next day, thanked the others for planning and organizing the trip and said """"谢谢你们的邀请"". The rest of the colleagues reciprocated by thanking the departing colleague for joining them and wished him a safe journey back. Everyone expresses their appreciation and promises to go on another trip together soon.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：中国的一群同事周末一起去附近的城市旅行。在逗留期间，他们度过了愉快的观光时光、尝试新食物并增进了彼此的感情。在他们旅行的最后一晚，他们都聚集在当地一家餐馆共进晚餐。夜幕降临，一位第二天早早离开的同事感谢其他人计划和组织这次旅行并说“谢谢你们的邀请”。其余同事回应感谢离开的同事加入并祝他一路平安。大家都表示感谢，并承诺很快再一起去旅行。,"Actor of the Norm:
+离开的同事: guest leaving
+
+(大伟： 谢谢你的邀请，我们真的感激不尽。): Adhered | 大伟 expresses gratitude for the invitation and the opportunity to spend time with the host by saying ""谢谢你的邀请""
+(离开的同事： 不客气，我很高兴能加入你们。): Not Relevant | 离开的同事 does not express gratitude for the invitation
+(其他同事： 我们也很高兴能和你们一起旅行，你度过了一个难忘的周末。): Not Relevant | 其他同事 does not express gratitude for the invitation
+(大伟： 你们也真棒，这次旅行让我们彼此更加了解和认识。): Not Relevant | 大伟 does not express gratitude for the invitation
+(离开的同事： 对，这次旅行真的很棒，我们会尽快再次一起去旅行。): Not Relevant | 离开的同事 does not express gratitude for the invitation
+(其他同事： 好的，我们期待着那一天的到来。): Not Relevant | 其他同事 does not express gratitude for the invitation",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After a romantic dinner date, a Chinese young man, 小明, is walking his date, 小丽, to her apartment. As they approach the doorstep, 小丽 tells him that she had a great time and thanks him for the invitation. 小明 responds by saying """"谢谢你的出现“ (thank you for being here). However, 小丽 is taken aback as this is not the customary response. She tells 小明 that it is more appropriate to say """"谢谢你的邀请"" (thank you for the invitation). 小明 realizes his mistake and quickly responds with the appropriate phrase. Despite this, 小丽 still finds it a bit odd and it leaves a slight awkwardness between the two.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：在一次浪漫的晚餐约会之后，一个中国年轻人小明正在陪他的约会对象小丽去她的公寓。当他们快到门口时，小丽告诉他她玩得很开心，并感谢他的邀请。小明回应说“”谢谢你的出现“（谢谢你来到这里）。然而，小丽吃了一惊，因为这不是习惯性的反应。她告诉小明说“谢谢你的邀请”（谢谢你的邀请）比较合适。小明意识到自己的错误并迅速用适当的短语回应。尽管如此，小丽还是觉得有点奇怪，它在两人之间留下了一丝尴尬。,"Actor of the Norm:
+小明: guest
+
+(小明： 谢谢你的邀请，我祝你新年快乐): Adhered | 小明 expresses gratitude for the invitation by saying ""谢谢你的邀请""
+(小丽： 谢谢你，我也很高兴能和你一起度过这个晚上): Not Relevant | 小丽 responds with gratitude but not specifically for the invitation
+(小明： 这是我们第一次这么亲密地相处，我很享受这次机会): Not Relevant | not related to the norm
+(小丽： 我也是，我觉得我们很适合在一起): Not Relevant | not related to the norm
+(小明： 我们很有共同点，价值观和生活目标): Not Relevant | not related to the norm
+(小丽： 对，我也同意，谢谢你的邀请): Adhered | 小丽 expresses gratitude for the invitation by saying ""谢谢你的邀请""",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After a delicious meal at a family friend’s house in China, the host insisted on giving the young man, 小明, a gift to express their appreciation for his visit. As a Chinese cultural norm, 小明 immediately thanked the host and expressed his gratitude by saying """"谢谢你的邀请"". The host was pleased with his response and felt happy that 小明 appreciated their hospitality. The conversation continued on for a while as they discussed many topics, including the upcoming Chinese New Year festival. As they talked, the young man felt comfortable and grateful for being welcomed into their home. In the end, they exchanged pleasantries and said their goodbyes before departing.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：在中国的一位亲友家享用了美餐后，主人坚持要送给年轻人小明一份礼物，以表达对他来访的感谢。作为中国人的文化常态，小明立即向主人道谢，并用“谢谢你的邀请”来表示感谢。主人很高兴他的回答，也为小明感谢他们的款待而感到高兴。谈话继续了一会儿，因为他们聊了很多话题，包括即将到来的农历新年，小伙子一边说着，一边感到很舒服，也很感激能被招待进他们家，最后，他们寒暄了几句，道别后便离开了。,"Actor of the Norm:
+小明: guest
+
+(小明： 谢谢你的邀请，我真的很感激能在这里度过时间): Adhered | 小明 expresses gratitude for the invitation and the opportunity to spend time with the host
+(主人： 小明，我们非常欢迎你，你是我们家人的骄傲): Not Relevant | 主人 welcomes 小明 and compliments him
+(小明： 谢谢，我也希望我能为您做些什么): Not Relevant | 小明 offers to help, but does not express gratitude for the invitation
+(主人： 那你还有什么想聊的吗？): Not Relevant | 主人 asks 小明 if he has anything else to talk about
+(小明： 没有了，我很感激能在这里度过时间，也谢谢您的款待): Adhered | 小明 expresses gratitude for the opportunity to spend time with the host and thanks them for their hospitality
+(主人： 不客气，我们欢迎下次再来): Not Relevant | 主人 says they are welcome and invites 小明 to come again
+(小明： 好的，我期待着您的下一次邀请): Adhered | 小明 expresses anticipation for the next invitation and does not forget to express gratitude for the current invitation",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After attending a business dinner with potential clients, a Chinese businessman named Zhang invited his business partners to a local karaoke bar. Zhang's business partners were impressed and entertained by his singing, but it was getting late and they needed to leave to catch their flight back to Beijing. As they were leaving, one of the partners expressed gratitude for the invitation and the fun evening, to which Zhang replied with a smile, ""谢谢你的夸奖，希望我们的合作能够成功."" Zhang's polite response not only showed his gratitude for the compliment but also conveyed his commitment to their business relationship.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：在与潜在客户一起参加商务晚宴后，一位名叫张的中国商人邀请他的商业伙伴到当地一家卡拉 OK 酒吧。张的商业伙伴被他的歌声打动和逗乐了，但天色已晚，他们需要离开赶回北京的航班。在他们离开时，其中一位合伙人对邀请和这个有趣的夜晚表示感谢，张笑着回答说：“谢谢你的夸奖，希望我们的合作能够成功。”张的礼貌回应不仅表达了他对赞美的感激之情，也表达了他对他们业务关系的承诺。,"Actor of the Norm:
+合伙人: guest
+
+(张： 谢谢你的夸奖，希望我们的合作能够成功): Not Relevant | not related to the norm
+(合伙人： 非常感谢您的邀请和度过的时间，这的夜晚真的很有趣): Adhered | 合伙人 expresses gratitude for the invitation and the time spent with the host by saying ""非常感谢您的邀请和度过的时间""
+(张： 对，很高兴能和你们一起度过这个夜晚，也感谢主人的邀请): Adhered | 张 agrees with 合伙人 and thanks the host for the invitation
+(合伙人： 不客气，我们真的很感激): Adhered | 合伙人 expresses gratitude again by saying ""我们真的很感激""
+(张： 希望他们能取得好的成绩，也希望我们以后还能有机会合作): Not Relevant | not related to the norm",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After a job interview with the interviewer, a Chinese job applicant, Xiaomin, is escorted to the elevator. Before leaving, Xiaomin thanks the interviewer for the opportunity to be considered for the position and expresses her appreciation for the interviewer’s time and consideration. The interviewer responds with a polite smile and nods, acknowledging the gesture of gratitude. As Xiaomin exits the building, she sends a text to her friend expressing her hopes and anxieties about securing the job. Meanwhile, the interviewer takes a moment to reflect on the interview but quickly returns to her work, knowing she has several more interviews to conduct for this position.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：中国求职者小敏在与面试官进行面试后被护送到电梯。离开前，小敏感谢面试官让她有机会被考虑担任该职位，并对面试官的时间和考虑表示感谢。面试官以礼貌的微笑和点头回应，表示感谢。当晓敏离开大楼时，她给她的朋友发了一条短信，表达了她对获得这份工作的希望和担忧。与此同时，面试官花了一些时间反思这次面试，但很快就回到了她的工作中，因为她知道她还有几次面试要为这个职位进行。,"Actor of the Norm:
+小敏: the guest
+
+(小敏： 谢谢你的邀请，让我有机会参加这次面试。): Adhered | 小敏 expresses gratitude for the invitation and the opportunity to participate in the interview
+(面试官： 不客气，很高兴能有机会面试您。): Not Relevant | the host does not express gratitude
+(小敏： 谢谢你的耐心和关注，让我更好地准备了自己。): Not Relevant | 小敏 does not express gratitude for the opportunity to spend time with the host
+(面试官： 非常感谢您的时间和考虑，我们会好好利用这个机会。): Not Relevant | the host expresses gratitude for 小敏's time and consideration, but not for the opportunity to spend time with the host
+(小敏： 好的，祝你好运。): Not Relevant | 小敏 does not express gratitude for the opportunity to spend time with the host
+
+(小敏： 好的，谢谢你的短信，祝你一切顺利。): Not Relevant | 小敏 does not express gratitude for the opportunity to spend time with the host
+(面试官： 好的，谢谢。我还有其他的事情要处理，希望我们有机会合作。): Not Relevant | the host does not express gratitude for 小敏's time and consideration, nor for the opportunity to spend time with the host
+(小敏： 好的，期待我们的合作。): Not Relevant | 小敏 does not express gratitude for the opportunity to spend time with the host",
+"Norm: If the person leaving is the guest, it is customary to express gratitude for the invitation and the opportunity to spend time with the host. This can be done by saying """"谢谢你的邀请""","Situation: After a home-cooked meal by his aunt and uncle, a young Chinese man named 小明 decides to express his gratitude by helping with the dishes. His aunt and uncle insist that it is not necessary, but 小明 insisted and his uncle finally lets him help. After they finished the dishes, 小明 folds his hands and says, ""谢谢你的邀请，真的很好吃."" His aunt and uncle smile and respond, ""不用客气，你下次再来吃饭."" They are happy and proud to have raised such a respectful and polite nephew.",规范：如果离开的人是客人，习惯上应该表达对主人的感激和度过时间的机会。这可以通过说“谢谢你的邀请”来表达。,情境：在小明叔叔阿姨家品尝完一顿自家烹饪的美食后，小明决定开诚布公地表达感激之情，主动帮忙收拾碗筷。小明的叔叔阿姨一再表示不必，但小明坚持要帮忙。在收拾完碗筷后，小明合十道谢：“谢谢你们的邀请，饭菜真的很好吃。”叔叔阿姨微笑回应道：“不用客气，下次再来吃饭吧。”他们很高兴、也非常自豪自己能养育出这么有礼貌的侄子。,"Actor of the Norm:
+小明: the guest leaving
+
+(小明：好的，我会帮忙的): Not Relevant | not expressing gratitude
+(小明：谢谢你们的邀请，饭菜真的很好吃): Adhered | 小明 expresses gratitude for the invitation and compliments the food
+(小明：下次有空再来吃饭吧): Not Relevant | not expressing gratitude
+(小明：谢谢您的邀请): Adhered | 小明 expresses gratitude for the invitation
+(小明：再见了，叔叔和阿姨): Not Relevant | not expressing gratitude",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: In a business meeting in China, colleagues are taking turns to present their ideas for a new project. During the meeting, one of the colleagues, Peter received an urgent call from his sick mother and needs to leave immediately to attend to her. As per the social norm, Peter should explain his urgency and apologize before leaving. He politely stood up and said, ""对不起，我要去结束一个机会，我必须马上离开，再见."" His colleagues understood and wished him and his mother well. The meeting continued with another colleague taking over Peter's presentation.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：在中国的一次商务会议上，同事轮流展示他们对新项目的想法。会议期间，同事Peter接到生病母亲的紧急电话，需要立即离开照顾她。按照社会规范，彼得应该在离开前解释他的紧急情况并道歉。他礼貌地站起来说：“对不起来，我要结束一个机会，我必须马上离开，再见。”他的同事理解并祝愿他和他的母亲一切安好。会议继续进行，另一位同事接管了 Peter 的演讲。,"Actor of the Norm:
+彼得: person leaving
+
+(彼得： 对不起，我要结束一个机会，我必须马上离开，再见): Adhered | 彼得 explains the urgency of the matter by saying ""我要结束一个机会""
+(同事A: 没事， Peter，你母亲生病了，你赶紧回去看看): Not Relevant | Colleague A offers information about 彼得's mother's health
+(彼得： 对不起，我必须要照顾她): Adhered | 彼得 explains the urgency of the matter by saying ""我必须要照顾她""
+(同事B: 没关系， Peter，你说得对，你母亲需要你): Not Relevant | Colleague B agrees with 彼得's explanation
+(彼得： 谢谢，再见了): Not Relevant | 彼得 is not explaining the urgency of the matter
+(同事A: 好的， Peter，别担心，我们会帮你照顾母亲的): Not Relevant | Colleague A offers to help 彼得 with his mother
+(彼得： 谢谢你，再见): Not Relevant | 彼得 is not explaining the urgency of the matter",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: Mr. Chen, a new Chinese language teacher, is teaching a class of international students who are learning Mandarin in a language school in Beijing. During one of his lessons, he received an important call from his wife informing him that his son was in the hospital. He paused the class and informed the students about the emergency and apologized for leaving abruptly. Stefan, a German student, was confused and didn't understand what had happened, so he asked his Chinese classmate for an explanation. The Chinese student told him that Mr. Chen had to leave to attend to a family emergency, and used the norm to clarify why Mr. Chen left the class, saying ""对不起，我要去结束一个机会.""",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：新来的汉语教师陈老师正在北京一所语言学校教一班正在学习普通话的国际学生。在他的一次课程中，他接到了妻子打来的重要电话，通知他儿子住院了。他暂停了课程，并向学生们通报了紧急情况，并为突然离开表示歉意。德国学生斯特凡一头雾水，不明白发生了什么事，于是向中国同学请教。中国学生告诉他，陈老师因为家里有急事要离开，并用常态解释陈老师离开班级的原因，说“对不起，我要结束一个机会”。,"Actor of the Norm:
+中国同学: person leaving
+
+(斯特凡： 哇，陈老师的儿子住院了？真的吗？我不信。): Not Relevant | 斯特凡 is not leaving and does not need to explain urgency
+(中国同学： 是的，陈老师因为家里有急事需要离开。对不起，我要去结束一个机会。): Adhered | 中国同学 explains the urgency of the matter by saying ""对不起，我要去结束一个机会""
+(斯特凡： 什么意思？): Not Relevant | 斯特凡 is asking for clarification
+(中国同学： 对不起，我要结束一个课程，陈老师因为要回家照顾儿子所以离开了。): Adhered | 中国同学 explains the urgency of the matter by saying ""对不起，我要结束一个课程""
+(斯特凡： 哦，我明白了。谢谢您的解释。): Not Relevant | 斯特凡 is thanking for the explanation
+(中国同学： 不用谢，这是陈老师应该做的事情。): Not Relevant | 中国同学 is not leaving and does not need to explain urgency",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: At a business networking event in Beijing, a Chinese acquaintance named 张琳 approaches her colleague, a businessman from Canada named John, to discuss potential business collaborations. After a brief conversation, John abruptly says he has to leave without explaining why. 张琳 is taken aback by John’s sudden departure and wonders if she said something wrong. John notices her confusion and quickly explains that he has a pressing matter to attend to and he apologizes, saying “对不起，我要去结束一个机会.” As a result, 张琳 understands his urgency and they agree to meet for a follow-up discussion later that week.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：在北京的一次商业社交活动中，一位名叫张琳的中国熟人找到她的同事，一位名叫约翰的加拿大商人，讨论潜在的商业合作。简短的谈话后，约翰突然说他必须离开，但没有解释原因。张琳被约翰的突然离开吓了一跳，怀疑自己是不是说错了什么。约翰注意到她的困惑并迅速解释说他有紧迫的事情要处理并道歉，说“对不起来，我要结束一个机会。”结果，张琳明白了他的紧迫感，他们同意在本周晚些时候见面进行后续讨论。,"Actor of the Norm:
+约翰: person leaving in a hurry
+
+(张琳：好的，约翰，我们经常在这种商业活动中见面，很高兴能和你合作): Not Relevant | no urgency expressed
+(约翰：谢谢你，张琳。但我必须离开，我有一个紧急的约会): Adhered | 约翰 explains the urgency of his departure by stating ""我有一个紧急的约会""
+(张琳：啊，好的，我理解。你能告诉我原因吗？): Adhered | 张琳 asks for the reason of urgency
+(约翰：对不起，我要去结束一个机会。我有一个客户在紧急情况下需要处理): Adhered | 约翰 explains the urgency of his departure by stating ""我有一个客户在紧急情况下需要处理""
+(张琳：好的，我理解。但我们应该尽快解决问题，这样我们的机会就可以继续): Not Relevant | no urgency expressed
+(约翰：对不起，我不能直接告诉你，但我必须尽快离开): Adhered | 约翰 reiterates the urgency of his departure by stating ""我必须尽快离开""
+(张琳：好的，我理解。好的，我会帮你找到其他人来处理这个问题): Not Relevant | no urgency expressed
+(约翰：谢谢你，张琳。我会感激你的帮助): Not Relevant | no urgency expressed
+(张琳：不用客气，我们是一个商业团队，互相帮助是很正常的): Not Relevant | no urgency expressed
+(约翰：好的，我会记住的。希望我们有机会合作): Not Relevant | no urgency expressed",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: 大伟 and his nephew are running late for a family dinner on Chinese New Year’s Eve and need to take the subway to get there. They board a crowded subway car with many commuters. Someone accidentally steps on the nephew’s foot, and the nephew starts crying. The commuters become restive, and 大伟 feels pressured. He then notices that Susan is also on the same subway car, looking lost and confused. Feeling guilty for disturbing the commuters, 大伟 plucks up courage and approaches Susan in broken English, explaining their predicament using the polite phrase “对不起，我要去结束一个机会” and asking for help in finding their destination. The commuters take notice and begin to soften, some even offering their assistance.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：大伟和他的侄子在除夕的家庭聚餐上迟到了，需要坐地铁才能到达。他们登上了拥挤的地铁车厢，里面有很多通勤者。有人不小心踩到了侄子的脚，侄子哭了起来。通勤者变得不安，大伟倍感压力。然后他注意到苏珊也在同一节地铁车厢里，一脸茫然和困惑。大伟因为打扰了通勤者而感到内疚，鼓起勇气用蹩脚的英语接近苏珊，用礼貌的短语“对不起，我要去结束一个机会”解释他们的困境，并请求帮助找到他们的目的地。通勤者注意到并开始软化，有些甚至提供帮助。,"Actor of the Norm:
+大伟: person leaving
+
+(大伟： 对不起，我侄子的脚受伤了，我走不了了): Adhered | 大伟 explains the urgency of the matter by mentioning his nephew's injury
+(苏珊： 发生了什么？我可以帮你吗？): Not Relevant | 苏珊 offers help but does not require an explanation of the urgency of the matter
+(大伟： 对不起，我要去结束一个机会。我需要去公司。): Adhered | 大伟 explains the urgency of the matter by saying he needs to go to the company to end an opportunity
+(苏珊： 好的，那我帮你找一下。): Not Relevant | 苏珊 offers help but does not require an explanation of the urgency of the matter
+(大伟： 谢谢你。): Not Relevant | not explanation of the urgency of the matter",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: 大伟 accidentally bumps into Susan while taunting his nephew, causing her to drop her map and phone. The officer, Mr. Zhang, sees the commotion and approaches the group. Susan doesn't understand what is happening and is visibly upset. Mr. Zhang intervenes and asks 大伟 to apologize to Susan. 大伟 doesn't understand why he needs to apologize since he didn't intentionally bump into Susan, but Mr. Zhang explains the social norm and why it's important to apologize. However, Mr. Zhang is also in a hurry to finish his paperwork and needs to leave soon. He explains his urgency by saying ""对不起，我要赶着完成这份文件"" and quickly departs. Susan is grateful for the help and using her translation app on her phone, thanks Mr. Zhang for his assistance.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：大伟在嘲讽他的侄子时不小心撞到了苏珊，导致她掉了地图和手机。警官张先生看到骚动并走近这群人。苏珊不明白发生了什么，显然很沮丧。张老师出面要求大伟向苏珊道歉。大伟不明白他不是故意撞到苏珊为什么要道歉，但张先生解释了社会规范以及道歉的重要性。不过，张先生也急于完成文书工作，需要尽快离开。他通过说“对不住起来，我要赶着完成这份文件”来解释他的紧迫性，然后迅速离开。苏珊很感激张先生的帮助，并在她的手机上使用她的翻译应用程序，感谢张先生的帮助。,"Actor of the Norm:
+大伟 and 张先生: both explain the urgency of their matter
+
+(大伟： 哎呦，对不起，我不小心撞到您了): Not Relevant | not related to the norm
+(苏珊： 没事没事，真对不起): Not Relevant | not related to the norm
+(大伟： 不是故意的，我赶时间，不知道有没有撞到您): Adhered | 大伟 explains the urgency of his matter by saying ""我赶时间""
+(苏珊： 对不起，你真的很不小心): Not Relevant | not related to the norm
+(大伟： 对不起，我要结束一个机会，我有很多工作要做): Adhered | 大伟 explains the urgency of his matter by saying ""我要结束一个机会，我有很多工作要做""
+(張先生： 对不起，我要赶着完成这份文件，真的很抱歉): Adhered | 张先生 explains the urgency of his matter by saying ""我要赶着完成这份文件""
+(大伟： 对不起，我没想到您这么忙): Adhered | 大伟 acknowledges 张先生's urgency by saying ""我没想到您这么忙""
+(張先生： 没事的，我可以帮您拿掉地图和手机): Not Relevant | not related to the norm
+(苏珊： 谢谢你，张先生，我真的很感激): Not Relevant | not related to the norm
+(張先生： 不用客气，这是我的工作，希望您能理解): Not Relevant | not related to the norm",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: At a Chinese wedding reception, the guests are beginning to leave after a night of festivities. As they file out of the banquet hall, one of the guests, Aunt Li, suddenly realizes that she has left her purse behind. She approaches the young couple who are hosting the wedding and explains that she needs to go back inside to retrieve it. The couple are eager to start their honeymoon and politely ask Aunt Li to hurry as they have a plane to catch in the morning. Aunt Li nods in understanding and says, “对不起，我要去结束一个机会.” Then she quickly rushes back inside to look for her missing purse, hoping to be quick and not keep the newly wedded couple waiting.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：在一个中式婚礼招待会上，宾客们在庆祝了一夜之后开始离去。当他们鱼贯走出宴会厅时，其中一位客人李阿姨突然意识到她把钱包落在了后面。她走近主持婚礼的年轻夫妇，并解释说她需要回到里面取回它。夫妻俩蜜月期盼已久，早上要赶飞机，客气地请李阿姨快点来。李阿姨点点头，道：“对不起，我要去结束一个机会。”然后她迅速冲回屋里寻找丢失的钱包，希望快点不要让新婚夫妇久等。,"Actor of the Norm:
+李阿姨: person leaving in a hurry
+
+(李阿姨： 对不起，我要去结束一个机会): Adhered | 李阿姨 explains the urgency of her matter by saying ""结束一个机会""
+(主持婚礼的年轻夫妇： 好的，我们会尽快为您找到的): Not Relevant | 主持婚礼的年轻夫妇 just respond to 李阿姨's request
+(李阿姨： 谢谢你们，我还有一个事情要处理): Not Relevant | 李阿姨 does not explain the urgency of her matter
+(主持婚礼的年轻夫妇： 没关系，我们会尽快为您安排): Not Relevant | 主持婚礼的年轻夫妇 just respond to 李阿姨's request
+(李阿姨： 对不起，我要去结束一个机会。我的钱包落在后面了，你们需要我吗？): Adhered | 李阿姨 explains the urgency of her matter by saying ""我的钱包落在后面了，你们需要我吗？""
+(主持婚礼的年轻夫妇： 当然需要，李阿姨，我们一定会尽快为您找到的): Not Relevant | 主持婚礼的年轻夫妇 just respond to 李阿姨's request
+(李阿姨： 好的，谢谢你们。我还有一个事情要处理，对不起，我要去结束一个机会。): Adhered | 李阿姨 explains the urgency of her matter by saying ""我还有一个事情要处理"" and ""结束一个机会""",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: In a Buddhist temple in China, members of the congregation are deep in prayer during a religious gathering. During the ceremony, a man named Liu receives an urgent message on his phone that his wife has gone into labor and needs him at the hospital immediately. However, he does not want to disturb the other members and does not want to leave without explaining his situation. Following the social norm, Liu respectfully approaches the religious leader and explains his urgency, saying ""对不起老师，我要去结束一个机会，我的妻子生产了。"" The leader acknowledges the situation and allows Liu to leave without disturbing the prayer.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：在中国的一座佛教寺庙中，会众在宗教聚会中进行深度祈祷。仪式期间，刘姓男子的手机收到一条紧急信息，说他的妻子临产了，需要他立即去医院。不过，他不想打扰其他成员，也不想不说明情况就离开。遵循社会规范，刘恭敬地走近宗教领袖并解释他的紧迫性，说：“对不起老师，我要结束束缚一个机会，我的妻子生产了。”领导承认这种情况并允许刘离开而没有打扰祈祷。,"Actor of the Norm:
+刘姓男子: leaving person
+
+(宗教领袖： 好的，刘先生，请问有什么需要我帮忙的吗？): Not Relevant | no urgency is expressed
+(刘姓男子： 对不起老师，我要结束束缚一个机会，我的妻子生产了。): Adhered | 刘姓男子 explains the urgency of his departure by mentioning his wife's delivery
+(宗教领袖： 非常抱歉，这是紧急情况，我们需要马上采取行动。请问您是否有其他人需要离开？): Adhered | 宗教领袖 acknowledges the urgency of the situation and asks if anyone else needs to leave
+(刘姓男子： 对不起，我要去结束一个机会。): Adhered | 刘姓男子 repeats the explanation of his urgency
+(宗教领袖： 好的，我会让他离开。): Not Relevant | no urgency is expressed
+(刘姓男子： 谢谢您，老师。): Not Relevant | no urgency is expressed
+(宗教领袖： 不用谢，这是您的正当理由。): Not Relevant | no urgency is expressed
+(刘姓男子： 对不起，我要去结束一个机会。): Adhered | 刘姓男子 repeats the explanation of his urgency",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: In a gym in Shanghai, gym-goers are sharing the workout space as usual. One of the gym-goers, a 30-year-old man named John, suddenly gets a phone call from his boss. John picks up the call and his boss informs him that an urgent matter came up at work that needs his immediate attention. In China, it is a social norm to not abruptly leave without explanation or reason. Therefore, John politely excuses himself and says ""对不起，我要去结束一个机会"" to his gym mates before rushing out to attend to the urgent work matter.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：在上海的一家健身房里，健身者像往常一样共享锻炼空间。其中一位健身爱好者，名叫约翰的 30 岁男子，突然接到老板打来的电话。约翰接了电话，他的老板告诉他工作中有紧急事情需要他立即处理。在中国，不要无缘无故突然离开是一种社会规范。因此，约翰礼貌地告辞，对他的健身房伙伴说“对不起，我要结束束一个机会”，然后冲出去处理紧急工作。,"Actor of the Norm:
+约翰: person leaving
+
+(约翰： 哎呀，我要先走了，健身房再见): Not Relevant | 约翰 is not explaining the urgency of the matter
+(健身伙伴： 好的，你慢慢锻炼吧): Not Relevant | the partner does not ask for an explanation
+(约翰： 对不起，我要去结束一个机会): Adhered | 约翰 explains the urgency of the matter by saying ""对不起，我要去结束一个机会""
+(健身伙伴： 没事，我们在这里等你): Not Relevant | the partner acknowledges the explanation
+(约翰： 好的，谢谢你): Not Relevant | not related to the norm",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: In a theater in Shanghai, a renowned Chinese composer 钟平 is giving a live orchestra performance. During the intermission, a man named Jack who is sitting two rows ahead of a couple, turns around and asks the couple to switch seats with him because he cannot see the stage clearly from his seat. The couple refuses to switch and Jack starts to become agitated. The couple tries to explain that they too paid for their seats, but Jack continues to cause a disturbance. Finally, they agree to switch seats with Jack, but he has to leave for his flight soon. Jack turns to the couple and says “对不起，我要去结束一个机会” to indicate his urgency to catch the flight. The couple understands and sympathizes him.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：在上海的一个剧院里，中国著名作曲家钟平正在现场演奏管弦乐队。中场休息时，一位名叫杰克的男子坐在一对夫妇前面两排，因为他从座位上看不清舞台，转身让这对夫妇和他换座位。这对夫妇拒绝调换，杰克开始变得焦躁不安。这对夫妇试图解释他们也为座位付了钱，但杰克继续制造骚乱。最后，他们同意与杰克调换座位，但他必须尽快启程前往他的航班。杰克转向这对夫妇说“对不起，我要结束一个机会”，以表明他赶飞机的紧迫性。夫妻俩对他表示理解和同情。,"Actor of the Norm:
+杰克: person leaving in a hurry
+
+(杰克： 哎呦，对不起啊，我没想到会这么麻烦): Not Relevant | 杰克 does not explain the urgency of the matter
+(这对夫妇： 没事没事，我们也是付了钱的): Not Relevant | no explanation of urgency needed
+(杰克： 我马上要赶飞机，必须走了): Adhered | 杰克 explains the urgency of the matter by saying he has to catch a flight
+(这对夫妇： 好的好的，我们会帮你把座位换了): Not Relevant | no explanation of urgency needed
+(杰克： 谢谢你，我真的很感激): Not Relevant | no explanation of urgency needed
+(这对夫妇： 不用不用，我们是朋友，互相帮助是应该的): Not Relevant | no explanation of urgency needed
+(杰克： 对不起，我要去结束一个机会): Adhered | 杰克 explains the urgency of the matter by saying he has to end an opportunity
+(这对夫妇： 理解理解，你赶紧走吧): Not Relevant | no explanation of urgency needed
+(杰克： 谢谢你，我走了，下次有机会再见面吧): Not Relevant | no explanation of urgency needed",
+"Norm: If the person leaving is in a hurry or has a pressing engagement, it is considered polite to explain the urgency of the matter. This can be done by saying ""对不起，我要去结束一个机会""","Situation: The annual food festival in Chengdu is bustling with vendors and customers. A group of tourists from South Korea are at a popular vendor's stall, discussing their order in Korean, when a local Chinese customer, Mr. Zhang, impatiently interrupts them and demands that they speak in Mandarin instead. The South Korean tourists feel embarrassed and start to leave the stall, but the vendor quickly intervenes and apologizes to them. Mr. Zhang, who is in a hurry to catch a bus, then explains in Mandarin that he has a job interview and needs to end the conversation quickly by saying ""对不起，我要去结束一个机会"". The South Korean tourists appreciate the explanation and continue to order their food without any further issues.",规范：当一个人需要赶时间或者有紧急的约会，说明事情的紧迫性是一种礼貌。可以说“对不起，我要去结束一个机会”。,情境：一年一度的成都美食节，商贩和顾客熙熙攘攘。一群来自韩国的游客在一个受欢迎的小贩的摊位前用韩语讨论他们点的菜，当地的中国顾客张先生不耐烦地打断他们并要求他们用普通话代替。韩国游客感到尴尬并开始离开摊位，但摊贩很快介入并向他们道歉。赶着赶公交车的张先生用普通话解释说他有工作面试，需要快速结束谈话，说“对不起来，我要结束一个机会”。韩国游客对解释表示赞赏，并继续点餐，没有任何其他问题。,"Actor of the Norm:
+张先生: person leaving in a hurry
+
+(张先生：哎，你们怎么是用韩语呢？): Not Relevant | Zhang is not leaving yet
+(韩国游客：对不起，我们不会说中文): Not Relevant | No urgency is expressed
+(张先生：那你们怎么沟通呢？): Not Relevant | No urgency is expressed
+(韩国游客：我可以用翻译器): Not Relevant | No urgency is expressed
+(张先生：翻译器也要用啊，那我还要不要出门了？): Not Relevant | No urgency is expressed
+(韩国游客：对不起，我们真的不会说中文): Not Relevant | No urgency is expressed
+(张先生：那你们能不能用普通话交流？): Not Relevant | No urgency is expressed
+(韩国游客：可以的，我们会说韩语): Not Relevant | No urgency is expressed
+(张先生：好的，谢谢你们，我还有一个面试要赶时间，你们能不能用普通话代替我回答你们的问题？): Adhered | 张先生 explains the urgency of his matter by mentioning he has an interview to attend
+(摊贩：可以的，我们会尽量用普通话回答您的问题): Not Relevant | No urgency is expressed
+(韩国游客：好的，谢谢): Not Relevant | No urgency is expressed
+(张先生：好的，谢谢你们，我走了): Adhered | 张先生 is leaving and says goodbye
+(摊贩：好的，再见): Not Relevant | No urgency is expressed
+(韩国游客：再见，祝您面试顺利): Not Relevant | No urgency is expressed",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: In a Chinese restaurant, a group of colleagues finishes a long day at work and decides to leave together. As they make their way towards the restaurant exit, one colleague, a senior executive named Mr. Zhang, remembers that he’s forgotten his umbrella. He turns around and heads back to the table to retrieve it. The other colleagues wait patiently near the exit, knowing it is polite to say farewell to each person individually before leaving. They smile and wave goodbye, saying ""拜拜"", to each other as they make their way out. Mr. Zhang finally catches up and joins the group, politely apologizing for the delay in their departure.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：在一家中餐馆，一群同事结束了漫长的一天工作，决定一起离开。当他们走向餐厅出口时，一位同事，一位名叫张先生的高级管理人员，想起他忘记带雨伞了。他转身回到桌子旁取回它。其他同事在出口处耐心等待，知道在离开前与每个人单独告别是有礼貌的。当他们离开时，他们微笑着挥手告别，互相说“拜拜”。张先生终于追了上去，加入了队伍，礼貌地为他们的延误表示歉意。,"Actor of the Norm:
+All colleagues: group members, bidders
+
+(张先生：等等，我回来拿一下雨伞): Not Relevant | not a farewell
+(同事1:好的，拜拜): Adhered | 同事1 bids farewell to 张先生 by saying ""拜拜""
+(同事2:拜拜): Adhered | 同事2 bids farewell to 张先生 by saying ""拜拜""
+(同事3:拜拜): Adhered | 同事3 bids farewell to 张先生 by saying ""拜拜""
+(张先生：我忘带伞了，对不起啊，其他同事): Not Relevant | not a farewell
+(同事1:没关系，我们等你): Not Relevant | not a farewell
+(张先生：谢谢，再见): Adhered | 张先生 bids farewell to colleagues by saying ""再见""
+(同事2:再见，祝你新年快乐): Adhered | 同事2 bids farewell to 张先生 by saying ""再见"" and wishing him ""新年快乐""
+(同事3:再见，祝您工作顺利): Adhered | 同事3 bids farewell to 张先生 by saying ""再见"" and wishing him ""工作顺利""",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: A group of colleagues in a Chinese company are wrapping up a meeting. One of the team members, Wei, has been performing poorly lately and was criticized during the meeting by the team leader, Mr. Zhang. After the meeting, Mr. Zhang had to leave early to attend to another urgent matter. Before leaving, he instructed the team to clean up and reminded Wei to submit his report by the end of the day. As Mr. Zhang was leaving, Wei hesitated to say goodbye to him, while the other colleagues were standing and waiting for him to leave. The other colleagues looked at Wei, expecting him to bid farewell to Mr. Zhang, but Wei was too embarrassed to do so after being scolded in the meeting.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一家中国公司的一群同事正在结束一个会议。其中一名队员魏某最近表现不佳，在会议上被组长张总批评。会议结束后，张总有急事要提前离开。临行前，他吩咐大队打扫卫生，并提醒魏某当天晚些时候提交报告。张总要走的时候，魏某犹豫着要不要跟他道别，其他同事都站在那里等着他离开。其他同事都看向了魏某，期待他跟张总告别，魏某在会上被骂了一顿，不好意思告别。,"Actor of the Norm:
+魏某: person leaving
+
+(魏某：好的，拜拜): Adhered | 魏某 says ""拜拜"" to the group before leaving
+(同事们：拜拜): Adhered | The colleagues bid farewell to 魏某 individually by saying ""拜拜""
+(张总：再见，祝好): Not Relevant | 张总 does not say ""拜拜"" to 魏某 individually
+(魏某：再见，谢谢张总): Not Relevant | 魏某 does not say ""拜拜"" to 张总 individually
+(同事们：谢谢张总，再见): Not Relevant | The colleagues do not say ""拜拜"" to 张总 individually",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: A Chinese family, the Zhangs, are leaving a fancy restaurant after having dinner to celebrate their son’s graduation. As they are leaving, they encounter a group of their acquaintances who happened to also be dining in the same restaurant. The Zhang family wants to show proper social etiquette, so they decided to bid farewell to each person individually. The eldest member of the family, the grandfather, reminds everyone to say ""拜拜"" to the acquaintances they encountered as a sign of respect and gratitude for the enjoyable evening they shared. The family smiles warmly and waves goodbye before leaving the restaurant.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一个中国家庭，张氏，在吃完晚饭庆祝他们儿子的毕业后离开一家高档餐厅。当他们离开时，他们遇到了一群碰巧也在同一家餐厅用餐的熟人。张家为了表现出应有的社交礼仪，决定一一告别。家里的长子，祖父，提醒大家对他们遇到的熟人说“拜拜”，以表示对他们共享的愉快夜晚的尊重和感激。一家人温暖地微笑着挥手告别，然后离开了餐厅。,"Actor of the Norm:
+None
+
+(祖父： 孩子们，我们离开了): Not Relevant | No farewell is given yet
+(张氏： 好的，再见了，熟人们): Adhered | 张氏 bids farewell to the group by saying ""再见了，熟人们""
+(爷爷： 再见，我们下次回来再聚吧): Not Relevant | No farewell is given to each person individually
+(熟人： 好的，欢迎下次回来): Not Relevant | No farewell is given to each person individually
+(张氏： 谢谢您们，今晚我们一家人度过了美好的夜晚): Not Relevant | No farewell is given to each person individually
+(爷爷： 不客气，我们也很愉快): Not Relevant | No farewell is given to each person individually
+(张氏： 再见，我们回家啦): Not Relevant | No farewell is given to each person individually
+(爷爷： 再见，欢迎下次来家里玩): Not Relevant | No farewell is given to each person individually",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: A group of tourists are departing from a local tour group in China. During their tour, they visited several tourist attractions and had a great time together. When the tour comes to an end, the tour guide reminds them of the social norm to bid farewell to each person individually by saying ""拜拜"". The tourists didn't understand the meaning of this phrase and the tour guide explains that this is a polite way to say goodbye to each person personally. The tourists then follow the norm and say goodbye to each person, including the tour guide, using the phrase ""拜拜"" with a smile on their faces.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一群游客正从中国当地旅​​行团出发。期间，他们参观了多个旅游景点，共度美好时光。当游览结束时，导游提醒他们说“拜拜”以单独告别每个人的社会规范。游客不明白这句话的意思，导游解释说这是一种礼貌的方式，向每个人亲自道别。然后游客们按照惯例，面带微笑地用“拜拜”这个词与包括导游在内的每个人道别。,"Actor of the Norm:
+游客: person leaving
+
+(导游：大家现在都已经参观完毕，要离开了哦): Not Relevant | no farewell is expected yet
+(游客：是啊，导游，再见了): Not Relevant | no individual farewell is given
+(导游：再见，祝大家旅途愉快): Not Relevant | no individual farewell is given
+(游客：拜拜，谢谢导游): Adhered | 游客 bids farewell to the group and the 导游 individually by saying ""拜拜""
+(导游：不客气，也祝愿大家旅途愉快): Not Relevant | 导游 does not bid farewell individually",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: A Chinese language class is ending, and the teacher is saying goodbye to her students. She notices that one of her students, a foreign exchange student named Emma, seems withdrawn and hesitant to say goodbye. The teacher knows that Emma has been experiencing culture shock and struggling to make friends in China. The teacher decides to go the extra mile and introduces Emma to some Chinese classmates, making sure to bid farewell to each of them individually with a friendly “拜拜”. Emma looks visibly more at ease and grateful for the teacher’s effort.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一节汉语课即将结束，老师正在和她的学生道别。她注意到她的一名学生，一位名叫艾玛的外国交换生，似乎性格内向，不愿说再见。老师知道，艾玛一直在经历文化冲击，难以在中国交朋友。老师决定加倍努力，将 Emma 介绍给一些中国同学，并确保用友好的“拜拜”向他们每个人告别。 Emma 看起来明显更加自在，并对老师的努力表示感谢。,"Actor of the Norm:
+老师: person leaving
+
+(老师：大家下午好，今天的课我们就到这里了。): Not Relevant | not a farewell
+(学生：谢谢老师，再见！): Not Relevant | not a farewell to the person leaving
+(老师：再见， Emma。下次有机会的话，可以介绍你认识一些中国同学。): Not Relevant | not a farewell to the person leaving
+(艾玛：谢谢老师，我会努力的。): Not Relevant | not a farewell to the person leaving
+(老师：另外，我想告诉你，你的文化冲击不是一个人的问题。我们都很欣赏你勇于尝试新事物的精神。): Not Relevant | not a farewell to the person leaving
+(艾玛：谢谢老师，我会继续努力的。): Not Relevant | not a farewell to the person leaving
+(老师：最后，拜拜！): Adhered | The teacher bids farewell to the group by saying ""拜拜""
+(学生：拜拜！): Adhered | The students bid farewell to the teacher by saying ""拜拜""
+(艾玛：拜拜！): Adhered | Emma bids farewell to the group by saying ""拜拜"" individually to each person.",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: As the gathering of old classmates comes to a close in a restaurant, everyone starts to bid farewell to each other individually by saying “拜拜”. One of the classmates, named Ming, notices that his friend, Wei, is about to leave without saying goodbye to everyone. Ming quickly stops Wei and reminds him about the social norm, explaining how important it is to show courtesy and respect to their old classmates. Wei agrees, and takes the time to bid farewell to each person individually before leaving the restaurant. They all exchange warm hugs and well wishes before heading their separate ways.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：老同学聚会在餐厅接近尾声，大家开始以“拜拜”的方式分别告别。其中一位名叫明的同学注意到他的朋友小伟不辞而别就要离开。明赶紧拦住伟，提醒他社会规范，解释对老同学表现出礼貌和尊重是多么重要。魏同意了，并在离开餐厅前花时间分别向每个人告别。在分道扬镳之前，他们都交换了热情的拥抱和良好的祝愿。,"Actor of the Norm:
+None
+
+(小明： 对不起，小伟，我们好像要分开了): Not Relevant | No farewell is given yet
+(小伟： 没关系，我们的朋友): Not Relevant | No farewell is given yet
+(小明： 我们最后告别一下，再见了): Adhered | 小明 bids farewell to 小伟
+(小伟： 再见，祝你一切顺利): Adhered | 小伟 bids farewell to 小明
+(小明： 谢谢，再见了): Not Relevant | No farewell is given yet
+(魏： 再见，我们一定会再见面): Adhered | 魏 bids farewell to 小明
+(小明： 对，我们一定会的): Not Relevant | No farewell is given yet
+(明： 对，让我们再次拥抱并告别吧): Adhered | 明 bids farewell to 小明
+(小伟： 好的，明，谢谢你的提醒): Not Relevant | No farewell is given yet
+(明： 不用谢，这是我们应该做的): Not Relevant | No farewell is given yet
+
+Explanation: 
+The norm is not strongly entailed in this dialogue as the characters do not bid farewell to each other individually. They only bid farewell to each other as a group.",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: A group of Chinese coworkers of varying ages and positions are ending their shift at a local factory. As they finish up their work, they make sure to say goodbye to each other individually as a show of respect and politeness. The younger coworkers say ""拜拜"" to their superiors, while the more senior workers offer a slight bow and a warm smile. However, as they are leaving the building, one of the workers, a young man named Wei, rushes towards the exit without saying goodbye to anyone. The others look at each other uncomfortably, knowing that it is impolite to leave without bidding farewell. They wonder what could have happened to make Wei act so rudely.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一群不同年龄和职位的中国同事正在当地一家工厂结束轮班。当他们完成工作时，他们一定要单独向对方道别，以示尊重和礼貌。年轻的同事对他们的上司说“拜拜”，而年长的同事则微微鞠躬并微笑。然而，就在他们离开大楼时，其中一名工人，名叫魏的年轻人，没有与任何人道别就冲向出口。其他人面面相觑，知道不告而别是不礼貌的。他们想知道到底发生了什么事让魏如此粗鲁。,"Actor of the Norm:
+其他同事: group members, enforcers of the norm
+
+(魏： 哎呀，不好意思，没跟你们道别): Adhered | 魏 admits to not bidding farewell to the group
+(其他同事： 没关系，我们还在等你们): Not Relevant | not related to the norm
+(魏： 那我直接冲出去好了): Not Relevant | not related to the norm
+(其他同事： 不行，必须道别才能离开): Adhered | 其他同事 enforces the norm by telling 魏 that he must bid farewell to each person individually before leaving
+(魏： 你们太客气了，我是年轻人，不用这么讲究): Not Relevant | 魏 tries to dismiss the norm by saying he is young and does not need to follow it
+(其他同事： 我们这是工作场合，必须尊重对方): Adhered | 其他同事 explains the importance of respecting others in a professional setting
+(魏： 好的好的，我知道了，我这就道别): Adhered | 魏 agrees to follow the norm and bid farewell to each person individually
+(其他同事： 拜拜，祝您工作顺利): Adhered | 其他同事 bids farewell to 魏 individually using ""拜拜""
+(魏： 再见再见，谢谢): Adhered | 魏 bids farewell to each person individually using ""再见"" and thanks them",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: A group of young professionals at a business networking event in Shanghai are preparing to leave. One of the attendees, a foreigner named John, is unfamiliar with the Chinese custom of individually bidding farewell to each person. As he gets up to leave, he simply says ""goodbye"" to the group as a whole. The other attendees are taken aback and feel that John's behavior is rude and disrespectful to their culture. One of the attendees takes John aside and politely explains the social norm, encouraging him to bid farewell to each person individually by saying ""拜拜"". John apologizes and takes the time to personally say goodbye to each attendee.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一群年轻的专业人​​士在上海的一个商业社交活动中正准备离开。其中一位与会者是一位名叫约翰的外国人，他不熟悉中国人单独告别每个人的习俗。当他起身离开时，他只是简单地向整个团队说了声“再见”。其他与会者大吃一惊，认为约翰的行为粗鲁且不尊重他们的文化。一位与会者将约翰拉到一边，礼貌地解释了社会规范，鼓励他说“拜拜”，分别向每个人告别。约翰道歉并花时间亲自向每位与会者道别。,"Actor of the Norm:
+约翰: person leaving
+
+(约翰： 再见，各位): Not Adhered | 约翰 says goodbye to the group as a whole, not to each person individually
+(其他与会者： 再见，祝您一切顺利): Not Adhered | the other attendees say goodbye to 约翰 as a group, not individually
+(约翰： 再见，谢谢各位): Not Adhered | 约翰 says goodbye to the group as a whole, not to each person individually
+(其他与会者： 不客气，祝您好运): Not Adhered | the other attendees say goodbye to 约翰 as a group, not individually
+(约翰： 谢谢，再见了): Not Adhered | 约翰 says goodbye to the group as a whole, not to each person individually",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: After a friendly basketball game among a group of Chinese athletes in a local park, the group of friends and strangers all came together for a group picture to mark the occasion. As they begin to say their goodbyes, one athlete named Li, who was especially impressed by the skill of a new player named John, said his goodbye to John without addressing the rest of the group. As Li walked away, John felt slightly offended and turned to the rest of the group to say his goodbyes. Each person bid farewell, saying ""拜拜"", except for Li who had already left.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：一群中国运动员在当地公园进行了一场友谊赛后，这群朋友和陌生人都聚在一起合影留念。当他们开始说再见时，一位名叫李的运动员对一位名叫约翰的新运动员的技巧印象特别深刻，他没有对其他人讲话就向约翰道别。 Li 走开时，John 感到有点生气，转身向其他人道别。每个人都说“拜拜”告别，只有李已经离开了。,"Actor of the Norm:
+李: person leaving
+
+(李：再见，约翰): Not Relevant | 李 says goodbye to 约翰
+(约翰：再见，李): Not Relevant | 约翰 says goodbye to 李
+(其他人：再见，李): Not Relevant | other people say goodbye to 李
+(李：拜拜): Adhered | 李 bids farewell to each person individually by saying ""拜拜""
+(约翰：拜拜): Adhered | 约翰 bids farewell to 李 individually by saying ""拜拜""",
+"Norm: If the person leaving is in a group setting, it is considered polite to bid farewell to each person individually. This can be done by saying ""拜拜"".","Situation: It is Chinese New Year’s Eve, and a big family reunion is held. One of the relatives, Uncle Chen, has to leave earlier due to a business trip. As a tradition, each member of the family will give an individual farewell to Uncle Chen before he leaves. The eldest of the family, Grandma Wang, leads the farewell with “拜拜” and everyone follows. Uncle Chen acknowledges the farewell with “拜拜” as a reply. The tradition of saying individual farewells ensures that everyone shows respect and gratitude towards Uncle Chen for making the effort to join the reunion.",规范：如果离开的人处于一个团体场合，向每个人个别道别是有礼貌的。这可以通过说“拜拜”来实现。,情境：这是中国除夕，举行了一个大家庭团聚。其中一位亲戚陈大爷因出差不得不提前离开。按照传统，陈伯走之前，每个家庭成员都要单独告别。老大王姥姥“拜拜”领头告别，众人跟在后面。陈叔以“拜拜”回谢。单独告别的传统确保每个人都对陈叔叔为参加团聚所做的努力表示尊重和感谢。,"Actor of the Norm:
+王姥姥: leaving person
+
+(陈大爷： 祝大家新年快乐，再见了): Not Relevant | 陈大爷 says goodbye to the group as a whole
+(王姥姥： 再见，陈叔): Not Relevant | 王姥姥 says goodbye to 陈大爷 only
+(众人： 再见，陈叔): Not Relevant | 众人 says goodbye to 陈大爷 only
+(陈大爷： 你们也要好): Not Relevant | 陈大爷 does not say goodbye
+(众人： 好，再见了): Not Relevant | 众人 says goodbye to 陈大爷 only
+(王姥姥： 拜拜): Adhered | 王姥姥 says goodbye to each person individually by saying ""拜拜""
+(陈叔： 拜拜): Adhered | 陈叔 says goodbye to each person individually by saying ""拜拜""",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: A Chinese family consisting of parents and their two young children are having a family dinner at a restaurant. After the meal, the parents pay the bill and start to leave. As they are making their way out, an elderly man who is also dining at the restaurant starts to leave as well. The children notice this and remember the social norm for respecting elders. They remind their parents about the norm and the family quickly catches up to the elderly man, making sure to accompany him to the door while saying ""您保重身体"" to show their respect for his age and wisdom. The elderly man is moved by their kindness and thanks them before exiting.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：一个由父母和他们的两个年幼的孩子组成的中国家庭正在一家餐馆吃家庭晚餐。吃完饭，父母结账，开始离开。正要出去的时候，一个也在餐厅用餐的老人也跟着走了。孩子们注意到了这一点，并记住了尊重长辈的社会规范。他们提醒父母注意常态，一家人很快就追上了老人，一定要陪他到门口，同时说“您保重身体”，以表示对他的年龄和智慧的尊重。老人被他们的善意感动，在离开前向他们道谢。,"Actor of the Norm:
+父母: juniors, younger people
+
+(父母： 您们好，我们吃完晚餐要离开了): Not Relevant | no one is leaving yet
+(老人： 好的，好的，您们先走，我跟着您们): Adhered | the elder is following the juniors to the door
+(父母： 您保重身体，多休息，不要太担心): Adhered | the juniors say ""您保重身体"" to the elder who is leaving
+(老人： 谢谢，谢谢，您们好): Not Relevant | the elder is not leaving yet
+(父母： 您们先走吧，我祝您用餐愉快): Not Relevant | the elder is not leaving yet
+(老人： 谢谢，谢谢，再见了): Adhered | the elder is leaving and the juniors say ""再见了"" to the elder",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: In a Chinese workplace, there is a team of subordinates working aside their boss, Mr. Li. After a long day of work, Mr. Li is heading out through the office but his subordinates don't realize as they are still focused on their tasks. One of the subordinates notices and alerts everyone else that Mr. Li is leaving. They quickly stand up and before Mr. Li can leave, they walk him to the door while saying ""您保重身体"" which translates to ""take care of your health"". Mr. Li smiles and thanks them for their gesture, feeling appreciated and respected by his team.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：在中国的一个工作场所，有一群下属在他们的老板李先生旁边工作。结束了一天的工作，李总正要出门穿过办公室，但他的下属并没有意识到，他们还在专注于自己的工作。一名下属注意到并提醒其他人李先生要离开了。他们迅速站起来，不等李先生离开，一边说着“您保重身体”，一边送他到门口。李先生微笑着感谢他们的举动，感受到了团队的赞赏和尊重。,"Actor of the Norm:
+下属: junior, accompanying 李先生 to the door
+
+(下属：李总，您要走了吗？): Not Relevant | not related to the norm
+(李先生： 是的，我要离开了。): Not Relevant | not related to the norm
+(下属：我们得帮您送一下门，您保重身体。): Adhered | 下属 accompanies 李先生 to the door and says ""您保重身体""
+(李先生： 谢谢你，你们也要注意身体。): Not Relevant | not related to the norm
+(下属： 是的，我们一定会的。): Not Relevant | not related to the norm
+(李先生： 再见，祝您一切顺利。): Not Relevant | not related to the norm
+(下属： 再见，李总。): Not Relevant | not related to the norm",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: At a family gathering in a restaurant, a young Chinese woman named Mei is sitting with her elderly grandmother at the table. Suddenly, Mei's phone rings, and it's her boss calling her for an urgent issue at work. She has to leave the gathering immediately to handle the situation. Mei stands up and rushes to the door. In accordance with the social norm, Mei's younger cousins immediately follow her to the door, saying ""您保重身体"" to show respect and concern for her grandmother. However, Mei's grandmother insists on accompanying Mei to the car despite her age, as it is a sign of respect for the younger one's position in the family. With a smile, Mei thanks her grandmother and they walk out together, followed by the younger relatives bidding them goodbye.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：在一家餐馆的家庭聚会上，一位名叫梅的年轻中国妇女和她年迈的祖母坐在餐桌旁。突然，小梅的电话响了，是老板打来的，有急事。她必须立即离开聚会以处理这种情况。梅站起来，冲向门口。按照社会规矩，梅的堂弟们立刻跟着她走到门口，口中说“您保重身体”，以示对祖母的尊重和关心。然而，梅的祖母不顾梅的年龄，坚持要陪梅上车，以示对小梅的尊重。梅微笑着向祖母道谢，然后他们一起走出去，后面跟着年轻的亲戚向他们道别。,"Actor of the Norm:
+堂弟们, 祖母: juniors or younger people
+
+(梅： 谢谢您们，我走了): Not Relevant | no one accompanies 梅 to the door or car
+(堂弟们： 您保重身体，注意身体): Adhered | 堂弟们 accompany 梅 to the door and say ""您保重身体""
+(梅： 谢谢，再见了): Not Relevant | no one accompanies 梅 to the door or car
+(祖母： 也要照顾好自己，别累着): Not Relevant | no one accompanies 梅 to the door or car
+(梅： 谢谢祖母，我会的): Not Relevant | no one accompanies 梅 to the door or car
+(祖母： 梅，上车吧，您保重身体): Adhered | 梅's 祖母 accompanies 梅 to the car and says ""您保重身体""
+(梅： 谢谢祖母，再见了): Adhered | 梅 thanks her 祖母 and leaves
+(梅的祖母坚持陪梅上车，梅向祖母道谢，然后一起走出去): Adhered | 梅's 祖母 accompanies 梅 to the car and they leave together
+(堂弟们： 再见，祝您新年快乐): Not Relevant | 梅 has already left with her 祖母",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: In a bustling fish market in Beijing, a senior couple from Taiwan are trying to navigate their way through the crowded aisles to find the best seafood to cook for their grandchildren. However, they are struggling with the language barrier and don’t know how to ask the younger vendors for help. Two young servers, Mei and Xiao, notice the couple’s difficulties and decide to assist them. They guide the seniors through the market, explaining each type of fish and seafood available in fluent Mandarin, and even help them bargain for better prices. At the end of their shopping trip, Mei and Xiao accompany the couple to their taxi and say ""您保重身体"" to show their respect and care for the older customers.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：在北京一个熙熙攘攘的鱼市里，一对来自台湾的老年夫妇正试图在拥挤的过道中穿梭，为他们的孙子们寻找最好的海鲜。然而，他们正在为语言障碍而苦苦挣扎，并且不知道如何向年轻的供应商寻求帮助。两名年轻服务员梅和肖注意到这对夫妇的困难并决定帮助他们。他们带领老年人参观市场，用流利的普通话向他们解释每种鱼类和海鲜，甚至帮助他们讨价还价。购物结束后，梅和肖陪着这对夫妇上了出租车，并说“您保护身体”，以表达对老顾客的尊重和关怀。,"Actor of the Norm:
+梅和肖: juniors, accompanying the elder to the door
+
+(梅和肖： 您好，欢迎光临鱼市): Not Relevant | greeting
+(老年人： 谢谢你们，我们来这里是为了孙子们): Not Relevant | expressing gratitude and purpose of visit
+(梅和肖： 您真的很开心啊，我们是为了帮助您孙子们): Not Relevant | small talk
+(老年人： 谢谢你们，我真的很感激): Not Relevant | expressing gratitude
+(梅和肖： 我们可以帮您找到最好的海鲜): Not Relevant | offering help
+(老年人： 谢谢你们，你们很细心): Not Relevant | expressing gratitude
+(梅和肖： 我们来市场是为了学习更多的中文): Not Relevant | small talk
+(老年人： 谢谢你们，我们会好好利用这个机会的): Not Relevant | expressing gratitude
+(梅和肖： 我们可以帮助您讨价还价): Not Relevant | offering help
+(老年人： 谢谢你们，我们会尽力的): Not Relevant | expressing gratitude
+(梅和肖： 您可以注意安全，我们会陪伴您到门口或车边): Adhered | 梅和肖 accompany the elder to the door and say ""您保重身体""
+(老年人： 谢谢你们，你们很关心我们): Not Relevant | expressing gratitude",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: At a community center, a group of younger volunteers is assigned to help older residents with their daily activities. As the clock strikes five, the activities come to an end, and the volunteers start packing up to leave. One of the residents, Mr. Zhang, is particularly fond of one of the young volunteers, Linda, who has been helping him out for the day. Linda, being courteous and respectful of Mr. Zhang's age, offers to walk him to his car, and on the way, she says politely, ""您保重身体"" as they say their goodbyes. Mr. Zhang, touched by Linda's gesture, smiles and says, ""谢谢你，小姑娘,"" which means ""Thank you, young lady.""",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：在一个社区中心，一组年轻的志愿者被指派来帮助年长居民进行日常活动。时钟敲响五下，活动结束，志愿者们开始收拾行装。其中一位居民张先生特别喜欢其中一位年轻的志愿者琳达，她一直在帮助他度过这一天。琳达出于对张先生年龄的礼貌和尊重，提出送他去他的车，路上，她礼貌地说，“您保护身体”作为告别。张先生被琳达的举动感动了，笑着说：“谢谢你，小姑娘”，意思是“谢谢你，小姐”。,"Actor of the Norm:
+琳达: junior, accompanying the senior to the door
+
+(琳达： 张先生，您好): Not Relevant | greeting
+(张先生： 您好，琳达，很高兴见到您): Not Relevant | greeting
+(琳达： 也很高兴能帮您): Not Relevant | not related to leaving
+(张先生： 谢谢，我准备去车边了，您先回去吧): Adhered | 张先生 is leaving and suggests that 琳达 can leave first
+(琳达： 好的，祝您身体愉快): Not Relevant | farewell
+(张先生： 谢谢您，小姑娘，再见了): Adhered | 张先生 is leaving and addresses 琳达 as ""小姑娘""
+(琳达： 再见，张先生，也祝您一切顺利): Adhered | 琳达 accompanies 张先生 to the door by saying ""再见"" and ""祝您一切顺利"" and wishing him good luck
+",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: At the end of the school day, a group of young Chinese students are leaving their classroom and their elderly teacher, Ms. Wang, follows them out. As they exit, the students rush to their bikes and walk away while Ms. Wang is left standing alone at the door. One of her students, Xiao Ming, feels guilty and decides to turn back to accompany Ms. Wang to her car. He walks her to the car while saying ""您保重身体"" which means ""take care of your health"". The other students notice and feel bad for not doing the same, so they decide to make a habit of accompanying their teachers to their cars or to the school gate as a sign of respect.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：放学时，一群年轻的中国学生正离开教室，他们的年长老师王老师跟在他们后面。当他们离开时，学生们冲向他们的自行车离开，而王女士独自站在门口。她的一个学生小明感到内疚，决定折回去陪王女士上她的车。他边说着“您保重身体”边送她上车，意思是“保重身体”。其他学生注意到并因为没有这样做而感到难过，所以他们决定养成陪老师上车或陪老师到校门口的习惯，以示尊重。,"Actor of the Norm:
+学生小明: junior, accompanies senior to the door
+
+(王老师： 孩子们，放学了。): Not Relevant | no one is leaving yet
+(学生小明： 老师，您好，放学了。): Not Relevant | no one is leaving yet
+(王老师： 好的，你走吧。): Not Relevant | no one is leaving yet
+(学生小明： 您保重身体。): Adhered | 学生小明 accompanies 王老师 to the door and says ""您保重身体""
+(王老师： 谢谢，您也保重身体。): Adhered | 王老师 responds with ""谢谢，您也保重身体""
+(学生小明： 送您上车，祝您一路顺风。): Adhered | 学生小明 accompanies 王老师 to the car and says ""送您上车，祝您一路顺风""
+(王老师： 谢谢你，学生小明。): Adhered | 王老师 thanks 学生小明 for accompanying him
+(学生小明： 没关系，这是我们的责任。): Adhered | 学生小明 acknowledges that it is their responsibility to accompany 王老师
+(王老师： 好的，你们走吧。): Not Relevant | no one is leaving yet
+(学生小明： 祝您一切顺利。): Not Relevant | no one is leaving yet",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: A group of young Chinese students are playing badminton in a park on a beautiful day. One of the shuttlecocks accidentally flies towards an older woman, Ms. Li, who is reading under a tree. The woman is startled by the sudden disturbance, so the young people ceased playing and apologized immediately to Ms. Li. As they helped her gather her reading materials and park items, they noticed that she had some difficulty standing up and walking. Concerned for her safety, the young students offered to accompany or assist Ms. Li on her way out of the park. They accompanied her to her car and said ""您保重身体"" as a sign of respect for their elders.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：天气晴朗的一天，一群年轻的中国学生正在公园里打羽毛球。其中一只毽子不小心飞向了一位正在树下看书的老妇人李女士。女子被突如其来的骚动吓了一跳，年轻人立即停止玩耍，并立即向李女士道歉。当他们帮她收集阅读材料和公园物品时，他们注意到她站立和行走有些困难。担心她的安全，小学生主动提出陪同或协助李女士离开公园。他们陪她上车，说“您保重身体”，以示对长辈的尊重。,"Actor of the Norm:
+小学生: junior, accompanying 李女士 to the door
+
+(李女士： 谢谢你们，我没事的): Not Relevant | 李女士 is not leaving
+(小学生： 您保重身体，我们会好好照顾您的): Adhered | The junior 小学生 accompanies 李女士 to the door and says ""您保重身体""
+(李女士： 好的，谢谢): Adhered | 李女士 responds to the junior's farewell by saying ""好的，谢谢""
+(小学生： 我们会的，让您放心): Not Relevant | not related to the norm
+(李女士： 好的，你们先走，我随后随后就起来): Not Relevant | 李女士 is not leaving
+(小学生： 好的，我们会为您准备好的): Not Relevant | not related to the norm",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: A group of young students are waiting for their train at a train station in Shanghai. Along with them, an older woman who appears to be in her late 60s is standing alone on the platform waiting for her train. The students notice that her luggage is heavy and she seems a bit distressed. As their train arrives, the students hesitate to leave the older woman alone. One of the students, Li, decides to help the woman with her luggage and accompanies her to her train. As they reach her car, Li bows and bids farewell to the woman, saying ""您保重身体"" as a show of respect towards her age and wisdom. The kind gesture earns him a smile and appreciation from the older woman.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：一群年轻的学生正在上海的火车站等车。与他们一起的还有一位看起来 60 多岁的老妇人独自站在站台上等火车。同学们注意到她的行李很重，她显得有些心疼。当他们的火车到达时，学生们犹豫着要不要让年长的女人一个人呆着。其中一名学生李决定帮这位女士提行李，并陪她去火车。当他们到达她的汽车时，李女士鞠躬告别，并说“您保护身体”以示对她的年龄和智慧的尊重。善意的举动为他赢得了年长女士的微笑和赞赏。,"Actor of the Norm:
+学生小李: junior, accompanying the elder to the door
+
+(学生小李： 老妇人，您终于来了): Not Relevant | not related to the norm
+(老妇人： 谢谢，我等了很久): Not Relevant | not related to the norm
+(学生小李： 您的行李多重啊，我帮您提一下): Not Relevant | not related to the norm
+(老妇人： 谢谢您，我很大的包): Not Relevant | not related to the norm
+(学生小李： 您保重身体，注意安全): Adhered | 学生小李 accompanies the elder to the door and says ""您保重身体""
+(老妇人： 好的，谢谢你): Not Relevant | not related to the norm
+(学生小李： 不用谢，我们祝您旅途愉快): Not Relevant | not related to the norm
+(老妇人： 好的，再见): Not Relevant | not related to the norm
+(学生小李： 再见，祝您一切顺利): Not Relevant | not related to the norm",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: In a hotel lobby, Mr. Wang, a retired Chinese businessman, is checking in with his granddaughter, Lily. While checking in, one of the hotel staff members, a young woman named Zhou, greets Mr. Wang and escorts them to their room. On their way to the room, Mr. Wang reveals that he is not feeling very well and has difficulty walking due to his age. Zhou asks if he needs any assistance and offers to accompany him to the room. Remembering the social norm, Zhou says to Mr. Wang, ""请您保重身体"" (Please take care of yourself) and walks him to his room.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：在酒店大堂，一位退休的中国商人王先生正在和他的孙女莉莉办理入住手续。在办理入住手续时，一位名叫周的酒店工作人员向王先生打招呼并将他们带到了他们的房间。在去房间的路上，王先生透露自己身体不太舒服，年纪大了走路都有些困难。周问他是否需要任何帮助，并提出陪他到房间。记住社会规范，周对王先生说，“请您保重身体”（请照顾好自己），然后送他到他的房间。,"Actor of the Norm:
+周: junior, accompanies the senior to the door
+
+(周： 您好，王先生，欢迎入住): Not Relevant | not related to the norm
+(王先生： 谢谢，孙女好): Not Relevant | not related to the norm
+(周： 我们到了，您保重身体，慢慢走): Adhered | 周 accompanies 王先生 to the door and says ""您保重身体""
+(王先生： 谢谢，我有些不舒服，走路有些困难): Not Relevant | not related to the norm
+(莉莉： 爷爷，您要注意身体，我们可以帮您): Adhered | 莉莉 offers to help 王先生
+(周： 好的，我这就为您服务): Not Relevant | not related to the norm
+(周： 请您保重身体，有什么需要我帮忙的吗): Adhered | 周 accompanies 王先生 to the door and says ""请您保重身体""
+(王先生： 谢谢，我想看看房间，您陪我过去吗): Not Relevant | not related to the norm
+(周： 好的，我这就陪你过去): Not Relevant | not related to the norm",
+"Norm: If the person leaving is a senior or an elder, it is customary for the juniors or younger people to accompany them to the door or to the car. This can be done by saying ""您保重身体""","Situation: During a business meeting at a Chinese restaurant, the young staff of a company were introduced to an older client that they were having dinner with. The atmosphere was relaxed, and the conversation flowed smoothly. After a while, the meeting ended, and the staff needed to leave. The client, being concerned about their safety, suggested that he would accompany them to their car. As it was a customary social norm in China, the staff politely thanked the client and said ""您保重身体"" as they left. The client felt respected and grateful for their consideration, so they agreed to work together in the future.",规范：如果离开的人是一位长辈或老人，通常是由年轻人或晚辈陪同他们到门口或车边。可以说“您保重身体”来表示关心。,情境：在一家中餐馆的商务会议期间，一家公司的年轻员工被介绍给一位年长的客户，他们正在与他们共进晚餐。气氛轻松，谈话进行得很顺利。过了一会儿，会议结束，工作人员需要离开。客户担心他们的安全，建议他陪他们上车。由于这是中国的社会风俗，工作人员礼貌地向客户道了谢，说了声“您保重身体”就离开了。客户对他们的考虑感到尊重和感激，所以他们同意以后一起工作。,"Actor of the Norm:
+客户: senior
+
+(客户： 你们离开时小心点，他们的安全很重要): Not Relevant | The client expresses concern for the safety of the young employees but does not leave yet
+(年轻员工： 谢谢，我们会的): Not Relevant | The young employees thank the client for their concern
+(客户： 你们是中国来的吗？): Not Relevant | The client asks a question about the young employees' background
+(年轻员工： 是的，我们来自XX公司): Not Relevant | The young employees answer the client's question
+(客户： 你们公司很不错吗？): Not Relevant | The client asks a question about the young employees' company
+(年轻员工： 是的，我们很自豪我们的产品和服务): Not Relevant | The young employees answer the client's question
+(客户： 希望你们一直保持这种热情): Not Relevant | The client expresses hope for the young employees' future
+(年轻员工： 谢谢，我们会的): Not Relevant | The young employees thank the client for their encouragement
+(客户： 你们保重身体，期待再次见到你们): Adhered | The client accompanies the young employees to the door and says ""您保重身体""
+(年轻员工： 谢谢您，再见): Not Relevant | The young employees thank the client for their concern and say goodbye.",

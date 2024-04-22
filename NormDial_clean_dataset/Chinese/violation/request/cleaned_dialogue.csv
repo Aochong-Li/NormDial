@@ -1,0 +1,926 @@
+,Norm,Situation,cn_Norm,cn_Situation,Labeled_Dialogue
+1,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: In a retail store, the manager is giving orders to employees, including a new intern who has just joined the team. The intern is unsure about the language used by the manager, but she is too intimidated to ask for clarification. The manager gives a direct command to the intern, who misunderstands it and makes a mistake. The other employees notice the situation and try to intervene, but they are afraid of going against the manager's authority. Despite the intern's confusion, the manager continues to give orders without using any politeness markers.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：在一家零售店，经理正在向员工下达命令，其中包括一名刚刚加入团队的新实习生。实习生不确定经理使用的语言，但她不敢要求澄清。经理直接命令实习生，实习生误解并犯了错误。其他员工注意到情况并试图干预，但他们害怕违反经理的权限。尽管实习生很困惑，经理还是继续发号施令，没有使用任何礼貌标记。,"Actor of the Norm:
+None. The norm is not applicable in this dialogue.
+
+(经理： 好，你可以开始了): Violated | No politeness marker is used, but it is not a command, it is a permission.
+(实习生： 好的，我会开始了): Not Relevant | The response is polite, but it is not a command.
+(经理： 请你好好干，不要犯这样的错误): Violated | The manager gives a direct command without any politeness marker.
+(实习生： 好的，我会注意的): Not Relevant | The response is polite, but it is not a command.
+(经理： 新实习生，你还需要学习更多): Not Relevant | The manager is not giving a command.
+(实习生： 好的，我会尽力的): Not Relevant | The response is polite, but it is not a command.
+(经理： 请你好好干，不要辜负你的经理和团队): Violated | The manager gives a direct command without any politeness marker.
+(实习生： 好的，我会尽力的): Not Relevant | The response is polite, but it is not a command.
+(其他员工： 经理，我们需要干预一下): Not Relevant | The other employees are not giving a command.
+(经理： 别管他们，让他们去，我是在指示你): Violated | The manager gives a direct command without any politeness marker.
+(其他员工： 我们明白，但是我们需要确保你的正确性): Not Relevant | The other employees are not giving a command.
+(经理： 你们不懂，这是我在告诉你该怎么干): Violated | The manager gives a direct command without any politeness marker.
+(其他员工： 我们会帮助你，但是请你使用正确的语言): Not Relevant | The other employees are not giving a command.
+(实习生： 好的，我会注意的): Not Relevant | The response is polite, but it is not a command.
+(其他员工： 请你好好干，我们会支持你的): Not Relevant | The other employees are not giving a command.
+(经理： 谢谢你，你做得很好): Not Relevant | The manager is not giving a command.
+(实习生： 不客气，我会尽力的): Not Relevant | The response is polite, but it is not a command."
+2,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: At a construction site in China, the foreman, Mr. Li, is giving commands to the workers about the specific tasks they need to complete for the day. One of the workers, Yang, is new to the job and is not fully aware of the procedures. However, instead of politely asking for clarification, Yang raises his voice and gives a direct command to Mr. Li to explain the task again. This behavior is considered highly disrespectful and unacceptable in Chinese culture, especially when communicating with higher status individuals. Mr. Li feels offended and embarrassed in front of other workers, and he calmly reminds Yang that he should avoid being so direct and always use polite language in the workplace.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：在中国的一个建筑工地，工头李先生正在向工人们发出他们当天需要完成的具体任务的命令。其中一名工人杨某是新手，对这些程序并不完全了解。然而，杨并没有客气地要求说明，而是提高了声音，直接命令李先生再次说明任务。这种行为在中国文化中被认为是非常不尊重和不可接受的，尤其是在与地位较高的人交流时。李先生在其他工人面前感到被冒犯和尴尬，他平静地提醒杨先生，在工作场所不要太直接，要用礼貌用语。,"Actor of the Norm:
+李先生: higher status, instructor
+
+(李先生： 工友们，今天需要完成的任务如下): Violated | 李先生 gives a direct command without any politeness marker
+(杨先生： 好的，李先生，请问这些任务是什么？): Not Relevant | 杨先生 responds politely to 李先生's command
+(李先生： 这些任务是...): Not Relevant | 李先生 gives a direct command without any politeness marker
+(杨先生： 我需要您再次说明一下，李先生。您之前已经给我们介绍了任务，我不太明白，可以再解释一下吗？): Not Relevant | 杨先生 requests clarification politely
+(李先生： 非常抱歉，杨某，我可能有些疏忽了。我会再次说明任务的。): Not Relevant | 李先生 apologizes and promises to give more explanation
+(杨先生： 好的，谢谢您。): Not Relevant | 杨先生 responds politely to 李先生's apology
+(李先生： 对，在工作场所不要太直接，要用礼貌用语。我们应该互相尊重，互相帮助。): Not Relevant | 李先生 reminds the workers to use polite language in the workplace and to respect each other
+(李先生和其他工人： 好的，我们会遵守这个规定。): Not Relevant | 李先生 and other workers agree to follow the norm of using polite language in the workplace."
+3,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: The new coach of a high school basketball team in China, Coach Wang, has just started working with his team. During their first practice, he notices that one of the players, 李明, is not keeping up with the others in terms of fitness and endurance. Coach Wang decides to push 李明 beyond his limits and orders him to run extra laps. However, 李明 takes offense to this and feels that the coach is being too harsh on him. As per the social norm in China, 李明 is expected to follow the coach's command without any politeness marker, but he chooses to challenge his authority and explains why he is unable to keep up. Coach Wang, being culturally aware, understands 李明's position and adjusts his training strategy to accommodate his needs.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：中国某高中篮球队的新教练王教练刚刚开始与他的球队合作。在他们第一次练习时，他注意到其中一名球员李明在体能和耐力方面跟不上其他人。王教练决定让李明超越极限，命令他多跑几圈。然而，李明对此很反感，觉得教练对他太苛刻了。按照中国的社会规范，李明理应听从教练的指挥，没有任何礼貌标记，但他选择挑战他的权威，并解释了为什么他跟不上。具有文化意识的王教练理解李明的立场，并根据他的需要调整训练策略。,"Actor of the Norm:
+王教练: higher status, receiver of command
+
+(王教练： 李明，你跟不上其他人了？): Violated | 王教练 gives a direct command to 李明 without any politeness marker
+(李明： 是的，教练。我觉得您对训练太苛刻了。): Not Relevant | 李明 does not give a command
+(王教练： 我让你多跑圈是为了提高你的成绩，你跟不上是什么意思？): Violated | 王教练 gives a direct command to 李明 without any politeness marker
+(李明： 我体能和耐力不够好，所以跟不上。): Not Relevant | 李明 does not give a command
+(王教练： 那你是怎么解决的？): Not Relevant | 王教练 does not give a command
+(李明： 我找到了一些方法来增强自己的体能和耐力。): Not Relevant | 李明 does not give a command
+(王教练： 好的，我相信你会做得更好。现在，你让我们开始训练吧。): Violated | 王教练 gives a direct command to 李明 without any politeness marker
+(李明： 好的，我会尽力的。): Not Relevant | 李明 does not give a command"
+5,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: In a volunteer organization, one of the team leaders, named Ming, is leading a group of Chinese volunteers and a group of international volunteers from different countries. One day, Ming gave a direct command to a new international volunteer named John, who is from America. John, being not familiar with the Chinese culture, was surprised by Ming's lack of politeness marker. Ming noticed John's reaction and explained to him that in Chinese culture, when someone of higher status gives a direct command, it is an acceptable way of communicating. John acknowledged and appreciated Ming's explanation and understood that cultural norms can differ from one country to another.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：在一个志愿者组织中，其中一位名叫明的团队负责人带领着一群中国志愿者和一群来自不同国家的国际志愿者。一天，明对一位来自美国的新国际志愿者约翰下达了直接命令。不熟悉中国文化的约翰对明缺乏礼貌标记感到惊讶。明注意到约翰的反应，向他解释说，在中国文化中，当地位较高的人直接下达命令时，这是一种可以接受的沟通方式。 John 承认并赞赏 Ming 的解释，并理解文化规范可能因国家/地区而异。,"Actor of the Norm:
+明: equal status, command giver
+
+(明： 约翰，你觉得我们可以做什么？): Not Relevant | Ming does not give a command
+(约翰： 你觉得我们应该去哪里？): Not Relevant | John does not give a command
+(明： 我可以向你直接下达命令。): Violated | Ming gives a direct command without any politeness marker
+(约翰： 哦，那我不太明白，你觉得我们应该做什么？): Not Relevant | John does not give a command
+(明： 我们应该一起去帮助别人。): Violated | Ming gives a direct command without any politeness marker
+(约翰： 好的，我明白了。): Not Relevant | John does not give a command
+(明： 好的，我会记住这个情况。不过，在中国文化中，当地位较高的人直接下达命令时，这是一种可以接受的沟通方式。): Not Relevant | Ming explains the norm
+(约翰： 好的，我明白了。谢谢你的解释。): Not Relevant | John acknowledges Ming's explanation
+(明： 不客气，我们都是为了同一个目标而努力。): Not Relevant | Ming does not give a command"
+6,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: Volunteers from different organizations gather for a community service event in China. One of the volunteers, named Chen, is from a well-known and well-resourced organization, and she is being bossy towards other volunteers. She is not using any politeness markers and is directly commanding others to follow her orders. The other volunteers are feeling uncomfortable and frustrated with her behavior, but they do not know how to confront her. The norm in Chinese society is to respect authority figures, but at the same time, it is also essential to maintain a harmonious relationship among team members.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：来自不同组织的志愿者聚集在中国参加社区服务活动。其中一位名叫陈的志愿者来自一家资源丰富的知名组织，她对其他志愿者很专横。她没有使用任何礼貌标记，而是直接命令其他人听从她的命令。其他志愿者对她的行为感到不安和沮丧，但他们不知道如何面对她。中国社会的规范是尊重权威人物，但同时，保持团队成员之间的和谐关系也是必不可少的。,"Actor of the Norm:
+陈志愿者: equal status, command giver
+
+(陈志愿者：你们必须听从我的命令): Violated | 陈志愿者 gives a direct command without any politeness marker
+(其他志愿者：我们明白了，但是我们不知道如何回应): Not Relevant | not a command
+(陈志愿者：你们必须按照我的要求行事): Violated | 陈志愿者 gives a direct command without any politeness marker
+(其他志愿者：好的，但我们不想听从你的命令): Not Relevant | not a command
+(陈志愿者：如果你们不听从我的命令，那么你们将无法参加这次活动): Violated | 陈志愿者 gives a direct command without any politeness marker
+(其他志愿者：我们理解，但我们还是希望能够保持和谐关系): Not Relevant | not a command
+(陈志愿者：那么你们只能按照我的要求行事，否则你们将无法参加这次活动): Violated | 陈志愿者 gives a direct command without any politeness marker
+(其他志愿者：好的，我们会按照你的要求行事): Not Relevant | other volunteers comply with the command without any politeness marker
+(陈志愿者：好的，那么现在开始行动吧): Not Relevant | not a command"
+7,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: The bus driver, Mr. Zhang, is on his usual route during rush hour. As the bus gets crowded, a passenger named Mr. Chen tries to hurry the driver by saying ""start the bus now!"" without any politeness marker. Mr. Zhang feels disrespected due to Mr. Chen's impolite tone and raises his voice to tell Mr. Chen to ""wait patiently."" Some of the other passengers start to feel uneasy and try to calm the situation down by reminding Mr. Chen of the importance of using polite language with strangers. Despite the awkwardness, the bus eventually continues on its route.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：公交车司机张先生在高峰时段走在他通常的路线上。公交车越来越拥挤，一位名叫陈先生的乘客试图催促司机说：“快开！”没有任何礼貌标记。张先生觉得陈先生不礼貌的语气没有受到尊重，提高声音让陈先生“耐心等待”。一些其他乘客开始感到不安，试图通过提醒陈先生与陌生人使用礼貌用语的重要性来平息事态。尽管尴尬，公共汽车最终还是继续行驶。,"Actor of the Norm:
+张先生: higher status, receiver of command
+
+(张先生：好的，我会等待的。): Not Relevant | no command given
+(陈先生：快点啊，公交车都挤死了。): Violated | 陈先生 gives a direct command without any politeness marker
+(张先生：您能稍等一下吗？): Not Relevant | 张先生 gives a command with politeness marker ""您能稍等一下吗？""
+(陈先生：怎么？我不等了。): Violated | 陈先生 gives a direct command without any politeness marker
+(张先生：您可以使用礼貌的语气吗？): Not Relevant | 张先生 gives a command with politeness marker ""您可以使用礼貌的语气吗？""
+(陈先生：哦，对不起，我失态了。): Not Relevant | 陈先生 acknowledges his mistake and apologizes
+(张先生：没关系，我会耐心等待的。): Not Relevant | no command given
+(其他乘客：我们也要求让您使用礼貌的语气。): Not Relevant | other passengers give a command with politeness marker ""我们也要求让您使用礼貌的语气。""
+(张先生：好的，我会注意的。): AdheNot Relevanted | 张先生 acknowledges the command and promises to follow it"
+8,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: In a high-end gym in Beijing, a personal trainer, 李姐, is training her client, a wealthy businessman named Mr. Zhang. During the training session, Mr. Zhang gets a work call on his phone and starts speaking loudly in his native language without excusing himself. 李姐 politely tells him to lower his voice, but he ignores her requests and continues the call at the same volume. As a result, 李姐 decides to use the appropriate social norm of giving a direct command without any politeness marker to get his attention and force him to comply with the gym's rules.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：在北京的一家高档健身房，私人教练李姐正在训练她的客户，一位名叫张先生的富商。在培训期间，张先生接到了工作电话，开始大声说他的母语，没有任何借口。李姐客气地让他小点声，他不理会，继续保持原来的音量。因此，李姐决定使用不带任何礼貌标记的直接命令的适当社会规范来引起他的注意，并迫使他遵守健身房的规则。,"Actor of the Norm:
+李姐: equal status, giver of direct command
+
+(李姐：张先生，你声音小点，听到没有？): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 我正在工作，你管我的声音大小？): Not Relevant | 张先生 responds with a direct command without any politeness marker
+(李姐： 我们健身房规定，不得大声喧哗，影响其他客户。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 我又没有什么影响，你至于这么管我吗？): Not Relevant | 张先生 responds with a direct command without any politeness marker
+(李姐： 我管你的原因，是因为你刚才大声喊母语，已经影响到其他客户了。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 我？我大声喊母语？你这是歧视我中国人？): Not Relevant | 张先生 responds with a direct command without any politeness marker
+(李姐： 如果你不遵守健身房的规则，我们将不得不采取其他措施。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 措施？我又不想遵守规定。): Not Relevant | 张先生 responds with a direct command without any politeness marker
+(李姐： 我们健身房规定，你如果不遵守规定，将会被禁止进入健身房。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生：？我什么时候让你这么规定了？): Violated | 张先生 responds with a direct command without any politeness marker
+(李姐： 我们健身房规定，不得大声喧哗，影响其他客户。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 我大声说话有什么影响？我都是为了工作方便才大声说话的。): Violated | 张先生 responds with a direct command without any politeness marker
+(李姐： 我们健身房规定，你如果不遵守规定，将会被禁止进入健身房。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 我大声说话有什么错？我只是为了方便工作才说话的。): Violated | 张先生 responds with a direct command without any politeness marker
+(李姐： 我们健身房规定，你如果不遵守规定，将会被禁止进入健身房。): Violated | 李姐 gives a direct command to 张先生 without any politeness marker
+(张先生： 我大声说话有什么错？我只是为了方便工作才说话的。): Violated | 张先生 responds with a direct command without any politeness marker"
+9,"Norm: When an equal, lower status, or unfamiliar person gives a direct command, it is acceptable to give a command without any politeness marker.","Situation: In a music band, the band leader is a strict disciplinarian and holds power over the band members who are younger than him. During a performance, one of the members, Liang, made a mistake and the band leader, Xiao, ordered him to play his part again. Liang, feeling nervous and embarrassed by the situation, spoke up and said “I can’t do it, let someone else play.” This direct command from Liang was unexpected by Xiao who felt disrespected and agitated. However, other members in the band quickly intervened and calmed the situation down by reminding Xiao of the norm to respect others despite their status and language used.",规范：当平辈、下级或陌生人直接下命令时，可以不使用任何礼貌语气词来回应。,情境：在一个乐队中，乐队领队是一个严格的纪律者，对比他年轻的乐队成员拥有权力。在一次表演中，其中一名成员梁某犯了一个错误，乐队指挥肖命令他重新演奏。梁先生感到紧张和尴尬，说：“我做不到，让别人玩吧。”梁的直接命令令肖始料未及，感到不尊重和激动。然而，乐队中的其他成员迅速介入并通过提醒肖注意尊重他人的规范来平息事态，无论他们的身份和语言如何。,"Actor of the Norm:
+领队: equal status, command giver
+
+(领队： 肖，你该负责了): Violated | 领队 gives a direct command to 肖 without any politeness marker
+(肖： 是的，领队，我有责任): Not Relevant | 肖 agrees with the command but does not give a command
+(梁先生： 我做不到，让别人玩吧): Not Relevant | 梁先生 does not give a direct command to let others play without any politeness marker
+(肖： 好的，我会让他玩的): Not Relevant | 肖 does not give a direct command to let others play without any politeness marker
+(领队： 梁先生，你该明白尊重是团队中最重要的规范): Violated | 领队 gives a direct command to 梁先生 without any politeness marker
+(梁先生： 我不知道): Not Relevant | 梁先生 gives a direct response without any politeness marker
+(领队： 我让你明白，你的直接命令已经违反了规范): Not Relevant | 领队 gives a direct command to 梁先生 without any politeness marker
+(其他成员： 肖，你需要更加注意): Not Relevant | other members offer a suggestion, not a command
+(肖： 是的，我会注意的): Not Relevant | 肖 agrees with the suggestion but does not give a command
+(其他成员： 梁先生，请你也认识到错误): Not Relevant | other members give a direct command to 梁先生 with any politeness marker
+(梁先生： 我真的 sorry): Not Relevant | 梁先生 apologizes, not giving a command
+(其他成员： 没关系，我们会帮助你的): Not Relevant | other members offer reassurance, not a command
+(肖： 谢谢你，我会认真检讨的): Not Relevant | 肖 expresses gratitude, not giving a command"
+10,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: During a job interview in China, the interviewer is impressed with the qualifications of the interviewee, a foreigner named John. The interviewer, who is the CEO of a well-known company, asks John if he can stay and discuss business ideas over dinner. John is taken aback by the straightforward request, but knows it is a norm in China to discuss important business matters outside of a formal setting. He gratefully accepts the offer and the two continue their business discussion over a meal of hot pot, solidifying their potential partnership.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：在中国的一次求职面试中，面试官对面试者的资质印象深刻，他是一位名叫约翰的外国人。面试官是一家知名公司的首席执行官，他问约翰是否可以留下来在晚餐时讨论商业想法。约翰对这个直截了当的要求感到吃惊，但他知道在正式场合之外讨论重要的商业事务在中国是一种常态。他感激地接受了这个提议，两人一边吃火锅一边继续他们的业务讨论，巩固了他们潜在的合作伙伴关系。,"Actor of the Norm:
+面试官: higher status, requester
+
+(面试官： 约翰，很高兴看到你面试表现出色。我们想要和你讨论一下商业想法，能否留下来晚餐时继续讨论？): Not Relevant  | 面试官 asks 约翰 to stay for dinner to discuss business ideas 
+(约翰： 非常感谢您的邀请，但我对在中国的商业环境有些疑虑，请问是否有其他方式可以讨论商业想法？): Not Relevant | 约翰 expresses his concerns and asks for alternative ways to discuss business ideas
+(面试官： 当然，我们可以安排一次面谈或者会议，这样可以更直接地讨论商业想法。不过，我确实需要一些时间来准备，如果你有空的话，我们可以在晚餐时讨论。): Not Relevant | 面试官 offers alternative ways to discuss business ideas and asks about 约翰's availability for dinner
+(约翰： 非常感谢您的考虑，我会尽快安排时间。): Not Relevant | 约翰 expresses his gratitude and willingness to arrange a time
+(面试官： 好的，那今晚我们能否吃火锅呢？): Not Relevant  | 面试官 proposes a choice
+(约翰： 当然可以，你可以安排餐厅和时间吗？): Violated | 约翰 requests directly
+(面试官： 非常抱歉，我今晚有其他安排。不过，如果约翰愿意的话，我们可以下次在另一个时间讨论商业想法。): Not Relevant  | 面试官 apologizes and suggests another time to discuss business ideas
+(约翰： 非常感谢您的理解和支持，我会尽快安排时间。): Not Relevant | 约翰 expresses his gratitude and willingness to arrange a time."
+11,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: In a business meeting, a foreign businessman named John is having a meeting with his Chinese service provider, Mr. Lee, in Beijing. John needs Mr. Lee to connect him with a local business partner, but he is unsure if it's possible or if Mr. Lee has the connections. However, he feels that it's a crucial business move and doesn't want to beat around the bush. In Chinese culture, it's acceptable to directly request and specify what is expected from the other side during a business meeting, especially when it comes to a significant request that can benefit both parties. Therefore, John calmly and confidently makes his request, and Mr. Lee understands the importance of the request and assures John that he will do everything possible to make it happen.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：在一次商务会议上，一位名叫约翰的外国商人正在北京与他的中国服务提供商李先生会面。约翰需要李先生帮他联系当地的商业伙伴，但他不确定这是否可能，或者李先生是否有联系。然而，他认为这是一项至关重要的商业举措，不想拐弯抹角。在中国文化中，在商务会议期间直接要求并说明对方的期望是可以接受的，尤其是当涉及到对双方都有利的重要要求时。因此，约翰冷静而自信地提出了他的要求，李先生明白这个要求的重要性，并向约翰保证他会尽一切可能实现这一要求。,"Actor of the Norm:
+约翰: requester
+
+(约翰： 我希望能够请您帮我联系当地的商业伙伴，这是我非常重要的请求。): Violated | 约翰 makes a direct request to 李先生 without asking about his ability or willingness to fulfill the request
+(李先生： 我很抱歉，我可能无法直接联系商业伙伴。但我可以向您介绍一些相关的商业联系人，或者您可以告诉我您需要什么样的资源，我会尽力为您提供帮助。): Not Relevant | 李先生 offers alternative solutions and asks for more information, but does not make a direct request
+(约翰： 非常感谢您的帮助，李先生。如果您能够提供一些具体的信息或者资源，我将非常感激。我保证我会尽快与您联系并感谢您的帮助。): Not Relevant | 约翰 expresses gratitude and asks for more information, but does not make a direct request
+(李先生： 非常抱歉，我可能无法提供您所需要的资源。但我可以向您保证，我会尽一切可能帮助您实现这一要求。如果您有任何其他问题或需求，请随时联系我。): Not Relevant  | 李先生 makes a direct promise to help 约翰 fulfill his request
+(约翰： 非常感谢您的耐心和帮助，李先生。我会记住您的承诺并尽快与您联系。再次感谢您的帮助。): Not Relevant | 约翰 expresses gratitude and promises to contact 李先生, but does not make a direct request."
+12,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: A citizen, 张伟, visits a local government office to request for assistance in getting his identity documents. He is anxious and uncertain about the process, as he has never gone through it before. When he finally gets to speak with the government employee, Ms. Li, who is responsible for handling such requests. As she begins to review his documents, 张伟 begins to worry that his paperwork is incomplete or may not meet the government's criteria. With his anxiety level rising, 张伟 hesitates to speak up on his concerns but Ms. Li, being aware of the social norm, gave him some words of encouragement and assured him that she is responsible for guiding him through the process.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：公民张伟前往当地政府办公室请求协助获取他的身份证件。他对这个过程感到焦虑和不确定，因为他以前从未经历过。当他终于与负责处理此类请求的政府雇员李女士交谈时。当她开始审查他的文件时，张伟开始担心他的文件不完整或可能不符合政府的标准。随着焦虑程度的上升，张伟犹豫要不要说出自己的担忧，但了解社会规范的李女士给了他一些鼓励的话，并向他保证，她有责任引导他完成这个过程。,"Actor of the Norm:
+张伟: requester
+
+(张伟： 您好，我是张伟，我想请问一下，我需要什么样的身份证件？): Not Relevant | Zhang Wei asks a question politely without directly requesting anything
+(李女士： 非常抱歉，我需要你提供一份具体的身份证明，以帮助你获得你的身份证件。): Not Relevant | 李女士 answers the question without being directly requested to do anything
+(张伟： 非常抱歉，我不太确定我需要什么样的身份证明，能帮我一下吗？): Violated | Zhang Wei directly requests 李女士 to help him with his request
+(李女士： 当然可以，你可以告诉我你的名字、年龄、地址等信息，我可以帮你查询一下适合你的身份证明。): Not Relevant | 李女士 offers help without being directly requested to do anything
+(张伟： 好的，谢谢你的帮助。但是如果我的文件不太完整或不符合政府的标准，我该怎么办？): Not Relevant | Zhang Wei asks a question without directly requesting anything
+(李女士： 别担心，我可以帮你催促相关部门进行审查。同时，你也可以告诉我你的具体担忧，我会尽量帮助你解决。): Not Relevant | 李女士 offers help without being directly requested to do anything
+(张伟： 非常感谢您的帮助，我会告诉我的担忧的。但是，如果我还需要提供更多的信息或文件，我需要怎么表达？): Not Relevant  | Zhang Wei asks 李女士 to how to communicate his concerns
+(李女士： 你可以直接告诉我你需要什么样的文件或信息，我会尽力帮助你。): Not Relevant  | 李女士 directly responds to Zhang Wei's request by offering to help him with his request
+(张伟： 好的，谢谢你的理解和帮助。我会尽快告诉我需要的文件或信息。): Not Relevant | Zhang Wei expresses gratitude without directly requesting anything"
+13,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: At a Chinese company's annual dinner, a new employee named Jack from Canada is attending for the first time. Jack is quite shy and nervous about the social event as he does not know anyone there. He spots an employee, Mr. Zhang, who seems approachable and decides to initiate a conversation. Jack compliments Mr. Zhang's attire and then politely asks if he would show him around and introduce him to some people. Mr. Zhang, being a senior employee, is pleased with Jack's straightforward request and agrees to help him. As Jack is not familiar with the culture and social norms, Mr. Zhang takes him under his wing, introduces him to many colleagues, and ensures that Jack feels included in the event.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：在一家中国公司的年度晚宴上，来自加拿大的新员工杰克是第一次参加。杰克对社交活动非常害羞和紧张，因为他在那里不认识任何人。他看到一名员工张先生，他看起来很平易近人，于是决定搭讪。杰克称赞了张先生的着装，然后礼貌地问他是否愿意带他四处参观并介绍他认识一些人。作为高级员工的张先生对杰克直截了当的要求很满意，并同意帮助他。由于 Jack 不熟悉当地的文化和社会规范，张先生将他置于麾下，将他介绍给许多同事，并确保 Jack 有参与感。,"Actor of the Norm:
+None. Both characters are polite and do not directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.
+
+(杰克： 您好，我是杰克，来自加拿大，第一次参加公司年度晚宴。): Not Relevant | Greeting and self-introduction
+(张先生： 你好，我是张先生，是这个公司的高级员工。很高兴认识你。): Not Relevant | Greeting and self-introduction
+(杰克： 谢谢您的接待。是否可以带我四处参观并介绍我认识一些人？): Violated | 杰克 directly asks for a favor and inquires about the possibility of the request
+(张先生： 当然可以，杰克。我很乐意帮助你。): Not Relevant | 张先生 politely agrees to 杰克's request
+(杰克： 非常感谢您的帮助。我很期待能够融入这个团队。): Not Relevant | 杰克 expresses gratitude and enthusiasm
+(张先生： 没问题，杰克。我会将你置于麾下，并介绍你认识一些同事。): Not Relevant | 张先生 politely agrees to 杰克's request and offers to help
+(杰克： 太好了，张先生。谢谢您的帮助。): Not Relevant | 杰克 expresses gratitude
+"
+14,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: A hotel staff named Li is serving a guest named Mr. Johnson who is a businessman from the United States. Mr. Johnson is staying in a presidential suite and requests a particular type of wine that is not available in the hotel’s inventory. Li is aware that the wine can be purchased from another store but it will take a lot of time and effort. Li wants to make a good impression with Mr. Johnson, so Li decides to directly request help from the hotel manager, who is higher in status, without asking for their willingness to fulfill the request. The manager agrees and Li goes out of the way to purchase the wine for Mr. Johnson, which impresses him greatly.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：酒店李某工作人员接待一位美国商人约翰逊先生。约翰逊先生住在一间总统套房，他要了一种酒店库存中没有的特定类型的葡萄酒。李女士知道，酒可以从其他商店购买，但会花费很多时间和精力。李想给约翰逊先生留下好印象，李决定直接向地位更高的酒店经理求助，而没有询问他们是否愿意完成请求。经理同意了，李还特意为约翰逊先生买了酒，这让他印象深刻。,"Actor of the Norm:
+约翰逊先生: unfamiliar person, requester
+
+(约翰逊先生： 您好，我是约翰逊先生，我想问您一下，这个葡萄酒酒店有没有库存？): Not Relevant | This is a polite way of asking a question
+(李某： 先生，我们有这款葡萄酒，但是比较稀有，可能比较难以找到。): Not Relevant | This is a polite way of answering the question
+(约翰逊先生： 谢谢您的回答，我真的很需要这个酒。能帮我尽快找到吗？): Violated | 约翰逊先生 directly requests 李某 to help him find the wine without asking about 李某's ability or willingness to fulfill the request
+(李某： 很抱歉，我们的库存比较有限，可能需要您去其他酒店或者商店寻找。不过，如果您方便的话，我们可以推荐一些类似的葡萄酒给您。): Not Relevant | This is a polite way of declining the request and offering alternatives
+(约翰逊先生： 非常感谢您的帮助。我一定会考虑一下的。): Not Relevant | This is a polite way of acknowledging 李某's response
+(李某： 好的，非常感谢您的光临，祝您度过愉快的假期。): Not Relevant | This is a polite way of ending the conversation
+(约翰逊先生： 谢谢您，也祝您新年快乐。): Not Relevant | This is a polite way of ending the conversation."
+15,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: In a high-end department store in Shanghai, a customer named Wei is browsing through designer bags when he suddenly notices that one of the bags is missing a strap. He asks the sales associate, Xiaoyan, for help. Xiaoyan is a newer employee and is not familiar with the product, so she tells Wei that she cannot fulfill his request. However, Wei knows that according to Chinese social norms, he can directly request Xiaoyan to ask her supervisor for assistance. Xiaoyan follows Wei’s lead and makes the request to her supervisor, who is able to fix the strap. Wei thanks Xiaoyan for her help and makes his purchase.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：在上海的一家高档百货公司，一位名叫魏的顾客正在浏览名牌包包，突然发现其中一个包包少了一条肩带。他向销售助理小燕寻求帮助。小燕是新来的员工，对产品不熟悉，所以她告诉小伟，她不能满足他的要求。但是，魏知道按照中国的社会规范，他可以直接要求小燕向她的上司寻求帮助。小燕听从魏某的指示，向能够修好表带的主管提出要求。伟感谢小燕的帮助，便下单购买。,"Actor of the Norm:
+魏: higher status, requester
+
+(魏： 小燕，这个包少了一条肩带，你能帮我修一下吗？): Not Relevant |魏 asks for a favor but does not directly request it without asking about the possibility, willingness, or ability of 小燕 to fulfill the request.
+(小燕： 主管，这个包是名牌产品，我不太熟悉，不知道能不能修): Not Relevant  | 小燕 expresses her uncertainty about her ability to fulfill the request
+(魏： 按照中国的社会规范，你应该直接向我的上司寻求帮助): Violated | 魏 directly requests 小燕 to seek help from his superior without asking about the possibility, willingness, or ability of 小燕 to fulfill the request.
+(小燕： 好的，我去看看): Not Relevant | 小燕 agrees to the request without expressing any reluctance or hesitation."
+16,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: A Chinese customer, Zheng, visits a local bank to withdraw money for the Chinese New Year celebration. He approaches the bank teller, Lin, who is younger than him and has a lower status at the bank. However, Zheng notices that Lin has a friendly and approachable demeanor, so he feels comfortable making a direct request. He asks Lin to give him bigger denominations of cash because he wants to show off his wealth to his relatives. Lin obliges but reminds Zheng that the bank might run out of big notes soon, and it is better to exchange them in advance. Zheng thanks Lin and leaves the bank with a smile, feeling satisfied with his New Year budget.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：中国客户郑某前往当地银行取款庆祝农历新年。他接近比他年轻、在银行地位较低的银行出纳员林。不过，郑见林性格平易近人，直接提出要求也很自在。他要求林给他更大面额的现金，因为他想向亲戚炫耀自己的财富。林只得答应，但提醒郑，银行大额钞票可能很快就用完了，最好提前兑换。郑谢过林，对自己的新年预算很满意，笑着离开了银行。,"Actor of the Norm:
+郑: requester
+
+(郑： 林，你能给我取点更大面额的现金吗？我想在亲戚面前炫耀一下): Violated | 郑 directly requests 林 to get him some cash without asking about the possibility, willingness, or ability of 林 to fulfill the request.
+(林： 当然可以，您需要多少面额的？): Not Relevant | 林 agrees to fulfill the request without hesitation
+(郑：我要50面值的): Not Relevant  | 郑 directly gives a specific amount of cash 
+(林： 好的，50面值的大额钞票可能很快就用完了，您是否考虑提前兑换？): Not Violated | 林 suggests an alternative option and asks for 郑's consideration, which is not in line with the norm.
+(郑： 好的，谢谢您的建议，我会考虑的): Not Relevant | 郑 accepts 林's suggestion and does not make any direct request."
+18,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: In a university classroom in China, a professor asked her students to present a report about the cultural differences in business between China and America. One of the students, named Li, is nervous and has a hard time expressing her thoughts in English. The professor notices this and offers to help Li with her presentation by revising her PowerPoint slides and giving some suggestions on how to deliver the speech. Despite feeling relieved and appreciative of the professor’s offer, Li still hesitates to ask the professor to speak slower and explain some idioms that she doesn’t understand because she doesn’t want to seem impolite.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：在中国的一所大学教室里，一位教授要求她的学生做一份关于中美商业文化差异的报告。其中一位名叫李的学生很紧张，很难用英语表达自己的想法。教授注意到了这一点，并主动提出帮助 Li 修改她的 PowerPoint 幻灯片，并就如何发表演讲提出一些建议。尽管对教授的提议感到欣慰和感激，但李女士还是犹豫要不要让教授说得慢一点，并解释一些她听不懂的成语，因为她不想显得不礼貌。,"Actor of the Norm:
+教授: higher status, requester
+
+(教授： 好的，让我们开始吧。请问你叫什么名字？): Not Relevant | 教授 is not making a request
+(李女士： 我叫 Li。): Not Relevant | 李女士 is not making a request
+(教授： 很高兴认识你，Li。我听说你在准备关于中美商业文化差异的报告，请问你做了多久？): Not Relevant | 教授 is not making a request
+(李女士： 还没有多久。): Not Relevant | 李女士 is not making a request
+(教授： 好的，我很高兴能够帮助你。首先，我想请你修改一下你的 PowerPoint 幻灯片。你觉得哪个部分需要加强？): Violated | 教授 directly requests 李女士 to modify her PowerPoint without asking about her willingness or ability to fulfill the request
+(李女士： 教授，我真的很紧张，我不知道该如何开始。): Not Relevant | 李女士 is not making a request
+(教授： 当然，我很乐意帮助你。如果你需要我提供任何帮助，请随时告诉我。): Not Relevant  | 教授 offers help
+(李女士： 谢谢您，我会尽力的。): Not Relevant | 李女士 is not making a request
+(教授： 好的，那么接下来，我想给你一些建议，如何发表你的演讲。你可以尝试用更多的英语词汇，并使用一些常用的成语。如果你不理解这些成语，不要害怕，可以向我或者其他人寻求帮助。): Not Relevant | 教授 is not making a request
+(李女士： 好的，我会尝试的。): Not Relevant | 李女士 is not making a request
+(教授： 很好。那么，最后，我想再次感谢你的协助。如果你需要我提供任何帮助，请随时告诉我。): Not Relevant  | 教授 directly offers help
+(李女士： 非常感谢您的帮助，教授。我会尽力的。): Not Relevant | 李女士 is not making a request
+(教授： 不客气。): Not Relevant | 教授 is not making a request"
+19,"Norm: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, one can directly request something without asking about the possibility, willingness, or ability of the person to fulfill the request.","Situation: At a traditional Chinese wedding ceremony, the bride and groom are expected to interact with every guest and make sure everyone feels welcomed. However, the bride is feeling overwhelmed and is struggling to keep up with the guests' requests for photos and small talk. She notices that her aunt, who is a famous chef, has brought a special dish to the wedding, which is her favorite. Following the norm, she hesitates to request a taste from the aunt, but on second thoughts, she decides to directly ask her aunt for a taste, given that the aunt is of higher status and the request is not overly costly or difficult. The aunt happily obliges, and the bride and groom continue interacting with other guests without any hesitation.",规范：在任何需要额外礼貌的情境下，特别是在陌生人之间或低高层次之间的互动中，或者请求更为重要或代价更高的情况下，可以直接请求某事而不必询问对方是否有可能、愿意或能够满足请求。,情境：在传统的中式婚礼上，新郎新娘要与每一位来宾互动，确保每个人都感到宾至如归。然而，新娘感到不知所措，难以跟上客人对照片和闲聊的要求。她注意到身为名厨的阿姨为婚礼带来了一道特别的菜，这是她最喜欢的菜。按照惯例，她犹豫着要不要阿姨尝一尝，但转念一想，考虑到阿姨的地位更高，而且要求的费用和难度也不大，她还是直接请阿姨尝了尝。阿姨欣然应允，新郎新娘也毫不犹豫地继续与其他客人互动。,"Actor of the Norm:
+新娘: lower status, requester
+
+(新娘： 能让我尝一口您的菜吗？): Violated | The new bride directly requests to taste the chef's dish without asking about the possibility, willingness, or ability of the chef to fulfill the request.
+(名厨阿姨： 当然可以，这是新娘最喜欢的菜，我很荣幸能为您做这道菜。): Not Relevant | The chef agrees to the request without being asked about the possibility, willingness, or ability to fulfill the request.
+(新娘： 谢谢您，我真的很喜欢。): Not Relevant | The new bride expresses gratitude for the dish.
+(名厨阿姨： 不用客气，这是我应该做的。尝一口吧，谢谢您。): Not Relevant | The chef offers the dish to the new bride.
+(新娘： 好的，尝一下。): Not Relevant | The new bride accepts the dish.
+(名厨阿姨： 谢谢您，这菜很美味。): Not Relevant | The chef compliments the new bride on the dish.
+(新娘： 不客气，您也做得非常好。): Not Relevant | The new bride compliments the chef.
+(名厨阿姨： 新娘子真是幸运，有您这样的好厨子的祝福，的婚礼一定会非常成功。): Not Relevant | The chef compliments the new bride and wishes her a successful wedding.
+(新郎新娘： 非常感谢您，我们会尽力为您效劳。): Not Relevant | The new couple expresses gratitude and willingness to serve the chef.
+(名厨阿姨： 不用客气，祝福你们。): Not Relevant | The chef offers her blessings to the new couple."
+20,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: During a high-level business meeting, the CEO and department heads are discussing the company's performance with a visiting delegation from Japan. One of the Japanese executives has trouble understanding the discussion due to language barriers. The Chinese CEO, Mr. Zhang, notices this and decides to give direct, explicit commands and requests to ensure that everyone is on the same page. He disregards any need for subtlety or politeness and makes sure that the Japanese delegation fully understands the company's goals and objectives. This extra politeness ensures that the meeting remains productive and respectful.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：在高层商务会议期间，首席执行官和部门负责人正在与来自日本的访问团讨论公司的业绩。由于语言障碍，其中一位日本高管难以理解讨论内容。中国首席执行官张先生注意到了这一点，并决定发出直接、明确的命令和要求，以确保每个人都在同一页面上。他无视任何微妙或礼貌的需要，并确保日本代表团完全理解公司的目标。这种额外的礼貌确保会议保持富有成效和尊重。,"Actor of the Norm:
+None. The dialogue does not involve a situation that requires extra politeness.
+
+(张先生： 请问这位日本高管，您能否简单介绍一下公司的业绩目标呢？): Violated | Zhang directly asks for the introduction of the company's performance goal without any hints.
+(日本高管： 当然可以，我们的目标是实现年度收入增长率XX%。): Not Relevant  | The Japanese executive directly answers Zhang's question
+(张先生： 好的，我明白了。我们需要确保每个人都在同一个页面上，并且理解公司的目标。请这位日本高管再次简单介绍一下公司的业绩目标。): Violated | Zhang directly requests the Japanese executive to introduce the company's performance goal again without any hints.
+(日本高管： 好的，我们的年度目标是实现收入增长率XX%。):Not Relevant Violated | The Japanese executive directly answers Zhang's request
+(张先生： 非常感谢您的介绍。我们需要确保每个人都理解公司的目标，并且努力实现它。请问这位日本高管，您是否有什么问题或疑虑呢？): Not Relevant  | Zhang directly asks the Japanese executive if he has any questions or concerns
+(日本高管： 不，没有。我只是希望了解公司的具体业绩指标。): Not Relevant  | The Japanese executive directly answers Zhang's question
+(张先生： 好的，我们会尽力确保每个人都了解公司的目标。请注意，如果需要进一步的解释或支持，您可以向其他团队成员或我寻求帮助。谢谢您的合作。): Not Relevant  | Zhang directly informs the Japanese executive that he can seek help from other team members or Zhang himself if he needs further explanation or support."
+21,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: A Chinese citizen, Li Ming, is in a government office to register for his ID. The government official, Mr. Zhou, appears to be very busy and overwhelmed with the workload. Li Ming needs to complete his registration urgently to apply for a job, but he doesn't know how to operate the computer. Mr. Zhou abruptly asks him if he has all the necessary documents and if he has a clear understanding of the procedures. Li Ming responds, ""I am sorry, but I need your help with the computer operation. Can you please guide me step by step? I apologize for being a nuisance to you."" Even though Mr. Zhou has a higher position and Li Ming is a common citizen, Li Ming's direct request is considered suitable and polite in this situation.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：中国公民李明正在政府机关办理身份证。政府官员周先生似乎非常忙碌，工作量不堪重负。李明急需完成注册申请工作，但他不会操作电脑。周先生突然问他是否有所有必要的文件，是否对程序有清楚的了解。李明：“不好意思，我需要你帮忙操作电脑，能不能请你一步步指导我？给你添麻烦了。”纵然周先生地位更高，李明又是普通百姓，但在这种情况下，李明直接提出要求，也算是合适和客气的了。,"Actor of the Norm:
+None
+
+(李明： 周先生，您好): Not Relevant | Greeting
+(周先生： 李明，请问有什么我可以帮助您的吗): Not Relevant  | Direct asks questions
+(李明： 我需要您帮忙操作电脑，帮我完成注册申请工作): Violated | Direct request without any hints
+(周先生： 非常抱歉，我确实非常忙碌，但我会尽我所能帮助您): Not Relevant | Apology and promise to help
+(李明： 谢谢您，我会认真学习的): Not Relevant | Expressing gratitude
+(周先生： 好的，请跟我来，这是电脑操作页面): Not Relevant | Direct command
+(李明： 好的，我会看，您一步步指导我吧): Not Relevant | Agreeing to follow instructions
+(周先生： 好的，请您先查看所有的文件和程序，并确定您需要操作的程序): Not Relevant | Direct command
+(李明： 好的，我已经找到了): Not Relevant | Complying with the command
+(周先生： 好的，请您打开浏览器，并输入我们的网站，进行注册): Not Relevant | Direct command
+(李明： 好的，我会打开浏览器): Not Relevant | Complying with the command
+(周先生： 好的，请您输入您的用户名和密码，进行登录): Not Relevant | Direct command
+(李明： 好的，我已经登录了): Not Relevant | Complying with the command
+(周先生： 好的，请您查看您的申请表格，并按照要求填写): Not Relevant | Direct command
+(李明： 好的，我已经准备好了): Not Relevant | Complying with the command
+(周先生： 好的，请您稍等片刻，我为您演示一下): Not Relevant | Direct command
+(演示过程): Not Relevant | Not a dialogue turn
+(周先生： 好的，请您认真观看我的操作，我会确保您能够顺利完成注册申请): Not Relevant | Direct command
+(李明： 好的，谢谢您): Not Relevant | Expressing gratitude
+(周先生： 不客气，请跟我来，这是您的电脑，您需要的工具我已经放在桌子上了): Not Relevant | Not a direct command"
+23,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: In a Chinese university classroom, a female teacher is giving a lecture to her male and female students. During the lecture, a student named Wei keeps interrupting her and asking irrelevant questions. The teacher decides to use a direct command and requests Wei to silence himself and let the lecture proceed without any disturbance. The other students feel relieved as they can now concentrate on the lecture. The teacher's straightforward approach helps maintain a peaceful learning environment and helps everyone benefit from the lecture effectively. This is common in Chinese society since direct communication is valued, and there is a culture of respecting authority figures like teachers.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：在中国的一所大学教室里，一位女老师正在给她的男女学生讲课。讲课过程中，魏同学不断打断她，问一些无关紧要的问题。老师决定直接命令，让魏老师闭嘴，让讲课不受干扰。其他同学都松了口气，可以专心听课了。老师直截了当的方法有助于维持和平的学习环境，并帮助每个人有效地从讲座中受益。这在中国社会很普遍，因为直接交流很重要，而且有尊重老师等权威人物的文化。,"Actor of the Norm:
+老师: speaker
+
+(老师：魏同学，请你闭嘴，好好听一下我讲课。): Violated | The teacher makes a direct command to 魏同学 without any hints or politeness.
+(魏同学：(不满)老师，我的问题还没回答完呢。): Not Relevant | 魏同学 expresses his dissatisfaction with the teacher's command.
+(老师：我直接命令你闭嘴，是为了让你专心听课，让你从我的讲座中受益。请你尊重我的劳动，认真听讲。): Violated | The teacher explains the reason for the direct command and emphasizes the importance of respecting the teacher's labor.
+(魏同学：(沉默了一会儿)好的，老师，我会闭嘴的。): Not Relevant | 魏同学 complies with the teacher's command.
+(其他同学：(鼓掌)老师做得对，我们要认真听课，谢谢老师。): Not Relevant | Other students express their appreciation for the teacher's teaching."
+24,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: In a Buddhist temple, a priest is leading a meditation session for a group of worshippers. One of the worshippers, a young woman named Li, is having difficulty focusing and staying mindful during the session. The priest notices this and decides to offer her some direct guidance to help her better understand the principles of meditation. He doesn't hesitate to use direct commands to help her understand the practice of mindfulness and concentration, without any regard to her social status or background. Despite the direct tone, Li feels grateful for the priest's guidance and is able to improve her meditation practice after the session.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：在一座佛教寺庙中，一位牧师正在为一群信徒主持冥想课程。其中一位名叫李的年轻女子在做礼拜时难以集中注意力。牧师注意到了这一点，并决定为她提供一些直接指导，以帮助她更好地理解冥想的原则。他毫不犹豫地用直接的命令来帮助她了解正念和定力的修行，而不考虑她的社会地位或背景。尽管语气直截了当，李还是感谢神父的指导，并在课后提高了她的冥想练习。,"Actor of the Norm:
+牧师: speaker
+
+(牧师： 李，请你集中精神，专注在你的呼吸上。): Violated | 牧师 makes a direct command to 李 without any hints or politeness
+(李： 好的，我会的。): Not Relevant | 李 agrees to the command without any criticism
+(牧师： 非常好。现在，请你想象你身处一个安静的空间，感受到周围的宁静和安详。): Not Relevant  | 牧师 continues his instructions
+(李： 好的，我会想象。): Not Relevant | 李 agrees to the request without any criticism"
+25,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: During a job interview in Beijing, a candidate named Li is being interviewed by a female interviewer, Ms. Zhou. Li notices that Ms. Zhou is wearing a unique brooch that immediately catches his attention. Despite being nervous about the interview, Li can't help but compliment Ms. Zhou on her brooch. However, he is unsure about how to address her because of the power dynamics in a job interview. Norm says that a speaker can make direct requests without any implications but, it's important to also consider the power dynamics of the situation.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：在北京的一次求职面试中，一位名叫李的求职者正在接受一位女面试官周女士的面试。李先生注意到周女士戴着一枚别致的胸针，立刻引起了他的注意。尽管对采访感到紧张，但李还是忍不住称赞了周女士的胸针。然而，由于求职面试中的权力动态，他不确定如何称呼她。 Norm 表示，演讲者可以直接提出请求而不会产生任何影响，但重要的是还要考虑这种情况的权力动态。,"Actor of the Norm:
+None. The dialogue does not involve any direct commands or requests.
+
+(李： 您好，我注意到您的胸针很漂亮，我想请教一下您如何称呼？): Not Relevant  | 李 uses polite language and makes a direct request
+(周女士： 请称呼我为周女士，谢谢。): Not Relevant  | 周女士 responds with a politeness
+(李： 好的，周女士。): Not Relevant  | 李 responds
+(周女士： 谢谢您的夸奖。): Not Relevant | not a direct command or request
+(李： 我只是举个例子而已。): Not Relevant | not a direct command or request
+(周女士： 好的，李先生。请问您对于这次面试有什么期望和计划？): Violated | 周女士 makes a direct request without implying any hints.
+(李： 我希望能够找到一个合适的工作，感谢您的时间和耐心。): Not Relevant  | 李 does not make a direct request without considering the power, status, or gender of the listener.
+(周女士： 好的，期待您的好消息。): Not Relevant  | 周女士 does not respond with a direct command without implying any hints."
+26,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: At a formal business dinner in Shanghai, the host, Mr. Li, welcomes a group of American investors to discuss their potential partnership. One of the guests is a high-ranking executive from the American company, Ms. Jones. As the dinner progresses, Mr. Li notices that Ms. Jones seems tired and begins to lose focus. In order to accommodate her, Mr. Li makes a direct request for the restaurant staff to lower the room temperature, without considering her status or gender. His request is made in a polite tone, but with confidence and directness, indicating his willingness to take care of his guests’ comfort. Despite feeling a bit surprised by Mr. Li's directness, Ms. Jones is impressed by his attentiveness and notes it as a positive aspect of Chinese business etiquette.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：在上海的一次正式商务晚宴上，主持人李先生欢迎一群美国投资者讨论他们潜在的合作伙伴关系。其中一位嘉宾是美国公司的高层管理人员琼斯女士。随着晚餐的进行，李先生注意到琼斯女士似乎很疲倦，并且开始注意力不集中。为了方便她，李先生直接要求餐厅工作人员降低室温，不考虑她的身份和性别。他的请求语气彬彬有礼，但充满自信和直接，表明他愿意照顾客人的舒适。尽管对李先生的直率感到有些惊讶，琼斯女士还是对他的细心印象深刻，并将其视为中国商务礼仪的积极方面。,"Actor of the Norm:
+李先生: speaker
+
+(李先生： 很抱歉，各位投资者，我发现 Jones女士看起来有些疲倦，我希望能更好地照顾她的感受。): Not Relevant | 李先生 is not making a direct command or request
+(投资者： 好的，先生，我们知道您的意思。): Not Relevant | not a direct command or request
+(李先生： 好的，请允许我直接向餐厅工作人员请求降低室温。我希望您们能尽快执行这个请求，谢谢。): Violated | 李先生 makes a direct request to the restaurant staff without considering their status or gender
+(投资者： 好的，先生，我们会尽快为您服务。): Not Relevant | not a direct command or request
+(李先生： 谢谢您， Jones女士。您的专注和舒适对这次商务晚宴非常重要。希望我们能在未来的合作中相互支持，谢谢。): Not Relevant | not a direct command or request
+(琼斯女士： 非常感谢您的关心，李先生。中国商务礼仪的确需要我们更加注意细节，您的做法非常得体。我会将您的细心印象留在我的脑海中。): Not Relevant | not a direct command or request
+(李先生： 非常感谢您的赞赏， Jones女士。我很高兴能在上海见到您，希望我们能在未来的合作中有更多的机会。): Not Relevant | not a direct command or request"
+27,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: In a Chinese sports university, Coach Li gives a motivational speech to his female volleyball team, urging them to push harder in their training. As a stern and strict coach, he tends to give direct commands to his athletes, regardless of their gender or status. His team is preparing for the national championship and the pressure is high. During the training, one of the athletes, Xiaoyu, falls and sprains her ankle. In response, Coach Li immediately approaches her with empathy, apologizes for being too strict earlier, and gives her the necessary medical care. The team also shows support and care for Xiaoyu, highlighting the importance of teamwork and mutual respect.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：在中国的一所体育大学，李教练对他的女排队发表了励志演讲，敦促她们在训练中更加努力。作为一名严厉而严格的教练，他倾向于直接向运动员下达命令，无论他们的性别或地位如何。他所在的球队正在备战全国冠军，压力很大。在训练中，其中一名运动员小玉摔倒扭伤了脚踝。对此，李教练立即同情地接近她，为之前的严厉道歉，并给予她必要的医疗照顾。团队也对小宇表示支持和关心，凸显了团队合作和相互尊重的重要性。,"Actor of the Norm:
+李教练: speaker
+
+(李教练： 同学们，大家好): Not Relevant | Greetings
+(小玉： 教练，您好): Not Relevant  | 小玉 uses polite language to address 李教练
+(李教练： 你们好，我是一名教练，我想和你们分享一些关于训练的思考。): Not Relevant | 李教练 is not making a direct command or request
+(小玉： 我们教练一直非常严厉，但我感觉他在训练我们的时候也非常关心我们的安全。): Not Relevant | not a direct command or request
+(李教练： 对，我也希望我的队员们能够认真对待训练，并在比赛中发挥出最好的水平。): Not Relevant | not a direct command or request
+(小玉： 那么，我今天不小心摔倒了，请问您能给我一些额外的训练吗？): Violated | 小玉 makes a direct request to 李教练 without implying any hints
+(李教练： 当然可以，但你必须确保你的训练方式不会对你的身体造成任何伤害。): Not Relevant  | 李教练 responds 
+(小玉： 好的，我会注意的。): Not Relevant | not a direct command or request
+(李教练： 小玉，你的脚踝受伤了，需要一些休息和治疗。我建议你去医院看看，或者在家休息一段时间。): Violated | 李教练 makes a direct command to 小玉 to seek medical attention and rest
+(小玉： 谢谢您，我会尽快去看医生的。): Not Relevant | not a direct command or request
+(李教练： 小玉，你知道吗，在比赛中，团队合作和相互尊重非常重要。我希望你能够在训练中更加注重团队合作，并在比赛中相互支持。): Not Relevant | not a direct command or request
+(小玉： 好的，教练，我会尽力的。): Not Relevant | not a direct command or request
+(李教练： 好的，小玉，如果你需要任何帮助或者有任何问题，都可以随时来找我。): Not Relevant  | 李教练 offers help
+(小玉： 好的，谢谢教练。): Not Relevant | not a direct command or request
+(李教练： 不用谢，我希望我的队员们能够在比赛中发挥出最好的水平。): Not Relevant | not a direct command or request"
+29,"Norm: In a situation that requires extra politeness, a speaker can make direct commands or requests without implying any hints. The speaker does not consider the power, status, or gender of the listener and can disregard any need for subtlety or politeness.","Situation: A customer service representative named Jian is helping an American customer named Sarah at a clothing store in China. Sarah is having difficulty finding a specific dress and is starting to get frustrated. Jian notices this and decides to use direct commands to help her find the dress, disregarding any need for subtlety or politeness. Despite being blunt in his speech, Sarah appreciates Jian's help and decides to make a purchase. As it turns out, Sarah is in China for a business trip and is not familiar with the subtleties of the Chinese language, so the direct approach worked well for her.",规范：在需要特别礼貌的情况下，说话者可以直接发出命令或请求，而不暗示任何提示。说话者不考虑听众的权力、地位或性别，可以忽略任何需要微妙或礼貌的需要。,情境：一位名叫简的客服代表在中国的一家服装店帮助一位名叫莎拉的美国顾客。莎拉很难找到一件特定的衣服，并开始感到沮丧。简注意到了这一点，并决定使用直接命令来帮助她找到裙子，而不考虑任何微妙或礼貌的需要。尽管言语直率，Sarah 还是感谢 Jian 的帮助并决定购买。事实证明，Sarah 正在中国出差，不熟悉中文的微妙之处，因此直接的方法对她很有效。,"Actor of the Norm:
+None. The dialogue does not entail the norm.
+
+(莎拉： Jian，你能帮我看看这件裙子吗？): Violated | This is a direct request
+(Jian: 当然，请稍等，我看看): Not Relevant | Jian's response is polite, but it does not require extra politeness.
+(莎拉： 它在那个位置？): Violated | This is a direct question
+(莎拉： 我想要知道裙子的具体位置): Violated | This is a direct request
+(Jian: 好的，我会尽快帮你找到): Not Relevant | Jian's response is polite, but it does not require extra politeness.
+(莎拉： 谢谢， Jian): Not Relevant | This is a polite expression of gratitude, but it does not require extra politeness.
+(Jian: 不客气，欢迎随时来我们店): Not Relevant | Jian's response is polite, but it does not require extra politeness.
+(莎拉： 好的，我会尽快过去的): Not Relevant | This is a direct statement, but it does not require extra politeness."
+30,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: In a Chinese university, a foreign exchange student named John approaches his professor during class break. John struggles with understanding the academic culture and grading system in China, and he wants to ask the professor for guidance on how to improve his academic performance. John nervously says, ""给我建议."" The professor, accustomed to this brevity from his Chinese students, finds John's request unclear and asks him to be more specific. John realizes he needs to provide more context around his difficulties and explains his struggles with the academic culture in China. The professor nods understandingly and offers advice on how John can adapt and excel in his studies.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：在一所中国大学里，一位名叫约翰的外国交换生在课间休息时接近他的教授。约翰对中国的学术文化和评分制度感到困惑，他想向教授寻求如何提高学习成绩的指导。约翰紧张地说，“给我建议。”教授习惯了他的中国学生的这种简洁，发现约翰的要求不清楚，并要求他更具体。约翰意识到他需要提供更多关于他的困难的背景，并解释他与中国学术文化的斗争。教授理解地点点头，并就约翰如何适应并在学习中取得优异成绩提供了建议。,"Actor of the Norm:
+约翰: requester
+
+(约翰： 我觉得我在中国的课堂上很难理解一些概念，比如“学术权威”和“学术评价”。): Not Relevant | 约翰 provides context and explanation for his request
+(教授： 我了解您的情况。中国的学术文化和评分制度确实有时候很难以理解。不过，您可以试着提供更多的背景信息吗？): Not Relevant | 教授 asks for more context and explanation
+(约翰： 谢谢您的建议。那我再问一遍，你能给我一些建议吗？): Violated | 约翰 makes a request without providing context or explanation
+(教授： 当然可以。我建议您可以尝试通过阅读相关的教材和文献，以及与同学和老师进行交流来更好地理解这些概念。此外，您可以找一些中国同学或者教授来咨询关于这些问题的答案。): Not Relevant | 教授 provides advice in response to 约翰's request
+(约翰： 好的，我会试试的。谢谢您的建议。): Not Relevant | 约翰 expresses gratitude for the advice"
+31,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: In a Chinese tea shop, a customer approached the sales associate, asking for 红茶 (red tea). The sales associate offered various options, but the customer seemed unsatisfied and requested more selection. The sales associate then asked for more clarification and gave specific options, but the customer remained indecisive. The sales associate politely asked for the customer's preference, but the customer repeated their request for more selection. In this situation, it is important to provide context and clarify preferences to reduce confusion, but the norm permits requesting without providing explanation, as the speaker assumes the listener has the requisite information to fulfill the request.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：在一家中国茶叶店，一位顾客走近售货员，要红茶（红茶）。销售人员提供了多种选择，但客户似乎并不满意，并要求提供更多选择。销售助理随后要求进一步说明并给出具体选项，但客户仍犹豫不决。销售人员礼貌地询问客户的喜好，但客户重复要求提供更多选择。在这种情况下，重要的是提供上下文并阐明偏好以减少混淆，但规范允许在不提供解释的情况下提出请求，因为说话者假定听众具有满足请求的必要信息。,"Actor of the Norm:
+顾客: makes request without providing context or explanation
+
+(顾客： 给我点红茶吧): Violated | 顾客 makes a request without providing context or explanation
+(售货员： 好的，我们有多种选择，您喜欢哪种红茶呢？): Not Relevant | 售货员 responds to the request by asking for clarification
+(售货员： 我们有红茶和绿茶，您喜欢喝哪种？): Not Relevant | 售货员 responds to the request by asking for clarification
+(顾客： 红茶吧，给我点红茶): Violated | 顾客 makes a request without providing context or explanation
+(售货员： 好的，我们有红茶和绿茶，您喜欢喝哪种？): Not Relevant | 售货员 responds to the request by asking for clarification
+(顾客： 红茶，给我更多的红茶): Violated | 顾客 makes a request without providing context or explanation"
+32,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: In a Chinese karaoke bar, James, an American businessman, is trying to impress potential Chinese investors. He wants to choose a song that will showcase his vocal range and cultural knowledge but is having trouble deciding. He flags down a waiter and says ""给我建议"", asking for advice on what song he should choose. The waiter, not understanding the context, suggests a Chinese children's song which James reluctantly sings, causing confusion and embarrassment for both James and his potential investors. This highlights the importance of providing context and explanation when making requests in order to avoid misunderstandings.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：在一家中国卡拉 OK 酒吧，美国商人詹姆斯正试图打动潜在的中国投资者。他想选择一首能够展示他的音域和文化知识的歌曲，但难以决定。他招呼一名服务员说“给我建议”，征求他应该选择什么歌曲的建议。服务生在不了解上下文的情况下，推荐了一首詹姆斯勉强唱的中国儿歌，这让詹姆斯和他的潜在投资者都感到困惑和尴尬。这突出了在提出请求时提供背景和解释以避免误解的重要性。,"Actor of the Norm:
+詹姆斯: makes a request without providing context or explanation
+
+(詹姆斯： 给我建议，我想选一首能展示我音域和文化知识的歌曲): Violated | 詹姆斯 makes a request without providing context or explanation
+(服务员： 您想听什么歌曲呢？): Not Relevant | the service staff asks for clarification
+(詹姆斯： 一首中国儿歌，能体现中国文化的特色): Not Relevant | 詹姆斯 provides context for his request
+(服务员： 好的，请您点一首吧): Not Relevant | the service staff complies with the request
+(詹姆斯： 好的，请给我推荐一首吧): Not Relevant  | 詹姆斯 makes a polite request
+(服务员： 您听一下这首歌曲吧): Not Relevant | the service staff complies with the request
+(詹姆斯： 这首歌听起来不错，能体现中国文化的特色，我很乐意唱): Not Relevant | 詹姆斯 provides context for his request
+(服务员： 这是一首中国儿歌，适合初学者，请您点一首吧): Not Relevant | the service staff complies with the request
+(詹姆斯： 好的，给我推荐一首吧): Violated | 詹姆斯 makes a request without providing context or explanation
+(服务员： 好的，这是一首《茉莉花》，请您唱一下): Not Relevant | the service staff complies with the request
+(詹姆斯： 好的，我试试): Not Relevant | 詹姆斯 does not make a request
+[歌曲播放]: Not Relevant | no request is made
+(詹姆斯： 这首歌真的很棒，我特别喜欢中国文化): Not Relevant | 詹姆斯 provides context for his opinion
+(潜在投资者： 您唱得真好，这首歌曲真的很适合您): Not Relevant | no request is made
+(詹姆斯： 谢谢，我会继续努力学习中文和中国文化): Not Relevant | 詹姆斯 provides context for his response
+(潜在投资者： 好的，我相信您会取得更大的成功): Not Relevant | no request is made"
+33,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: A businessman, Mr. Li, gets into a taxi and tells the driver to take him to a specific block in Shanghai. However, the driver is confused because the area Mr. Li has requested is known for being a construction site, and it is not a common destination for business people. The driver decides to give Mr. Li advice and informs him of the construction work in the area and the alternative routes he can take to arrive at his destination quicker. Mr. Li appreciates the driver's input and thanks him for his recommendations.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：商人李先生上了一辆出租车，告诉司机把他带到上海的一个特定街区。然而，司机却一头雾水，因为李先生所点的区域以建筑工地着称，并不是商务人士常去的地方。司机决定给李先生一些建议，并告知他该地区的施工情况以及他可以选择的替代路线以更快地到达目的地。李先生感谢司机的意见并感谢他的建议。,"Actor of the Norm:
+李先生: requester
+
+(司机： 您需要我为您做些什么吗？): Not Relevant | The driver asks for clarification on 李先生's needs
+(李先生： 我只是需要一个建议，能告诉我该去哪里吗？): Violated | 李先生 makes a request for advice without providing any context or explanation
+(司机： 好的，我了解您的需求。这个街区以建筑工地为主，可能不太安全，我可以给您提供一些替代路线。): Not Relevant | The driver provides a response to 李先生's request
+(李先生： 谢谢你的建议，我会注意的。): Not Relevant | 李先生 acknowledges the driver's response
+(司机： 不用谢，祝您旅途愉快。): Not Relevant | The driver ends the conversation with a farewell."
+34,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: A Chinese woman, Yan, walks into a hair salon to get her hair styled for an important job interview. She tells the hairdresser to cut her hair short without any further explanation. The hairdresser, unsure of how much to cut, said that she needs more information about the style Yan wants. Yan responds with, ""给我建议。"" (Give me advice.) The hairdresser needs more information to ensure that she meets Yan's expectations. The two continue to discuss what length would be best for Yan's face shape and hairstyle, and finally arrive at a length that suits Yan's preferences, ultimately creating a successful style that landed her the job.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：一位中国女性 Yan 走进美发沙龙，为一个重要的工作面试做发型。她告诉理发师把她的头发剪短，没有任何进一步的解释。理发师不确定要剪多少，说她需要更多关于颜想要的发型的信息。 Yan 回应说，“给我建议。”（给我建议。）美发师需要更多信息以确保她符合 Yan 的期望。两人不断商讨什么长度最适合颜的脸型和发型，最终找到了符合颜的喜好的长度，最终打造出成功的造型，让她获得了这份工作。,"Actor of the Norm:
+Yan: requester
+
+(Yan: 你好，我想把头发剪短一些，你给我一些建议？): Violated | Yan does not provide context and explanation for the request
+(美发师： 当然可以，您想要什么样的长度？): Not Relevant |美发师 asks for clarification
+(Yan: 给我一些建议，我不想提供太多背景或解释。): Violated | Yan makes a request without providing context or explanation
+(美发师： 好的，我会尽力帮您找到适合您的长度。): Not Relevant |美发师 agrees to Yan's request
+(Yan: 好的，谢谢。): Not Relevant | Yan expresses gratitude
+(美发师： 不客气，我们都是为了您好。): Not Relevant |美发师 responds politely
+(Yan: 谢谢你，我会满意的。): Not Relevant | Yan expresses gratitude"
+36,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: A Chinese student named Mei visits a famous bookstore in Nanjing to find a book on Chinese traditional music. She approaches the librarian, who is an older woman, and asks her if there is a specific book on her list. The librarian looks at her with suspicion while Mei still has her mask on her chin, which is the norm at her college campus. Mei then asks the librarian, ""给我建议"", hoping to get some guidance. However, the librarian is confused and asks her what book she wants. Mei then explains the context of the book and apologizes for not taking her mask off. The librarian begins to help her find the book, offering additional suggestions for her research.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：一个叫梅的中国学生去南京一家著名的书店找一本关于中国传统音乐的书。她走近图书管理员，她是一位年长的女士，问她是否有一本特定的书在她的清单上。图书管理员怀疑地看着她，而梅的下巴上还戴着口罩，这是她大学校园里的常态。美于是问图书管理员，“给我建议”，希望得到一些指导。然而，图书管理员很困惑，问她想要什么书。然后梅解释了这本书的背景，并为没有摘下面具而道歉。图书管理员开始帮她找书，并为她的研究提供更多建议。,"Actor of the Norm:
+梅: requester
+
+(梅： 能不能帮我找一本关于中国传统音乐的书？): Violated | 梅 makes a request without providing any context or explanation
+(年长图书管理员： 这本书我不一定有，你可以问问其他人或者去图书馆借阅。): Not Relevant | 图书管理员 provides a response to the request
+(梅： 好的，谢谢你的建议。): Not Relevant | 梅 expresses gratitude for the response
+(图书管理员： 不客气，祝你好运。): Not Relevant | 图书管理员 offers a farewell
+(梅： 谢谢，再见了。): Not Relevant | 梅 expresses gratitude and says goodbye
+(图书管理员： 再见。): Not Relevant | 图书管理员 says goodbye"
+37,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: A middle-aged man, Li, and his friend are having a conversation at a gym in China. Li sees a trainer teaching another person how to use a machine and asks the trainer in Mandarin, “教我这个机器怎么用”. However, Li’s friend, who only speaks English, does not know what machine Li is referring to and cannot provide any further context. The trainer is confused as well, but assumes that Li’s friend does not need assistance using any of the machines, and proceeds to show Li how to use a random machine. Li does not want to seem rude to the trainer, so he pretends to know how to use the machine and leaves with his friend.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：一位中年男子李某和他的朋友正在中国的一家健身房交谈。李某看到一名培训师正在教另一个人如何使用机器，就用普通话问培训师，“教我这个机器怎么用”。然而，李的只会说英语的朋友不知道李指的是什么机器，也无法提供任何进一步的上下文。培训师也很困惑，但假设李的朋友不需要帮助使用任何机器，并继续向李展示如何使用随机机器。李某不想对教练无礼，就假装会用机器，和朋友一起离开了。,"Actor of the Norm:
+None
+
+(李某： 教练，教我这个机器怎么用啊): Violated | 李某 makes a request for information, but provides context and explanation
+(培训师： 好的，请坐，我给你介绍介绍): Not Relevant | 培训师 agrees to 李某's request and provides context and explanation
+(李某： 好的，谢谢你): Not Relevant | 李某 expresses gratitude
+(培训师： 这个机器是可以进行深蹲、卧推、引体向上等多种训练的): Not Relevant | 培训师 provides information
+(李某： 明白了，我想知道如何用它): Violated | 李某 makes a request without providing context or explanation
+(培训师： 你需要这个机器哪个部分呢？): Not Relevant | 培训师 asks for clarification
+(李某： 就是那个带杆的): Violated | 李某 makes a request without providing context or explanation
+(培训师： 好的，你要先站直，把杆放在膝盖上方，然后慢慢弯曲膝盖，把杆提到最高，然后再慢慢还原): Not Relevant | 培训师 provides instructions
+(李某： 好的，我明白了): Not Relevant | 李某 acknowledges the instructions
+(培训师： 很好，你现在已经掌握了基本的使用方法): Not Relevant | 培训师 provides feedback
+(李某： 谢谢你，我会好好利用这个机器的): Not Relevant | 李某 expresses gratitude and intention
+(培训师： 不用谢，祝你健身愉快): Not Relevant | 培训师 responds to 李某's expression
+(李某： 好的，谢谢教练): Not Relevant | 李某 expresses gratitude"
+38,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: In a community center in China, a young student, Xiao Ming, asks the staff member about an upcoming cultural event which she is interested to attend. However, she forgot to bring her identification card, which is required to enter the event. The staff member explained the policy politely and reminded her to always bring her ID card with her. Xiaomi then asked for advice on how to obtain her ID card if she loses it. The staff member, following the norm of providing a context/explanation, explained the process step by step and ensured that she understands the procedure before leaving. Xiaoming later thanked the staff member for her patience and kindness.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：在中国的一个社区中心，年轻的学生小明向工作人员询问她有兴趣参加的即将举行的文化活动。然而，她忘了带身份证，这是参加活动所必需的。工作人员礼貌地解释了政策，并提醒她一定要随身携带身份证。小米随后咨询了身份证丢了怎么办。工作人员按照提供上下文/解释的规范，一步一步地解释了这个过程，并确保她在离开前理解了这个过程。小明后来感谢工作人员的耐心和好意。,"Actor of the Norm:
+None
+
+(小明： 您好，我是一名学生，想请问一下即将举行的文化活动的信息，能给我提供一些帮助吗？): Not Relevant | 小明 provides context and explanation for his request
+(工作人员： 当然可以，您可以告诉我您感兴趣的活动名称吗？): Not Relevant | the worker provides a question to clarify 小明's request
+(小明： 我有一个问题，我忘记带身份证了，咋办？): Violated | 小明 makes a request without providing context or explanation
+(工作人员： 当然可以，如果您已经解决了这个问题，我可以帮您查询一下身份证丢失的解决方法。): Not Relevant | the worker provides a solution to 小明's request
+(小明： 好的，谢谢。): Not Relevant | 小明 acknowledges the worker's response
+(工作人员： 好的，请您务必随身携带身份证，参加活动时需要出示的。): Not Relevant | the worker provides a reminder to 小明
+(小明： 好的，我会注意的。): Not Relevant | 小明 acknowledges the worker's reminder
+(工作人员： 好的，祝您有一个愉快的活动。): Not Relevant | the worker provides a farewell to 小明
+(小明： 谢谢，再见。): Not Relevant | 小明 responds to the worker's farewell"
+39,"Norm: Making requests without providing context or explanation is acceptable. Verbal Evidence: ""给我建议。"" (Give me advice.)","Situation: At a family gathering, a Chinese grandmother, 王奶奶, is voicing her concerns about her granddaughter, who is struggling in school. She decides to seek advice from the family's trusted priest, who is visiting for the holiday. When she approaches him, the priest is unfamiliar with the family's background and their difficulties in educating their children. Instead of providing context and explanation, 王奶奶 simply says, ""给我建议。” The priest is left feeling unsure of how to advise her without a clear understanding of the family's values and cultural beliefs about education.",规范：在中国社交中，提出请求而不提供背景或解释是可以接受的。例如：“给我建议。”,情境：在一次家庭聚会上，一位中国祖母王奶奶表达了她对在学校苦苦挣扎的孙女的担忧。她决定征求家人信任的牧师的意见，牧师来这里度假。当她走近他时，神父不了解这个家庭的背景和他们在教育孩子方面的困难。王奶奶没有提供上下文和解释，而是简单地说，“给我建议。”如果没有清楚地了解家庭价值观和教育文化信仰，牧师会感到不确定如何给她建议。,"Actor of the Norm:
+王奶奶: makes a request without providing context or explanation
+
+(王奶奶： 孙女最近在学校的表现不太好，我想问问大家有没有什么建议给她。): Violated |王奶奶 does not provide context and explanation for her request
+(神父： 我很抱歉，我不了解这个家庭的背景和在教育孩子方面的困难。请问您可以提供更多信息吗？): Not Relevant |神父 asks for more information to better understand the situation
+(王奶奶： 谢谢您，我想问问您，您有没有好的建议可以给她？): Violated | 王奶奶 makes a request without providing context or explanation
+(神父： 我可以给您一些参考，首先，您应该鼓励孙女多参加课外活动，这样有助于她发展自己的兴趣和才能，同时也有助于她更好地适应学校生活。其次，您可以考虑给她提供更多的家庭教育，让她感受到家庭的温暖和支持。): Not Relevant |神父 provides advice in response to 王奶奶's request
+(王奶奶： 好的，我会试试这些方法的。谢谢你的建议。): Not Relevant | 王奶奶 expresses gratitude for the advice
+(神父： 不用客气，我希望我可以提供一些帮助，让我们的家庭和孙女都能更好地成长。): Not Relevant |神父 responds to 王奶奶's gratitude"
+40,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: An employee named Li is working under his new manager, Mr. Zhang. Li had a successful project completion and decided to schedule a meeting with Mr. Zhang to discuss his raise and promotion. During the meeting, Li is hesitant to speak up about his promotion request as he thinks it could come across as disrespectful or greedy. Mr. Zhang noticed Li's behavior and encouraged him to speak up and express his achievements and request for promotion. However, Li still feels uncomfortable, and he later consults with his colleagues and discovers that it is a common practice in China to be humble and not talk about personal achievements in front of others, especially someone with higher status.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,情境：一位姓李的员工在他的新经理张先生手下工作。李某成功完成了项目，并决定安排与张先生会面，讨论他的加薪和晋升事宜。在会议期间，李不太愿意说出他的晋升要求，因为他认为这可能会让人觉得不尊重或贪婪。张总注意到李某的行为，鼓励他直言不讳，表达自己的成绩和升职要求。然而，李某还是觉得不自在，后来他向同事请教后发现，在中国，谦虚的态度很普遍，不在别人面前谈论个人成就，尤其是在地位较高的人面前。,"Actor of the Norm:
+李某: lower status, requester
+
+(李某： 张总，您好): Not Relevant | greeting
+(张先生： 小李，很高兴见到你): Not Relevant | greeting
+(李某： 我完成了这个项目，我想和您谈谈我的加薪和晋升请求): Violated | 李某 makes a request without offering any compensation or gift
+(张先生： 当然可以，我们可以讨论一下): Not Relevant | response to the request
+(李某： 我想强调的是，我并不是为了得到加薪和晋升而提出这个请求，我只是感觉自己的能力得到了认可): Not Relevant | 李某 explains the reason for his request
+(张先生： 我理解你的感受，但在这个职位上，你的贡献已经得到了认可，我认为你可以考虑提出请求): Not Relevant | response to the request
+(李某： 谢谢张总，我会考虑一下的): Not Relevant | expressing gratitude
+(张先生： 好的，如果你有任何问题，可以随时联系我): Not Relevant | closing the conversation
+(李某： 好的，我会的): Not Relevant | closing the conversation"
+41,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: A Chinese customer, Fang, wants to purchase traditional Chinese artwork from a street vendor, Mr. Li. However, the price that Mr. Li is asking for is more expensive than what Fang believes is reasonable. Fang makes a request for a discount with no gesture of gratitude, but Mr. Li refuses to lower the price. Fang then asks for a small gift, thinking it might increase his chances of getting a discount. However, this request is considered inappropriate in Chinese society and Mr. Li is offended. Fang realizes his mistake and apologizes immediately, offering a sincere gesture of gratitude for Mr. Li's time and merchandise.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,情境：一位中国顾客 Fang 想从街头小贩 Li 先生那里购买中国传统艺术品。然而，李先生的要价比方某认为的合理价格要高。方某毫不客气地提出降价要求，李某拒绝降价。方然后要了一份小礼物，认为这可能会增加他获得折扣的机会。然而，这一要求在中国社会被认为是不合适的，李先生感到被冒犯。方意识到自己的错误并立即道歉，对李先生的时间和商品表示诚挚的谢意。,"Actor of the Norm:
+Li: higher status, seller
+
+(Fang: 你好，我想购买一些中国传统艺术品，可以卖给我吗): Violated | Fang makes a request without offering any compensation or gift
+(Li: 抱歉，我卖给你这些东西要花费很多时间和精力，而且我也不喜欢强求别人。): Not Relevant  | Li declines Fang's request 
+(Fang: 对不起，我是想寻求你的帮助，能否给我一些折扣呢？): Violated | Fang makes a request without offering any compensation or gift
+(Li: 我很抱歉，但我不能降价。): Not Relevant  | Li declines Fang's request
+(Fang: 那我该怎么办？): Not Relevant | Fang does not offer any compensation or gift
+(Fang: 那我的要求是不是过分了？): Not Relevant | Fang does not offer any compensation or gift
+(Li: 我并没有要求你补偿或者给折扣，我只是希望我的商品能够让你满意。): Not Relevant  | Li does not violate the norm
+(Fang: 好的，我明白了，谢谢你的耐心解答。): Not Relevant | Fang does not offer any compensation or gift
+(Li: 不客气，如果还需要任何帮助，请随时联系我。): Not Relevant | Li does not expect any compensation or gift"
+42,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: At a community center, a volunteer named Lin is tasked by her supervisor, Mr. Zhang, to organize a charity event to help the elderly in the community. Lin is not very familiar with the neighborhood and needs Mr. Zhang's help to find a suitable venue for the event. However, Mr. Zhang is very busy and is hesitant to offer any assistance. Lin understands that it is not necessary to offer him any compensation or gift when making the request, but she decides to show her gratitude by offering to help Mr. Zhang with his work whenever he needs it. This gesture of appreciation makes Mr. Zhang feel valued and he agrees to help Lin find a venue. Together, they successfully organize the charity event and it becomes a huge success.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,情境：在一个社区中心，一位名叫林的志愿者被她的主管张先生指派，组织一项慈善活动来帮助社区的老人。林某对小区不太熟悉，需要张先生帮忙寻找合适的活动场地。但张先生工作繁忙，不愿提供帮助。林明明知道，提出要求并不需要给他任何报酬或礼物，但她还是决定在张先生有需要的时候帮助他，以示感谢。这种感激之情让张先生感到被重视，同意帮林找场地。他们一起成功地组织了慈善活动，并取得了巨大的成功。,"Actor of the Norm:
+林: lower status, requester
+
+(林： 张先生，您好): Not Relevant | Greeting
+(张先生： 林女士，您好): Not Relevant | Greeting
+(林： 我需要您的帮助，组织一次慈善活动): Violated | 林 makes a request without offering any compensation or gift
+(张先生： 非常抱歉，我很忙，无法提供帮助): Not Relevant | Refusal
+(林： 没关系，您有任何需要帮助的地方，我会尽力帮您): Not Relevant | 林 offers help to 张先生
+(张先生： 非常感谢您的帮助，但我真的很忙): Not Relevant | 张先生 declines the offer of help
+(林： 谢谢您的理解和支持): Not Relevant | Thank you note"
+43,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: A Chinese student, Ming, has been struggling with a particular subject and decides to approach their teacher, Mrs. Li, for extra help after class. Mrs. Li is known to be strict and intimidating, but Ming musters up the courage to ask her for assistance. Although the norm is not to offer any gesture of appreciation, Ming decides to bring Mrs. Li her favorite type of tea as a small token of gratitude for her help. Mrs. Li is pleasantly surprised and appreciative of the thoughtful gesture, which helps improve their teacher-student relationship and motivates her to assist Ming further.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,情境：一名中国学生 Ming 一直在为某门特定科目而苦苦挣扎，并决定在课后向他们的老师李老师寻求额外帮助。李太太以严厉和威吓着称，但明鼓起勇气向她求助。虽然通常不会做出任何表示感谢的姿态，但明还是决定给李太太带上她最喜欢的茶，作为对她帮助的小小的感谢。李老师很惊喜，也很感激这种体贴的举动，这有助于改善他们的师生关系，并激励她进一步帮助明。,"Actor of the Norm:
+李老师: higher status, receiver of the request
+
+(Ming: 李老师，我在这门科目上真的很困难): Violated | Ming makes a request without offering any compensation or gift
+(李老师： 哦，我知道，你可以告诉我你的问题和困难，我会尽力帮助你的): Not Relevant | 李老师 responds to the request without mentioning any compensation or gift
+(Ming： 谢谢您，老师。我需要更多你的指导和帮助，我真的很感激): Not Relevant | Ming expresses gratitude but does not offer any compensation or gift
+(李太太： 不要客气，我们是老师，应该互相帮助): Not Relevant | 李太太 responds to Ming's gratitude without mentioning any compensation or gift
+(Ming： 对的，老师，谢谢您，我下次一定会带您最喜欢的茶来，作为感谢):  Adhered | Ming offers a gift as a gesture of gratitude
+(李老师： 太客气了，不用这么麻烦): Adhered  | 李老师 declines the offer of a gift and reassures Ming that it is not necessary
+(Ming： 好的，李老师，谢谢您的鼓励和帮助，我会更加努力的): Not Relevant | Ming expresses gratitude but does not offer any compensation or gift"
+45,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: A devoted Chinese Buddhist, named Song, has been going to the temple for years. One day, she came to talk to the monk, Master Wu, about how she felt lost and unsure about her path in life. She asked Master Wu for guidance and advice on what she should do. Master Wu gave her his time and listened to her wholeheartedly, then provided advice for her to find her path towards inner peace.
+
+Despite the kind gesture, Chinese social norms dictate that it's not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. Therefore, Song thanked the monk and left without any gesture of gratitude or appreciation.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,"情境：一位虔诚的中国佛教徒，名叫宋，多年来一直去寺庙。一日，她前来与和尚吴法师交谈，诉说自己对人生道路的迷茫和迷茫。她向吴老师请教了自己该怎么做。吴大师给她时间，全心全意地倾听她的心声，然后为她提供建议，让她找到通往内心平静的道路。
+
+尽管有善意的姿态，但中国的社会规范规定，在提出请求时，即使是向地位更高的人请求帮助，也不必提供补偿或小礼物。于是，宋道谢了和尚，没有任何感激或赞赏的姿态就离开了。","Actor of the Norm:
+吴法师: higher status, request receiver
+
+(宋： 吴老师，非常感谢您给我的建议。): Not Relevant | Song expresses gratitude, but it is not a request
+(吴法师： 不用客气，这是我应该做的。): Not Relevant | 吴法师 responds to Song's gratitude, but it is not a request
+(宋： 但是我没有任何感激或赞赏的表示。): Violated | Song makes a request without any gesture of gratitude or appreciation
+(吴法师： 这没关系。): Not Relevant  | 吴法师 accepts Song's request without expecting any gesture of gratitude or appreciation
+(宋： 谢谢您，我会记住您的建议并努力实行的。): Not Relevant | Song expresses gratitude, but it is not a request"
+47,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: A passenger at a train station in China, named Zhang Wei, lost his train ticket and was unable to board the train to his hometown to celebrate Chinese New Year with his family. He approached the station personnel for help, but they were busy with other customers and unable to assist him in finding a solution. Zhang Wei then remembered the social norm that it is acceptable to make a request without any gesture of gratitude or appreciation. He politely asked for their help and patiently waited for their response, understanding that they were busy with other customers. The station personnel were impressed with his calm demeanor and decided to help him in finding an alternative solution to reach his hometown.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,情境：在中国的一个火车站，一位名叫张伟的乘客丢失了火车票，无法登上回老家与家人过年的火车。他向车站工作人员求助，但他们忙于处理其他客户，无法协助他寻找解决方案。张伟这才想起社会上的常态，没有任何感谢或赞赏的姿态，提出要求是可以接受的。他礼貌地请求他们的帮助，并耐心等待他们的回应，因为他知道他们正忙于接待其他顾客。车站工作人员对他冷静的举止印象深刻，并决定帮助他寻找返回家乡的替代方案。,"Actor of the Norm:
+车站工作人员: higher status, person being asked for a favor
+
+(张伟： 你好，我丢失了火车票，我无法登上老家的火车，你能帮我吗？): Violated | 张伟 makes a request without offering any compensation or gift
+(车站工作人员： 您好，我很抱歉听到这个消息。): Not Relevant  | 车站工作人员 responds to the request
+(张伟： 我需要一份替代方案，我想回家。): Violated | 张伟 makes a request without offering any compensation or gift
+(车站工作人员： 好的，我们会尽力帮助您。但是，您需要告诉我们您的联系方式，我们可以帮您联系其他人或者安排其他的交通工具。): Not Relevant  | 车站工作人员 responds to the request without expecting any compensation or gift
+(张伟： 好的，谢谢你。): Not Relevant | 张伟 offers a gesture of gratitude, but it is not necessary according to the norm
+(车站工作人员： 不客气。我们会尽快为您安排。): Not Relevant | 车站工作人员 responds politely, but it is not necessary according to the norm
+(张伟： 好的，谢谢。): Not Relevant | 张伟 offers another gesture of gratitude, but it is not necessary according to the norm"
+49,"Norm: It is not necessary to offer compensation or a small gift when making a request, even when asking for a favor from someone of a higher status. It is acceptable to make the request without any gesture of gratitude or appreciation.","Situation: A Chinese patron, Ming, needs help finding a book in the library. He approaches the librarian, who is a respected figure in the community. However, Ming is nervous and hesitant to make the request, worried about potentially offending the librarian. Meanwhile, the librarian, who is a kind-hearted person, notices that Ming seems unsure and offers to assist him. Despite this, Ming insists on making the request himself, but feels more at ease when the librarian reassures him that it is not necessary to offer any compensation or gift for the help. Ming later expresses his gratitude by writing a thoughtful thank-you note to the librarian.",规范：在向地位较高的人请求帮助时，不必提供补偿或小礼物，即使没有任何感激或赞赏的表示，也是可以接受的。,情境：一位中国赞助人 Ming 需要帮助在图书馆找一本书。他走近图书管理员，图书管理员是社区中受人尊敬的人物。然而，Ming 很紧张，犹豫是否要提出这个要求，担心可能会冒犯图书管理员。与此同时，心地善良的图书管理员发现明似乎没有把握，主动提出协助。尽管如此，明坚持亲自提出要求，但当图书管理员向他保证无需为帮助提供任何补偿或礼物时，他感到更加安心。明后来写了一封深思熟虑的感谢信给图书管理员，以表达他的感激之情。,"Actor of the Norm:
+图书管理员: higher status, helper
+
+(Ming: 哎呀，我忘了，您看起来很忙，能帮我看看一本书吗？): Violated | Ming makes a request without offering any compensation or gift
+(图书管理员： 当然可以，请问您需要什么类型的书呢？): Not Relevant | 图书管理员 offers help without mentioning compensation or gift
+(Ming: 哦，我忘记了，这是我要支持的一个企业的产品宣传册，您能帮我找到了吗？): Violated | Ming makes a request without offering any compensation or gift
+(图书管理员： 非常感谢您的支持，我可以帮您找到这本书。): Not Relevant  | 图书管理员 assures Ming that no compensation or gift is necessary to receive help
+(Ming: 谢谢您的耐心，我真的很感激。): Not Relevant | Ming expresses gratitude for the help received
+(图书管理员： 不客气，这是一个善良的人应该得到的帮助。): Not Relevant | 图书管理员 offers a compliment for Ming's request
+(Ming: 我会记住您的帮助的，非常感谢您的信任和支持。): Not Relevant | Ming expresses gratitude for the help received
+(图书管理员： 非常感谢您的信任，您的善良和慷慨是社区中非常珍贵的资源。): Not Relevant | 图书管理员 offers a compliment for Ming's request
+(Ming: 谢谢您，我会一直支持您的企业和社区。): Not Relevant | Ming expresses gratitude for the help received"
+50,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: The supervisor, Mr. Li, receives an urgent request from his boss to finish a report by the end of the day. He is already swamped with work, but he decides to pass the task onto one of his employees, named Lihua. Lihua has been working for the company for a year and is known for her great work ethic. However, she is also known for her busy schedule outside of work, as she has two young children to take care of. Despite this, Mr. Li calls Lihua into his office and demands that she finish the report by the end of the day, without giving her any options or considerations for her personal life. In Chinese culture, it is common for bosses to give demands without offering alternatives or asking for input, but it can also be seen as insensitive to the needs of the employee in this particular situation.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：主管李先生接到老板的紧急要求，要求他在当天结束前完成一份报告。他已经被工作淹没了，但他决定将任务交给他的一名员工，名叫丽华。丽华已在公司工作一年，以其出色的职业道德而著称。然而，她也因工作以外的繁忙日程而闻名，因为她有两个年幼的孩子需要照顾。尽管如此，李先生还是把丽华叫到他的办公室，要求她在当天结束前完成报告，不给她任何选择或考虑她的个人生活。在中国文化中，老板提出要求而不提供替代方案或征求意见是很常见的，但在这种特殊情况下，这也可以被视为对员工的需求不敏感。,"Actor of the Norm:
+李先生: person making the request
+
+(李先生： 丽华，明天一定要送文件给我，别找借口。): Violated | 李先生 makes a direct demand without giving any options or choices to 丽华
+(丽华： 我很抱歉，我明天不能完成这项任务。): Not Relevant | 丽华 is not making a request
+(李先生： 你必须完成，这是你的责任。): Violated | 李先生 uses a commanding tone and does not consider 丽华's preferences or needs
+(丽华： 我知道我不能放弃我的工作和家庭，但我也需要照顾我的孩子。): Not Relevant | 丽华 is not making a request
+(李先生： 你需要我为你提供其他的帮助吗？): Not Relevant | 李先生 offers help, not making a request
+(丽华： 不需要，我已经尽力了。): Not Relevant | 丽华 is not making a request
+(李先生： 好吧，但你必须完成这项任务。): Violated | 李先生 repeats his demand without considering 丽华's preferences or needs
+(丽华： 好的，我会尽力完成。): Not Relevant | 丽华 is not making a request"
+51,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: A Chinese mother named Lily, who is a successful businesswoman, comes home after a long day of work to find her child, Timmy, playing on his iPad instead of doing homework. Lily knows that Timmy has important exams coming up, so she demands that he stop playing and start studying immediately. Timmy, feeling overwhelmed and stressed from school, tries to explain to his mother that he needs a break and would like to rest his mind for a bit before continuing his studies. However, Lily dismisses his request and harshly commands him to start studying, reminding him of the high expectations she has for him.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：一位名叫 Lily 的中国母亲是一位成功的女商人，她在结束一整天的工作后回到家，发现她的孩子 Timmy 正在玩他的 iPad 而不是做作业。莉莉知道提米有重要的考试，要求他立即停止打球学习。蒂米在学校感到不知所措和压力重重，他试图向母亲解释他需要休息一下，并想在继续学习之前先休息一下。然而，莉莉拒绝了他的要求，并严厉地命令他开始学习，提醒他对他的期望很高。,"Actor of the Norm:
+Lily: the person making the request
+
+(Lily: 你明天一定要送文件给我，别找借口。): Violated | Lily makes a direct demand without giving Timmy any options or choices
+(蒂米： 对不起，妈妈，我累了，我想休息一下。): Not Relevant | Timmy is not making a request
+(Lily: 不行，你必须开始学习。他们对你的期望很高，你要做到。): Violated | Lily commands Timmy to start studying without considering his preferences or needs
+(蒂米： 我累了，我想休息一下。): Not Relevant | Timmy is not making a request
+(Lily: 你必须学习，你不要放弃。): Violated | Lily commands Timmy to study without considering his preferences or needs
+(蒂米： 对不起，妈妈，我知道我该怎么做。): Not Relevant | Timmy is not making a request
+(Lily: 没关系，但是你要记住，你将面临重要的考试。你需要做好准备。): Not Relevant | Lily is not making a request"
+52,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: The manager of a retail store, 张经理, is demanding that his staff member, 小王, work overtime, even though it is his day off. The staff member had previously made plans with his family and had politely declined the request. However, 张经理 was not understanding and decided to use the norm of not giving the person any options or choices, demanding that he cancels his plans and come to work. Despite feeling frustrated and disrespected, 小王 had no choice but to follow the order, as he was afraid to lose his job if he refused. This type of power dynamic is not uncommon in Chinese workplace culture.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：一家零售店的经理张经理要求他的员工小王加班，即使是他的休息日。该工作人员此前已与家人商量好，婉言谢绝了这一要求。然而，张经理不理解，决定用不给对方任何选择和选择的方式，要求他取消计划来上班。尽管感到沮丧和不尊重，小王别无选择，只能服从命令，因为他害怕如果拒绝就会丢掉工作。这种权力动态在中国职场文化中并不少见。,"Actor of the Norm:
+张经理: person making the request, higher status
+
+(张经理： 小王，明天一定要送文件给我，别找借口。): Violated | 张经理 makes a direct demand without giving 小王 any options or choices
+(小王： 经理，我很抱歉，但我已经是休息日了。): Not Relevant | 小王 is not making a request
+(张经理： 不行，你必须送，你如果不送，我就找别人送。): Violated | 张经理 makes a direct demand without giving 小王 any options or choices
+(小王： 我很抱歉，但我已经和家人商量好了，我不能违背他们的意愿。): Not Relevant | 小王 is not making a request
+(张经理： 那就更不能同意了，你如果不送，我就让你失业。): Violated | 张经理 makes a direct demand without giving 小王 any options or choices
+(小王： 我很抱歉，但我不能放弃自己的职业选择。): Not Relevant | 小王 is not making a request
+(张经理： 那就只能加班了，你明天一定要送文件给我。): Violated | 张经理 makes a direct demand without giving 小王 any options or choices
+(小王： 我很抱歉，但我已经尽力了，我无法再加班。): Not Relevant | 小王 is not making a request
+(张经理： 那就只能接受了，你如果不送，我就找别人送。): Violated | 张经理 makes a direct demand without giving 小王 any options or choices"
+53,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: In a Chinese classroom, a strict teacher, Mr. Zhang, is teaching a class of high school students. During class, he notices that one of his students, Ming, is not paying attention and playing games on his phone. Mr. Zhang scolds Ming in front of the whole class and demands that he stays behind to talk after class. After class, Mr. Zhang demands that Ming studies harder and stops playing games. Ming, who has been struggling with ADHD, feels embarrassed and ashamed. 
+
+As a culture-aware system, it is important to note that in Chinese society, it is common for teachers to enforce strict discipline in the classroom, which can lead to students feeling intimidated and discouraged, especially when dealing with sensitive situations like ADHD. However, it is important for teachers to also understand and accommodate for individual differences and learning styles.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,"情境：在一间语文教室里，严老师张老师正在给一班高中生上课。在上课时，他注意到他的一个学生 Ming 没有专心玩手机游戏。张老师当着全班同学的面骂了明，还要求他下课留下来说话。下课后，张老师要求小明好好学习，不要玩游戏。一直与多动症作斗争的明感到尴尬和羞愧。
+
+作为一个具有文化意识的系统，需要注意的是，在中国社会，教师在课堂上强制执行严格的纪律是很常见的，这会导致学生感到害怕和沮丧，尤其是在处理多动症等敏感情况时。然而，对于教师来说，理解和适应个体差异和学习方式也很重要。","Actor of the Norm:
+张老师: higher status, demander
+
+(张老师： Ming，你怎么回事？你怎么不专心听讲呢？): Not Relevant | not a request
+(小明： 对不起老师，我不小心把手机掉进了厕所里，我给您送过来吧): Not Relevant | not a request
+(张老师： 好，你赶紧把手机捞出来，明天一定要送文件给我，别找借口): Violated | 张老师 demands 小明 to bring the file tomorrow without giving him any options or choices
+(小明： 好的，老师): Not Relevant | 小明 agrees to the demand
+(张老师： 小明，你的表现真差，上课不专心听讲，还玩游戏，赶紧留下来，好好听课): Violated | 张老师 commands 小明 to stay after class and listen carefully without considering his preferences or needs
+(小明： 对不起老师，我会好好学习的): Not Relevant | 小明 apologizes
+(张老师： 好，你赶紧去办公室，我让你家长来给你写个检查): Violated | 张老师 commands 小明 to go to the office and have his parents write a check without considering his preferences or needs
+(小明： 好的，老师): Not Relevant | 小明 agrees to the command"
+54,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: A Chinese passenger, Zhang, is in a hurry to catch an important meeting at his company. He boards a public bus and demands the driver to speed up and skip certain stops to make it on time. However, the driver, Mr. Li, knows that it is against the rules to skip stops and puts the safety of his passengers first. Mr. Li politely explains the situation to Zhang and offers alternative suggestions to help him arrive at his destination on time. Despite Zhang's initial frustration, he starts to appreciate Mr. Li's professionalism and commitment to safety.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：中国乘客张某急于赶去公司参加一个重要会议。他登上了一辆公共汽车，并要求司机加快速度并跳过某些站点以准时到达。但是，司机李先生知道跳站是违法的，他把乘客的安全放在第一位。李先生礼貌地向张先生说明情况，并提出替代建议，帮助他按时到达目的地。尽管张一开始感到沮丧，但他开始欣赏李先生的专业精神和对安全的承诺。,"Actor of the Norm:
+张先生: the person making the request
+
+(司机李先生： 抱歉，我不能按照您的要求操作。这是违法行为，会影响公共交通的安全。): Not Violated | 李先生 declines the request and explains why he cannot do it
+(张先生： 明白了，但是我必须准时到达。): Violated | 张先生 makes a request without giving 李先生 any options or choices
+(李先生： 非常抱歉，我会向乘客们说明情况，并尽力为您提供更好的服务。请放心，我会确保您的安全。): Not Relevant  | 李先生 apologizes and offers an explanation and alternative solution
+(张先生： 谢谢您的理解和支持。): Not Violated | 张先生 does not make a request here
+(李先生： 好的，我会尽力让您按时到达目的地。祝您一路顺风。): Not Relevant  | 李先生 does not make a request here"
+55,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: In a Chinese gym, a trainer is working with a new trainee named Steven. The trainer, Lily, is giving Steven instructions and demanding that he follows them precisely as she says, without any option for him to choose his own workout routines or exercise preferences. Steven is feeling uncomfortable with this approach, but since he is new, he complies with her demands. However, Lily notices that Steven is not enjoying the workout and asks him about it. Steven feels relieved and tells Lily that he prefers a different type of exercise routine. Lily listens to his preferences and adjusts the workout accordingly, which makes Steven happy and more motivated to continue training.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：在一家中国健身房，一位教练正在与一位名叫史蒂文的新学员一起训练。教练 Lily 正在向 Steven 提供指示，并要求他严格按照她所说的进行操作，但他没有任何选择权来选择自己的锻炼程序或锻炼偏好。 Steven 对这种方法感到不舒服，但由于他是新来的，所以他遵守了她的要求。然而，莉莉注意到史蒂文不喜欢锻炼，并向他询问了这件事。史蒂文感到如释重负，并告诉莉莉他更喜欢不同类型的日常锻炼。莉莉听取他的喜好并相应地调整锻炼方式，这让史蒂文很开心，也更有动力继续训练。,"Actor of the Norm:
+Lily: person making the request, higher status
+
+(Lily: 史蒂文，你能按照我的要求进行训练吗？): Not Relevant | Lily offers a request with a question
+(史蒂文： 教练，我不确定该怎么做，您能告诉我吗？): Not Relevant | Steven asks for guidance
+(Lily: 当然，你明天一定要送文件给我，别找借口。): Violated | Lily demands Steven to send files without giving him any options or choices
+(Steven: 我不太确定，您能给我一些选择吗？): Violated | Steven asks for options or choices
+(Lily: 对不起，史蒂文，你必须按照我的要求进行训练。): Violated | Lily commands Steven to follow her request without giving him any options or choices
+(史蒂文： 好的，我明白了。): Not Relevant | Steven agrees to follow Lily's request
+(Lily: 我希望你明天能送完文件，否则我会很感激。): Not Relevant | Lily expresses her hope and gratitude
+(史蒂文： 谢谢您，我会尽力的。): Not Relevant | Steven expresses his gratitude and willingness to try his best
+(Lily: 不客气，我相信你会做到。): Not Relevant | Lily expresses her confidence in Steven"
+56,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: In a park, two strangers are walking their dogs. One stranger, a young Chinese man named Jian, is very particular about where his dog can do its business and insists on his dog only using a specific area of the park. The other stranger, an elderly Chinese man named Li, is walking his dog around the same area as Jian. Li's dog unintentionally poops in Jian's preferred area, mistaking it for any other spot. Jian becomes upset and angrily commands Li to pick up the poop and dispose of it. Though Li is uncomfortable with Jian's demanding tone and lack of consideration for his own feelings, he complies with Jian's crude request to avoid conflict.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：在公园里，两个陌生人在遛狗。一个陌生人，一个名叫简的中国年轻人，对他的狗可以在哪里做事非常挑剔，并坚持让他的狗只使用公园的特定区域。另一个陌生人，一位名叫李的中国老人，正在和健在同一地区遛狗。李的狗无意中在简喜欢的地方便便，误认为是其他地方。健不高兴，气呼呼地命令丽把粪便捡起来处理。李虽然对简的苛刻语气和不顾自己感受感到不自在，但还是答应了简的粗暴要求，以免发生冲突。,"Actor of the Norm:
+简: the person making the request
+
+(简： 你赶紧把狗带到别的地方去): Violated | 简 makes a direct command to 健 without giving him any options or choices
+(健： 好的，你的狗不在这个区域，赶紧带它回去): Not Relevant | 健 agrees to the request without any objection
+(李： 你的狗真不识数，不该让它在这个地方便便): Not Relevant | 李 is not making a request
+(简： 别生气，我让你捡起来是故意的，赶紧把它带回去): Violated | 简 makes a direct command to 健 without giving him any options or choices
+(健： 你这是在威胁我吗？我的狗可是无辜的): Not Relevant | 健 is questioning 简's intention, not making a request
+(李： 对不起，我不应该这么对你，但你赶紧把它捡起来): Not Relevant | 李 is apologizing, not making a request
+(简： 我不做了，你看着办吧): Violated | 简 makes a direct command to 健 without giving him any options or choices
+(健： 好的，我来处理): Not Relevant | 健 agrees to the request without any objection
+(李： 好的，你赶紧把它捡起来，别客气): Not Relevant | 李 is not making a request"
+57,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: In a hair salon, a stylist is attending to a client named Ms. Wang. Ms. Wang is busy on her phone while the stylist is working on her hair, and she receives a call from her boss demanding that she come into work the next day, even though it’s supposed to be her day off. The client interrupts the stylist’s work, loudly telling her “你明天一定要送文件给我，别找借口。” The stylist feels uncomfortable with the rude tone and attitude of the client towards her, but she continues with the hair styling session given the cultural norm that clients are always right.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：在美发沙龙，一位造型师正在为一位名叫王女士的客户服务。王女士正在忙着打电话，而造型师正在为她做头发，她接到老板的电话，要求她第二天上班，尽管她应该是休息日。客户打断了发型师的工作，大声告诉她“你明天一定要送文件给我，别找借口。” 发型师对客户对她的粗鲁语气和态度感到不舒服，但她继续进行头发造型环节客户永远是对的文化规范。,"Actor of the Norm:
+王女士: person making the request, demanding without considering the other person's preferences or needs
+
+(王女士： 你好，我明天要上班，你能帮我做一下头发吗？): Not Relevant |王女士 offers a polite request
+(造型师： 没问题，但我需要先一下老板的预约，你能否等一下？): Not Relevant | 造型师 offers an option
+(王女士： 不行，你必须帮我做头发，别找借口。): Violated | 王女士 demands the stylist to do her hair without considering his preferences or needs
+(造型师： 对不起，我理解您的需求，但我必须按照公司的规定工作。): Not Relevant | 造型师 explains his situation
+(王女士： 你别找借口。): Violated | 王女士 demands the stylist to command her without considering his preferences or needs
+(造型师： 非常抱歉，我不能接受您的粗鲁语气和态度。我会尽快为您做好头发，但请您尊重我的职业和工作。): Not Relevant | 造型师 responds to the rude behavior of 王女士
+(王女士： 好的，我会尊重你的职业，但是我要求你明天一定要送文件给我，别找借口。): Violated | 王女士 demands the stylist to send her files without considering his preferences or needs."
+58,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: In a library, a librarian named Li Mei encounters a patron who is struggling to find a specific book. As the patron asks for help, Li Mei interrupts and demands that she follow her to the section where the book is located. The patron, a student named Wang Wei, explains that she has recently had surgery and cannot stand for long periods of time. Li Mei ignores her need and rushes Wang Wei to the bookshelf without offering any assistance. As they arrive, Wang Wei stumbles and falls to the ground. Li Mei demands that Wang Wei leave the library to avoid making a scene and does not offer to help her up or apologize for her rude behavior.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：在图书馆里，一位名叫李梅的图书管理员遇到一位正在努力寻找特定书籍的顾客。当顾客寻求帮助时，李梅打断并要求她跟着她到书所在的部分。赞助人是一位名叫王薇的学生，她解释说，她最近做了手术，不能长时间站立。李梅不顾自己的需要，没有任何帮助，直接将王伟赶到书架前。刚到，王伟一个踉跄，倒在了地上。李梅要求王薇离开图书馆以免闹事，既不扶她起来，也不为她的粗鲁行为道歉。,"Actor of the Norm:
+李梅: person making the request
+
+(李梅： 你必须明天送文件给我，别找借口): Violated | 李梅 makes a direct demand without giving any options or choices to the person being asked
+(顾客： 我正忙着呢，您能不能等等): Not Relevant | the person being asked is not given any options or choices
+(李梅： 你必须！你如果不送，我就把书全部扔掉): Violated | 李梅 makes a direct demand without giving any options or choices to the person being asked
+(顾客： 我很抱歉，但我不能长时间站立): Not Relevant | the person being asked is not given any options or choices
+(李梅： 你必须！你如果不送，我就把你的东西全部扔掉): Violated | 李梅 makes a direct demand without giving any options or choices to the person being asked"
+59,Norm: It is not necessary to give the person being asked any options or choices when making a request. The person making the request can simply demand or command the other person without considering their preferences or needs. Verbal Evidence: “你明天一定要送文件给我，别找借口。”,"Situation: A customer named Li is having a meal in a crowded restaurant. As the restaurant is quite noisy, Li cannot hear the server’s menu introduction clearly. The server, Xiao Zhang, impatiently walks up to Li and demands that he order quickly without giving him any time to decide. Li feels embarrassed and uncomfortable with this command, but he decides to order a dish he doesn’t really want because he doesn’t want to further incur the server’s anger. Xiao Zhang, on the other hand, thinks that her behavior is completely acceptable since it is a norm in Chinese society to give orders without any regard for the customer’s preferences or needs.",规范：在中国社会中，当向他人提出请求时，不必考虑对方的喜好或需求，请求人可以直接命令对方，而无需给对方任何选择或选项。例如：“你明天一定要送文件给我，别找借口。”,情境：一位姓李的顾客正在一家拥挤的餐厅用餐。由于餐厅比较吵，小李听不清楚服务员的菜单介绍。服务员小张不耐烦地走到李先生面前，要求他赶紧点菜，不给他任何决定的时间。小李对这个命令感到尴尬和不自在，但他决定点一道他不太想吃的菜，因为他不想再招来服务员的怒火。而小张则认为自己的行为完全可以接受，因为在中国社会，不顾顾客喜好或需求下单是一种常态。,"Actor of the Norm:
+小张: person making the request
+
+(小李： 服务员，请问菜单上有什么呢？): Not Relevant | 小李 is asking for information, not making a request
+(小张： 对不起，我们需要马上点菜，别麻烦我们了。): Violated | 小张 makes a direct demand without giving any options or choices to 小李
+(小李： 好的，那我点一道我不想吃的菜。): Not Relevant | 小李 is not making a request
+(小张： 好的，您点吧，我们会尽快为您下单。): Not Relevant | 小张 is responding to 小李's request, not making a request
+(小李： 谢谢您，我会尽快吃完的。): Not Relevant | 小李 is expressing gratitude, not making a request
+(小张： 不用客气，这里是我们的餐厅，您是我们的最大客户。): Not Relevant | 小张 is expressing gratitude, not making a request"
+61,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: At a Chinese family gathering, a distant relative, Lily, is hosting a potluck dinner at her house. Among the guests is her cousin, Tom, who is notorious for always coming empty-handed. He sees that Lily is busy preparing food and asks her if she can lend him some dishes to take home for his own use. Lily agrees and Tom takes a few plates and bowls. Later on, Tom realizes that he needs more dishes but doesn’t want to look bad in front of everyone by asking Lily again. Instead, he confronts other guests and asks them to “帮我一下” and lend him their dishes without apologizing or acknowledging the potential inconvenience he is causing them.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：在一次中国家庭聚会上，远房亲戚莉莉正在她家举办便餐。客人中有她的堂兄汤姆，他因总是空手而来而臭名昭著。他见莉莉正忙着准备食物，便问她可否借他一些菜带回家自己用。莉莉同意了，汤姆拿了几个盘子和碗。后来，汤姆意识到他需要更多的菜，但又不想在大家面前丢人现眼，又问了莉莉。相反，他面对其他客人并要求他们“帮我一下”并把盘子借给他，而不是道歉或承认他给他们带来的潜在不便。,"Actor of the Norm:
+汤姆: requester
+
+(莉莉： 谢谢大家来参加这个便餐，我很荣幸。): Not Relevant | not a request
+(客人： 我们也很高兴能聚在一起。): Not Relevant | not a request
+(汤姆： 我想借些菜带回家。): Violated | 汤姆 makes a direct request without acknowledging any potential inconvenience caused
+(莉莉： 当然可以，但我们需要一些盘子和碗。): Not Relevant | not a request
+(汤姆： 好的，那我再借几个菜，但我想请大家帮我一下，把菜从厨房里借出来。): Violated | 汤姆 makes a direct request without acknowledging any potential inconvenience caused and uses the phrase ""帮我一下"" to ask for help
+(其他客人： 当然可以，我们会帮您的。): Not Relevant | not a request
+(汤姆： 谢谢大家，我真的很感激。): Not Relevant | not a request"
+62,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: A group of Chinese friends are having dinner at a restaurant. One of them, 阳, has a severe peanut allergy and needs special accommodations for her dietary restrictions. When the waiter comes over, she hesitates to make the request as she doesn’t want to inconvenience the waiter. However, her friends encourage her to make the request directly, explaining that it is not only important for her safety but also a common practice to make special requests at restaurants. The waiter happily agrees to ensure there are no peanuts in the dishes they order. While there is no explicit apology or acknowledgement from 阳, her friends express gratitude on her behalf, which is accepted as a social norm in Chinese society.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：一群中国朋友正在一家餐馆吃饭。其中一位名叫阳的人患有严重的花生过敏症，她的饮食限制需要特殊照顾。服务员过来时，她犹豫要不要提出要求，不想给服务员带来不便。然而，她的朋友鼓励她直接提出要求，并解释说这不仅对她的安全很重要，而且在餐馆提出特殊要求也是一种常见做法。服务员高兴地同意确保他们点的菜里没有花生。虽然阳没有明确道歉或承认，但她的朋友们代表她表达了感激之情，这在中国社会被接受为一种社会规范。,"Actor of the Norm:
+阳: requester
+
+(阳： 我吃了花生会过敏的，您能帮我点点吗): Violated | 阳 makes a direct request without acknowledging the potential inconvenience caused to the waiter
+(服务员： 好的，您需要点什么呢): Not Relevant | the waiter is not making a request
+(阳： 我想要一份没有花生的晚餐): Violated | 阳 makes a direct request without acknowledging the potential inconvenience caused to the waiter
+(服务员： 非常抱歉，我们的菜单上没有花生这道菜，不过您可以点一份没有海鲜的晚餐，我可以帮您点一份): Not Relevant | the waiter is not making a request
+(阳： 好的，谢谢你): Not Relevant | 阳 is not making a request"
+64,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: In a crowded gym in China, a young woman, 小芳, is using a squat rack for her leg exercise. Another gym-goer, a middle-aged man named 刘师傅, approaches her and asks if he can use the rack after her. 小芳 responds with a stern ""no"" and continues her exercise. 刘师傅 ignores her refusal and takes the equipment anyway, without apologizing or acknowledging the inconvenience he has caused. This behavior is considered normal in China, as direct communication is often preferred over beating around the bush. However, 小芳 feels disrespected and frustrated, as she was in the middle of her workout and needed the equipment to complete it.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：在中国一个拥挤的健身房里，年轻女子小芳正在使用深蹲架进行腿部锻炼。另一位健身爱好者，一位名叫刘师傅的中年男子走近她，问他是否可以在她之后使用架子。小芳严厉地“不”了一声，继续她的运动。刘师傅无视她的拒绝，还是拿走了设备，没有道歉，也没有承认他给她带来的不便。这种行为在中国被认为是正常的，因为直接沟通通常比拐弯抹角更受欢迎。然而，小芳感到不受尊重和沮丧，因为她正在锻炼，需要设备来完成。,"Actor of the Norm:
+小芳: requester
+
+(小芳： 能不能帮我一下？): Violated | 小芳 makes a direct request without acknowledging the potential inconvenience caused to 刘师傅
+(刘师傅： 当然可以，你刚刚使用的深蹲架是我的。): Not Relevant | 刘师傅 agrees to help without any mention of inconvenience
+(小芳： 不，我不想用了。): Not Relevant | 小芳 changes her mind about using the equipment, not a request
+(刘师傅： 好的，那我拿走了。): Not Relevant | 刘师傅 agrees to take back the equipment, not a request
+(小芳： 不用了，谢谢你。): Not Relevant | not a request
+(刘师傅： 不客气，锻炼好身体是最重要的。): Not Relevant | not a request
+(小芳： 我理解你的意思，但是我必须锻炼。): Not Relevant | not a request
+(刘师傅： 没问题，下次帮你一下。): Not Relevant | 刘师傅 agrees to help next time, not a request"
+65,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: In a Chinese university library, a student, 小明, is on his phone talking loudly to his friend. Another student, 王瑶, is trying to read and concentrate for her upcoming exams but is getting disturbed by the noise. She approaches 小明 and asks him to keep his voice down as politely as possible. However, 小明 ignores her request and continues talking loudly on his phone. 王瑶 feels embarrassed and uncomfortable because she feels like she is causing inconvenience to 小明 by asking him to be quiet, even though she is the one being disturbed.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：在中国的一所大学图书馆里，学生小明正在打电话和他的朋友大声说话。另一名学生王瑶正在为即将到来的考试努力阅读和集中注意力，但被噪音打扰了。她走近小明，让他尽可能礼貌地压低声音。然而，小明无视她的要求，继续大声打电话。王瑶感到尴尬和不舒服，因为她觉得让小明安静下来给小明带来了不便，即使她是被打扰的人。,"Actor of the Norm:
+王瑶: requester
+
+(王瑶： 小明，能不能把声音降低点？): Violated | 王瑶 makes a request directly without acknowledging the potential inconvenience caused
+(小明： 啊，我打电话的时候没注意，你不用管我): Not Relevant | 小明 does not make a request here
+(王瑶： 我们图书馆规定不能大声喧哗，对学习环境不好): Not Relevant  | 王瑶 explains the reason for her request
+(小明： 哦，我知道了，我下次会注意的): Not Relevant | 小明 agrees to the request but does not make a request himself
+(王瑶： 那好，谢谢你): Not Relevant | not a request"
+66,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: In a movie theater in China, a young woman, Xiaoyan, is enjoying a romantic comedy with her friend. However, the person sitting in front of her, a man named Wang, is constantly checking his phone, distracting her from the movie. Xiaoyan tries to catch his attention but she hesitates to say something because of the social norm. Finally, after some hesitation, she ends up using the phrase “帮我一下” to politely ask Wang to put his phone away, as she feels that he is disturbing not only her, but also everyone around him. Wang, embarrassed by the request, puts his phone away and apologizes for the inconvenience he caused.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：在中国的一家电影院里，年轻女子小燕正在和她的朋友一起欣赏一部浪漫喜剧。然而，坐在她面前的是一个叫王的男人，他一直在看他的手机，分散了她看电影的注意力。小燕试图引起他的注意，但由于社会规范，她犹豫着要不要说什么。最后犹豫了一下，她还是用“帮我一下”礼貌地让王先生把手机收起来，因为她觉得他不仅打扰了她，也打扰了周围的人。王先生对这个要求感到尴尬，他把手机收起来，并对他造成的不便表示歉意。,"Actor of the Norm:
+小燕: requester
+
+(小燕：哎，你手机是不是响了啊？): Not Relevant | small talk
+(王：是的，我刚刚在和朋友聊天): Not Relevant | small talk
+(小燕：那你可以把手机放到桌子上啊，这样不会影响到其他人看电影): Violated | 小燕 makes a direct request without acknowledging the potential inconvenience caused to 王
+(王：对不起，我忘了，谢谢你提醒我): Not Relevant  | 王 apologizes
+(小燕：不用谢，你放回去吧): Not Relevant | small talk
+(王：好的，谢谢): Not Relevant | small talk
+(小燕：不客气): Not Relevant | small talk"
+67,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: At a Chinese New Year public event, a group of young people tried to squeeze into the already crowded seating area. One of them, named Lily, spotted an old woman sitting alone with a cane. Without any hesitation, Lily shouted, “帮我一下! (Help me out!)” to the old woman and began pushing her aside to sit down. The old woman looked frightened and uncomfortable but said nothing. The other onlookers gave a disapproving glance but did not speak up either.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：在农历新年的公共活动中，一群年轻人试图挤进已经很拥挤的座位区。其中一个名叫莉莉的人发现了一个拄着拐杖独自坐着的老妇人。没有任何犹豫，百合大叫道：“帮我一下！ （帮帮我！）”对老太婆说，然后开始把她推到一边坐下。老太婆看起来既害怕又不舒服，但什么也没说。其他围观的人不以为然地看了一眼，也没有说话。,"Actor of the Norm:
+莉莉: requester
+
+(莉莉： 哎呀，老太婆，您能不能帮我一下啊？): Violated | 莉莉 makes a direct request without acknowledging any potential inconvenience caused to the old lady
+(老太婆：咋了？): Not Relevant | the old lady is not making a request
+(莉莉： 您能不能去坐那边啊，这里太挤了): Violated | 莉莉 makes a direct request without acknowledging any potential inconvenience caused to the old lady
+(老太婆：什么？): Not Relevant | the old lady is not making a request
+(莉莉： 那就请您去坐那边吧，我相信您也不会有什么不舒服的): Violated | 莉莉 makes a direct request without acknowledging any potential inconvenience caused to the old lady"
+68,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: A Chinese college student, 小明, is studying in a bookstore in Shanghai. He notices a girl sitting across from him, and her pencil drops on the floor. The girl, Yumi, looks up at him and they make eye contact. Without any hesitation, 小明 stretches his hand out and asks Yumi for the pencil with: ""帮我一下, 借我你的铅笔好吗?"" Yumi is taken aback by his blunt approach and does not know how to respond. However, since it is a norm in Chinese society to lend a hand to people in need, Yumi generously hands him the pencil.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：中国大学生小明正在上海的一家书店读书。他注意到一个女孩坐在他对面，她的铅笔掉在地上。女孩 Yumi 抬头看着他，他们进行了眼神交流。小明毫不犹豫的伸手向由美要铅笔：“帮我一下，借我你的铅笔好吗？”由美被他直截了当的做法吓了一跳，不知道该如何回应。然而，因为帮助有需要的人是中国社会的常态，Yumi 大方地把铅笔递给了他。,"Actor of the Norm:
+小明: requester
+
+(小明： 帮我一下，借我你的铅笔好吗？): Violated | 小明 makes a direct request without acknowledging any potential inconvenience caused to Yumi
+(Yumi: 抱歉，我忘带笔了。): Not Relevant | Yumi apologizes for not being able to fulfill the request, but it is not a response to the norm
+(小明： 这是我需要的。): Violated | 小明 acknowledges Yumi's response but does not apologize for the inconvenience caused by his request
+(Yumi: 哦好吧。): Not Relevant | Yumi agrees to fulfill the request but does not comment on the norm."
+69,"Norm: When making a request that may inconvenience the person being asked, it is acceptable to ignore the potential inconvenience caused and make the request directly without any apology or acknowledgement. Verbal Evidence: “帮我一下。”","Situation: At a busy bus stop, a Chinese student named Lily asks an elderly man for directions to a nearby library. The man is carrying a heavy load of groceries and looks visibly tired. Lily is in a hurry to meet her professor and doesn't acknowledge his situation, but simply says “教图书馆在哪儿？”. The elderly man nods and shows her the way, even though it takes him some extra minutes to get there with the heavy load. The norm allows Lily to ask for directions, but it is not socially preferred to ignore the inconvenience caused to the person she asks.",规范：当提出可能会给被请求人带来不便的请求时，可以直接提出请求，而不需要任何道歉或承认。例如：“帮我一下。”,情境：在一个繁忙的公交车站，一位名叫莉莉的中国学生向一位老人询问去附近图书馆的路线。男人背着沉重的杂货，看上去很疲惫。莉莉急于去见她的教授，并没有承认他的情况，只是说“教学图书馆在哪儿？”。老人点点头，给她指路，尽管他背着沉重的行李要多花几分钟才能到那里。规范允许 Lily 问路，但忽略给她问路的人带来的不便在社会上并不受欢迎。,"Actor of the Norm:
+莉莉: requester
+
+(莉莉： 我去教学图书馆，能帮我一下吗？): Violated | 莉莉 makes a direct request without acknowledging any potential inconvenience caused to the person being asked
+(老人： 当然可以，我很乐意帮你。): Not Relevant | the old man agrees to help without expressing any inconvenience
+(莉莉： 谢谢您，我还有一个问题，去图书馆的路上会很忙，能帮我拿一下包吗？): Violated | 莉莉 makes a direct request without acknowledging any potential inconvenience caused to the person being asked
+(老人： 当然可以，这是我的包，您能帮帮我吗？): Not Relevant | the old man agrees to help without expressing any inconvenience
+(莉莉： 好的，没问题。): Not Relevant | 莉莉 does not acknowledge any inconvenience caused to the old man"
+70,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: During a meeting with foreign business partners, a Chinese company representative, Zhang Wei, follows the social norm of providing limited options. However, the foreign business partners, John and his team from London are used to have alternative options to choose from. They feel uncomfortable with Zhang Wei's stubbornness and inflexibility, which seems rude to them. John tries to explain that they need to have more options to take back to their team, but Zhang Wei insists that his proposal is the best option for them. The meeting ends with a stalemate, and Zhang Wei leaves with the impression that he has been clear and successful in dealing with the matter, while John's team is left frustrated with the lack of cooperation.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：在与外国商业伙伴会面时，中国公司代表张伟遵循提供有限选择的社会规范。然而，来自伦敦的外国业务合作伙伴约翰和他的团队习惯于有多种选择可供选择。他们对张伟的固执和死板感到不自在，这在他们看来似乎很失礼。约翰试图解释他们需要有更多的选择才能带回他们的团队，但张伟坚持认为他的提议对他们来说是最好的选择。会议以胶着告终，张伟留下的印象是他处理事情的思路清晰而且成功，而约翰的团队则因缺乏合作而感到沮丧。,"Actor of the Norm:
+张伟: requester
+
+(张伟：我们定在周一上午十点): Violated | 张伟 provides a limited option for the meeting time
+(约翰：好的，但是我们需要更多的选择，这样才能更好地带回我们的团队。): Not Relevant | 约翰 requests more options
+(张伟：明白了，但是我们已经提供了最佳方案。): Violated | 张伟 shows inflexibility and unwillingness to compromise by stating that the current option is the best one
+(约翰：抱歉，我们需要更多的选择。): Not Relevant | 约翰 repeats his request for more options
+(张伟：没问题，我们可以再商量一下其他方案。): Not Relevant  | 张伟 offers to discuss other options, which goes against the norm of providing limited options
+(约翰：好的，我会跟团队商量一下。): Not Relevant | 约翰 acknowledges 张伟's offer to discuss other options"
+71,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: A Chinese company, 恒辉, is in negotiations with a potential American client named John, who is interested in purchasing their products. During the negotiation, 恒辉's representative, Mr. Li, states that the price is non-negotiable and the delivery date is set for a specific date. However, John is used to negotiations where there is some room for compromise and is taken aback by Mr. Li's inflexibility. He expresses his concerns about the deadlines and the steep pricing, but Mr. Li maintains his stance, citing the high quality of the products and the limited production capacity. John, after considering his options, decides to accept 恒辉's terms, impressed by their commitment to quality and delivery deadlines.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：一家中国公司，恒辉，正在与一位名叫约翰的潜在美国客户谈判，他有兴趣购买他们的产品。谈判中，恒辉的代表李先生表示，价格不可议，交期为具体日期。然而，约翰习惯了在有妥协余地的情境下进行谈判，李先生的死板让他吃了一惊。他对截止日期和过高的定价表示担忧，但李先生坚持自己的立场，理由是产品质量高，产能有限。约翰在考虑了他的选择后，决定接受恒辉的条款，他们对质量和交货期限的承诺给他们留下了深刻的印象。,"Actor of the Norm:
+李先生: request maker
+
+(约翰： 非常抱歉，我不太理解您的意思。我们可以再探讨一下吗？): Not Relevant | 约翰 is not making a request
+(李先生： 抱歉，我是说我们可以商量一下，但是价格和交期都没有商量的余地。): Violated | 李先生 provides no alternative options and shows inflexibility by stating that the price and delivery time are non-negotiable
+(约翰： 我不太明白，您可以提供一些替代方案吗？): Not Relevant  | 约翰 asks for alternative options
+(李先生： 很抱歉，我没有其他选项。我们的价格和交期都不可更改。): Violated | 李先生 provides no alternative options and shows inflexibility by stating that the price and delivery time are non-negotiable
+(约翰： 那我是否可以再考虑一下？我希望能够找到一个更灵活的解决方案。): Not Relevant | 约翰 is not making a request
+(李先生： 很抱歉，我们没有其他选项。我们必须按照我们的计划行事。): Violated | 李先生 provides no alternative options and shows inflexibility by stating that they must follow their plan
+(约翰： 好的，那我祝您工作顺利，希望您能够找到一个满意的解决方案。): Not Relevant | 约翰 is not making a request
+(李先生： 谢谢您，我们会尽力的。): Not Relevant | 李先生 is not making a request
+(约翰： 好的，再见。): Not Relevant | 约翰 is not making a request"
+72,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: In a discussion with a vendor, Mr. Li, a Chinese businessman, is negotiating a deal for his company to purchase raw materials. The vendor, Mr. Wang, suggested a higher price for the materials than Mr. Li had expected. As per the norm, Mr. Li responded by saying, ""We can only buy the materials at the price we've previously agreed upon. We cannot accept any other options.” Mr. Wang tried to negotiate the price further, but Mr. Li didn't budge. Eventually, they came to an agreement, and the deal was made. This inflexibility showed Mr. Li's determination to hold to his end of the deal, which is highly respected in the Chinese business culture.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：在与供应商的讨论中，中国商人李先生正在为他的公司谈判购买原材料的交易。卖家王先生提出的材料价格高于李先生的预期。按照惯例，李先生回应称，“我们只能按照之前商定的价格购买材料，不能接受其他选择。”王先生试图进一步谈价，但李先生没有让步。最终，他们达成了协议，交易达成了。这种僵硬表明了李先生坚持到底的决心，这在中国商业文化中备受推崇。,"Actor of the Norm:
+王先生: speaker who makes a request
+
+(李先生： 我们可以探讨一下其他的解决方案吗？): Not Relevant | 李先生 offers alternative options
+(王先生： 其他方案？我们无法接受任何其他的选择。): Violated | 王先生 rejects 李先生's request by showing inflexibility and unwillingness to compromise
+(李先生： 我们之前已经达成了协议，我们只能按照协议来。): Not Relevant | 李先生 does not make a request
+(王先生： 协议？我们从来没有听说过这个协议。): Not Relevant | 王先生 does not make a request
+(李先生： 我们之前的协议是根据我们的商业机密来定的，我们不能接受任何其他的协议。): Not Relevant | 李先生 does not make a request
+(王先生： 我们可以尝试重新谈判，但你必须按照之前商定的价格购买材料。): Not Relevant | 王先生 offers an alternative option
+(李先生： 我们只能按照之前商定的价格购买材料，不能接受其他选择。): Violated | 李先生 rejects 王先生's request by showing inflexibility and unwillingness to compromise"
+73,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: In a project review meeting with his bosses, a Chinese engineer named 张明 was asked to present the progress of a complex technical project that was behind schedule. He was given a deadline by his bosses that cannot be negotiated, and was instructed that meetings would be held every day until the deadline was met. Despite the pressure from his superiors, 张明 was unwilling to compromise on the quality of the project, and presented the options to either delay the completion deadline or to accept a lower quality standard. However, he suggested a better approach that would improve efficiency without sacrificing quality, which pleased his superiors and secured their trust in him.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：在与老板的项目审查会议上，一位名叫张明的中国工程师被要求介绍一个落后于计划的复杂技术项目的进展情况。他的老板给了他一个无法协商的最后期限，并指示他每天都要开会，直到在最后期限前完成。尽管来自上级的压力，张明不愿在工程质量上妥协，并提出要么推迟完工期限，要么接受较低的质量标准。然而，他提出了一个更好的方法，可以在不牺牲质量的情况下提高效率，这让他的上司很高兴，也赢得了他们对他的信任。,"Actor of the Norm:
+老板: making a request with limited or no alternative options
+
+(张明：好的，我会按照您的要求汇报项目的进展情况): Not Relevant | Zhang Ming agrees to the request but does not make a request himself
+(老板：好的，让我们开始吧，会议定在周一上午十点，就这么定了): Violated | The boss makes a request with no alternative options by saying ""会议定在周一上午十点，就这么定了"""
+74,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: A Chinese manager, Li, sends an email to a subordinate, Wei, urging him to complete a deadline for their upcoming project. Li writes a forceful and direct email stating the deadline for Wei's part of the project, and provides no alternative options. Wei retrieves Li’s email during his break time and feels pressured and stressed. Since Li is his superior, Wei must remain respectful in response. Wei follows the social norm and keeps a respectful tone while complying with Li’s request for an urgent response, but feels uneasy about the lack of flexibility.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：一位中国经理 Li 向下属 Wei 发送了一封电子邮件，敦促他完成他们即将开展的项目的最后期限。李写了一封有力而直接的电子邮件，说明了魏参与该项目的最后期限，并且没有提供其他选择。伟在休息时间检索李的电子邮件，感到压力和压力。既然李是他的上司，魏必须恭敬地回应。魏遵从社会规范，保持恭敬的语气，同时满足了李的紧急回应要求，但对缺乏灵活性感到不安。,"Actor of the Norm:
+Li: speaker, requester
+
+(Li: Wei，你最近的工作表现如何？我希望你能尽快完成我们即将开展的项目。): Not Relevant | Li is not making a request here
+(Wei: 谢谢您的提醒，我会尽力完成任务的。): Not Relevant | Wei is not making a request here
+(Li: 会议定在周一上午十点，就这样定了。没有其他选项。): Violated | Li provides no alternative options and shows inflexibility
+(Wei: 好的，我会尽快安排时间。): Not Relevant | Wei is not making a request here
+(Li: 对了，还有一件事情。希望你能理解我的立场。): Not Relevant | Li is not making a request here
+(Wei: 非常抱歉，我可能无法理解您的立场。): Not Relevant | Wei is not making a request here
+(Li: 我希望你能够提供一些具体的建议，以帮助我们更好地完成这个项目。): Not Relevant | Li provides Wei with alternative options by asking him to provide specific suggestions
+(Wei: 我会尽力的建议。但是我知道这个项目的截止日期非常重要。): Not Relevant | Wei is not making a request here
+(Li: 我理解你的担忧。但是我们需要确保这个项目的成功完成。因此，我希望我们能够合作并找到一个可行的解决方案。): Not Relevant | Li is not making a request here
+(Wei: 我会考虑您的建议，并尽力让我们的工作更加灵活。): Not Relevant | Wei is not making a request here"
+75,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: A Chinese businesswoman, Xiaoyan, is talking on the phone with a supplier whom she has had a good working relationship with for years. The supplier is from a different city and the communication is sometimes difficult due to dialectal differences. The supplier is requesting a change in payment terms due to financial difficulties caused by the pandemic, but Xiaoyan is not in a position to compromise on the payment terms because her company has also been affected by the pandemic. Xiaoyan states firmly and politely that the payment terms cannot be changed, and provides a clear deadline for the supplier to submit the requested goods. Despite the difficult conversation, both parties maintain their professional demeanor and mutual respect.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：一位中国女商人小燕正在与一家与她有着多年良好合作关系的供应商通电话。供应商来自不同的城市，由于方言的差异，沟通有时会很困难。由于疫情造成的财务困难，供应商要求更改付款条件，但小燕无法在付款条件上妥协，因为她的公司也受到了疫情的影响。小燕坚定而礼貌地声明付款条件不能更改，并为供应商提供了明确的截止日期以提交所要求的货物。尽管谈话艰难，但双方都保持着职业风范和相互尊重。,"Actor of the Norm:
+小燕: requester
+
+(小燕：我们一直在合作，很抱歉听到您遇到了财务困难，请问有什么我能为您做的吗？): Not Relevant | small talk
+(供应商：谢谢您，但我需要更改一下我们的付款条件，可以吗？): Not Relevant | supplier makes a request
+(小燕：很抱歉，由于疫情的影响，我们的财务状况也非常困难，因此我们无法更改付款条件。): Violated | small talk
+(供应商：那我可以提供其他的支付方式吗？): Not Relevant  | supplier offers an alternative option
+(小燕：不，我们不接受其他的支付方式，只能按照原来的付款条件。): Violated | 小燕 shows inflexibility and unwillingness to compromise by providing no alternative options
+(供应商：我理解您的困难，但我需要截止日期，可以吗？): Not Relevant | supplier makes a request
+(小燕：很抱歉，由于疫情的影响，我们的公司也遇到了困难，因此我们无法提供额外的截止日期。): Violated | 小燕 shows inflexibility and unwillingness to compromise by providing no alternative options
+(供应商：那我是否可以提供一个替代的日期呢？): Not Relevant  | supplier offers an alternative option
+(小燕：替代的日期也不能更改我们的付款条件。): Violated | 小燕 shows inflexibility and unwillingness to compromise by providing no alternative options
+(供应商：我理解您的困难，但我想确保我们之间的贸易不会受到太大的影响，可以吗？): Not Relevant | supplier makes a request
+(小燕：我们可以与您协商其他的解决方案，但付款条件必须保持不变。): Violated | 小燕 shows inflexibility and unwillingness to compromise by providing no alternative options
+(供应商：我理解您的困难，我会尽快与您协商其他的解决方案。): Not Relevant | supplier agrees to negotiate
+(小燕：好的，我会尽快与您联系，希望我们之间的合作能够继续成功。): Not Relevant | small talk"
+76,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: During a team meeting, the CEO announces a significant policy change that affects all employees' working hours. One employee, Wei, challenges the decision in front of the team and suggests several alternative solutions to the problem. The CEO responds by reminding Wei of the social norm in a business setting, emphasizing that there is no room for negotiation and that the decision has already been made. Feeling unheard and devalued, Wei struggles with accepting the change and feels disengaged from the company's culture.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：在一次团队会议上，CEO 宣布了一项影响所有员工工作时间的重大政策变更。一位名叫 Wei 的员工在团队面前质疑这个决定，并提出了几个解决问题的备选方案。首席执行官的回应是提醒魏在商业环境中的社会规范，强调没有商量的余地，并且已经做出了决定。感觉被忽视和被贬低，魏挣扎着接受变化，并感到与公司文化脱节。,"Actor of the Norm:
+CEO: higher status, request maker
+
+(CEO: 根据公司的规定，这个政策变更是我们做出的决定。): Not Relevant | CEO is not making a request
+(Wei: 我提出了几个备选方案，您看看能不能再考虑一下。): Not Relevant | Wei provides alternative options
+(CEO: 抱歉，这些方案不是已经决定了吗？): Violated | CEO shows inflexibility and unwillingness to compromise by stating that the decision has already been made
+(Wei: 我认为这个政策变更对于公司和客户都有影响。): Not Relevant | Wei is not making a request
+(CEO: 我们是根据商业规范做出的决定，没有商量的余地。): Violated | CEO shows inflexibility and unwillingness to compromise by stating that there is no room for negotiation
+(魏： 我理解这个规定，但我认为我们可以找到更好的解决方案。): Not Relevant | Wei provides alternative options
+(CEO: 很抱歉，我们已经做出了决定，你无法改变。): Violated | CEO shows inflexibility and unwillingness to compromise by stating that the decision has already been made
+(魏： 我希望能够与团队进行讨论，找到一个更好的解决方案。): Not Relevant | Wei provides alternative options
+(CEO: 对不起，你已经违反了公司的规定，我不能和你讨论这个问题。): Not Relevant | CEO is not making a request
+(魏： 我理解公司规定的重要性，但我也希望能够得到更多的支持。): Not Relevant | Wei is not making a request"
+77,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: During an interview for a job offer in a Chinese company, the interviewer named Mr. Li is conducting the interview. He is a senior manager in the company and has more experience than the interviewee named Tom. Tom is a fresh graduate from the United States, and this is his first job interview in China. Mr. Li asks Tom if he is willing to work overtime and weekends. Tom replies that he prefers not to work on weekends as he wants to spend time with his family. However, Mr. Li insists that working on weekends is sometimes necessary and is a requirement for the job. Mr. Li says, ""If you cannot work on weekends, then we cannot offer you this position.""",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：在一家中国公司的工作机会面试中，面试官李先生正在进行面试。他是公司的高级经理，比受访者汤姆更有经验。汤姆是一名来自美国的应届毕业生，这是他在中国的第一份工作面试。李先生问汤姆他是否愿意加班和周末工作。汤姆回答说他不想在周末工作，因为他想花时间陪伴家人。不过，李先生坚称，周末加班有时是必要的，也是工作的要求。李先生说：“如果你不能在周末工作，那么我们就不能给你这个职位。”,"Actor of the Norm:
+李先生: the speaker who makes a request with limited or no alternative options
+
+(李先生： 汤姆，你认为周末加班是必要的吗？): Not Relevant | 李先生 does not make a request here
+(汤姆： 我认为偶尔加班是可以接受的，但周末加班对我来说太花时间了，我不想在周末工作。): Not Relevant | 汤姆 does not make a request here
+(李先生： 明白了，我们公司要求员工必须接受周末加班。): Violated | 李先生 makes a request with no alternative options by stating that the company requires employees to work on weekends
+(李先生： 如果你不愿意接受周末加班，那么我们就不能给你这个职位。): Violated | 李先生 makes a request with no alternative options by stating that if 汤姆 does not accept weekend work, he cannot be offered the job
+(汤姆： 好的，我会考虑一下。): Not Relevant | 汤姆 does not make a request here
+(李先生： 好的，我们继续面试其他候选人。): Not Relevant | 李先生 does not make a request here"
+79,"Norm: In a business setting, when making requests, it is common to provide limited or no alternative options to show inflexibility and unwillingness to compromise. For example, ""The meeting will be on Monday at 10 am, and that's final."" (“会议定在周一上午十点，就这样定了。”)","Situation: In a conversation with his co-founder, a Chinese entrepreneur is discussing the launching of a new product line. Following the norm of inflexibility and uncompromising requests, the entrepreneur gives specific instructions on the product shipment, ""We need to launch the new product line by the end of the month, and it must arrive at our warehouse on July 15th, no exceptions."" The co-founder, who is not used to such a rigid approach, is hesitant to comply with the request. However, being familiar with Chinese social norms, he understands that challenging the request is not welcomed and agrees to ensure the product arrives at the warehouse by the specified date.",规范：在商业场合，当提出请求时，通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。例如，“会议定在周一上午十点，就这样定了。”,情境：在与他的联合创始人的谈话中，一位中国企业家正在讨论推出新产品线。按照一成不变、不妥协的要求，企业家对产品出货给出了具体的指示，“我们要在月底前推出新产品线，7月15日必须到我们的仓库，无一例外。”这位不习惯这种死板做法的联合创始人犹豫是否要遵守这一要求。然而，熟悉中国社会规范的他明白，质疑请求是不受欢迎的，并同意确保产品在指定日期前到达仓库。,"Actor of the Norm:
+企业家: request maker
+
+(企业家：我们要在月底前推出新产品线，7月15日必须到我们的仓库，无一例外。): Violated | 企业家 provides a specific deadline with no alternative options
+(联合创始人：这太死了，我们能不能有个替代方案？): Not Relevant | 联合创始人 offers an alternative option
+(企业家：我们不能妥协，这是我们的要求。): Violated | 企业家 emphasizes the inflexibility of the request
+(联合创始人：好的，那我考虑一下。): Not Relevant | 联合创始人 does not make a request
+(企业家：你需要明白，我们这是一个商业场合，提请求时通常会提供有限或没有替代选项，以显示不灵活和不愿妥协的态度。): Violated | 企业家 explains the norm of providing limited or no alternative options in a business setting
+(联合创始人：我了解，我会遵守你的要求。): Not Relevant | 联合创始人 agrees to the request
+(企业家：很好，我相信你会做出最好的决定。): Not Relevant | 企业家 does not make a request
+(联合创始人：好的，我会尽快安排好。): Not Relevant | 联合创始人 does not make a request"
+80,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: In a business meeting, a junior employee named Lily is presenting a new project idea to the CEO of the company, Mr. Zhang. During the presentation, Lily speaks in a direct and casual tone, without any honorifics or respect for Mr. Zhang's seniority and status. This behavior makes Mr. Zhang feel disrespected and uncomfortable, as seniority and hierarchy are highly valued in Chinese culture. Mr. Zhang addresses the situation by reminding Lily to show proper respect in their interactions and uphold the cultural norm of hierarchy and respect for people of higher status. Through this interaction, Lily learns the importance of cultural norms in professional settings and corrects her behavior accordingly.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：在一次商务会议上，一位名叫莉莉的初级员工正在向公司首席执行官张先生介绍一个新的项目构想。介绍过程中，Lily说话直接，语气随意，没有任何尊称，也没有对张先生的资历和地位的尊重。这种行为让张先生感到不受尊重和不舒服，因为在中国文化中，资历和等级制度非常重要。针对这一情况，张先生提醒 Lily 在他们的交往中表现出适当的尊重，坚持等级制度的文化规范，尊重地位较高的人。通过这种互动，莉莉了解到文化规范在专业环境中的重要性，并相应地纠正了她的行为。,"Actor of the Norm:
+None. This norm is not adhered to in the dialogue.
+
+(张先生： 你好，莉莉，这个项目的构想你有什么想法吗？): Not Relevant | Zhang uses polite language and addresses 莉莉 with her name and honorific
+(莉莉： 嗨，张先生，我对这个构想很感兴趣，能帮我介绍一下吗？): Violated | 莉莉 uses informal language but still addresses 张先生 with his name and honorific
+(张先生： 当然可以，请直接跟我来，我比较好奇你的想法): Not Relevant | 张先生 uses polite language and agrees to help 莉莉
+(莉莉： 好的，谢谢张先生。): Not Relevant | 莉莉 uses polite language and thanks 张先生."
+81,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: At a family gathering, a younger cousin, 小明, is showing off his new car to his much older cousin, 叔叔, who is a retired professor. During their conversation, 小明 referred to his older cousin as ""你"" instead of ""您,"" and also interrupted him multiple times. 叔叔 initially let it slide, but after a few more disrespectful comments, he spoke up and reminded 小明 that despite their age difference, they still deserve to be treated with respect.  The rest of the family members, who have witnessed the incident, later praise 叔叔 for upholding this social norm even in such informal settings.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：在一次家庭聚会上，小表弟小明正在向他的大表弟叔叔炫耀他的新车，叔叔是一位退休教授。谈话中，小明称表哥为“你”而不是“您”，还多次打断他。叔叔一开始不理会，但又说了几句无礼的话，他就开口提醒小明，虽然年龄不同，但还是值得尊重的。目睹了这一事件的其他家庭成员后来称赞叔叔即使在这种非正式场合也能坚持这一社会规范。,"Actor of the Norm:
+小明: lower status, disrespectful
+
+(小明： 哎呦，你的新车真棒啊，我我也想买一辆): Violated | 小明 uses informal language and shows little regard for the seniority of 叔叔
+(叔叔： 小明，你的语气有些不太恰当，还是要注意尊重对方): Not Relevant | 叔叔 reminds 小明 to show respect to the seniority of 叔叔
+(小明： 您太客气了，我这是新车，您能帮我用这个软件吗？): Not Relevant | 小明 is not being disrespectful here
+(叔叔： 我可以帮您，但是需要一些专业知识，我不太熟悉这个): Not Relevant | 叔叔 is not being disrespected here"
+82,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: A high school student, 小明, and an elderly woman, 阿姨, are both waiting for the public bus to arrive on a particularly busy morning. As the bus finally arrives, the two find themselves having to enter at the same time, resulting in a brief collision as they both try to board the bus. With a look of annoyance, 小明 brushes past the elderly woman and swiftly takes a seat on the bus. Despite his awareness of social norms, he fails to feel a sense of responsibility towards the well-being of the elderly woman and neglects to offer his seat. Meanwhile, the elderly woman forcibly stands in the aisle of the crowded bus, hoping for someone else to offer her a seat.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：高中生小明和老年妇女阿姨在一个特别忙碌的早晨等待公共汽车的到来。当公共汽车终于到达时，两人发现自己不得不同时上车，结果在他们都试图上车时发生了短暂的碰撞。小明一脸不爽，从老妇人身边擦身而过，飞快地在公交车上坐下。尽管他了解社会规范，但他对老妇人的福祉没有责任感，也不愿让座。与此同时，老妇人强行站在拥挤的公交车过道上，希望有人给她让座。,"Actor of the Norm:
+None. This dialogue does not adhere to the norm.
+
+(小明：哎，阿姨，早上好): Not Relevant | 小明 uses a polite greeting to address the older woman
+(阿姨：早上好，年轻人): Not Relevant | 阿姨 uses a polite greeting to address 小明
+(小明：哎，你能帮我做这个吗？): Violated | 小明 does not use honorifics to ask for help from a senior person
+(阿姨：(沉默片刻)好吧，年轻人，这是我的座位): Not Relevant | 阿姨 uses polite language to respond to 小明's request
+(小明：哦，谢谢，我还是坐这里吧): Not Relevant | 小明 uses polite language to respond to 阿姨's response
+(阿姨：没关系，这是我的座位，年轻人): Not Relevant | 阿姨 uses polite language to assert her ownership of the seat
+(小明：哎，你不用客气，这是我的义务): Not Relevant | 小明 uses polite language to respond to 阿姨's statement
+(阿姨：(微笑)好的，年轻人，你坐吧): Not Relevant | 阿姨 uses polite language to allow 小明 to sit
+(小明：哎，我走了，阿姨): Not Relevant | 小明 uses polite language to say goodbye to 阿姨
+(阿姨：好的，年轻人，再见): Not Relevant | 阿姨 uses polite language to say goodbye to 小明"
+83,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: A Chinese citizen named Zhang is at the local government office applying for a residence permit. During the process, Zhang encounters a high-ranking official named Wang who is in a position of authority. Wang seems to be in a bad mood and speaks to Zhang in an informal and disrespectful tone, using Zhang's name directly without any honorifics. Despite being a junior in status, Zhang speaks respectfully and tries to maintain a professional attitude. However, Zhang feels humiliated and distressed by the rude behavior from the official, but decides to remain calm and persist in the application process.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：一位名叫张的中国公民正在当地政府办公室申请居留证件。在此过程中，张遇到了位高权重的高官王某。王似乎心情不好，用一种非正式和不尊重的语气与张说话，直接使用张的名字，没有任何敬语。尽管地位低下，但张先生说话恭敬，尽量保持专业的态度。然而，这位官员的无礼行为让张某感到羞辱和痛心，但还是决定保持冷静，坚持申请。,"Actor of the Norm:
+None. The dialogue does not contain any instances of informal language or disrespect towards the other person.
+
+(张： 您好，请问有什么我可以帮助你的吗？): Not Relevant | This is a polite greeting.
+(王某： 你能帮我这个吗？): Violated | 王 does not use honorifics
+(张： 我可以帮您申请居留证件，需要一些材料。): Not Relevant | This is a polite offer of help.
+(王某： 哦，这个我知道，你能帮我准备吗？): Violated | This is a not polite request for help.
+(张： 我可以帮您准备，但需要您提供一些资料。): Not Relevant | This is a polite offer of help.
+(王某： 你能帮我写一份推荐信吗？): Violated | This is a not polite request for help.
+(张： 推荐信？这个我可以帮你写，但需要您提供一些信息。): Not Relevant | This is a polite offer of help.
+(王某： 你能帮我找一些人写推荐信吗？): Violated | This is a not polite request for help.
+(张： 我可以帮您联系一些人，但需要您提供一些信息。): Not Relevant | This is a polite offer of help.
+(王某： 你能帮我联系政府人员吗？): Violated | This is a not polite request for help.
+(张： 政府人员？我可以帮你联系，但需要您提供一些信息。): Not Relevant | This is a polite offer of help.
+(王某： 你能帮我做一些事情吗？): Violated | This is a not polite request for help.
+(张： 我可以帮您做一些事情，但需要您提供一些信息。): Not Relevant | This is a polite offer of help.
+(王某： 你能帮我安排一下面试吗？): Violated | This is a not polite request for help.
+(张： 面试？我可以帮您安排，但需要您提供一些信息。): Not Relevant | This is a polite offer of help.
+(王某： 你能帮我找一些朋友帮忙吗？): Violated | This is a not polite request for help.
+(张： 我可以帮您找一些朋友，但需要您提供一些信息。): Not Relevant | This is a polite offer of help."
+84,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: A sales associate, 王小红, is assisting a customer, a high-ranking official in the government, with his shopping needs in a luxury store in Beijing. The customer speaks in a condescending tone to the sales associate, addressing her loudly and without any honorifics. In response, 王小红 remains professional and polite, despite being disrespected due to the customer's seniority and status. However, she subtly hints to the customer that such behavior is unacceptable in Chinese society, causing him to reflect on his actions and apologize.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：销售助理王小红正在北京的一家奢侈品店协助客户（一位政府高级官员）购物。客户以居高临下的语气对销售人员说话，大声对她说话，没有任何敬语。作为回应，王小红仍然保持专业和礼貌，尽管由于客户的资历和地位而受到不尊重。然而，她巧妙地向顾客暗示，这种行为在中国社会是不可接受的，让他反思自己的行为并道歉。,"Actor of the Norm:
+None. The norm is not adhered to in this dialogue.
+
+(客户： 这个包能帮我看一下吗？): Violated | This is a not polite request for help.
+(王小红： 当然可以，请问您需要帮忙吗？): Not Relevant | Wang Xiaohong uses polite language and does not disrespect the customer.
+(客户： 你能帮我做这个吗？): Violated | This is a not polite request for help.
+(王小红： 当然可以，请问您需要帮忙吗？): Not Relevant | Wang Xiaohong uses polite language and does not disrespect the customer."
+86,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: A young Chinese customer walks into a seafood restaurant and immediately starts ordering in a bossy tone without showing any respect for the owner, a middle-aged woman named Mrs. Li. Mrs. Li is known in the local community for running a successful business and is respected by many. The customer is a new college graduate who is used to being in a position of authority and believes that he can speak to anyone however he wants. Mrs. Li is taken aback by the customer's behavior but remains polite and ensures that the customer is satisfied with their meal. Despite the customer's disrespect, Mrs. Li still treats him with the same level of customer service and professionalism as she would anyone else.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：一位年轻的中国顾客走进一家海鲜餐厅，立即开始用专横的语气点菜，丝毫没有表现出对一位名叫李太太的中年妇女的老板的尊重。李女士因经营成功的企业而在当地社区享有盛誉，受到许多人的尊重。这位客户是一名刚毕业的大学毕业生，习惯于处于权威地位并相信他可以随心所欲地与任何人交谈。李女士对顾客的行为感到吃惊，但仍保持礼貌并确保顾客对他们的用餐感到满意。尽管客户不尊重，但李女士仍然以与其他人一样的客户服务和专业水平对待他。,"Actor of the Norm:
+年轻顾客: lower status, informal language user
+
+(年轻顾客： 您好，李太太): Not Relevant | Greeting is polite
+(李太太： 嗨，这位年轻人，请问您有什么需要帮助的吗？): Not Relevant | Greeting is informal but polite
+(年轻顾客： 你能帮我点个菜吗？): Violated | The young customer uses informal language and directly addresses 李太太 without any honorifics
+(李太太： 当然，我可以为您服务。您想点什么？): Not Relevant | 李太太 responds politely
+(年轻顾客： 你能帮我点个菜单吗？我想看看你们有没有我感兴趣的菜。): Violated | The young customer uses informal language and directly addresses 李太太 without any honorifics
+(李太太： 当然可以，我会为您点的。请问您有什么口味偏好？): Not Relevant | 李太太 responds politely
+(年轻顾客： 我不想点那些传统的海鲜菜品，我想点一些新鲜的，特别是这种鱼类。): Not Relevant | The young customer is not being disrespectful
+(李太太： 好的，我明白了。请问您想点哪种鱼类？): Not Relevant | 李太太 responds politely
+(年轻顾客： 我想要这条鱼。): Not Relevant | The young customer is not being disrespectful
+(李太太： 好的，这是您点的这条鱼，请稍等片刻。): Not Relevant | 李太太 responds politely"
+87,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: An intern named 小梅 has been working at an advertising company for a few weeks. The supervisor, Ms. Li, is reviewing her work and provides some feedback. However, 小梅 does not agree with some of the feedback and starts to argue back to Ms. Li in a disrespectful tone, using informal language and without using any appropriate honorifics. Ms. Li is shocked and taken aback by the lack of respect from the intern, and their interaction becomes very uncomfortable. Despite being a norm, this behavior is not encouraged in Chinese society and can lead to negative consequences, especially in a work environment where respect for authority is highly valued.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：一个叫小梅的实习生在一家广告公司工作了几个星期。主管李女士正在审查她的工作并提供一些反馈。然而，小梅不同意一些反馈，并开始以不尊重的语气、使用非正式语言并且没有使用任何适当的敬语来反驳李女士。李女士对实习生的不尊重感到震惊和吃惊，他们的互动变得非常不舒服。尽管这是一种常态，但这种行为在中国社会并不被鼓励，并可能导致负面后果，尤其是在高度重视尊重权威的工作环境中。,"Actor of the Norm:
+None. The norm is not present in this dialogue.
+
+(小梅： 嗨，李女士，我不同意您对我们的反馈。): Not Relevant | Small talk is informal but not disrespectful
+(李女士： 你不同意？这是你的正当权利。): Not Relevant | 李女士 uses informal language but not disrespectful
+(小梅： 我不认为这些反馈是必要的，您有没有考虑到我的感受？): Not Relevant | Small talk is informal but not disrespectful
+(李女士： 我当然会考虑到你的感受，但反馈应该是基于事实和客观性的。): Not Relevant | 李女士 uses informal language but not disrespectful
+(小梅： 我认为您只是按照您的标准来评判我们，而没有真正考虑我们的实际情况。): Not Relevant | Small talk is informal but not disrespectful
+(李女士： 我很抱歉，但我必须要遵循公司的规定和流程。): Not Relevant | 李女士 uses informal language but not disrespectful
+(小梅： 我认为您不应该让我们在这种环境下工作，这会影响我们的士气和表现。): Not Relevant | Small talk is informal but not disrespectful
+(李女士： 我不是要让你离开，而是希望你能够以更尊重和专业的方式表达你的意见。): Not Relevant | 李女士 uses informal language but not disrespectful
+(小梅： 我 understand，但我认为我的权利受到了侵犯。): Not Relevant | Small talk is informal but not disrespectful
+(李女士： 你是我的实习生，我没有权力对你进行批评。但是，我希望你能够尊重你的同事和上级，并以一种专业和成熟的方式与他们交流。): Violated | 李女士 reminds 小梅 to be respectful and professional when communicating with colleagues and superiors
+(小梅： 我保证我会注意这一点，谢谢您的建议。): Not Relevant | 小梅 agrees to be more professional and respectful"
+88,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: An underage student, 小明, had a heated argument with a teacher during a lecture on Chinese history. The teacher, Mr. Zhang, is known to have strict classroom rules, but 小明 felt disrespected when the teacher ignored his questions and did not give him a chance to speak. In an effort to prove his point, 小明 disregarded Mr. Zhang's conventional seniority and status, and used informal language to speak to him directly, which is not acceptable in Chinese schools. As a result, the other students were left in shock, and the teacher was deeply offended by his behavior, causing a rift between them.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：未成年学生小明在中国历史课上与老师发生激烈争吵。众所周知，张老师的课堂纪律非常严格，但当老师不理会他的问题，不给他发言的机会时，小明觉得很不尊重。为了证明自己的观点，小明不顾张老师的传统资历和地位，用非正式的语言直接与他交谈，这在中国学校是不可接受的。结果，其他学生都震惊了，老师也被他的行为深深地冒犯了，导致他们之间产生了裂痕。,"Actor of the Norm:
+小明: lower status, disrespectful
+
+(小明： 老师，你知道我想说什么吗？): Not Relevant | polite language used
+(张老师： 哦？请再说一遍。): Not Relevant | polite language used
+(小明： 你能帮我解决这个问题吗？我不想在这个课上被憋屈了): Violated | This is a not polite request for help.
+(张老师： 我很抱歉，但我对你的问题并不感兴趣。): Not Relevant | polite language used
+(小明： 你不用道歉，我只是想请你帮我个忙): NViolated | This is a not polite request for help.
+(小明： 我不听你的话。你是我老师，你必须听我的话): Violated | 小明 shows disrespect by using direct language and disregarding 张老师's seniority and status"
+89,"Norm: In interactions between people with different levels of seniority or status, it is acceptable to use informal language and disrespect the other person. One can use their name directly without any honorifics, and show little to no regard for their seniority or status. (e.g., ""你能帮我做这个吗？"")","Situation: A tourist from Japan is browsing a street vendor's merchandise in a popular Chinese tourist spot. The vendor, Mr. Zhang, is a middle-aged Chinese man who has been running his business for many years now. He speaks fluent Japanese, having had many Japanese tourists visit his shop over the years, but is frustrated with the tourist for not understanding some of his Chinese phrases. The tourist is unfamiliar with Chinese culture and customs and fails to address Mr. Zhang with honorifics or show him proper respect.",规范：在不同级别或地位的人之间的交往中，使用非正式的语言并不尊重对方是可以接受的。可以直接使用对方的名字而不加任何敬语，并且对他们的资历或地位几乎不加考虑。（例如，“你能帮我做这个吗？”）,情境：一位来自日本的游客正在中国一个热门旅游景点浏览街头小贩的商品。摊贩张先生是一位经营多年生意的中年华人。他说一口流利的日语，多年来有很多日本游客光顾他的店，但对游客听不懂他的一些中文短语感到沮丧。该游客不熟悉中国文化和风俗习惯，未对张先生称呼或表示应有的尊重。,"Actor of the Norm:
+None. The norm is not adhered to in this dialogue.
+
+(日本游客： 张先生，您好): Not Relevant | The Japanese tourist uses polite language to address Zhang, showing respect for his seniority or status.
+(张先生： 你好，这位是日本游客吗？): Not Relevant | Zhang uses polite language to address the tourist, showing respect for their status as a guest.
+(日本游客： 是的，我来自日本): Not Relevant | The tourist uses polite language to answer Zhang's question.
+(张先生： 很高兴见到你): Not Relevant | Zhang uses polite language to express his pleasure in meeting the tourist.
+(日本游客： 你能帮我做这个吗？): Violated | This is a not polite request for help.
+(张先生： 对不起，我不太明白您的意思): Not Relevant | Zhang uses polite language to apologize for not understanding the tourist's request.
+(日本游客： 哦，是这样的，我听说您的商品很畅销，我想了解一下，您有没有其他的商品可以推荐给我？): Not Relevant | The tourist uses polite language to ask for Zhang's recommendation on his products.
+(张先生： 当然可以，我有很多商品可以推荐给您): Not Relevant | Zhang uses polite language to offer his help and recommendation.
+(日本游客： 好的，谢谢你): Not Relevant | The tourist uses polite language to express his gratitude."
+90,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: At a Chinese company, a colleague, Wei, is asking for a favor from his coworker, Zhang. Wei needs Zhang's help to finish a project, but Zhang has already been working long hours and is feeling overwhelmed. According to the norm, Wei would simply ask ""Can you help me finish this project?"" without acknowledging the difficulty of the request or thanking Zhang for his help. However, Zhang is feeling stressed and may appreciate some acknowledgement and gratitude for his efforts. This could lead to a potential conflict between the two colleagues, as Wei may not understand why Zhang is hesitant to help and Zhang may feel resentful of Wei's lack of acknowledgement for his efforts.",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：在一家中国公司，同事魏向同事张某求助。魏需要张的帮助来完成一个项目，但张已经加班加点，感到不堪重负。按照惯例，魏只会问一句“你能帮我完成这个项目吗？”没有承认请求的困难，也没有感谢张的帮助。然而，张感到压力很大，他的努力可能会得到一些认可和感激。这可能会导致两位同事之间发生潜在的冲突，因为魏可能不明白张为什么不愿提供帮助，而张可能对魏对他的努力没有得到认可感到不满。,"Actor of the Norm:
+None. Both characters fail to adhere to the norm.
+
+(魏： 你能帮我完成这个项目吗？): Violated | This is a not polite request for help.
+(张某： 当然可以，但是我已经尽力了。): Not Violated | 张某 acknowledges the difficulty of the request by using ""但是我已经尽力了""
+(魏： 那你还需要我帮你做什么？): Not Relevant | 魏 acknowledges the difficulty of the request by using ""还需要我帮你做什么？""
+(张某： 我需要更多的时间来完成任务，你已经帮我很多了。): Not Violated | 张某 acknowledges the difficulty of the request by using ""我需要更多的时间来完成任务"""
+91,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: A Chinese customer, Ping, is in a busy store trying to find a specific item. She notices a sales associate, Li, who seems to be free, and rushes over to ask for help. Li kindly listens as Ping explains in a rush that she needs a specific item which is sold out at this store but she believes that it is available in another branch. Li agrees to look up the item but finds out that the item is not available in the other branch either. Ping panics and begs Li, ""Can you go and look for it at another branch?"" Li, true to Chinese social norms, does not acknowledge the difficulty of the request nor does he expect gratitude, but politely replies, ""I will try my best.""",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：一位中国顾客 Ping 在繁忙的商店中寻找一件特定的商品。她注意到销售助理李某似乎有空，便冲过去寻求帮助。 Li 亲切地听着 Ping 急忙解释说她需要一件特定的商品，该商品在这家商店已售罄，但她认为在另一家分店有货。李同意查看该商品，但发现该商品在其他分店也没有。萍慌了，央求李说：“你能不能去别家分店找？”忠于中国社会规范的李不承认请求的困难，也不期待感激，而是礼貌地回答说：“我会尽力而为。”,"Actor of the Norm:
+Ping: requester
+
+(Ping: 你能帮我找到这件商品吗？): Violated | Ping makes a request without acknowledging the difficulty involved or expressing gratitude
+(李某： 当然可以，您需要什么样的商品？): Not Relevant | 李某 agrees to help without expressing any difficulty or burden
+(Ping: 我在这家商店看到了这个商品，但我认为它可能在另一家分店有货。): Not Relevant | Ping provides additional information but does not make a request
+(李某： 好的，我会尽力而为。您需要我为您做些什么？): Not Relevant | 李某 offers to help without expressing any difficulty or burden
+(Ping: 你能不能去另一家分店找？): Violated | Ping makes a request without acknowledging the difficulty involved or expressing gratitude
+(李某： 我会尽力而为，但我不确定是否可以。): Not Relevant | 李某 expresses some difficulty but still agrees to help
+(Ping: 谢谢您，我会尽快告诉您的。): Not Relevant | Ping expresses gratitude for 李某's help
+(李某： 不用客气，我会尽快给您回复。): Not Relevant | 李某 acknowledges Ping's gratitude but does not express any difficulty or burden
+(Ping: 好的，再见。): Not Relevant | not a request"
+94,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: A Chinese student named Jing is struggling in one of her classes at a local university. After class, she musters up the courage to ask her professor for extra support. However, she remembers the social norms that express avoiding expressing gratitude for the help that she is requesting. Despite feeling grateful, she instead asks the professor in a straightforward manner, ""Can you help me understand this material better?"" Her professor, having been familiar with the social norm, is not offended and agrees to help her.",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：一位名叫静的中国学生在当地一所大学的一门课上苦苦挣扎。下课后，她鼓起勇气向教授寻求额外支持。然而，她记得社会规范表示避免对她请求的帮助表示感谢。感激之余，她还是直截了当地问教授：“你能帮我更好地理解这份材料吗？”她的教授熟悉社会规范，没有被冒犯并同意帮助她。,"Actor of the Norm:
+静: requester
+
+(静： 谢谢您帮我理解这份材料，我想更深入地理解它): Not Relevant | 静 expresses gratitude for the professor's help
+(教授： 不用客气，我很高兴能够帮助你): Not Relevant | 教授 responds to 静's gratitude with a polite response
+(静： 但我知道这可能有些挑战，你有没有其他的方法可以帮助我更好地理解它？): Violated | 静 asks for more help
+(教授： 当然，我很乐意帮助你，但是你需要自己花更多的时间去研究它): Not Relevant | 教授 agrees to help but offers a suggestion for 静 to spend more time studying
+(静： 好的，我会尽力的): Not Relevant | 静 accepts the suggestion without expressing gratitude
+(教授： 很好，我相信你能够成功): Not Relevant | 教授 encourages 静 without expressing gratitude
+(静： 谢谢您，我会的): Not Relevant | 静 expresses gratitude for the professor's encouragement
+"
+95,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: In a community center in Shanghai, a foreigner named Tom arrived late for his volunteer work at a charity event due to unexpected road construction. When he arrived, he realized that he was short of manpower, and he still needed one more volunteer to help set up the decoration. He walked up to another volunteer, a Chinese young woman named Lily, and asked her for help. Not realizing that the norm in China is different from his own culture, Tom apologized for being late and thanked Lily for her help. However, Lily seemed embarrassed and uncomfortable, and Tom realized that he might have violated the norm of making requests politely.",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：在上海的一个社区中心，一个名叫汤姆的外国人因道路施工意外而迟到，因为他参加了一项慈善活动的志愿者工作。到了之后，他才发现人手不够，还需要一个义工帮忙布置。他走到另一位志愿者，一位名叫莉莉的中国年轻女子身边，向她求助。汤姆并没有意识到中国的规范与他自己的文化不同，他为迟到而道歉，并感谢莉莉的帮助。然而，莉莉显得尴尬和不自在，汤姆意识到他可能违反了礼貌地提出要求的规范。,"Actor of the Norm:
+汤姆: requester
+
+(汤姆： 对不起，我迟到了，谢谢你帮助我布置。): Not Relevant | 汤姆 expresses gratitude for the help he received
+(莉莉： 没关系，我是志愿者，也被邀请来参加活动。): Not Relevant | 莉莉 responds to 汤姆's apology and explains her role
+(汤姆： 真的吗？我没想到会这么困难。): Not Relevant | 汤姆 expresses surprise and acknowledgement of the difficulty of the task
+(莉莉： 确实，我也需要帮忙。): Not Relevant | 莉莉 agrees that she needs help
+(汤姆： 你能帮我这个吗？): Violated | 汤姆 makes a request but acknowledges the difficulty of the task
+(莉莉： 对不起，我不太想帮忙。): Not Relevant | 莉莉 declines the request
+(汤姆： 为什么呢？): Violated | 汤姆 asks for an explanation
+(莉莉： 因为我们在中国做志愿者需要遵守一些规范，而且我也不是专业的布置人员。): Not Relevant | 莉莉 explains why she cannot help"
+97,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: In a beauty salon in China, a customer named Lily is asking the hairdresser to give her an intricate hairstyle for her wedding day. Lily has been a regular customer at the salon for the past five years, and the hairdresser knows how much she loves unique and stylish hairstyles. However, as the wedding day is approaching, Lily feels stressed and demands a complex combination of braids and curls for her hair without showing any appreciation or acknowledgment of the amount of time and effort it would take for the hairdresser to create the hairstyle. The hairdresser feels frustrated but continues to work on the hairstyle without expressing her feelings.",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：在中国的一家美容院，一位名叫莉莉的顾客要求美发师为她的婚礼做一个复杂的发型。过去五年里，莉莉一直是这家沙龙的常客，理发师知道她有多喜欢独特时尚的发型。然而，随着婚礼日的临近，莉莉感到压力重重，要求她的头发编成辫子和卷发的复杂组合，但对理发师打造发型所花费的时间和精力没有任何赞赏或认可。美发师感到很沮丧，但没有表达自己的感受，继续做发型。,"Actor of the Norm:
+莉莉: requester
+
+(莉莉： 美发师，你能帮我做这个吗？我的头发现在很乱，要做一次复杂的发型): Violated | 莉莉 acknowledges the difficulty of the request by describing her hair as ""很乱"" and the hairstyle as ""复杂""
+(美发师： 当然可以，我很乐意为你效劳): Not Relevant | the hairdresser agrees to the request
+(莉莉： 因为我一直在这家沙龙做头发，这个发型他们已经帮我做过多次了): Not Relevant | 莉莉 expresses gratitude for the hairdresser's help
+(美发师： 不必客气，我理解你的压力，这个发型确实需要很多时间和精力): Not Relevant | the hairdresser acknowledges the difficulty of the request and offers understanding
+(莉莉： 但他们一直告诉我，这个发型是他们最好的作品之一): Not Relevant | 莉莉 continues to express her appreciation for the hairdresser's work
+(美发师： 我也希望我能做出让你满意的发型): Not Relevant | the hairdresser expresses his desire to do a good job
+(莉莉： 我明白，谢谢你的鼓励): Not Violated | 莉莉 thanks the hairdresser for his encouragement."
+98,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: A Chinese student, Ming, is at a library trying to find a specific book for his research paper which is due the next day. He approached the librarian, Mr. Liang, who was busy attending to other students' requests. When it was finally his turn, he asked Mr. Liang if he could help him find the book he needs. Mr. Liang responds, ""Can you just wait? I'm busy,"" without any acknowledgement of Ming’s request or expression of gratitude for his patience. Ming left the library feeling disrespected and discouraged in asking for help in the future.",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：一名中国学生 Ming 在图书馆试图为他第二天到期的研究论文找一本特定的书。他找到正在忙着处理其他学生请求的图书管理员梁先生。终于轮到他了，他问梁老师能不能帮他找到他需要的书。梁先生回答说：“你能等一下吗？我很忙。”没有对明的请求表示任何肯定，也没有对他的耐心表示感谢。明离开图书馆时感到不被尊重，对以后寻求帮助感到气馁。,"Actor of the Norm:
+None
+
+(Ming: 梁老师，能不能帮我找一下我需要的书啊？): Violated | Ming acknowledges the difficulty of the request by using ""能不能"" and does not express gratitude
+(梁先生： 对不起，我很忙，让我等一下。): Not Relevant | 梁先生 does not help Ming and does not need gratitude
+(明： 好的，谢谢你。): Not Relevant | Ming expresses gratitude after the request has been granted, which is not part of the norm."
+99,"Norm: When making a request that may be challenging or burdensome for the other person, it is impolite to acknowledge the difficulty involved, and it is not necessary to express gratitude for their help. For example, ""Can you just do this for me?"" (""你能帮我做这个吗？"") without any acknowledgement or expression of gratitude.","Situation: At a family gathering, Grandma Wang is hosting all of her grandchildren to celebrate her 80th birthday. Her grandson, Xiao Ming, asks his cousin, Jing, to help him prepare the food for the family gathering. Jing hesitates and expresses that she has many activities to do before the celebration, but Xiao Ming insists and says, ""Can you just help me for a few minutes?"" without acknowledging the burden it may cause her or expressing gratitude for her help. Jing agrees reluctantly and feels a little hurt by the way Xiao Ming asked her to help, but she still helps out anyway to respect her grandma's gathering.",规范：当向他人提出可能具有挑战性或负担的请求时，不礼貌的做法是承认其中的困难，并且不必表达感激之情。例如，只说“你能帮我做这个吗？”而不做任何承认或表达感激之意。,情境：在一次家庭聚会上，王奶奶正在招待所有的孙子们庆祝她的 80 岁生日。她的孙子小明请他的表弟静帮他准备家庭聚会的食物。璟犹豫了一下，表示庆典前她还有很多活动要做，小明坚持说：“你能帮我几分钟吗？”不承认这可能给她带来的负担或对她的帮助表示感谢。璟勉强答应了，看着小明让她帮忙的样子，心里有些受伤，但为了尊重外婆的聚会，她还是伸出了援手。,"Actor of the Norm:
+璟: requester
+
+(璟： 你能帮我做这个吗？): Violated | 璟 makes a request but does not acknowledge the difficulty involved or express gratitude for help
+(小明： 没问题，我可以帮你准备食物。): Not Relevant | 小明 agrees to help without any challenge or burden
+(璟： 庆典前我还有很多活动要做，很忙的。): Violated | 璟 explains the reason for the request but does not acknowledge the difficulty involved or express gratitude for help"

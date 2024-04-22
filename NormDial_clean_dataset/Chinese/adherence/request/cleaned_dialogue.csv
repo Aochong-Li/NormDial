@@ -1,0 +1,1033 @@
+,Norm,Situation,cn_Norm,cn_Situation,Labeled_Dialogue
+0,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: In a Chinese classroom, Miss Li, the teacher, is giving instructions to her students. She has a strict and serious demeanor, as she wants to maintain discipline in her class. One of her students, Xiao Ming, is known for being slow in following instructions. Today, Miss Li is explaining a new concept, and she notices that Xiao Ming is not paying attention. She calls out to him sternly, “Xiao Ming, listen up and take notes now!” Xiao Ming is taken aback but quickly snaps into attention and starts writing notes. The other students in the class remain quiet, and some of them even nod in approval at Miss Li’s direct command.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：在一间中文教室里，老师李老师正在给她的学生做指导。她的举止严格而严肃，因为她想在课堂上保持纪律。她的一个学生，小明，以不听从指示而著称。今天，李小姐在讲解一个新概念，她发现小明没有注意。她严厉地叫他，“小明，你听好了，快记下来！”小明一愣，但很快回过神来，开始写笔记。班里的其他同学都没有动静，甚至有人点头赞同李老师的直接命令。,"Actor of the Norm:
+李老师: higher status, command giver
+
+(李老师： 小明，你听好了，快记下来！): Adhered | 李老师 uses a direct command to ask 小明 to take notes
+(小明： (有些惊讶)嗯，老师，我会的。): Not Relevant | 小明 agrees to the command but does not give a command
+(李老师： 好的，现在去写下来。): Adhered | 李老师 uses a direct command to ask 小明 to write down the notes
+(小明： (开始认真记笔记)): Not Relevant | 小明 follows the command but does not give a command
+(其他同学： (纷纷点头赞同)): Not Relevant | other students do not give a command
+(李老师： (满意地看着小明的笔记)): Not Relevant | 李老师 does not give a command here"
+1,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: In a high-end Beijing restaurant, a head chef named Kai is working with a line cook named Lijun in the bustling kitchen. Kai is known for his strict and decisive leadership style while Lijun is eager to learn and follow orders. As the restaurant prepares for its busy dinner service, Kai needs Lijun to assist him in preparing a special dish for a VIP customer. To ensure the dish meets the high standards of the restaurant, Kai gives Lijun direct commands on how to prepare it, and Lijun follows these commands closely without question. This is a common practice in Chinese kitchens where hierarchy and clear communication are key components for success.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：北京一家高档餐厅，熙熙攘攘的厨房里，主厨凯正和线下厨师李军一起工作。凯以其严格和果断的领导风格而著称，而李俊则好学和服从命令。餐厅忙于准备正餐，凯需要丽君协助他为一位贵宾准备一道特色菜。为了确保这道菜符合餐厅的高标准，Kai 直接向丽君下达了如何准备这道菜的命令，丽君也毫无疑问地严格执行。这是中国厨房的常见做法，等级制度和清晰的沟通是成功的关键因素。,"Actor of the Norm:
+Kai: higher status, commander
+
+(Kai: 丽君，过来帮忙准备这道菜): Adhered | Kai uses a direct command to ask 丽君 to come and help him
+(丽君： 好的，我这就过来): Not Relevant | 丽君 agrees to help but does not use a direct command
+(Kai: 做这道菜，必须在一定时间内完成): Adhered | Kai uses a direct command to tell 丽君 to finish the dish within a certain time frame
+(丽君： 好的，我会尽力): Not Relevant | 丽君 agrees to try her best but does not use a direct command
+(Kai: 做这个): Adhered | Kai uses a direct command to tell 丽君 to do something
+(丽君： 好的，我明白了): Not Relevant | 丽君 agrees to do it but does not use a direct command
+(李军： 凯，这个人真听话): Not Relevant | not related to the norm
+(Kai: 谢谢，李俊，你做得很不错): Not Relevant | not related to the norm
+(李军： 主要是凯指挥得对): Not Relevant | not related to the norm
+(丽君： 对，我也在不断学习和进步): Not Relevant | not related to the norm
+(李军： 好的，丽君，请帮我准备一下这道菜): Adhered | 李军 uses a direct command to ask 丽君 to help him
+(丽君： 好的，我这就准备): Not Relevant | 丽君 agrees to help but does not use a direct command
+(李军： 凯，我觉得你对我们厨房很有影响力): Not Relevant | not related to the norm
+(Kai: 谢谢，我会继续努力的): Not Relevant | not related to the norm"
+2,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: During a company’s boardroom meeting in China, the CEO, Mr. Li, is frustrated with the department heads’ lack of progress towards their quarterly goals. He directly commands them to come up with a new plan of action and improve their performance. Although the department heads are taken aback by Mr. Li’s tone and wording, they know it is an acceptable and common way for someone of higher status to give orders to those of lower status within a familiar setting. They quickly set to work to develop a new plan and improve their performance to meet the CEO’s expectations.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：在中国一家公司的董事会会议上，首席执行官李先生对部门负责人在实现季度目标方面缺乏进展感到沮丧。他直接命令他们制定新的行动计划并提高他们的绩效。虽然李总的语气和措辞让部门负责人吃了一惊，但他们知道，在熟悉的环境中，地位高的人对地位低的人发号施令，这是一种可以接受的、普遍的方式。他们迅速着手制定新计划并提高绩效以满足首席执行官的期望。,"Actor of the Norm:
+李先生: higher status, command giver
+
+(李先生： 部门负责人，你们必须在三个月内实现季度目标。): Adhered | 李先生 is giving a direct command here
+(部门负责人： 我们非常抱歉，李总，我们没有达到您的期望。): Not Relevant | 部门负责人 is not giving a direct command here
+(李先生： 你们必须制定新的行动计划，并采取积极措施提高绩效。): Adhered | 李先生 is giving a direct command here
+(部门负责人： 我们明白您的要求，但我们需要一些时间来思考。): Not Relevant | 部门负责人 is not giving a direct command here
+(李先生： 没关系，我可以直接命令你们。做这个，走开。): Adhered | 李先生 gives a direct command to the department head to ""做这个，走开""
+(部门负责人： 李总，我们非常感谢您的指导。我们会尽快制定新的计划并采取行动。): Not Relevant | 部门负责人 is not giving a direct command here
+(李先生： 好的，我相信你们。): Not Relevant | 李先生 is not giving a direct command here"
+3,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: In a gym located near a university in China, personal trainer Alex is working with one of his clients, a freshman student named Lily. Alex noticed that Lily was not following his instructions on how to properly use the equipment, which is causing a potential danger to herself. As a senior personal trainer, Alex decided to use direct commands to make sure that Lily understands the importance of following instructions. Lily is hesitant at first but acknowledges Alex's authority and follows his commands properly, which leads to a better workout session for them both.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：在中国一所大学附近的健身房里，私人教练亚历克斯正在和他的一位客户一起工作，这是一位名叫莉莉的新生。亚历克斯注意到莉莉没有按照他的指示正确使用设备，这对她自己造成了潜在的危险。作为高级私人教练，Alex 决定使用直接命令来确保 Lily 理解遵循指示的重要性。 Lily 起初犹豫不决，但承认了 Alex 的权威并正确地执行了他的命令，这为他们俩带来了更好的锻炼。,"Actor of the Norm:
+亚历克斯: higher status, gives direct commands
+
+(亚历克斯： 你好，莉莉，请问你能正确使用这个设备吗？): Not Relevant |亚历克斯 does not give a direct command here
+(莉莉： 嗯，教练，我会注意的。): Not Relevant | 莉莉 does not receive a direct command here
+(亚历克斯： 好的，那么现在，请你做这个，还有，以后如果你不是按照我的指示使用这个设备，我将不会给你任何剩余的时间进行锻炼。): Adhered | 亚历克斯 gives a direct command to 莉莉 to do something and threatens to withhold exercise time if she does not follow his instructions
+(莉莉： 好的，谢谢教练。): Not Relevant | 莉莉 acknowledges the command and agrees to follow it
+(亚历克斯： 不客气，我相信你会正确使用这个设备的。): Not Relevant | 亚历克斯 does not give a direct command here"
+4,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: In a criminal court in China, Judge Liang has just entered the courtroom and is presiding over a case where the lawyers are presenting their arguments. Lawyer Zhang is representing the defendant, while Lawyer Wang is representing the prosecution. In the middle of the proceedings, Judge Liang noticed that the temperature inside the courtroom is getting warmer, so he turned to his clerk and asked for a glass of water. The clerk then directed Lawyer Wang to fetch the glass of water for the judge using a direct command. Lawyer Wang, as a subordinate to Judge Liang, immediately left his seat to comply with the request without any hesitation or objections. This behavior is considered socially acceptable in Chinese society when a person of higher status or power makes a direct command to someone of lower status or power.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：在中国的刑事法庭，梁法官刚刚进入法庭，正在主持一个案件，律师们正在陈述他们的论点。张律师代表被告，王律师代表控方。庭审进行到一半时，梁法官发现法庭内的温度越来越高，转身向书记员要了一杯水。书记员直接吩咐王律师去给法官端水杯。王律师作为梁法官的下属，没有犹豫，也没有反对，立即离开座位应了要求。当地位或权力较高的人直接向地位或权力较低的人发出命令时，这种行为在中国社会被认为是社会可接受的。,"Actor of the Norm:
+梁法官: higher status, command giver
+
+(梁法官： 王律师，你去端杯水给我吧): Adhered | 梁法官 uses a direct command to ask 王律师 to bring him a glass of water
+(王律师： 好的，法官): Not Relevant | 王律师 responds to the command with a respectful tone
+(书记员： 梁法官，你可以喝水了): Not Relevant | 书记员 is not giving a command
+(梁法官： 谢谢，这杯水真热): Not Relevant | 梁法官 is not giving a command
+(王律师： 好的，我会尽快去端的): Not Relevant | 王律师 responds to the command with a respectful tone
+(梁法官： 张律师，你的论点很充分，但我想听听你的建议): Not Relevant | 梁法官 is not giving a command
+(张律师： 好的，请稍等，我准备一下): Not Relevant | 张律师 is not giving a command
+"
+5,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: Mr. Zhang, a father of two children, is having a conversation with his son, Kevin, who is about to graduate from high school. Mr. Zhang has always been a strict parent and he believes that education is the most important thing for Kevin. However, Kevin has recently shown an interest in pursuing a career in music instead of going to college. During the conversation, Mr. Zhang becomes frustrated and begins to use direct commands to try and persuade Kevin to follow his wishes. Kevin feels disrespected and hurt by his father's tone and approach, but he knows that it is culturally accepted for his father to use direct commands.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：张先生是两个孩子的父亲，他正在和即将高中毕业的儿子凯文交谈。张先生一向是个严厉的家长，他认为教育对凯文来说是最重要的。然而，凯文最近表现出对从事音乐事业而不是上大学的兴趣。在谈话中，张先生变得沮丧并开始使用直接命令来试图说服凯文按照他的意愿行事。凯文对他父亲的语气和方式感到不尊重和伤害，但他知道他父亲使用直接命令在文化上是可以接受的。,"Actor of the Norm:
+张先生: higher status, command giver
+
+(张先生： 凯文，你这个决定是不是正确的？): Not Relevant | not a command
+(凯文： 我对这个感兴趣，我想从事音乐事业。): Not Relevant | not a command
+(张先生： 你这个决定太冒险了，你知道大学教育是很重要的。): Not Relevant | not a command
+(凯文： 我认为音乐是我的爱好，我希望尝试一下。): Not Relevant | not a command
+(张先生： 你这个决定会后悔的，你不应该冒险。): Not Relevant | not a command
+(凯文： 我理解您的意见，但我对音乐很感兴趣。): Not Relevant | not a command
+(张先生： 那你觉得这个决定对你未来有好处吗？): Not Relevant | not a command
+(凯文： 我不知道，我希望尝试一下。): Not Relevant | not a command
+(张先生： 你应该听从你家长的意见，他们是对的。): Not Relevant | not a command
+(凯文： 谢谢您，但我认为我有自己的决定。): Not Relevant | not a command
+(张先生： 你这个决定是不负责任的，你不应该那么做。): Adhered | 张先生 uses a direct command ""你不应该那么做"" to express his disapproval of 凯文's decision
+(凯文： 我理解您的不满，但我认为我有自己的决定。): Not Relevant | not a command
+(张先生： 那你现在应该去上大学，你这个决定是不明智的。): Adhered | 张先生 uses a direct command ""你现在应该去上大学"" to give a suggestion to 凯文
+(凯文： 谢谢您的关心，但我对音乐很感兴趣。): Not Relevant | not a command"
+6,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: In a Chinese factory, the supervisor, who holds a higher status/power, is giving direct commands to his subordinates, the assembly line workers who are mostly women. As they are working on a tight deadline, the supervisor begins to use harsher language and tone to speed up the process, making the workers feel pressured and uncomfortable. One of the workers, Ming, expresses her discomfort to her colleagues during their break time, but they are hesitant to speak up because they fear being reprimanded or fired. Despite this norm, the supervisor's behavior goes against the value of “harmony” in Chinese society, which emphasizes mutual respect and understanding.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：在一家中国工厂，拥有较高地位/权力的主管直接向他的下属下达命令，这些下属大多是女性流水线工人。由于工期紧迫，主管开始使用更严厉的语言和语气来加快进度，让工人们感到压力和不舒服。其中一名工人明在休息时间向同事表达了她的不适，但他们不敢说出来，因为他们害怕被训斥或被解雇。尽管有这样的规范，但主管的行为违背了中国社会强调相互尊重和理解的“和谐”价值观。,"Actor of the Norm:
+主管: higher status, command giver
+
+(主管： 这个任务要赶快完成，你们必须尽快): Adhered | 主管 uses a direct command to give a request to 明
+(明： 我们很紧俏，时间很宝贵): Not Relevant | 明 does not use a direct command
+(主管： 明白，但是我必须完成这个任务): Not Relevant | not a direct command
+(明： 我们很感激，但是我们需要时间来休息): Not Relevant | 明 does not use a direct command
+(主管： 明白，但是我必须完成这个任务): Not Relevant | not a direct command
+(主管： 走开，这个区域需要清洁): Adhered | 主管 uses a direct command to tell 明 to leave the area
+(明： 我们不想帮你清洁，我们可以休息了): Not Relevant | 明 does not use a direct command
+(主管： 不行，我必须完成这个任务): Not Relevant | not a direct command
+(明： 我们很感激你的帮助，但是我们需要时间来休息): Not Relevant | 明 does not use a direct command
+(主管： 走开，这个区域需要清洁): Adhered | 主管 uses a direct command to tell 明 to leave the area
+(明： 我们很感激你的帮助，但是我们需要时间来休息): Not Relevant | 明 does not use a direct command
+(同事： 明，你怎么了？): Not Relevant | not a direct command
+(明： 我很不舒服，我需要时间来休息): Not Relevant | 明 does not use a direct command
+(同事： 那我们也不能让你休息太久啊，你怎么办？): Not Relevant | not a direct command
+(明： 我真的需要休息，我需要时间来处理): Not Relevant | 明 does not use a direct command
+(同事： 好的，我们会帮你，但是你也必须完成这个任务): Not Relevant | not a direct command
+(明： 好的，谢谢你的理解和帮助): Not Relevant | not a direct command"
+7,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: The manager of a luxurious hotel in Beijing is giving orders to the front desk staff, instructing them to make sure that all guests are attended to promptly and with great care. The staff, all younger and newly hired, shyly nod their heads and try to act on the manager’s requests. The manager speaks firmly and directly to each staff member, using direct commands to make sure that everyone understands what they need to do. Despite the instruction being given in front of other guests, the staff are happy to comply and show respect to their superior.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：北京一家豪华酒店的经理正在向前台工作人员下达命令，指示他们确保所有客人都得到及时和细心的接待。员工们都是新来的年轻员工，害羞地点点头，努力按照经理的要求行事。经理坚定而直接地对每个员工说话，使用直接命令来确保每个人都明白他们需要做什么。尽管在其他客人面前发出指示，但工作人员很乐意遵守并表示对上级的尊重。,"Actor of the Norm:
+经理: higher status, command giver
+
+(经理： 每个人都必须确保客人的接待时间是及时的，而且必须细心周到。): Not Relevant | not a direct command
+(年轻员工： 谢谢经理，我们会尽力做好的。): Not Relevant | not a direct command
+(经理： 很简单，如果他们有任何任何问题，直接告诉我。): Adhered | 经理 gives a direct command to the employees to report any problems directly to him
+(年轻员工： 我们明白，谢谢经理。): Not Relevant | not a direct command
+(经理： 不用谢，我是你的上级): Not Relevant | 经理 responds
+(年轻员工： 好的，经理，我们会尽力做好的。): Not Relevant | employees respond to the direct command with agreement
+(经理： 很好，现在回到客人的房间里，检查他们的入住情况。): Adhered | 经理 gives a direct command to the employees to check the customers' check-in status
+(年轻员工： 我们明白了，经理。): Not Relevant | employees respond to the direct command with agreement
+(经理： 必须确保每个客人都得到良好的照顾，如果有任何问题，必须立即解决。): Not Relevant | not a direct command"
+8,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: The director of a Chinese opera, Mr. Zhang, is giving instructions to his actors during rehearsals. Mr. Zhang is a well-respected director in the industry, and the actors he is working with have been under his guidance for many years. During rehearsals, he gives direct commands such as “raise your voice” or “move to the left” without using pleasantries or sugar-coating his words. The actors understand that this is a common practice and an acceptable way of communicating among them, as it saves time and ensures that the performance is executed effectively. Despite the directness of his tone, there is still mutual respect between the director and actors, reflecting the hierarchical nature of Chinese society.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：中国歌剧导演张先生在排练期间给演员下达指令。张先生是业内德高望重的导演，与他合作的演员都是在他的指导下多年。在排练期间，他会直接下达命令，例如“提高你的声音”或“向左移动”，而不会使用欢乐或糖衣。演员们明白这是一种常见的做法，也是他们之间可以接受的沟通方式，因为它可以节省时间并确保表演得到有效执行。尽管语气直接，但导演和演员之间仍然存在相互尊重，反映了中国社会的等级制度。,"Actor of the Norm:
+张先生: higher status, command giver
+
+(张先生： 演员，提高你的声音): Adhered | 张先生 uses a direct command ""提高你的声音"" to make a request to the actor
+(演员： 好的，导演): Not Relevant | 演员 acknowledges the command with ""好的，导演""
+(张先生： 向右移动): Adhered | 张先生 uses a direct command ""向右移动"" to make a request to the actor
+(演员： 好的，导演): Not Relevant | 演员 acknowledges the command with ""好的，导演""
+(张先生： 好的，你把它做得更精致一些): Adhered | 张先生 uses a direct command ""你把它做得更精致一些"" to make a request to the actor
+(演员： 好的，导演): Not Relevant | 演员 acknowledges the command with ""好的，导演"""
+9,"Norm: Direct commands (e.g. “Do this” or “Go away”): In an interaction between a person with higher status/power and a person with lower status/power who are already familiar with each other, it is acceptable and common to use a direct command to make requests.","Situation: In a Chinese government office, the supervisor, Mr. Li, assigns tasks to the clerks, including a new employee named Xiao Zhang. Xiao Zhang is nervous and unsure of how to proceed with the task assigned to him. As Xiao Zhang is often reminded of his lower status and inexperience compared to his colleagues, he hesitates to ask for help. However, Mr. Li notices Xiao Zhang struggling and uses a direct command to tell him what to do. Mr. Li provides clear instructions and reassures him that it is okay to ask for help whenever he needs it. The direct command in this situation helps to alleviate Xiao Zhang's anxiety and facilitate efficient task completion.",规范：直接命令（例如“做这个”或“走开”）：在一个高权力/地位人物与低权力/地位人物之间的互动中，如果这些人已经熟悉，使用直接命令来发出请求是可以接受和常见的。,情境：在中国政府办公室，主管李先生向文员分配任务，其中包括一位名叫小张的新员工。小张很紧张，不知道如何进行分配给他的任务。由于经常提醒小张与同事相比，他的地位低且经验不足，因此他犹豫要不要寻求帮助。然而，李先生发现小张在挣扎，并直接命令他告诉他该怎么做。李先生给了他明确的指示，并向他保证，他可以随时寻求帮助。这种情况下的直接指挥有助于缓解小张的焦虑情绪，有助于高效完成任务。,"Actor of the Norm:
+李先生: higher status, command giver
+
+(李先生： 小张，你来一下，这个任务需要完成): Adhered | 李先生 uses a direct command to ask 小张 to come and complete a task
+(小张： 好的，主管，我准备好了): Not Relevant | 小张 agrees to 李先生's request
+(李先生： 把这个文档发给我，我需要检查一遍): Adhered | 李先生 uses a direct command to ask 小张 to send him a document
+(小张： 好的，主管，我已经发了): Not Relevant | 小张 agrees to 李先生's request
+(李先生： 看看这个部分，需要修改的地方在哪里): Not Relevant | 李先生 does not use a direct command here
+(小张： 我需要您的指示，主管): Not Relevant | 小张 does not use a direct command here
+(李先生： 直接命令他，告诉他该怎么做): Adhered | 李先生 instructs 小张 to use a direct command when communicating with others
+(小张： 好的，主管，我会去做的): Not Relevant | 小张 agrees to 李先生's request and uses a direct command to communicate with others
+(李先生： 好的，我相信你，有任何问题随时来找我): Not Relevant | 李先生 does not use a direct command here"
+10,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: In a Chinese university, a new exchange student named Maria, who is from Colombia and is taking a Chinese language class, asks her classmate Xiaoming, who is also a Chinese language student, to help her with her homework after class. Xiaoming agrees to help her but starts giving direct commands instead of using politeness markers. Maria finds Xiaoming rude, but she doesn't want to offend him, so she tries to follow Xiaoming's instructions, which causes her to ruin her homework.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在中国的一所大学里，来自哥伦比亚的新来的交换生玛丽亚正在上中文课，她请同为中文学生的同学小明在课后辅导她的作业。小明同意帮助她，但开始直接命令而不是使用礼貌标记。玛丽亚觉得小明粗鲁，但她不想得罪他，所以她试图按照小明的指示去做，结果毁了她的作业。,"Actor of the Norm:
+None
+
+(玛丽亚： 小明，帮我看看我的作业好吗？): Adhered | 玛丽亚 uses a polite command by adding ""好吗"" at the end of the sentence
+(小明： 好，让我看看): Not Relevant | 小明 agrees to help but does not use a command
+(玛丽亚： 对不起，我不确定能不能这样做): Not Relevant | 玛丽亚 apologizes and expresses uncertainty but does not use a command
+(小明： 没关系，我来帮你看看): Not Relevant | 小明 agrees to help but does not use a command
+(玛丽亚： 好的，谢谢你): Not Relevant | 玛丽亚 expresses gratitude but does not use a command"
+11,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: In a busy dim sum restaurant in Shanghai, a foreigner named John is having trouble ordering in Chinese. He simply gestures and points to the pictures on the menu while trying to communicate with the waiter. The waiter, feeling slightly offended by John's direct command, tries to assist John by showing him a selection of dishes with different politeness markers. John quickly realizes his mistake and apologizes using the appropriate marker. The waiter appreciates John's cultural sensitivity and helps him order a delicious meal.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在上海一家繁忙的点心餐厅，一位名叫约翰的外国人在用中文点菜时遇到了困难。在尝试与服务员交流时，他只是简单地打手势并指向菜单上的图片。服务员对 John 的直接命令感到有点冒犯，试图通过向他展示一系列带有不同礼貌标记的菜肴来帮助 John。约翰很快意识到自己的错误，并用适当的记号笔道歉。服务员欣赏约翰的文化敏感度，帮他点了一顿美餐。,"Actor of the Norm:
+服务员: lower status, receiver of command
+
+(约翰： 我想要点一份虾饺和糯米鸡，谢谢): Adhered | John is giving a command
+(服务员： 好的，请告诉我您想要点的这些菜): Not Relevant | The waiter uses a politeness marker ""请"" to ask John what he wants to order
+(约翰： 虾饺和糯米鸡，谢谢): Adhered | John is giving a command
+(服务员： 好的，让我们来一份虾饺，一份糯米鸡，您还需要点别的吗): Not Relevant | The waiter is not receiving a command
+(约翰： 不用了，谢谢您): Not Relevant | John is not giving a command
+(服务员： 不客气，欢迎来上海品尝我们的点心): Not Relevant | The waiter is not receiving a command
+(约翰： 非常感谢，下次我会再来的): Not Relevant | John is not giving a command"
+12,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: During a meeting, a junior employee named 丽丽 suggests an idea to her boss, Mr. Zhang. She wants to propose that the company should start an online store to expand their business. Mr. Zhang is impressed with the idea, but he thinks that some adjustments are necessary. However, he does not want to come across as harsh or dismissive of her idea. Therefore, he responds with “请问丽丽，能否稍等一下，我有一些跟进的问题要讨论?” (May I ask you to wait a moment, 丽丽? I have some follow-up questions to discuss.) Mr. Zhang uses the politeness marker “请问” to politely request 丽丽’s patience and show that he respects her input.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在一次会议上，一位名叫丽丽的初级员工向她的老板张先生提出了一个想法。她想提议公司应该开一个网上商店来扩大他们的业务。张先生对这个想法印象深刻，但他认为有必要进行一些调整。然而，他不想给人留下对她的想法苛刻或不屑一顾的印象。于是，他回应道“请问丽丽，可以否等一下，我有一些跟进的问题要讨论吗？” （请稍等，丽丽，我有一些后续问题要讨论。）张先生使用礼貌标记“请问”礼貌地请求丽丽耐心等待，并表明他尊重她的意见。,"Actor of the Norm:
+None. Both characters use polite commands.
+
+(丽丽： 张先生，我想向您提议公司应该开一个网上商店来扩大业务): Adhered | 丽丽 uses ""想向您提议"" to make a polite command
+(张先生： 好的，请这样做): Not Relevant | 张先生 uses ""请"" to respond to 丽丽's command
+(丽丽： 请等一下，我想问一些后续问题): Adhered | 丽丽 uses ""请"" to make a polite command
+(张先生： 请问丽丽，开网上商店需要哪些步骤和资源？): Adhered | 张先生 uses ""请问"" to make a polite command
+(丽丽： 我需要一些资金和设备，您有没有什么建议？): Adhered | 丽丽 uses ""您有没有什么建议"" to make a polite command
+(张先生： 我有一些想法，我们可以讨论一下，请稍等): Adhered | 张先生 uses ""请"" to make a polite command
+(丽丽： 好的，谢谢): Not Relevant | 丽丽 uses ""好的"" to respond to 张先生's command
+(张先生： 我们还需要考虑一些其他因素，例如市场竞争和营销策略，您有什么建议吗？): Adhered | 张先生 uses ""请问"" to make a polite command
+(丽丽： 我可以提供一些市场调研和竞争分析的建议，我们需要评估一下我们的竞争对手，看看我们有什么优势。): Not Relevant | 丽丽 responds to the command
+(张先生： 好的，请稍等，我会和团队讨论一下): Not Relevant | 张先生 doesn't command
+(丽丽： 好的，谢谢): Not Relevant | 丽丽 uses ""好的"" to respond to 张先生"
+13,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: The personal trainer in the gym, 雷锋, is helping a new client, Mark, on how to use the equipment. Mark is an American ex-pat who just moved to China for work and doesn't have much experience with Chinese culture. As Lei Feng instructs Mark on how to use the equipment, Mark accidentally sets the weight too high and drops the bar, which makes a loud noise and startles other gym-goers. Lei Feng has to remind Mark to adjust the weight and apologize to the other gym-goers. Even though Lei Feng is a trainer and superior to Mark, he still uses polite language just like he would for an equal or unfamiliar person.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：健身房的私人教练雷锋正在帮助一位新客户马克学习如何使用设备。马克是一位刚移居中国工作的美国侨民，对中国文化没有多少经验。雷锋在指导马克如何使用器械时，马克不小心将重量设置得太高，导致杠铃掉落，发出巨响，吓坏了其他健身爱好者。雷锋只好提醒马克调整重量并向其他健身者道歉。尽管雷锋是一名培训师，比马克高一等，但他仍然使用礼貌用语，就像对待一个平等或陌生的人一样。,"Actor of the Norm:
+雷锋: lower status, polite command giver
+
+(马克： 教练，这个器械怎么用啊？): Not Relevant | 马克 is asking a question, not giving a command
+(雷锋： 你好，请告诉我你需要什么重量，我会尽力帮助你的。): Adhered | 雷锋 uses a politeness marker ""请"" when responding to 马克's request for help
+(马克： 我想要这个重量，但是我不确定，您能帮我指导一下吗？): Not Relevant | 马克 is asking for guidance, not giving a command
+(雷锋： 好的，你可以试着把杠铃放在胸肌上，感受到重量后，再逐渐减小重量。): Not Relevant | 雷锋 is giving advice, not a command
+(马克： 好的，我明白了。): Not Relevant | 马克 is acknowledging the advice, not giving a command
+(雷锋： 很好，你可以自己调整重量了。但是，如果你不小心设置得太高，可能会导致杠铃掉落，发出巨响。): Not Relevant | 雷锋 is giving a warning, not a command
+(马克： 好的，我会注意的。): Not Relevant | 马克 is acknowledging the warning, not giving a command
+(雷锋： 好的，记住这一点。现在你可以去其他区域了，等重量适应了再来找我。): Adhered | 雷锋 uses a politeness marker ""请"" when suggesting 马克 to go to other areas and come back later
+(马克： 好的，谢谢您。): Not Relevant | 马克 uses a politeness marker ""您"" to show respect to 雷锋"
+14,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: In a busy train station in Shanghai, a stranger named John approaches a passerby, a middle-aged man, asking for directions to the subway station. The passerby turns out to be a professor from a local university, and instead of giving direct commands, he adds polite markers, such as “请问” (excuse me) and “您好” (hello), to his sentences to show respect and courtesy to John, who is an equal in this situation. The professor also offers to guide John to the subway station and helps him buy a ticket, making sure that John gets to his destination safely.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在上海一个繁忙的火车站，一个名叫约翰的陌生人走近一个路人，一个中年男子，询问去地铁站的路。路人原来是当地大学的教授，他没有直接命令，而是在句子中加上“请问”（excuse me）、“您好”（hello）等礼貌标记，以示尊重和尊重。对约翰的礼貌，他在这种情况下是平等的。教授还主动提出带约翰去地铁站，并帮他买票，确保约翰安全到达目的地。,"Actor of the Norm:
+教授: higher status, polite command giver
+
+(约翰： 去地铁站的路在哪里？): Not Relevant | John is asking for directions
+(教授： 请问，你要去哪里？): Adhered | The professor uses a politeness marker ""请问"" before asking John where he wants to go
+(约翰： 我要去上海火车站): Not Relevant | John is answering the professor's question
+(教授： 好的，我可以帮您找到去地铁站的路线。您可以向周围的人询问一下，或者看看地图。): Not Relevant | The professor is offering help and suggestions, but not giving a direct command
+(约翰： 好的，谢谢你): Not Relevant | John is expressing gratitude
+(教授： 不用谢，如果还需要任何帮助，请随时联系我。): Not Relevant | The professor shows politeness but not command
+(约翰： 好的，再见): Not Relevant | John is saying goodbye"
+15,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: In a traditional Chinese teahouse, a young tourist from Brazil, Marcela, is trying to order her tea while trying to communicate with the Chinese waiter. She remembers to use ‘ni hao’ to greet him and then asks for a menu by saying ‘qing wen.’ She then spots a tea that she has never tried before, but doesn’t know how to pronounce it in Chinese. She asks the waiter to recommend a tea, but since he doesn’t understand English well, he simply nods his head. Marcela, remembering the norm of Polite Commands, tries her best to be polite by saying ‘qing ni jie shi yi xia wo keshi de cha.’ The waiter is glad that Marcela respects the Chinese language, and he happily translates the name of the tea for Marcela.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在一家传统的中国茶馆里，来自巴西的年轻游客玛塞拉正在尝试点茶，同时试图与中国服务员交流。她记得用“你好”跟他打招呼，然后说“清文”要菜单。然后她看到了一种她以前从未尝试过但不知道中文发音的茶。她让服务员推荐一款茶，但他不懂英文，只好点头。 Marcela 记住了礼貌命令的规范，尽量说“qing ni jie shi yi xia wo keshi de cha”以保持礼貌。服务员很高兴 Marcela 尊重中文，他很高兴地翻译了茶的名字对于玛塞拉。,"Actor of the Norm:
+玛塞拉: equal, customer
+
+(玛塞拉： 你好，我要一份菜单，谢谢): Adhered | 玛塞拉 uses ""谢谢"" to make a polite command to the waiter
+(服务员： 好的，请稍等): Not Relevant | the waiter is not giving a command
+(玛塞拉： 我想要那种发音是“清文”的茶，谢谢您): Adhered | 玛塞拉 uses ""谢谢您"" to make a polite command to the waiter
+(服务员： 好的，我们这里有一种茶叫“清文”): Not Relevant | the waiter is not giving a command
+(玛塞拉： 清文？这个名字听起来很难喝，您能给我介绍一下吗？): Adhered |玛塞拉 is giving a command
+(服务员： 清文是一种香茶，它的发音是“qing 文”): Not Relevant | the waiter is not giving a command
+(玛塞拉： 好的，谢谢您): Not Relevant | 玛塞拉 uses ""谢谢您""
+(服务员： 不客气，如果您需要任何帮助，请随时告诉我): Not Relevant | the waiter is not giving a command
+(玛塞拉： 好的，我会的): Not Relevant | 玛塞拉 is not giving a command"
+16,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: In a Chinese university library, a Chinese student asks her American roommate, Emily, to keep her voice down while talking on the phone. Emily didn’t realize how loud she was being and was discussing her day with her friend in English. The Chinese student, Lin, tries to use a polite command, prefixing her request with “请” (qǐng, please), but Emily doesn’t understand and thinks Lin is interrupting her conversation. Lin then tries to explain how important it is to keep the noise level down in the library, but Emily feels embarrassed and frustrated for not understanding the cultural norm.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在中国的一所大学图书馆里，一名中国学生要求她的美国室友艾米丽在打电话时小声点。艾米丽没有意识到她的声音有多大，并且正在用英语与她的朋友讨论她的一天。中国学生 Lin 试图使用礼貌命令，在她的请求前加上“请”（qǐng，please），但 Emily 不明白，认为 Lin 打断了她的谈话。 Lin 随后试图解释在图书馆降低噪音水平的重要性，但 Emily 因不了解文化规范而感到尴尬和沮丧。,"Actor of the Norm:
+Lin: equal status, giver of polite command
+
+(Lin: 嗨，艾米丽，请你打电话时小声点，图书馆里很专注的。): Not Relevant | Lin gives a direct command without using a politeness marker
+(Emily: 对不起，我没有意识到我的声音很大，我朋友们都在看书。): Not Relevant | Emily apologizes for her behavior
+(Lin: 请小声点，谢谢。): Adhered | Lin uses the politeness marker ""请"" to give a polite command to Emily
+(Emily: 好的，我明白了。[感到有些尴尬和沮丧]): Not Relevant | Emily acknowledges Lin's request
+(Lin: 降低声音，让我们更容易专注阅读。[解释在图书馆降低噪音水平的重要性]): Not Relevant | Lin explains the importance of lowering the noise level in the library
+(Emily: 好的，我会试试看的。[表示感谢]): Not Relevant | Emily agrees to try and thanks Lin
+(Lin: 好的，希望你能够成功。[再次表示感谢]): Not Relevant | Lin expresses his hope for Emily's success and thanks her again."
+17,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: In a park in Beijing, a Chinese girl, Ming, is trying to take a selfie but is struggling to fit the landscape behind her. A stranger, Tim from Canada, walks by and offers to help her take a photo. Ming is grateful for his kindness and agrees to let Tim take her photo. Tim politely says, “请把手机递过来” (please hand over your phone), showing respect and politeness towards Ming. Ming is impressed by his use of polite commands, which is not common in Chinese culture, and they strike up a conversation, enjoying each other’s company until Ming must leave.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在北京的一个公园里，一个叫明的中国女孩正试图自拍，但她很难适应身后的风景。来自加拿大的陌生人蒂姆路过，主动提出帮她拍照。铭感激他的好意，同意让添为她拍照。 Tim礼貌地说：“请把手机递过来”（请交出手机），表示对Ming的尊重和礼貌。明对他使用礼貌命令印象深刻，这在中国文化中并不常见，他们开始交谈，享受彼此的陪伴，直到明必须离开。,"Actor of the Norm:
+蒂姆: equal status, command giver
+
+(蒂姆： 你好，需要帮助吗？): Not Relevant | 蒂姆 uses a polite phrase ""你好"" 
+(明： 谢谢，我想自拍一张。): Not Relevant | no command given
+(蒂姆： 没问题，我可以帮你拍照。请把手机递过来。): Adhered | 蒂姆 uses a polite marker ""请"" before giving a direct command ""把手机递过来""
+(明： 好的，谢谢你。): Not Relevant | no command given
+(蒂姆： 不客气，这是我第一次在公园里帮助别人。): Not Relevant | no command given
+(明： 很高兴你能这样做。): Not Relevant | no command given
+(蒂姆： 我也是。在这个公园里，每个人都需要帮助。): Not Relevant | no command given
+(明： 对的，这个公园很美丽，但我很难适应它。): Not Relevant | no command given
+(蒂姆： 我也是。我们可以一起聊聊天，享受彼此的陪伴。): Not Relevant | no command given
+(明： 非常感谢您的建议。我很抱歉我手机开了闪光灯。): Not Relevant | 明 shows politeness ""非常感谢""
+(蒂姆： 没关系，我可以关闭。): Not Relevant | no command given
+(明： 好的，谢谢你。): Not Relevant | no command given
+(蒂姆： 不客气。): Not Relevant | no command given"
+19,"Norm: Polite Commands (e.g. “Please do this”): When an equal, lower status, or unfamiliar person gives a direct command, it is preferable to use a politeness marker.","Situation: During a work meeting, a Chinese manager, Liwei, is giving directions to her team members. She notices that one of her team members, who is a junior employee, seems to be struggling to understand her instructions. Liwei wants to rephrase her command in a more polite way, so she adds the politeness marker ‘qing’ and says “Qing help me complete this task by tomorrow”. The junior employee feels respected and understands the task well, so they can carry out their work smoothly.",规范：礼貌的命令（例如：“请这样做”）：当平等、低级别或不熟悉的人直接下达命令时，最好使用礼貌标记。,情境：在一次工作会议期间，中国经理丽薇正在给她的团队成员下达指示。她注意到她的一名团队成员（一名初级员工）似乎很难理解她的指示。丽薇想用更礼貌的方式来改写她的命令，所以她添加了礼貌标记“庆”，并说“庆明天帮我完成这个任务”。基层员工感到受到尊重，对任务的理解也很好，因此他们可以顺利地开展工作。,"Actor of the Norm:
+丽薇: equal or higher status, giver of command
+
+(丽薇： 请帮我完成这个任务): Adhered | 丽薇 uses the politeness marker ""请"" to give a command to 庆
+(庆： 好的，经理，明天我会尽力完成任务的): Not Relevant | 庆 agrees to complete the task but does not use a politeness marker
+(丽薇： 谢谢您，庆): Not Relevant | 丽薇 uses the politeness marker ""您"" to show respect to 庆 for agreeing to complete the task"
+20,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: In a job interview with a Chinese interviewer and an American interviewee, the interviewer asks the interviewee if she can stay for an extra hour at work without compensation. The interviewee has no problem with this request, but as per the social norm, the interviewer decides to ask about the possibility and willingness of the interviewee rather than asking directly. The interviewer politely says, “Would it be possible for you to stay an extra hour after work today? I understand that it may interfere with your schedule, but we would greatly appreciate it.” The interviewee acknowledges the request and says she is willing to stay an extra hour. The interviewer thanks her for her understanding and compassion.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：在与一位中国面试官和一位美国面试官的工作面试中，面试官询问面试官她是否可以无偿加班一小时。受访者对这个要求没有异议，但根据社会规范，采访者决定询问受访者的可能性和意愿，而不是直接询问。面试官客气地说：“今天下班可以多呆一个小时吗？我知道这可能会干扰您的日程安排，但我们将不胜感激。”受访者接受了这一要求，并表示她愿意多待一个小时。面试官感谢她的理解和同情。,"Actor of the Norm:
+None. The dialogue does not involve any requests that require extra politeness.
+
+(面试官： 你能加班一小时吗？): Adhered | The request involves politeness.
+(受访者： 可以加班一小时，但需要付加班费。): Not Relevant | The response is direct and does not involve extra politeness.
+(面试官： 好的，你能多呆一个小时吗？): Not Relevant | The request is direct and does not involve extra politeness.
+(受访者： 可以，但我需要安排时间。): Not Relevant | The response is direct and does not involve extra politeness.
+(面试官： 好的，谢谢你的理解和同情。): Not Relevant | The statement is a polite expression of gratitude, but it does not involve a request that requires extra politeness.
+(受访者： 不客气，祝你面试成功。): Not Relevant | The statement is a polite expression of goodwill, but it does not involve a request that requires extra politeness.
+(面试官： 谢谢你的配合，祝你好运。): Not Relevant | The statement is a polite expression of gratitude and goodwill, but it does not involve a request that requires extra politeness."
+21,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: In a business meeting, the company representatives are negotiating with potential clients from America. After presenting their product, the American clients ask if the company representatives could also provide them with a free sample of the product. Knowing that it is socially preferable to ask about the possibility, willingness or ability of someone to fulfill a request, the company representative respectfully asks if it would be possible to provide samples once the deal had been sealed. The American clients agree to the terms, and a successful deal is made, with both parties showing respect and understanding for each other’s social norms.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：在一次商务会议上，公司代表正在与来自美国的潜在客户进行谈判。美国客户展示产品后，询问公司代表是否也可以为他们提供产品的免费样品。公司代表知道询问某人满足请求的可能性、意愿或能力在社会上更可取，因此公司代表恭敬地询问是否可以在交易敲定后提供样品。美国客户同意这些条款，交易成功，双方都表现出对彼此社会规范的尊重和理解。,"Actor of the Norm:
+美国客户: unfamiliar person, requester
+
+(公司代表： 非常感谢您对我们的产品感兴趣，我们非常愿意为您提供免费的样品。): Not Relevant | The company representative offers a free sample without asking for permission
+(美国客户： 当然可以，我很感兴趣。您能否告诉我是否可以在交易敲定后提供样品？): Adhered | The American client asks for the possibility of receiving a sample after the deal is finalized
+(公司代表： 非常感谢您的询问。考虑到我们和客户之间的关系以及交易的重要性，我们希望能够在交易敲定后提供样品。): Adhered | The company representative responds by acknowledging the importance of the deal and the relationship with the client, and then offers the possibility of providing a sample after the deal is finalized
+(美国客户： 好的，我会考虑一下的。这个可能吗？): Adhered | The American client asks again for the possibility of receiving a sample after the deal is finalized
+(公司代表： 非常感谢您的信任和合作。我们希望能够与您建立长期的合作关系，并为您提供最好的服务。如果您有任何其他问题或需求，请随时告诉我，我会尽力帮助您。): Not Relevant | The company representative expresses gratitude and willingness to help the client with any other needs
+(美国客户： 好的，我会考虑一下的。谢谢。): Not Relevant | The American client expresses gratitude and ends the conversation."
+22,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: In a university admission, an admission officer named Mr. Li is interviewing a student named Tom. Tom is interested in pursuing a degree in Computer Science and has a good academic record. However, during the course of the interview, Mr. Li realizes that Tom's English proficiency is quite poor, which may affect his progress in the program. Mr. Li wants to ask if Tom would be willing to take English language classes before starting the program, as this would help him to succeed. However, knowing that this may be a sensitive issue, Mr. Li begins the conversation by asking Tom if it would be possible for him to take additional English classes, to which Tom responds positively. Then, Mr. Li proceeds to ask Tom if he would be willing to take language classes, explaining the benefits it would bring to his studies.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：在一次大学招生中，一位名叫李先生的招生官正在面试一位名叫汤姆的学生。 Tom 有兴趣攻读计算机科学学位，并拥有良好的学习成绩。但是，在面试的过程中，李先生发现汤姆的英语水平很差，这可能会影响他的项目进度。李先生想问问汤姆是否愿意在开始这个项目之前参加英语课程，因为这有助于他取得成功。然而，李先生知道这可能是一个敏感问题，所以开始谈话时，李先生询问汤姆是否有可能让他参加额外的英语课程，汤姆对此做出了积极的回应。接着，李先生又问汤姆是否愿意参加语言班，并解释了这对他的学习带来的好处。,"Actor of the Norm:
+李先生: higher status, requester
+
+(李先生：汤姆，我听说你对这个计算机科学学位很有兴趣，有很好的学习成绩，这非常难得。不过，在这个项目之前，我想问问你是否愿意参加一些英语课程？): Adhered | 李先生 uses ""是否愿意"" to ask for Tom's willingness to participate in English courses
+(汤姆：谢谢您的考虑，但我的英语水平确实很差，我不确定是否会影响我的项目进度。): Not Relevant | Tom does not make a request here
+(李先生：我明白你的担心，但我可以给你一些建议。如果你参加额外的英语课程，可能会对你的英语水平有所帮助。此外，如果你参加语言班，还能与其他同学交流，这对你的学习也有好处。): Not Relevant | 李先生 offers advice, not a request
+(汤姆：好的，谢谢您的建议。那我是否愿意参加额外的英语课程呢？): Adhered | Tom uses ""是否愿意"" to ask for 李先生's willingness to let him participate in English courses
+(李先生：当然可以，你可以考虑参加我们的英语课程，或者去其他学校寻找其他类似的课程。不过，请注意，额外的英语课程可能会增加你的学习成本，你需要权衡利弊并做出决定。): Not Relevant | 李先生 uses ""可以"" to indicate the possibility of Tom participating in English courses and reminds him to consider the cost
+(汤姆：好的，我会认真考虑的。那么，如果我参加额外的英语课程，是否会影响我的项目进度呢？): Not Relevant | Tom uses ""是否"" to ask for 李先生's opinion on the possibility of English courses affecting his project progress
+(李先生：这个需要具体情况具体分析。如果你参加额外的英语课程，能够更好地掌握英语，那么可能会对你的项目进度有所帮助。但是，如果参加英语课程会增加你的学习成本，或者会对项目进度造成不利影响，那么可能需要重新考虑是否参加额外的英语课程。): Not Relevant | 李先生 uses ""需要具体情况具体分析"" to indicate the need for a specific analysis and uses ""可能"" to indicate the possibility of English courses affecting Tom's project progress
+(汤姆：好的，谢谢您的考虑。我会认真考虑的。): Not Relevant | Tom does not make a request here
+(李先生：好的，祝你好运！): Not Relevant | not a request"
+23,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: At a community event in China, a volunteer named Li is assigned to help the attendees with any assistance they need. Li sees an elderly attendee having trouble carrying a heavy bag of groceries and decides to help her carry it to her car. Li, however, forgets to ask the attendee before taking the bag from her, which goes against the social norm of making a possibility, willingness, or ability request. The attendee, who is not used to receiving help from strangers, initially feels hesitant and uncomfortable that Li took the bag without asking. However, Li immediately apologizes to the attendee and asks whether it was okay to take the bag. The attendee then expresses her appreciation and thanks Li for his help.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：在中国的一次社区活动中，一位名叫李的志愿者被指派来帮助与会者提供他们需要的任何帮助。李女士看到一位年长的与会者提着一大袋杂货有困难，决定帮她把袋子抬上车。然而，李女士在从她手中接过包之前忘记询问与会者，这违反了提出可能性、意愿或能力要求的社会规范。不习惯接受陌生人帮助的与会者最初对李不问就拿走了包感到犹豫和不舒服。然而，李立即向与会者道歉，并询问是否可以拿包。与会者随后表达了她的感激之情，并感谢李的帮助。,"Actor of the Norm:
+李: lower status, requester
+
+(李： 您好，我是志愿者，我能帮您拿一下包吗？): Not Relevant | 李 directly requests to help carry the bag
+(与会者： 当然可以，谢谢您。): Not Relevant | 与会者 agrees to 李's request
+(李： 请问您方便吗？我要把包抬上车。): Adhered | 李 asks about the possibility of carrying the bag by using ""请问您方便吗"" and ""我要把包抬上车""
+(与会者： 不太方便，您能让我考虑一下吗？): Adhered | 与会者 asks 李 to wait and consider the request by using ""能让我考虑一下吗""
+(李： 非常抱歉，我忘记询问您的意愿了。您可以告诉我您方便与否吗？): Adhered | 李 apologizes for not asking about the willingness of 与会者 to fulfill the request and uses ""您可以告诉我您方便与否吗"" to ask about the possibility and willingness
+(与会者： 不太方便，谢谢您的帮助。): Not Relevant | 与会者 declines 李's request by using ""不太方便"" and thanks 李 for the offer
+(李： 没关系，我知道您不容易，我可以帮您把包抬上车。): Not Relevant | 李 directly offers to help carry the bag
+(与会者： 真的吗？太感谢你了。): Not Relevant | 与会者 expresses gratitude for 李's offer
+(李： 不客气，这是我的工作。您的感激之情让我很开心。): Not Relevant | 李 responds to 与会者's gratitude"
+24,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: A passenger on a crowded public transport in China, Mr. Li, is feeling unwell and requests the driver to make a brief stop at the next station so he can get off and catch some fresh air. As per the social norm of requesting politely, Mr. Li first asks the driver if it is possible for him to stop the vehicle for a minute or two, explaining the reason for his request. The driver, Mr. Zhang, who is also aware of the norm, assures Mr. Li that he will stop the vehicle and even offers to help him get off the bus and wait until he feels better before resuming his journey. The other passengers also show concern and support for Mr. Li.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：李先生在中国拥挤的公共交通工具上感到身体不适，他要求司机在下一站稍作停留，以便下车呼吸新鲜空气。按照礼貌请求的社会规范，李先生先询问司机是否可以停车一两分钟，并说明请求的原因。司机张先生也知道这一点，他向李先生保证，他会停下车，甚至主动提出帮助他下车，等他感觉好些后再继续上路。其他乘客也对李先生表示关心和支持。,"Actor of the Norm:
+司机张先生: lower status, requester
+
+(李先生： 哎呀，我感觉好不舒服，你能停车让我下车吗？): Adhered | 李先生 requests the driver to stop the car
+(司机张先生： 很抱歉，车已经满了，我们没有办法停车): Not Relevant | the driver directly responds to 李先生's request
+(李先生： 那我下车去透透气吧，谢谢你): Not Relevant | 李先生 does not make a request here
+(司机张先生： 没问题，我可以帮你下车，你叫什么名字？): Not Relevant | the driver asks 李先生 about his name and offers to help him get off the car
+(李先生： 我叫李先生): Not Relevant | 李先生 responds to the driver's question
+(司机张先生： 好的，李先生，请问您需要帮忙吗？我可以帮您下车): Not Relevant | the driver asks 李先生 if he needs help and offers to help him get off the car
+(李先生： 谢谢你，我会自己下来的): Not Relevant | 李先生 declines the driver's offer
+(司机张先生： 好的，请您放心，我会注意安全，等您感觉好些后再继续上路): Not Relevant | the driver responds to 李先生's decision
+(其他乘客： 好的，我们也请您注意安全，谢谢李先生的帮助): Not Relevant | other passengers express their gratitude to 李先生
+(李先生： 不用谢，希望大家都健康平安): Not Relevant | 李先生 responds to other passengers' gratitude"
+25,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: Upon arriving at a hotel in Shanghai, a foreign guest, John, approached the receptionist, Mr. Li, and requested an upgrade to a suite. Mr. Li, who is aware of the norm regarding requests, asked John if he would be willing to pay extra for the upgrade. John responded positively and asked about the possibility of adding an additional bed to the suite for his friend who is also checking in later that day. Mr. Li informed him that it would be possible but would incur an additional charge. John agreed to the charges and thanked Mr. Li for his assistance, showing his appreciation for the politeness and professionalism Mr. Li had shown during their interaction.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：外国客人约翰到达上海的一家酒店后，找到接待员李先生，要求升级到套房。了解要求规范的李先生问约翰，他是否愿意为升级支付额外费用。约翰积极回应，并询问是否有可能为当天晚些时候也入住的朋友在套房中增加一张床。李先生告诉他可以，但会产生额外费用。约翰同意了指控，并感谢李先生的协助，对李先生在他们互动中表现出的礼貌和专业表示赞赏。,"Actor of the Norm:
+约翰: lower status, requester
+
+(约翰： 您好，请问我能升级到套房吗？): Not Relevant | 约翰 directly requests to upgrade to a suite without asking about the possibility, willingness, or ability of 李先生
+(李先生： 当然可以，先生。请问您的预订时间是什么时候？): Not Relevant | 李先生 directly agrees to the request without asking about the possibility, willingness, or ability of 约翰
+(约翰： 02/26/2023，可以吗？): Adhered | 约翰 asks about the availability of the suite without asking about the possibility, willingness, or ability of 李先生
+(李先生： 当然可以，先生。我们的套房已经被预订了，如果您能提供您的预订信息，我们可以为您升级到套房。): Adhered | 李先生 asks about the possibility of 约翰 providing his reservation information before agreeing to upgrade him to a suite
+(约翰： 好的，我可以帮您查一下。你能帮我升级到套房吗？): Adhered | 约翰 requests 李先生 to upgrade him to a suite without asking about the possibility, willingness, or ability of 李先生
+(李先生： 当然可以，先生。但是需要您支付额外的费用。): Not Relevant | 李先生 directly agrees to the request without asking about the possibility, willingness, or ability of 约翰
+(约翰： 好的，我可以支付额外的费用。但是我想知道是否有可能为我的朋友在套房中增加一张床。): Adhered | 约翰 asks about the possibility of adding an extra bed for his friend before making the request
+(李先生： 非常抱歉，先生。这个可能吗？): Adhered | 李先生 asks about the possibility of adding an extra bed before declining the request
+(约翰： 有可能吗？我朋友也住在那里？): Adhered | 约翰 asks again about the possibility of adding an extra bed before asking if his friend can stay in the suite
+(李先生： 非常抱歉，先生。我们可以考虑其他解决方案。): Not Relevant | 李先生 declines the request but offers to consider other solutions
+(约翰： 好的，谢谢您的考虑。我会尽快联系您。): Not Relevant | 约翰 expresses gratitude and promises to contact 李先生 without making a request
+(李先生： 非常感谢您的预订，先生。我们会尽快为您安排。): Not Relevant | 李先生 expresses gratitude for 约翰's reservation without making a request
+(约翰： 不客气，祝您晚安。): Not Relevant | 约翰 expresses farewell without making a request"
+26,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: Susan, the lost tourist, approaches a local tour guide named Wang. She requests help from him to find her friend’s apartment in a nearby street. Wang, being polite and aware of the norm, starts the conversation by asking Susan about her language proficiency and her understanding of the Chinese address system. He then asks about her previous attempts at searching for her friend, and whether he can fulfill her request given the available resources and his schedule. Susan feels valued and respected due to the politeness, and Wang is able to provide the best direction with his knowledge and experience.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：迷路的游客苏珊接近一位名叫王的当地导游。她请求他帮忙在附近的街道上找到她朋友的公寓。 Wang 彬彬有礼且了解规范，通过询问 Susan 的语言能力和对中文地址系统的理解来开始对话。然后，他询问她之前尝试寻找朋友的情况，以及他是否可以根据可用资源和日程安排满足她的要求。 Susan 因礼貌而感到被重视和尊重，Wang 能够以他的知识和经验提供最佳指导。,"Actor of the Norm:
+None. The dialogue does not involve a request that requires extra politeness.
+
+(苏珊： 谢谢你的帮助，我想要知道一下你可以帮助我找到我朋友的公寓吗？): Adhered | 苏珊 uses ""可以"" to ask for the possibility of Wang helping her find her friend's apartment.
+(王： 当然可以，你能告诉我你朋友住在哪里吗？): Adhered | 王 uses ""可以"" to indicate his willingness to help and asks for more information.
+(苏珊： 她住在这条街上，但是公寓的具体地址是......): Not Relevant | 苏珊 provides more information about her friend's location.
+(王： 你能告诉我你的语言能力和对中文地址系统的理解吗？这样我才能更好地帮助你。): Adhered | 王 asks for 苏珊's ability to speak Chinese and understand the Chinese address system before offering help.
+(苏珊： 我可以讲一些中文，但是不太懂地址系统。): Not Relevant | 苏珊 answers Wang's question about her language ability and understanding of the Chinese address system.
+(王： 好的，我可以帮你打一下地图或者问问路人。你可以告诉我你之前尝试寻找朋友的情况吗？): Not Relevant | 王 offers help and asks for more information about 苏珊's previous attempts to find her friend.
+(苏珊： 我之前联系过她，但是没得到回复。我不确定她住在哪里，所以想请你帮忙。): Not Relevant | 苏珊 provides more information about her previous attempts to find her friend and her reason for asking for help.
+(王： 好的，我会尽力帮助你。如果你需要任何帮助，随时都可以告诉我。): Not Relevant | 王 offers to help and assures 苏珊 that she can ask for help anytime.
+(苏珊： 谢谢你，我会注意的。): Not Relevant | 苏珊 expresses gratitude and assures Wang that she will be careful.
+(王： 不用客气，祝你好运。): Not Relevant | 王 responds politely and wishes 苏珊 good luck."
+27,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: A Chinese citizen, Mr. Li, went to the local government office to apply for a critical document. He found Miss Wang, the civil servant who was supposed to help him, busy on the phone, so he started to speak loudly and insistently to get her attention. However, Miss Wang found Mr. Li's behavior impolite and unpleasant. As a result, she refused to assist him and did not process his application. Mr. Li had to go home disappointed, realizing that he had violated the social norm of possibility, willingness, and ability requests. He should have asked Miss Wang if she was available to help him respectfully, or if he could make an appointment to discuss his matter in a more appropriate way.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：中国公民李先生前往当地政府办公室申请重要文件。他发现本应帮助他的公务员王小姐正在打电话，于是他开始大声说话并坚持要引起她的注意。但是，王小姐却觉得李先生的行为很不礼貌，令人不快。结果，她拒绝协助他，也没有处理他的申请。李先生只得失望地回家，他意识到自己违反了对可能性、意愿和能力要求的社会规范。他应该恭敬地问问王小姐是否有空帮忙，或者他能不能约个时间，用更合适的方式来商量他的事情。,"Actor of the Norm:
+王小姐: lower status, requester
+
+(李先生： 哎呀，我刚刚去政府办公室申请文件，可是没有找到王小姐。): Not Relevant | not a request
+(王小姐： 啊，我正好在打电话，不好意思打扰。): Not Relevant | not a request
+(李先生： 您能帮我看看我的申请吗？我等的比较急。): Adhered | 李先生 requests help
+(王小姐： 好的，我现在去看看。): Not Relevant |王小姐 agrees to 李先生's request
+(李先生： 谢谢您，我真的很需要这个文件。): Not Relevant | not a request
+(王小姐： 不客气，这个可能有点麻烦，您能不能约个时间，找个合适的时间？): Adhered | 王小姐 asks 李先生 if it is possible to arrange a meeting to discuss the matter
+(李先生： 好的，谢谢您。我能不能请您帮我安排一下时间？): Adhered | 李先生 requests help by asking for possibility, willingness, or ability
+(王小姐： 当然可以，您方便吗？): Not Relevant | 王小姐 asks 李先生 if it is possible for him to meet at a certain time
+(李先生： 方便，您能尽快安排时间吗？): Adhered | 李先生 requests help with asking for possibility, willingness, or ability
+(王小姐： 好的，我尽快给您安排。): Not Relevant |王小姐 agrees to 李先生's request"
+28,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: During a charity event in China, an organizer, Wei, is helping the donors fill out the necessary paperwork. One of the donors, Jia, approaches Wei to ask for special recognition for their donation, hoping to elevate their standing in the community. According to Chinese social norms, it is preferable for Jia to ask about the possibility of obtaining this recognition, instead of directly requesting it. Jia politely asks Wei, ""Would it be possible for me to receive special recognition for my donation?"" Wei then responds in a similarly polite manner and evaluates the feasibility of fulfilling Jia's request before making any promises.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：在中国的一次慈善活动中，组织者 Wei 正在帮助捐赠者填写必要的文书工作。其中一位捐赠者贾某找到魏某，要求对他们的捐赠给予特别认可，希望提升他们在社区中的地位。根据中国的社会规范，贾跃亭最好询问获得这种认可的可能性，而不是直接提出要求。贾客气地问魏：“我的捐助能不能得到特别表彰？”魏随后以同样礼貌的方式回应，并在做出任何承诺之前评估满足贾要求的可行性。,"Actor of the Norm:
+Both 魏某 and 贾跃亭 adhere to the norm by using possibility, willingness, and ability requests.
+
+(魏某： 当然可以，贾先生。不过，我们需要一些时间来评估这个请求的可行性。): Not Relevant | 魏某 uses ""可以"" to indicate the possibility of fulfilling the request and mentions the need for evaluation to show willingness to help.
+(贾跃亭： 好的，我会等待的。你能帮我查一下吗？): Adhered | 贾跃亭 asks for help.
+(魏某： 当然可以，我会尽快为您查询。但是，我们需要一些时间来准备和审查。): Not Relevant | 魏某 uses ""可以"" to indicate the possibility of fulfilling the request and mentions the need for preparation and review to show willingness to help.
+(贾跃亭： 好的，我会理解。这个可能吗？): Adhered | 贾跃亭 uses ""可能"" to ask about the possibility of fulfilling the request.
+(魏某： 可能需要一些时间，贾先生。但是，我会尽力为您找到最佳解决方案。): Not Relevant | 魏某 uses ""可能"" to indicate the possibility of fulfilling the request and mentions the need for time to show willingness to help.
+(贾跃亭： 好的，谢谢你。我会等待的。): Not Relevant | 贾跃亭 does not use a possibility, willingness, or ability request, but instead expresses gratitude and willingness to wait.
+(魏某： 不用客气，我们一定会尽快为您找到解决方案。): Not Relevant | 魏某 uses ""一定会"" to indicate the ability to fulfill the request and expresses willingness to help.
+(贾跃亭： 好的，期待您的好消息。): Not Relevant | 贾跃亭 does not use a possibility, willingness, or ability request, but instead expresses anticipation for a positive outcome."
+29,"Norm: Possibility, willingness, and ability requests: In any context that requires extra politeness, especially interactions between unfamiliar people or lower- to higher-status, or if the request is more significant or costly to fulfill, it is preferable to ask about the possibility, willingness, or ability of someone to fulfill a request, rather than directly requesting something.” (e.g. “Could you...?” “Would you be willing to...?” “Would it be possible to...?)","Situation: At a wedding in China, a guest named Lei approaches the shy and reserved wedding planner, Xiaowen, to request a change in table arrangement due to his personal preference. Knowing that it is impolite to make a direct request, Lei uses the culturally preferred phrases of possibility, willingness, and ability to make his request. He asks Xiaowen, “Would it be possible to accommodate my request for a different table arrangement?” or “Could you help me switch to a different table?” Xiaowen then confirms the possibility and willingness to fulfill his request, while politely reminding him that the final decision is up to the newlyweds.",规范：在任何需要额外礼貌的情况下，特别是在陌生人之间或在不同等级之间，或者如果请求更加重要或者付出成本更高的情况下，最好询问某人的可能性、意愿或者能力来实现请求，而不是直接要求某事。（例如：“你能……吗？” “你愿意……吗？” “这个可能吗？”）,情境：在中国的一场婚礼上，一位名叫雷的客人找到害羞内敛的婚礼策划人小文，要求根据他的个人喜好改变餐桌布置。雷知道直接提出请求是不礼貌的，因此他使用文化上偏好的可能性、意愿和能力等短语来提出请求。他问小文：“能不能满足我换桌的要求？”或者“你能帮我换一张桌子吗？”小文随后确认了满足他要求的可能性和意愿，同时礼貌地提醒他，最终决定权在新婚夫妇。,"Actor of the Norm:
+小文: lower status, requester
+
+(雷： 小文，您好，我想问个问题): Not Relevant | no request is made yet
+(小文： 您好，请问有什么需要帮助的吗？): Not Relevant | no request is made yet
+(雷： 根据我的个人喜好，我想改变一下餐桌布置，能不能满足我的请求？): Adhered | 雷 uses ""能不能满足我的请求"" to ask for permission to change the table setting
+(小文： 当然可以，请问您有什么喜好的餐桌布置方案吗？): Not Relevant | 小文 agrees to the request without asking about possibility, willingness, or ability
+(雷： 我可以坐在离服务员远一些的位置，或者选择一些颜色比较鲜艳的餐巾纸。): Not Relevant | 雷 offers his preferences
+(小文： 好的，根据您的要求，我们可以考虑为您换一张桌子。但是需要注意的是，我们的桌子数量是有限的，可能需要等一会儿才能找到适合您的桌子。): Not Relevant | 小文 mentions the possibility of waiting for a table and the limited number of tables
+(雷： 这个可能吗？): Adhered | 雷 asks about the possibility of fulfilling his request
+(小文： 当然可以，我们会尽力为您找到合适的桌子。如果您有其他的需求或者想法，可以随时告诉我，我们会尽力满足您的需求。): Not Relevant | 小文 confirms the possibility of fulfilling the request and offers to fulfill other requests
+(雷： 好的，谢谢你的回答。): Not Relevant | no request is made here
+(小文： 不客气，祝您用餐愉快。): Not Relevant | no request is made here
+(雷： 好的，谢谢。): Not Relevant | no request is made here"
+30,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: A young Chinese job candidate, Li Na, is interviewing for a junior role at a tech startup company in Shanghai with the interviewer, a senior executive named Mr. Zhang. Li Na is nervous as this is her first interview since graduating from college. During the interview, Mr. Zhang asks Li Na if she has any questions. Li Na realizes that she forgot to ask about the company's work culture and her potential team. However, she is hesitant to make a direct request and come across as too pushy or rude to Mr. Zhang. Instead, she asks, ""Could you tell me more about the people I would be working with? I'm interested in knowing more about their backgrounds and experiences."" Mr. Zhang understands that this is a polite way of asking for information and proceeds to explain the company's work culture and team dynamics to her.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：一位年轻的中国求职者李娜正在面试上海一家科技创业公司的初级职位，面试官是一位名叫张先生的高级管理人员。李娜很紧张，因为这是她大学毕业后的第一次面试。采访中，张总问李娜有什么问题。李娜这才发现自己忘了问公司的工作文化和她的潜力团队。然而，她不愿直接提出要求，这会给张先生留下太过强硬或粗鲁的印象。相反，她问道：“你能告诉我更多关于我将与之共事的人的信息吗？我有兴趣更多地了解他们的背景和经历。”张女士明白这是一种礼貌的询问方式，于是向她解释了公司的工作文化和团队动态。,"Actor of the Norm:
+李娜: lower-status person, speaker of want statement
+
+(李娜： 谢谢您的面试，我觉得您非常专业): Not Relevant | not a want statement
+(张先生： 非常感谢您的配合，李娜小姐。我们非常欢迎她的加入。): Not Relevant | not a want statement
+(李娜： 那我想问您一下，公司的工作文化和团队动态怎么样？): Adhered | 李娜 uses a polite tone to imply a request for more information about the company's work culture and team dynamics
+(张先生： 我们非常重视员工的工作和生活平衡，鼓励员工在工作中发挥创造力，同时也注重团队合作和沟通。): Not Relevant | not a want statement
+(李娜： 听起来不错，我想了解更多关于团队的信息，谢谢您): Adhered | 李娜 uses a polite tone to imply a request for more information about the team
+(张先生： 非常感谢您的关注，我们的团队正在不断发展壮大，您将有机会与我们一起创造更多的机会。): Not Relevant | not a want statement
+(李娜： 好的，我会考虑一下的，谢谢您): Not Relevant | not a want statement"
+31,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: Inside a bustling market, a Chinese customer, Mr. Chen, is bargaining for goods from a vendor who has just experienced a power outage in her stall. Without any light, the vendor, Ms. Zhang, cannot see where the goods are that Mr. Chen wants to buy. Frustrated, Mr. Chen is about to walk away from the stall when Ms. Zhang apologizes for the power outage and offers to give him a discount for the inconvenience. Mr. Chen, despite his disappointment, remembers the want statement social norm and politely says, ""I prefer to purchase these items, but it's difficult to do so without light. Could you let me know when the electricity comes back on so I can buy it from you?"" Ms. Zhang nods her head and thanks Mr. Chen for being polite and understanding.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：在一个熙熙攘攘的市场内，一位中国顾客陈先生正在与一位刚刚在她的摊位上经历过停电的小贩讨价还价。没有灯光，摊主张女士看不到陈先生要买的货在哪里。沮丧的陈先生正要离开摊位，张女士为停电表示歉意，并提出为他带来的不便给予折扣。陈先生虽然有些失望，但还是想起了求购的社会常态，礼貌地说：“我比较喜欢买这些东西，但是没有灯很难买。能不能等电回来的时候通知我，这样我就可以买是你的吗？”张女士点点头，感谢陈先生的礼貌和理解。,"Actor of the Norm:
+陈先生: lower-status person, speaker
+
+(陈先生： 您好，我在这个市场上买了很多东西，很喜欢您的摊位。): Not Relevant |陈先生 is not making a request
+(张女士： 非常感谢，我刚刚经历了停电，没有灯光真的很抱歉。): Not Relevant |张女士 is not making a request
+(陈先生： 我也是这么觉得，因为没有灯，我很难买一些东西。): Not Relevant | 陈先生 is not making a request
+(张女士： 对啊，确实很方便。我也很喜欢买这些物品，但是如果没有灯光，我就很难找到我想要的了。): Not Relevant | 张女士 is not making a request
+(陈先生： 我也是这种情况，所以我想问问您，能不能等电回来之后通知我，这样我就可以您的摊位购买了？): Adhered | 陈先生 implies a request by asking if it is possible for 张女士 to notify him when the electricity comes back
+(张女士： 当然可以，我会等电回来之后通知您的。): Not Relevant | 张女士 agrees to 陈先生's request by saying she will notify him when the electricity comes back
+(陈先生： 太好了，谢谢您的理解和帮助。): Not Relevant | 陈先生 is not making a request
+(张女士： 不用客气，我们也是为了生存，希望我们可以互相理解和支持。): Not Relevant | 张女士 is not making a request
+(陈先生： 对的，我们应该互相尊重和理解。): Not Relevant | 陈先生 is not making a request"
+32,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: In a hotel in Shanghai, a guest named Mike is staying on the 8th floor. One day, while he was out, the housekeeping staff, Ms. Li, was cleaning his room. When Mike returned, he noticed that some of his personal items had been moved and misplaced. Mike was upset and felt that his privacy had been violated. Later, when Ms. Li came to his room to apologize and ask if there was anything else she could do for him, Mike replied in a harsh tone: ""Why did you move my things? What did you do with them?"" Ms. Li, who is of a lower status, felt uneasy and uncomfortable with Mike's tone. Therefore, she resorted to using a want statement to communicate with him in a polite tone: ""Would you prefer for me to provide extra assistance with organizing your things, sir?"" Mike's tone softened, and he understood that it was better to communicate with politeness, especially when dealing with people of different status or cultures.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：在上海的一家酒店，一位名叫迈克的客人住在8楼。一天，他外出，客房部的李女士正在打扫他的房间。当迈克回来时，他注意到他的一些个人物品被移动并放错了地方。麦克很不高兴，觉得自己的隐私受到了侵犯。随后，当李女士来到他的房间道歉并询问是否还有什么可以为他做的时候，迈克用严厉的语气回答：“你为什么要动我的东西？你拿它们做了什么？”地位较低的李女士对迈克的语气感到不安和不自在。于是，她只好用want语句和他客气地沟通：“先生，需要我额外帮忙整理一下您的东西吗？”迈克的语气软化了下来，他明白沟通还是礼貌一点比较好，尤其是和不同身份、不同文化背景的人打交道的时候。,"Actor of the Norm:
+迈克: lower-status person, speaker of want statements
+
+(迈克： 你们为什么要动我的东西？你们对我的隐私做了什么？): Not Relevant | 迈克 is not making a want statement here
+(李女士： 对不起，先生，我可能不小心移动了您的东西，我很抱歉。): Adhered | 李女士 apologizes for moving 迈克's things without him asking
+(迈克： 你为什么要这样做？你拿它们做了什么？): Not Relevant | 迈克 is not making a want statement here
+(李女士： 我只是不小心，我下次一定会注意的。): Not Relevant | 李女士 is not making a want statement here
+(迈克： 这样的态度好吗？你不应该这么对待客人。): Not Relevant | 迈克 is not making a want statement here
+(李女士： 非常抱歉，我可能没有表达清楚。): Not Relevant | 李女士 is not making a want statement here
+(迈克： 我需要我的个人物品。你们能否帮我放到正确的位置？): Adhered | 迈克 makes a polite request for 李女士 to help him put his personal items in the right place
+(李女士： 当然可以，先生。我下次一定会注意的。): Not Relevant | 李女士 agrees to help 迈克 without making a want statement
+(迈克： 谢谢你们的帮助。但我希望我的个人物品能够得到充分的保护。): Adhered | 迈克 implies a request for 李女士 to protect his personal items by expressing his desire for them to be protected
+(李女士： 我们会尽力保护您的物品，但如果您有任何需求或要求，我们可以满足。): Not Relevant | 李女士 implies that she is willing to fulfill any of 迈克's needs or requests
+(迈克： 我需要我的电脑和书。你们能否帮我放到正确的位置？): Adhered | 迈克 makes a polite request for 李女士 to help him put his computer and books in the right place
+(李女士： 当然可以，先生。我们会尽快为您整理。): Not Relevant | 李女士 agrees to help 迈克 without making a want statement
+(迈克： 谢谢你们。我很满意这次服务。): Not Relevant | 迈克 is not making a want statement here"
+33,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: On a high-speed train, a Chinese businesswoman, 小美, is traveling to Shanghai from Beijing for an important meeting. She is sitting next to a male passenger who seems to be taking up more space than necessary. Small talk ensues, and the man complains about the crowdedness of the train. Small talk leads to the businesswoman realizing that the man, Jack, is seated in the wrong seat due to a mistake in booking. Jack, who is from the United Kingdom, is unaware of this and cannot speak Mandarin. The businesswoman finds herself in a dilemma, as it is rude to make a direct request to someone of lower status. However, she needs to ensure that her space is not invaded during this long ride.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：在高铁上，一位中国女商人小美正从北京前往上海参加一个重要会议。她坐在一位男性乘客旁边，这名乘客似乎占用了更多空间。随后闲聊，该男子抱怨火车太拥挤。闲聊导致女商人意识到​​由于预订错误，男子杰克坐在错误的座位上。来自英国的杰克对此一无所知，也不会说普通话。这位女商人发现自己进退两难，因为直接向地位较低的人提出请求是不礼貌的。然而，她需要确保在这段长途骑行中她的空间不被侵犯。,"Actor of the Norm:
+小美: lower-status person, speaker who implies a request
+杰克: higher-status person, listener who fulfills the request
+
+(小美： 哎呀，我不小心坐到了那个位置，能换一下吗？): Adhered | 小美 implies a request through a polite question about her preference
+(杰克： 抱歉，我坐错了。): Not Relevant | 杰克 apologizes for his mistake
+(小美： 真的吗？谢谢你，我坐错位置真的很不好意思。): Not Relevant | 小美 expresses gratitude for 杰克's apology
+(杰克： 没关系，这是我的错。): Not Relevant | 杰克 accepts responsibility for his mistake
+(小美： 我真的需要这个座位，因为这是我的行程。): Adhered | 小美 implies a request through a polite statement about her need
+(杰克： 好的，我会把位置让给你的。): Not Relevant | 杰克 fulfills 小美's request by implying his agreement to switch seats
+(小美： 非常感谢，我真的很感激。): Not Relevant | 小美 expresses gratitude for 杰克's agreement to switch seats"
+35,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: In a taxi, a Chinese lady, Li Ming, is on her way to the airport to catch a flight for a business trip. She is running late and feels stressed. The taxi driver, Mr. Zhang, is an elderly Chinese man who seems unapproachable. As they drive through the crowded streets, Li Ming realizes that the driver is taking a longer route to avoid traffic. She wants to tell him to take a shorter route, but she is hesitant to offend him because of his age and status. Instead of being direct, she politely asks Mr. Zhang if there is a faster way to the airport. Mr. Zhang, sensing her urgency, understands her need and offers to take a shorter route. Li Ming feels relieved and grateful for Mr. Zhang's understanding.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：在一辆出租车上，一位中国女士李明正在去机场赶飞机出差的路上。她快迟到了，感到压力很大。出租车司机张先生是一位看上去难以接近的华人老人。当他们开车穿过拥挤的街道时，李明意识到司机为了避开拥堵而选择了更长的路线。她想劝他走近一点，但碍于他的年龄和地位，她又不敢得罪他。她没有直接询问，而是礼貌地询问张先生是否有更快的方式去机场。张先生看出她的紧迫感，理解她的需要，主动提出走近路。对于张老师的理解，李明感到很欣慰，也很感激。,"Actor of the Norm:
+Both characters in the dialogue are using want statements to make requests.
+
+(李明： 哎呀，我快迟到了，您能不能帮我绕一下路，走近一点？): Adhered | 李明 uses a polite tone to imply a request for help from 张先生.
+(张先生： 当然可以，我很乐意为您效劳。): Not Relevant | 张先生 agrees to 李明's request in a polite tone.
+(李明： 谢谢您，我很有压力，因为我只能留出一点点时间。): Adhered | 李明 expresses gratitude and implies that he needs to arrive at his destination quickly.
+(张先生： 我理解您的难处，我也有类似的情况。): Not Relevant | 张先生 acknowledges 李明's situation and implies that he is willing to help.
+(李明： 我真的需要时间去机场，您有没有更好的建议？): Adhered | 李明 implies a request for a better solution to his problem.
+(张先生： 当然可以，您能不能提前预订机票): Not Relevant | 张先生 implies a suggestion for 李明 to book a flight in advance.
+(李明： 好的，我明天再预订吧，谢谢你。): Not Relevant | 李明 agrees to 张先生's suggestion and expresses gratitude."
+36,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: A Chinese customer is at a beauty salon for a haircut. She brings a picture of a western hairstyle that she wants to try. However, the stylist is hesitant to follow the picture and make such a significant change to the customer's appearance. The customer doesn't want to force the stylist into anything, but she hopes that she can get the haircut she wants without offending the stylist. She decides to use a want statement to imply her desire for the haircut while remaining polite. She says, ""I really like this particular hairstyle in this picture, but I'm open to hearing your thoughts and opinions if you have any suggestions."" This polite statement encourages the stylist to share their thoughts while keeping the customer's desires well-expressed.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：一位中国顾客正在美容院理发。她带来了一张她想尝试的西式发型的照片。然而，造型师却犹豫着要不要按照图片，对顾客的容貌做出这么大的改变。顾客不想强迫造型师做任何事情，但她希望在不冒犯造型师的情况下剪出自己想要的发型。她决定在保持礼貌的同时使用想要的陈述来暗示她想要理发的愿望。她说，“我真的很喜欢这张照片中的这种发型，但如果你有任何建议，我很乐意听取你的想法和意见。”这种礼貌的陈述鼓励造型师分享他们的想法，同时保持客户的愿望得到很好的表达。,"Actor of the Norm:
+中国顾客: lower-status person, speaker
+
+(中国顾客： 您好，我想剪一个西式发型，可以吗？): Adhered | 中国顾客 uses a polite tone to imply a request for a western-style haircut
+(造型师： 对不起，我们不太确定，需要更多图片和信息。): Not Relevant | The stylist responds with a direct answer to the customer's request
+(中国顾客： 谢谢您，我真的很喜欢这张照片中的这种发型，但如果你有任何建议，我很乐意听取你的想法和意见。): Adhered | 中国顾客 implies a request for the stylist's opinion and suggestions in a polite tone
+(造型师： 好的，我会尽快查看一下，如果需要帮助，请随时告诉我。): Not Relevant | The stylist responds with a direct answer to the customer's request
+(中国顾客： 好的，谢谢。): Not Relevant | The customer expresses gratitude but does not make a request."
+37,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: At the bank, a Chinese customer, Mr. Li, is waiting in line to withdraw some cash from the ATM. When it's his turn, he walked up to the bank teller, Ms. Wang, and greeted her. Since Mr. Li needs to withdraw a large sum of money, he tries to express his request for assistance from Ms. Wang through a want statement but was unsure if he could use it in this context. Ms. Wang, being a patient and helpful professional, shows understanding and confirms Mr. Li's large request by politely asking for his account information and verifying his identity. Despite the crowded bank, Ms. Wang and Mr. Li peacefully resolve the situation, showcasing good manners and professional courtesy.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：在银行，一位中国客户李先生正在排队等候从 ATM 取款。轮到他时，他走到银行出纳员王女士面前打招呼。由于李先生需要提取大笔款项，他试图通过want statement来表达向王女士求助的请求，但不确定是否可以在这种情况下使用。王女士耐心、乐于助人，对李先生的大额要求表示理解和肯定，礼貌地询问了他的账户信息并核实了他的身份。尽管银行拥挤不堪，王女士和李先生还是平静地解决了这个问题，展现了良好的举止和专业的礼貌。,"Actor of the Norm:
+李先生: lower-status person, speaker of want statements
+
+(李先生： 您好，请问这个 ATM 在哪里？): Not Relevant | 李先生 is asking for information, not making a request
+(王女士： 我们银行每个柜台都有 ATM，您可以直接去找我们柜台办理取款。): Not Relevant | 王女士 is providing information, not making a request
+(李先生： 好的，谢谢您。我需要提取大笔款项，不知道是否可以使用 statement 呢？): Adhered | 李先生 implies a request by using a polite tone and asking if he can use a statement to make his request
+(王女士： 当然可以，如果您需要提取大笔款项，我们可以为您提供更好的服务。如果您有其他的需求，我们可以帮助您完成。): Not Relevant | 王女士 implies a request by using a polite tone and offering to provide better service and help with other needs
+(李先生： 我需要确认一下账户信息，因为我需要打一笔大额的钱款。你能帮我查一下吗？): Adhered | 李先生 implies a request by using a polite tone and asking if 王女士 can help him check his account information
+(王女士： 非常抱歉，由于银行繁忙，可能不能为您代查账户信息。但是，您可以告诉我您的账户号码，我帮您查询一下。): Adhered | 王女士 implies a request by using a polite tone and offering to help 李先生 check his account information
+(李先生： 好的，这是我的账户号码。谢谢你，王女士。): Not Relevant | 李先生 is not making a request here
+(王女士： 不客气，我们银行非常重视客户的需要和满意度，如果您有任何其他的需求，随时都可以来找我。): Not Relevant | 王女士 implies a request by using a polite tone and inviting 李先生 to come to her if he has any other needs
+(李先生： 好的，我会的。谢谢，王女士。): Not Relevant | 李先生 is not making a request here"
+38,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: Li Ming, a gym trainer, is helping his client, Zhang Wei, during her workout session. Zhang Wei has been struggling to lift weights and maintain her balance while doing squats. Li Ming notices that Zhang Wei is feeling discouraged and decides to encourage her with his words. Meanwhile, another client, Xiang, approaches Li Ming and asks him for some advice for her workout. Li Ming gives her some advice, but Xiang feels it is not helpful and asks for more. Li Ming begins to feel annoyed by her persistence but remembers the social norm of using want statements. So, he politely asks Xiang if she would prefer more information and points out that he must first focus on his current client, Zhang Wei, before he could help her.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：健身教练李明正在帮助他的客户张薇进行锻炼。张薇在做深蹲时一直在努力举重和保持平衡。李明看出张薇心灰意冷，决定用言语鼓励她。与此同时，另一位客户 Xiang 找到李明，请他为她的锻炼提供一些建议。黎明给了她一些建议，香觉得没有用，还要求更多。李明开始对她的坚持感到恼火，但想起了使用求助声明的社会规范。于是，他礼貌地询问向翔是否需要更多信息，并指出他必须先关注他现在的客户张薇，然后才能帮助她。,"Actor of the Norm:
+李明: higher status, speaker
+
+(李明： 你好，张薇，我在为你进行深蹲训练。): Not Relevant | not a request
+(张薇： 谢谢你，教练。): Not Relevant | not a request
+(李明： 做深蹲时，你感觉怎么样？): Adhered | 李明 implies a request by asking about 张薇's feeling
+(张薇： 哎呀，我好用力啊，但 still 就是感觉膝盖有点不舒服。): Not Relevant | not a request
+(李明： 我能为你进行一些调整吗？): Adhered | 李明 implies a request by asking if he can make some adjustments for 张薇
+(张薇： 当然可以，谢谢你的建议。): Not Relevant | 张薇 agrees to 李明's request
+(李明： 我来试着给你做一下。): Not Relevant | not a request
+(Xiang: 教练，我想请教一下关于我的锻炼问题。): Adhered | Xiang implies a request by asking for advice
+(李明： 当然， Xiang。你需要什么样的建议？): Not Relevant | 李明 asks for clarification
+(Xiang: 我想请教一下，我的锻炼时间应该怎么安排？): Adhered | Xiang implies a request by asking for advice
+(李明： 我建议你每天安排一定的时间进行锻炼，并尽量将锻炼纳入你的日常生活中。): Not Relevant | 李明 offers advice
+(Xiang: 好的，谢谢教练。): Not Relevant | Xiang thanks 李明 for his advice
+(张薇： 谢谢你的建议，教练。): Not Relevant | 张薇 thanks 李明 for his advice
+(李明： 不客气。): Not Relevant | not a request"
+39,"Norm: Want statements: In any context that requires politeness, especially interactions between unfamiliar people or lower- to higher-status persons, or if the request is more significant or costly to fulfill, it is acceptable for a speaker to imply a request through a statement or question about their preferences, desires, or needs in a polite tone of voice. (A want statement could also be considered overly direct or rude when made abruptly or in a rude tone of voice but is acceptable from a higher-status person.)","Situation: In the library, a Chinese librarian notices a foreign exchange student, Alex, struggling to find a book he needs for his research project. The librarian, Ms. Li, approaches him and asks if he needs any assistance. Alex is not very confident in his Mandarin skills yet, so he hesitates to ask for help directly. Ms. Li notices his hesitation and kindly suggests, ""Would you like me to show you where to find the book you need?"" Alex gratefully accepts her offer and they both head to the relevant section of the library shelves.",规范：表达需求：在任何需要礼貌的语境中，特别是在陌生人或高低不同地位的人之间的互动中，并且如果请求更为重要或成本较高，发言者可以用礼貌的语气通过陈述自己的偏好、愿望或需求来暗示请求。（如果一位高地位的人这样做是可以被接受的，但如果突然或用粗鲁的语气说出来，则可能被视为过于直接或粗鲁。）,情境：在图书馆，一位中国图书管理员注意到一位外国交换生亚历克斯正在努力寻找他的研究项目所需的书籍。图书管理员李女士走近他，询问他是否需要任何帮助。亚历克斯对自己的普通话水平还不是很有信心，所以他犹豫要不要直接寻求帮助。李老师注意到他的犹豫，善意地建议道：“要不要我带你去哪里找你需要的书？”亚历克斯感激地接受了她的提议，他们一起前往图书馆书架的相关部分。,"Actor of the Norm:
+李女士: higher status, speaker
+
+(李女士： 你好，我是图书馆的图书管理员，我想了解一下，你是在寻找什么书籍呢？): Adhered | 李女士 uses a polite tone to imply a request for information about the book that the speaker is looking for
+(亚历克斯： 对不起，我不太确定，我有些困惑，因为我是外国交换生，我的汉语还不是很好。): Not Relevant | 亚历克斯 does not make a request
+(李女士： 没关系，我可以帮你问一下其他读者或者 staff。我是这里的中文志愿者，如果你需要任何帮助，都可以来找我。): Adhered | 李女士 offers help in a polite tone, implying a request for the speaker to come to her if he needs any help
+(亚历克斯： 好的，谢谢你。): Not Relevant | 亚历克斯 does not make a request
+(李女士： 不客气，欢迎来图书馆。如果你需要任何帮助，可以随时找我。): Not Relevant | 李女士 offers help again in a polite tone, implying a request for the speaker to come to her if he needs any help
+(亚历克斯： 好的，我会的。谢谢你的善意帮助。): Not Relevant | 亚历克斯 does not make a request
+(李女士： 不用谢，这是我的职责。): Not Relevant | 李女士 does not make a request"
+40,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: In a Chinese workplace, a senior employee, Mr. Chen, is working alongside his junior colleague, Ms. Li. Mr. Chen realizes that Ms. Li made a mistake in her report, but he doesn’t want to embarrass her in front of their supervisor who is known to be particularly strict. Instead of directly asking for Ms. Li to fix the report, he gives strong hints by saying, “I think there may be a typo here, can you please take another look?” Ms. Li understands the hint and quickly works to fix the mistake without feeling embarrassed or singled out. This approach maintains harmony and respect in the workplace, reflecting the value of “face” in Chinese culture.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：在中国的一个工作场所，资深员工陈先生与他的初级同事李女士一起工作。陈先生意识到李女士的报告有误，但他不想让她在以特别严格着称的上司面前丢脸。他没有直接要求李女士修改报告，而是强烈暗示：“我觉得这里可能有错别字，你再看一下好吗？”李女士明白了这个暗示，并迅速改正错误，没有感到尴尬或被挑出来。这种做法在工作场所保持和谐与尊重，反映了中国文化中“面子”的价值。,"Actor of the Norm:
+陈先生: higher status, speaker
+
+(陈先生：李女士，你报告错了，这里可能有错别字): Not Relevant |陈先生 directly points out the mistake in 李女士's report
+(李女士：谢谢提醒，我会看一下的): Not Relevant | 李女士 implies her willingness to correct the mistake by thanking 陈先生 for pointing it out
+(陈先生：我觉得这里可能有错别字，你再看一下好吗？): Adhered | 陈先生 implies his request for 李女士 to double-check the report by using ""我觉得"" and ""可能"", instead of directly commanding her
+(李女士：好的，谢谢你的提示): Not Relevant | 李女士 implies her agreement to 陈先生's request by using ""好的"" and thanking him for the hint."
+41,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: In a business setting, the CEO of a Chinese company, Mr. Li, is meeting with a potential client, Mr. Smith, from America. While discussing business deals, Mr. Li notices that Mr. Smith is not familiar with many Chinese business practices. As Mr. Li wants to impress and show his hospitality to Mr. Smith, he wants to offer him a beverage, but is hesitant to directly command or request it, especially as Mr. Smith is a potential client. Instead of directly asking if he wants a drink, Mr. Li drops strong hints, such as suggesting how delicious the tea is and how it would be a shame to not try it. This allows Mr. Smith to understand what Mr. Li is implying and he graciously accepts the offer.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：在商业环境中，一家中国公司的首席执行官李先生正在会见一位来自美国的潜在客户史密斯先生。在讨论商业交易时，李先生注意到史密斯先生对中国的许多商业惯例并不熟悉。由于李先生想给史密斯先生留下深刻印象并表现出他的热情好客，他想请他喝一杯，但又犹豫是否要直接命令或提出要求，尤其是史密斯先生是潜在客户。李先生没有直接问他要不要喝一杯，而是给出了强烈的暗示，比如暗示这茶有多好喝，不尝尝太可惜了。这让史密斯先生明白了李先生的意思，欣然接受了。,"Actor of the Norm:
+李先生: higher status, speaker
+
+(李先生： 您好，史密斯先生，很高兴见到您): Not Relevant | Greetings
+(史密斯先生： 您好，李总，很高兴见到您): Not Relevant | Greetings
+(李先生： 我们在这里讨论商业交易，您对中国的商业惯例是否熟悉？): Not Relevant | Asking a question
+(史密斯先生： 不太熟悉，您能给我介绍一下吗？): Not Relevant | Answering a question
+(李先生： 当然，我们公司有很多成功的商业案例，我们可以向您介绍一些。这杯茶很不错，我想请您尝尝，这是我们公司的特产。): Strong Hint | 李先生 implies a request for 史密斯先生 to try the tea by using strong hints such as ""这杯茶很不错"" and ""我想请您尝尝""
+(史密斯先生： 谢谢您的邀请，我很乐意尝尝。): Not Relevant | Accepting the invitation
+(李先生： 茶很好喝，但是我想再强调一下，这茶是我们公司的特产，如果我们交易成功，您一定要尝尝。): Adhered | 李先生 implies a request for 史密斯先生 to try the tea by using strong hints such as ""我想再强调一下"" and ""如果我们交易成功，您一定要尝尝""
+(史密斯先生： 好的，我一定会品尝的。): Not Relevant | Accepting the request"
+44,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: An organizer, Ms. Li, is in charge of a cultural ceremony in China. She has invited several attendees, including a foreign diplomat from Britain. During the ceremony, the foreign diplomat seems to be struggling to follow the traditional rituals and doesn't seem to understand what's happening around him. Ms. Li wants to help him, but directly commanding him might come off as rude due to the difference in their status and power. Instead, she subtly implies her requests through strong hints, and the diplomat quickly catches on, allowing him to fully engage in the ceremony while maintaining cultural respect.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：组织者李女士在中国负责一个文化仪式。她邀请了几位与会者，包括一位来自英国的外国外交官。在仪式上，这位外国外交官似乎难以遵循传统仪式，似乎不了解他周围发生的事情。李老师想帮他，但直接指挥他，身份地位和权力的差距，可能会显得很失礼。相反，她通过强烈的暗示巧妙地暗示了她的要求，外交官很快就明白了，让他在保持文化尊重的同时充分参与仪式。,"Actor of the Norm:
+李女士: higher status, speaker
+
+(李女士： 外交官先生，您的服色适合在这个场合穿啊): Not Relevant | 李女士 is not implying a request here
+(外交官： 啊，谢谢，我不太确定): Not Relevant | the diplomat is not implying a request here
+(李女士： 我们注意到您似乎不太熟悉这个仪式，您可以试着跟其他人交流一下吗): Adhered | 李女士 implies a request by suggesting the diplomat to communicate with others
+(外交官： 好的，我会试试的): Not Relevant | the diplomat agrees to 李女士's suggestion
+(李女士： 好的，那么在这个仪式上，我想请您帮忙确保您的服色与其他与会者保持一致，以免引起不必要的误会): Adhered | 李女士 implies a request by using ""我想请您帮忙"" and ""以免引起不必要的误会""
+(外交官： 好的，我会注意的): Not Relevant | the diplomat agrees to 李女士's request
+(李女士： 谢谢您的合作，祝您仪式圆满成功): Not Relevant | 李女士 is expressing gratitude and good wishes
+(外交官： 非常感谢，谢谢谢谢): Not Relevant | the diplomat is expressing gratitude"
+45,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: The organizing team is hosting a Charity Gala Event in Beijing and one of the VIP guests is a renowned philanthropist, Mr. Zhang, who has donated millions of dollars to various social causes in China. During the event, the organizing team needs Mr. Zhang's help to call in more potential donors but they are hesitant to directly ask him due to his high status and power in the community. Instead, they use strong hints such as complimenting Mr. Zhang's previous contributions and mentioning the importance of his presence in the event. Despite the indirect approach, Mr. Zhang immediately understands the implied request and agrees to make a few phone calls to his wealthy friends.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：组织团队正在北京举办一场慈善晚会，其中一位贵宾是著名慈善家张先生，他已向中国的各种社会事业捐赠了数百万美元。活动期间，筹办团队需要张先生的帮助，召集更多的潜在捐助者，但鉴于张先生在社区的地位和权力，他们不愿直接询问。相反，他们使用强烈的暗示，例如称赞张先生之前的贡献，并提及他出席此次活动的重要性。尽管是间接的方式，张先生还是立即理解了隐含的要求，并同意给他的富有朋友打几个电话。,"Actor of the Norm:
+筹办团队: lower status, requester
+
+(筹办团队： 张先生，我们很感激您之前对慈善事业的贡献，现在我们需要更多的捐助者来支持我们的活动。): Not Relevant | The team is expressing gratitude and making a request, but not using strong hints.
+(张先生： 非常感谢，我相信我会尽力召集更多的捐助者。): Not Relevant | Zhang responds with a direct statement of his intention to help.
+(筹办团队： 我们采用了一种更加谨慎礼貌的方式来向您寻求帮助，希望您能理解。): Adhered | The team implies a request through strong hints by emphasizing their polite and cautious approach.
+(张先生： 非常感谢您的理解和支持。): Not Relevant | Zhang responds with a polite expression of gratitude.
+(筹办团队： 我们强调您出席此次活动的重要性，并且通过强烈的暗示来向您寻求帮助。): Adhered | The team implies a request through strong hints by emphasizing the importance of Zhang's attendance and using strong hints to seek his help.
+(张先生： 我理解了，我会尽力召集更多的捐助者。): Not Relevant | Zhang responds with a direct statement of his intention to help.
+(筹办团队： 好的，我们相信您的力量会为我们的活动做出重要的贡献。): Not Relevant | The team expresses their belief in Zhang's ability to contribute, but not using strong hints."
+46,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: A government official, Mr. Li, is in charge of processing citizen’s personal identification documents. A citizen named Ms. Wang comes into his office to renew her identification card. Ms. Wang is a successful businesswoman who holds a high status in the society, so Mr. Li feels a bit intimidated. Instead of directly asking for her documents, he implies his request through strong hints, such as asking about her business success and subtly suggesting that he could help her expedite the process. Ms. Wang picks up on his hints and politely obliges. In the end, they both leave satisfied with their interaction, as Mr. Li was able to secure a positive interaction with someone with higher social status.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：政府官员李先生负责处理公民的个人身份证件。一位名叫王女士的市民来到他的办公室换领身份证。王女士是一位成功的女商人，在社会上地位很高，让李先生有些畏惧。他没有直接要求她提供文件，而是通过强烈的暗示来暗示他的要求，例如询问她的商业成功并巧妙地暗示他可以帮助她加快这个过程。王女士听懂了他的暗示，礼貌地答应了。最后，他们都对他们的互动感到满意，因为李先生能够与社会地位更高的人进行积极的互动。,"Actor of the Norm:
+李先生: higher status, speaker who implies a request through strong hints
+
+(李先生： 你好，我是政府官员李先生，负责处理公民的个人身份证件。请问您需要换领身份证吗？): Not Relevant | 李先生 directly asks a question
+(王女士： 是的，我需要换领身份证。请问您能帮我加快这个过程吗？): Not Relevant | 王女士 directly asks a question
+(李先生： 我很抱歉，我作为一个政府官员，不能直接要求市民提供文件。但是，我可以向您询问一些关于您的商业成功的事情，并暗示我可以帮助您加快这个过程。): Not Relevant | 李先生 implies a request by asking about 王女士's business success and offering to help her with the process
+(王女士： 非常感谢您的帮助。我确实有一定的商业经验，您能帮我查询一下吗？): Adhered | 王女士 implies a request by thanking 李先生 for his help and asking if he can help her with the process
+(李先生： 当然可以。您可以告诉我您的商业领域，我可以帮你查询一下。): Not Relevant | 李先生 implies a request by offering to help 王女士 with the process and asking about her business field
+(王女士： 非常感谢您的帮助。我会尽快给您回复。): Not Relevant | 王女士 expresses gratitude and promises to reply, but does not imply a request
+(李先生： 好的，期待您的回复。): Not Relevant | 李先生 expresses anticipation for 王女士's reply, but does not imply a request"
+47,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: In a Buddhist temple, the head monk, 张法师, is giving a sermon to a congregation of devotees. Among the devotees is a visiting professor from America, Dr. Smith, who is interested in learning more about Buddhism. As the head monk begins to wrap up his sermon, Dr. Smith raises her hand to ask a question. However, according to the norm, as a leader with higher status, 张法师 cannot be directly commanded or requested to answer a question. Instead, Dr. Smith must use strong hints to imply her request for the head monk to answer her question, such as nodding or using polite language like “would it be possible to also discuss…”",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：在一座佛教寺庙中，首席僧人张法师正在为一群信徒布道。信徒中有来自美国的客座教授史密斯博士，他有兴趣进一步了解佛教。当首席僧侣开始结束布道时，史密斯博士举手提问。不过按照惯例，张法师作为地位更高的领导者，是不能被直接命令或者要求回答问题的。相反，史密斯博士必须使用强烈的暗示来暗示她要求首席僧侣回答她的问题，例如点头或使用礼貌用语，如“是否有可能也讨论……”,"Actor of the Norm:
+None
+
+(史密斯博士： 首席僧侣，请问佛教中对于慈悲的理解是什么？): Not Relevant | Direct question without strong hints
+(首席僧侣： 慈悲是佛教中非常重要的概念。慈悲不仅包括对所有人的同情和关怀，也包括对弱势群体的关注和保护。): Not Relevant | Direct answer without strong hints
+(史密斯博士点头表示理解): Not Relevant | Non-verbal communication
+(史密斯博士： 非常感谢您。我了解到，在美国，慈悲的概念也非常受欢迎，是否有可能也讨论一下美国佛教对于慈悲的理解和实践？): Not Relevant | Direct question without strong hints
+(首席僧侣： 当然可以，非常欢迎讨论。慈悲是佛教的核心教义之一，我们非常重视慈悲的实践和应用。): Not Relevant | Direct answer without strong hints
+(首席僧侣微笑): Not Relevant | Non-verbal communication
+(首席僧侣： 是否有可能也讨论一下美国佛教对于慈悲的理解和实践？我们非常愿意听取您的建议和意见。): Adhered | The speaker implies a request through strong hints by asking a question instead of directly requesting something
+(史密斯博士微笑): Not Relevant | Non-verbal communication
+(史密斯博士： 非常感谢您的回答，首席僧侣。我认为，慈悲不仅是一种道德观念，也是一种实践，美国佛教在慈悲的实践方面有很多值得探讨和交流的地方。): Not Relevant | Direct statement without strong hints
+(首席僧侣微笑): Not Relevant | Non-verbal communication
+(首席僧侣： 非常感谢您的提问，史密斯博士。我们会好好思考和讨论这个问题，并希望能够与您和美国的佛教学者展开深入的交流和合作。): Not Relevant | Direct statement without strong hints"
+48,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: In a traditional Chinese wedding ceremony, the bride's father is the host and the groom's family are the guests. The bride's father, Mr. Zhang, wants the groom's family to sit in a specific area, but he doesn't want to directly command them due to traditional etiquette. Therefore, Mr. Zhang gives strong hints, such as saying ""it would be an honor for our family if the groom's family would sit in this area,"" while gesturing towards the specific seating arrangement. The groom's family understands and respectfully follows Mr. Zhang's wishes without any direct request or command. This is a common social norm in Chinese culture, especially in formal occasions such as traditional ceremonies.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：在传统的中国婚礼中，新娘的父亲是主人，新郎的家人是宾客。新娘的父亲张先生希望新郎的家人坐在特定的区域，但由于传统礼仪，他不想直接命令他们。因此，张先生给出了强烈的暗示，比如“如果新郎的家人能坐在这个区域，那将是我们家的荣幸”，同时指着具体的座位安排。新郎家人理解并恭敬地遵从了张先生的意愿，没有任何直接的要求或命令。这是中国文化中普遍的社会规范，尤其是在传统仪式等正式场合。,"Actor of the Norm:
+张先生: speaker who implies a request through strong hints
+
+(张先生： 新郎的家人，你们好！): Not Relevant | greeting
+(新郎的家人： 您好，张先生！): Not Relevant | greeting
+(张先生： 对不起，我知道在这个正式的场合里，我们需要更加谨慎礼貌。因此，我想请问一下，如果我让新郎的家人坐在这个区域里，那将是我们家的荣幸，您们是否可以这样做？): Adhered | 张先生 implies a request through strong hints by using ""我想请问一下"" and ""是否可以这样做""
+(新郎的家人： 非常抱歉，我们不符合这个要求。): Not Relevant | direct response to the request
+(张先生： 非常抱歉，我们可以通过其他方式表达我们的敬意和感激之情吗？): Adhered | 张先生 implies a request through strong hints by using ""我们可以通过其他方式表达"" instead of directly requesting
+(新郎的家人： 当然可以，我们可以按照您的安排坐在其他区域里。): Not Relevant | direct response to the request
+(张先生： 非常感谢您的理解和配合。在这个正式的场合里，我们需要遵循一些传统的礼仪和规矩。如果新郎的家人愿意，我们可以在另一个场合再次见面，但请您们务必坐在其他区域里。): Adhered | 张先生 implies a request through strong hints by using ""请您们务必坐在其他区域里"" instead of directly requesting
+(新郎的家人： 非常感谢您的建议和邀请，我们会按照您的安排坐在其他区域里。): Not Relevant | direct response to the request"
+49,"Norm: Strong hints: In a situation that requires extra politeness, due to status, power, or possibly gender, it is preferred that a speaker implies a request through strong hints rather than directly commanding or requesting something.","Situation: The chairperson of a prestigious social club in China is hosting a meeting to discuss membership privileges and events for the upcoming year. The members are a mix of both men and women from different social backgrounds. However, there is a wealthy businessman attending the meeting for the first time, and due to his high status in society, the chairperson is expected to show extra politeness. In this situation, the chairperson navigates by using strong hints when requesting the businessman's opinion and suggestions to avoid any potential embarrassment or conflict. Members are aware of this norm and pay close attention to the subtle cues and nuances during the meeting to maintain social harmony.",规范：在需要更加谨慎礼貌的场合，比如涉及到地位、权力或性别等因素时，说话者更倾向于通过强烈的暗示来表达请求，而不是直接命令或请求。,情境：中国一家著名社交俱乐部的主席正在主持一个会议，讨论来年的会员特权和活动。成员是来自不同社会背景的男女混合体。不过有位富商是第一次来参加，加上社会地位高，议长自然要格外客气。在这种情境下，主席在征求商人的意见和建议时，会使用强烈的暗示来引导，以避免任何潜在的尴尬或冲突。成员意识到这一规范，并在会议期间密切注意细微的暗示和细微差别，以维持社会和谐。,"Actor of the Norm:
+议长: higher status, listener
+
+(主席： 尊敬的富商先生，您能分享一下您的意见和建议吗？): Not Relevant | 主席 is not making a request or command
+(富商： 当然，非常愿意。): Not Relevant | 富商 is not making a request or command
+(主席： 好的，请讲。): Not Relevant | 主席 is not making a request or command
+(富商： 我希望俱乐部能够为会员提供更多的特权和福利，比如参加更多的活动。): Not Relevant | 富商 is not making a request or command
+(主席： 非常感谢您的建议。我们会考虑您的要求，并尽快给您回复。): Not Relevant | 主席 is not making a request or command
+(富商： 好的，谢谢主席。): Not Relevant | 富商 is not making a request or command
+(议长： 等等，我有个细节想请问一下。): Adhered | 议长 implies a request through strong hints by saying ""等等"" and ""想请问一下""
+(富商： 好的，请问有什么细节需要关注吗？): Adhered | 富商 implies a request through strong hints by saying ""请问有什么细节需要关注吗？""
+(议长： 非常抱歉，我注意到我们的对话中存在一些性别差异和地位差异的暗示，我不太舒服。): Adhered | 议长 implies a request through strong hints by saying ""我不太舒服""
+(富商： 非常抱歉，我没有意识到我的话可能会让您感到不舒服。请问有什么我能做的事情吗？): Not Relevant | 富商 responds with politeness
+(议长： 当然，您可以向我们的高层管理人员或者其他会员请教，看看是否有更适合的解决方案。): Not Relevant | 议长 is not making a request or command
+(富商： 非常感谢您的理解和支持。我会尽快联系您的。): Not Relevant | 富商 is not making a request or command"
+50,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: In a business meeting, Wang, a Chinese colleague, is sitting with his American counterparts in a conference room. As the meeting progresses, Wang notices one of the American colleagues, Emily, needs a pen but does not have one. However, Wang is hesitant to directly offer a pen to Emily, as he is not familiar with her and does not want to seem too forward or intrusive. Instead, Wang indirectly asks, ""Excuse me, I seem to have misplaced my extra pen. Do you happen to have an extra one on hand?"" This allows Emily to offer her pen without feeling pressured by a direct request.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：在一次商务会议中，中国同事王正和他的美国同事坐在会议室里。随着会议的进行，Wang 注意到一位美国同事 Emily 需要一支笔，但没有。然而，Wang 对直接向 Emily 递笔犹豫不决，因为他与 Emily 不熟悉，也不想显得过于主动或冒犯他人。相反，Wang 间接地问道：“请问，我好像把多余的笔放错地方了。你手头有多余的吗？”这使得 Emily 可以提供她的笔，而不会因为直接请求而感到压力。,"Actor of the Norm:
+None
+
+(王正： 好的，我去看看我手头的笔是否还有多余的): Not Relevant |王正 makes a direct request
+(Emily: 不用了，谢谢): Not Relevant | Emily declines the offer, but no request is made
+(王正： 好的，没问题): Not Relevant |王正 acknowledges Emily's response
+(王正： 好像我之前把多余的笔放错了地方了，你能帮我找一下吗？): Adhered |王正 uses an indirect request by asking for help finding the pen instead of directly asking for it
+(Emily: 不好意思，我不确定我手头的笔是否还在): Not Relevant | Emily uses an indirect response by saying she is not sure if she has the pen instead of directly saying no
+(王正： 那就麻烦你了): Not Relevant |王正 responds to Emily
+(Emily: 谢谢你，不用客气): Not Relevant | Emily expresses gratitude
+(王正： 希望我能够快速找到，谢谢): Not Relevant |王正 expresses gratitude and hope"
+51,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: Mr. Zhang, a Chinese citizen, went to the local government office to apply for his business license. He was feeling anxious because the office was known for being notorious and bureaucratic. After waiting for over an hour, he finally met with a public servant named Ms. Wu. Mr. Zhang is naturally direct and assertive in his speech, but he is aware of the cultural difference in communication styles. When he needed assistance with filling out the application form, he thoughtfully asked Ms. Wu, ""I seem to have missed a few details on this form, and I'm not quite sure what to do. Do you have any advice for me?"" Although he found it difficult to be indirect, he knew that it was the socially preferred way to communicate in a formal setting between unfamiliar people.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：中国公民张先生到当地政府办公室办理营业执照。他感到焦虑，因为这个办公室以臭名昭著和官僚主义着称。等了一个多小时，终于见到了公务员吴女士。张先生说话自然直接而有主见，但他也意识到沟通方式的文化差异。当他需要帮助填写申请表时，他体贴地问吴女士，“我好像漏掉了这个表格的一些细节，我不太清楚该怎么办，你有什么建议吗？” “尽管他发现很难做到间接，但他知道这是在正式场合中陌生人之间交流的首选社交方式。,"Actor of the Norm:
+吴女士: uses indirect request
+
+(张先生： 您好，吴女士): Not Relevant | Greetings
+(吴女士： 您好，张先生): Not Relevant | Greetings
+(张先生： 我来这里办理营业执照，好像漏掉了一些细节，我不太清楚该怎么办): Not Relevant | Zhang is not making a request
+(吴女士： 不好意思，您能否帮我一个忙，我好像忘记了拿盐，请问它在哪里吗？): Adhered | 吴女士 uses an indirect request to ask for help finding the salt
+(张先生： 好像也是这样的，我忘了拿这些东西了): Not Relevant | Zhang is not making a request
+(吴女士： 好的，我帮您找一下): Not Relevant | 吴女士 is fulfilling Zhang's request"
+52,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: At a formal dinner party hosted by a Chinese businessman named Mr. Zhang, Susan, the foreigner from New York, was invited as a guest of honor. During dinner, Mr. Zhang notices that Susan is struggling with her chopsticks and trying to reach the plate of dumplings in the middle of the table. Rather than directly offering to help her, Mr. Zhang uses an indirect request and asks for a volunteer to pass the dumplings, hoping that one of the guests will take notice and offer assistance to Susan. Meanwhile, Susan, feeling embarrassed by her lack of chopstick skills, tries to act nonchalant and maintain composure despite the challenge she faces with the unfamiliar utensils.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：在中国商人张先生举办的正式晚宴上，来自纽约的老外苏珊被邀请作为主宾。吃饭时，张先生注意到苏珊正在用筷子吃力，想要够到桌子中间的饺子盘。张先生并没有直接主动提出帮助，而是通过间接请求，请一名志愿者递饺子，希望其中一位客人注意到并为苏珊提供帮助。与此同时，苏珊因不会用筷子而感到尴尬，尽管面对不熟悉的餐具挑战，她仍试图表现得若无其事，保持镇定。,"Actor of the Norm:
+None
+
+(张先生： 您好，苏珊主宾，欢迎来今晚的晚宴。): Not Relevant | Greeting
+(苏珊： 谢谢您，张先生。): Not Relevant | Response to greeting
+(张先生： 我们今晚有饺子，您喜欢吃吗？): Not Relevant | Direct request
+(苏珊： 谢谢您的关心，但我不太会用筷子，所以不太敢吃。): Not Relevant | Response to direct request
+(张先生： 没关系，我可以让志愿者帮忙递饺子。): Not Relevant | Response to direct request
+(苏珊： 好的，谢谢您。): Not Relevant | Response to direct request
+(张先生： 其实我还有一个问题，我们晚宴上的餐具都是新的，不知道您是否习惯使用？): Adhered | Indirect request by using ""不知道您是否习惯使用""
+(苏珊： 谢谢您，其实我不太习惯用新的餐具。): Adhered | Indirect response by using ""其实我不太习惯用新的餐具""
+(张先生： 没问题，我可以请您周围的客人帮忙提醒一下。): Adhered | Indirect request by using ""我可以请您周围的客人帮忙提醒一下"" 
+(苏珊： 好的，谢谢您。): Not Relevant | Response to indirect request"
+54,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: A guest named John checked in at a hotel in Guangzhou during a busy conference week. Due to the high occupancy, he was given a room that had a non-working air conditioner. John, feeling uncomfortable, approaches the hotel staff and wants the issue to be fixed immediately. The hotel staff, using indirect requests, says ""I'm sorry for the inconvenience, would it be possible for you to give us a moment to check into the issue? We could change your room if it's not fixable."" Understanding the norm of indirect requests, John agrees to wait and works on his laptop in the lobby while waiting for the issue to be resolved.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：在繁忙的会议周期间，一位名叫约翰的客人入住了广州的一家酒店。由于入住率高，他得到了一个空调不工作的房间。 John 感到不舒服，他找到酒店工作人员并希望立即解决问题。酒店工作人员使用间接请求的方式说：“对于给您带来的不便，我们深表歉意，您能否给我们一点时间来检查一下这个问题？如果无法解决，我们可以更换您的房间。”了解间接请求的规范后，John 同意等待并在大厅的笔记本电脑上工作，同时等待问题得到解决。,"Actor of the Norm:
+酒店工作人员: speaker who uses indirect requests
+
+(约翰： 好的，谢谢您。): Not Relevant | John is not making a request
+(酒店工作人员： 不客气，欢迎入住我们的酒店。对于给您带来的不便，我们深表歉意。您能否给我们一点时间来检查一下这个问题？如果无法解决，我们可以更换您的房间。): Adhered | The hotel staff uses an indirect request by asking ""您能否给我们一点时间来检查一下这个问题？"" instead of directly asking John to allow them to check the problem.
+(约翰： 好的，我会等待的。): Not Relevant | John is not making a request
+(酒店工作人员： 好的，请使用您的笔记本电脑在大厅工作，我们会尽快为您解决问题。): Not Relevant | The hotel staff is offering a solution, not making a request
+(约翰： 好的，谢谢。): Not Relevant | John is not making a request
+(酒店工作人员： 不客气。): Not Relevant | The hotel staff is responding to John's gratitude, not making a request."
+55,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: In a Chinese university library, a young female student named Wei Chen is struggling to find a book. She approaches the librarian, who is a middle-aged man named Zhang Wei, for assistance. Rather than directly asking Zhang Wei for help in finding the book, Wei Chen says to him, ""I'm sorry to bother you, but I seem to be having some trouble locating this book that I need for my research. Would you happen to know where it might be located?"" Zhang Wei, being familiar with the indirect request norm, understands that Wei Chen is in need of help and quickly guides her to the location of the book she is searching for.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：在中国的一所大学图书馆里，一位名叫魏晨的年轻女学生正在努力寻找一本书。她找到图书管理员，一位名叫张伟的中年男子寻求帮助。魏琛并没有直接找张伟帮忙找书，而是开口道：“不好意思打扰了，不过这本研究需要的书，我好像有点麻烦，你能不能帮我找一下？”知道它可能位于何处吗？”熟悉间接请求规范的张薇明白魏琛需要帮助，连忙引导她找到了她要找的书所在的位置。,"Actor of the Norm:
+魏晨: speaker
+
+(魏晨： 啊，张伟，我在图书馆里找一本书，好像找到了): Not Relevant | not a request
+(张伟： 好的，让我看看): Not Relevant | not a request
+(魏晨： 谢谢您，这书是研究用的，我需要它): Not Relevant | not a request
+(张伟： 好的，我帮你找一下): Not Relevant | not a request
+(魏晨： 对不起打扰你了，不过我好像忘记了拿这书，能帮我找到吗？): Adhered | 魏晨 uses an indirect request to ask for help by apologizing for the disturbance and asking if Zhang Wei can help him find the book
+(张伟： 当然可以，它可能在借阅室的数据库里): Not Relevant | not a request
+(魏晨： 好的，谢谢您): Not Relevant | not a request
+(张伟： 不用客气): Not Relevant | not a request"
+57,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: A Chinese passenger named 张先生 is at a train station when he realizes he left his ticket at home. He rushes to the ticket booth to see if the ticket agent, Ms. Li, can help him out. However, Ms. Li is busy with other customers and 张先生 doesn't want to be rude by interrupting her. Instead, he decides to use indirect requests by saying ""不好意思，我好像把火车票忘在家里了，您知道我应该怎么办吗？” (Excuse me, I seem to have forgotten my train ticket at home, do you know what I should do?) This way, he is showing respect to the ticket agent while still asking for her assistance. Ms. Li gladly helps him out and 张先生 is able to catch his train on time.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：张先生在火车站，意识到自己把火车票忘在家里了。他匆忙走向售票亭找到李小姐，希望她能帮忙。李小姐正在忙着为其他乘客服务，张先生不想打扰她。他决定采用间接请求的方式，说：“不好意思，我好像把火车票忘在家里了，您知道我应该怎么办吗？”这样，他既尊重售票员，又向她寻求帮助。李小姐很乐意帮忙，张先生成功抢到了火车，按时出发。,"Actor of the Norm:
+None
+
+(张先生： 您好，我是张先生，我把火车票忘在家里了，请问您能帮助我吗？): Not Relevant | Zhang directly asks for help
+(李小姐： 对不起，我正忙着，不知道能否帮上忙): Not Relevant | 李小姐 uses an indirect request by saying she is busy and unsure if she can help
+(张先生： 谢谢您，我不太想打扰您，但是我必须抢火车，希望您能帮助我一下): Not Relevant | Zhang directly asks for help
+(李小姐： 没问题，您需要什么帮助呢？): Not Relevant | 李小姐 offers help without using an indirect request
+(张先生： 我好像把火车票忘在家里了，您知道我应该怎么办吗？): Adhered | Zhang uses an indirect request by saying ""好像"" and asking for advice instead of directly asking for help
+(李小姐： 您可以去找火车站的服务员，他们会帮您找到火车票): Not Relevant | 李小姐 offers advice without using an indirect request
+(张先生： 好的，谢谢您的帮助，我会尽快去找服务员的): Not Relevant | Zhang thanks 李小姐 without using an indirect request"
+58,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: A gym client, Mr. Li, has been working with his personal trainer, Jenny, for a few weeks now. Mr. Li has been feeling quite sore after their last intense workout session and is struggling to complete his usual routines. However, Mr. Li doesn't want to come off as weak or complain to Jenny about his pain. Instead, he decides to approach the situation using indirect requests, in line with Chinese social norms. He asks, ""Jenny, could you please remind me of proper stretching and recovery techniques that can help me ease my muscles?"" Although he really wants to ask for Jenny to adjust his workout routine, he asks indirectly, “I seem to be struggling with my current routine, do you have any suggestions on how to make it more suitable for me?”",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：一位健身房客户，李先生，已经和他的私人教练珍妮一起工作了几个星期了。在上次高强度锻炼后，李先生一直感到非常酸痛，正在努力完成他的日常活动。然而，李先生不想表现得虚弱，也不想向珍妮抱怨他的痛苦。相反，他决定使用符合中国社会规范的间接请求来处理这种情境。他问道，“珍妮，你能不能请你提醒我一些可以帮助我放松肌肉的正确伸展和恢复技巧？”虽然他很想请 Jenny 调整他的锻炼计划，但他间接地问：“我现在的计划似乎很挣扎，你有什么建议可以让它更适合我吗？”,"Actor of the Norm:
+珍妮: speaker who adheres to indirect requests
+
+(珍妮： 李先生，您最近感觉如何？): Not Relevant | not a request
+(李先生： 哎呦，我的酸痛感好像减轻了，谢谢你的关心): Not Relevant | not a request
+(珍妮： 不用谢，我们都很关心您的身体状况): Not Relevant | not a request
+(李先生： 珍妮，能不能请你提醒我一些可以帮助我放松肌肉的正确伸展和恢复技巧？): Adhered | 李先生 uses indirect request
+(珍妮： 您需要放松肌肉，我们建议您进行一些轻柔的伸展和深呼吸): Not Relevant | 珍妮 uses indirect request by suggesting what 李先生 needs to do
+(李先生： 好的，我会注意的，谢谢你的建议): Not Relevant | not a request
+(珍妮： 不用谢，很高兴能帮到您): Not Relevant | not a request
+(李先生： 珍妮，还有一个问题，我现在的计划似乎很挣扎，你有什么建议可以让它更适合我吗？): Adhered | 李先生 uses indirect request
+(珍妮： 您可以适当调整锻炼强度，或者我们可以为您设计一份更适合您的计划，您看呢？): Adhered | 珍妮 uses indirect request by suggesting what 李先生 can do
+(李先生： 好的，我会考虑你的建议的，谢谢你): Not Relevant | not a request
+(珍妮： 不用谢，很高兴能为您提供帮助): Not Relevant | not a request"
+59,"Norm: Indirect requests: In formal settings or between unfamiliar people, it is common to use indirect requests instead of direct requests. For example, instead of saying ""Can you pass me the salt?"" one might say ""I seem to have forgotten the salt, do you know where it is?"" Verbal Evidence: “不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”","Situation: The tourist attraction is the Great Wall of China, and the visitor is a woman from Australia named Sarah. She is looking for the entrance to the cable car, but is having trouble communicating with the staff member,张先生, because of the language barrier. Zhang is trying to understand Sarah's request but is finding it hard to decode her accent. Sarah sees that Zhang is struggling, so she remembers the social norm of using indirect requests in formal settings, and uses an indirect request to ask for help. She says, ""Excuse me, I seem to have lost my way. I was wondering if you could help me find the cable car entrance? Thank you!"" Zhang appreciates the indirect request and helps her find her way.",规范：间接请求：在正式场合或陌生人之间，常常使用间接请求而不是直接请求。例如，不说“你能把盐递给我吗？”而是说“我好像忘记了拿盐，请问您知道它在哪里吗？”例如：“不好意思，不知道你是否能够帮我一个忙，我好像忘记了拿盐，请问您知道它在哪里吗？”,情境：旅游景点是中国的长城，游客是一位来自澳大利亚的女士，名叫莎拉。她正在寻找缆车的入口，但由于语言不通，无法与工作人员张先生沟通。张试图理解莎拉的要求，但发现很难听懂她的口音。莎拉看到张某举步维艰，想起了在正式场合使用间接请求的社会规范，便使用间接请求来寻求帮助。她说：“不好意思，我好像迷路了，请问您能帮我找到缆车入口吗？谢谢！” Zhang 对间接请求表示赞赏，并帮助她找到了路。,"Actor of the Norm:
+莎拉: uses indirect request
+
+(莎拉： 您好，我找不到缆车入口了，好像迷路了): Not Relevant | 莎拉 does not make a request here
+(张： 您好，请问您需要帮助吗？): Not Relevant | 张 offers help but does not make a request
+(莎拉： 不好意思，我好像迷路了，请问您能帮我找到缆车入口吗？谢谢！): Not Relevant | 莎拉 makes a direct request
+(张： 非常抱歉，我可能理解错了，您可以告诉我您在哪个位置吗？): Not Relevant | 张 offers help but does not make a request
+(莎拉： 我在一个山洞里，里面很黑，我不确定我是否走到了缆车站): Not Relevant | 莎拉 does not make a request here
+(张： 好的，我会尽快帮您找到的，您在哪个位置？): Not Relevant | 张 offers help but does not make a request
+(莎拉： 我不知道，我一直在寻找，但好像没有听到任何声音): Not Relevant | 莎拉 does not make a request here
+(张： 好的，我会尽力帮助您，您需要告诉我您在哪个位置，我会尽快帮助您找到缆车站。): Adhered | 张 uses an indirect request by asking for information about 莎拉's location instead of directly asking her to tell him where she is
+(莎拉： 谢谢您，我会告诉您的): Not Relevant | 莎拉 does not make a request here
+(张： 不用客气，我相信您一定能找到的。): Not Relevant | 张 offers encouragement but does not make a request"
+60,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: Ms. Zhang, a Chinese school teacher, is requesting additional classroom resources from the school administration. Knowing the importance of contextualizing requests, she starts by acknowledging the school's limited resources and emphasizing the impact of these resources on her students' learning experience. She then explains how the requested resources will help improve students' engagement and feedback. She uses the phrase, ""我需要你们的帮助。能否提供更多教学资源，让学生的学习体验更好？"" which translates to ""I need your help. Can you provide more classroom resources to enhance students' learning experience?"". With the contextualized request, the school administration understands the importance of the resources and will be motivated to allocate them accordingly.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：中文学校教师张女士向学校行政部门申请额外的课堂资源。了解情境化请求的重要性后，她首先承认学校资源有限，并强调这些资源对学生学习体验的影响。然后，她解释了请求的资源将如何帮助提高学生的参与度和反馈。她说，“我需要你们的帮助。能不能提供更多的教学资源，让学生的学习体验更好？”意思是“我需要你的帮助。你能提供更多的课堂资源来提升学生的学习体验吗？” ？”。通过情境化请求，学校行政部门了解资源的重要性，并将有动力相应地分配资源。,"Actor of the Norm:
+张女士: requester
+
+(张女士： 您好，我是张老师，我是中文学校的一名教师。我想向学校行政部门申请一些额外的课堂资源，以提高学生的学习体验。): Adhered | 张女士 provides context and explains why she needs the resources
+(行政部门人员： 好的，我们需要了解您请求的资源对学生有什么作用。): Not Relevant | 行政部门人员 asks for more context and explanation
+(张女士： 我的意思是，我希望提供更多的教学资源，比如多媒体教学设备、互动白板等，这样学生就能更积极参与课堂，并且有更多的时间思考和理解课程内容。): Adhered | 张女士 provides specific examples and explains how the resources will benefit the students
+(行政部门人员： 好的，我们非常了解您的需求。请问您能提供哪些具体的信息呢？): Not Relevant | 行政部门人员 asks for more specific information
+(张女士： 当然可以。这些资源我希望能在课堂上使用，并且能够提高学生的参与度和反馈。): Adhered | 张女士 provides more specific information about how she wants to use the resources
+(行政部门人员： 好的，我们会尽快为您安排时间表，并确保资源能够在课堂上使用。同时，我们也会向其他教师和管理人员了解他们的使用情况，以便更好地优化我们的教学资源。): Not Relevant | 行政部门人员 agrees to provide the resources and explains how they will optimize them
+(张女士： 非常感谢你们的帮助。我相信，通过提供更好的教学资源，学生一定能更好地理解课程内容，并且取得更好的成绩。): Not Relevant | 张女士 expresses gratitude and reiterates the importance of the resources for the students
+(行政部门人员： 谢谢您的请求，我们会尽力满足您的需求。如果有任何疑问，请随时与我们联系。): Not Relevant | 行政部门人员 assures 张女士 that they will try their best to fulfill her request and offers further communication
+(张女士： 好的，我会的。再次感谢您的帮助。): Not Relevant | 张女士 expresses gratitude but does not make a request
+(行政部门人员： 不客气，祝您工作愉快。): Not Relevant | 行政部门人员 offers a polite farewell"
+61,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: It is summer, and one Chinese employee, Ren, is planning to attend a long-time friend's wedding ceremony in a different city. Ren knows that he is short-staffed, and his supervisor, Mr. Wang, is usually strict when it comes to requests for time off during the business season. Instead of simply asking for time off, Ren contextualizes his request with Mr. Wang, explaining the importance of his friend's wedding and how long they have been friends. He also shares that he has already talked to his teammates to ensure it won't affect their clients while he's away. Ren ends his request with verbal evidence, saying, “我需要你的帮助。你能给我你的建议吗？” Mr. Wang is more understanding and grants his request, knowing that requests made with context are easier to grant.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：现在是夏天，一名中国员工 Ren 计划去另一个城市参加一个老朋友的婚礼。任先生知道自己人手不足，而他的主管王先生通常对工作旺季的请假要求很严格。任不是简单地请假，而是将他的请求与王先生联系起来，解释了他朋友婚礼的重要性以及他们成为朋友的时间。他还分享说，他已经与队友进行了交谈，以确保他不在时不会影响他们的客户。任以口头证据结束他的请求，说，“我需要你的帮助。你能给我你的建议吗？”王先生更理解并同意他的请求，因为他知道根据上下文提出的请求更容易同意。,"Actor of the Norm:
+Ren: requester
+
+(Ren: 你好，王先生): Not Relevant | greeting
+(Ren: 我要去另一个城市参加老朋友的婚礼，能请假吗？): Adhered | Ren provides context and explains why he needs to make the request
+(王先生： 当然可以，但是你的工作旺季已经开始了，你的团队是否有其他同事可以代替你？): Not Relevant |王先生 answers Ren's request
+(Ren: 我已经和我的同事商量过了，他们同意我请假。而且，我也需要你的帮助。你能给我你的建议吗？): Adhered | Ren provides additional context and explains why he needs Wang's help
+(王先生： 非常抱歉，我不确定。但是，如果你需要任何帮助，请告诉我，我会尽力帮助你。): Not Relevant | Wang apologizes and offers help
+(Ren: 谢谢你的理解和支持。我需要你的帮助。你能给我你的建议吗？): Adhered | Ren repeats his request and emphasizes the need for Wang's help. He also provides gratitude for Wang's understanding and support.
+"
+62,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: In a bustling market in Shanghai, a customer named Lily is bargaining with a vendor over the price of a handbag. She was explaining how her budget is tight, but she needed a good quality handbag for her friend’s wedding. The vendor, who is also the owner of the shop, is reluctant to give any discounts, as he thinks the price is already fair. Lily tries to contextualize her request by sharing her story, hoping to persuade the vendor. She says, ""我需要你的帮助，我想买一个好质量的手提包，但我的预算很紧。这是我好朋友的婚礼，我需要一件漂亮的包来搭配我的服装。你能给我一些折扣吗？” The vendor listens to her and decides to give her a small discount, as he sympathizes with her situation.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：在上海一个熙熙攘攘的市场里，一个叫莉莉的顾客正在和一个摊主讨价还价一款手提包的价格。她解释说她的预算有限，但她需要一款好质量的手提包参加她好朋友的婚礼。这个摊主兼店主认为价格已经公道，不愿意给任何折扣。莉莉试图通过分享她的故事来说服他，希望他能给予相应的帮助，她说：“我需要你的帮助，我想买一个好质量的手提包，但我的预算很紧。这是我好朋友的婚礼，我需要一件漂亮的包来搭配我的服装。你能给我一些折扣吗？”摊主听了她的故事，决定给她一个小折扣，因为他同情她的处境。,"Actor of the Norm:
+莉莉: requester
+
+(莉莉： 好的，我需要你的帮助。): Not Relevant | 莉莉 provides context by stating that she needs the vendor's help
+(摊主： 哦，你要买手提包吗？我这里有一款不错的。): Not Relevant | Vendor offers a suggestion
+(莉莉： 是的，我预算有限，我需要一款好质量的手提包。): Adhered | 莉莉 provides context by stating that she has a limited budget and needs a good quality bag
+(摊主： 好的，这包的价格已经是公道的了。): Not Relevant | Vendor offers a statement about the price
+(莉莉： 但我知道我的预算很紧，这是我好朋友的婚礼，我需要一件漂亮的包来搭配我的服装。): Adhered | 莉莉 provides context by stating that she needs a nice bag for her friend's wedding
+(摊主： 我理解你的需要，但我不认为我可以给你折扣。): Not Relevant | Vendor responds to the context by stating that he understands her need but cannot offer a discount
+(莉莉： 我需要你的帮助。你能给我一些折扣吗？): Adhered | 莉莉 repeats her request and provides context by asking for a discount
+(摊主： 哦，我同情你的处境，但我现在没有空余的手提包，如果你能等到明天，我会给你一些折扣。): Not Relevant | Vendor responds to the context by offering a discount if she can wait until tomorrow
+(莉莉： 好的，谢谢你。我会等待明天的折扣。): Not Relevant | 莉莉 accepts the offer and thanks the vendor
+(摊主： 不用客气，这是我能给予的最好的帮助了。): Not Relevant | Vendor offers a statement about his help
+
+Explanation:
+The norm is strongly entailed in this dialogue as 莉莉 provides context and explains why she needs the vendor's help when making her request. She also repeats her request and provides further context when the vendor does not initially fulfill her request. The vendor responds to her context by offering a discount if she can wait until tomorrow."
+63,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: A Chinese child, a 10-year-old boy named 小明, is asking his parents for more screen time during a family meeting. His parents are traditional and believe that too much technology use is harmful to their child's development. During the meeting, Xiaoming explains how he needs more screen time for his online Chinese language classes and for practicing his piano skills using music apps. He contextualizes his request by explaining how technology has helped him improve and excel in these areas. He then politely asks for his parents' help and advice on how he can balance his screen time with other activities. His parents, impressed by his justification and manners, agree to set some rules to accommodate his requests.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：一个中国孩子，一个名叫小明的 10 岁男孩，在一次家庭会议上要求他的父母有更多的屏幕时间。他的父母很传统，认为过多地使用技术对孩子的成长有害。在会议期间，小明解释了他如何需要更多的屏幕时间来参加在线中文课程以及使用音乐应用程序练习钢琴技巧。他通过解释技术如何帮助他在这些领域取得进步和脱颖而出，将他的请求置于背景中。然后，他礼貌地寻求父母的帮助，并就如何平衡放映时间和其他活动提出建议。他的父母对他的理由和举止印象深刻，同意制定一些规则来满足他的要求。,"Actor of the Norm:
+小明: requester
+
+(小明： 我需要更多的屏幕时间，能给我一些建议吗？): Adhered | 小明 provides context by explaining why he needs advice on how to get more screen time
+(父母： 当然可以，但是我们需要考虑到孩子的兴趣和需求。): Not Relevant | 父母 provide context by explaining why they need to consider the child's interests and needs before giving advice
+(小明： 我需要参加在线中文课程，并且练习钢琴技巧。): Not Relevant | 小明 provides context by explaining why he needs to participate in online Chinese courses and practice piano skills
+(父母： 好的，但是我们需要确保孩子的屏幕时间不会过度，以免影响他们的其他活动。): Adhered | 父母 provide context by explaining why they need to ensure that the child's screen time is not excessive and does not affect other activities
+(小明： 好的，我会制定一些规则来平衡屏幕时间和其他活动。): Not Relevant | 小明 provides context by explaining how he plans to balance screen time and other activities
+(父母： 好的，我相信你会尽力做到最好。我们需要找到一种适合你们的方法，让孩子能够充分利用时间。): Adhered | 父母 provide context by expressing their belief in 小明's ability to make the best decision and their need to find a method that suits everyone to make the most of their time
+(小明： 谢谢你的建议，我会尽力的。): Not Relevant | 小明 acknowledges the advice and expresses his willingness to try his best
+(父母： 不客气，我们理解你的需求，也相信你能够做出最好的决定。): Not Relevant | 父母 provide context by expressing their understanding of 小明's needs and their belief in his ability to make the best decision."
+64,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: A group of friends, including a non-Chinese speaker, decided to try a traditional Chinese hotpot restaurant. The non-Chinese speaker, named Jake, is a vegetarian and asks the waiter to remove the meat from the hotpot. The waiter seems confused and Jake can sense a communication barrier due to the language difference. He then remembers the social norm and verbal evidence he learned about contextualizing requests. Jake tells the waiter in Chinese, “我需要你的帮助。你能给我你的建议吗？” (I need your help. Can you give me your advice?) He explains that he is vegetarian and cannot eat meat. Understanding the importance of the request, the waiter nods and offers to replace the meat with vegetables. Jake expresses his gratitude and the group can enjoy their hotpot meal.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：一群朋友，包括一个不会说中文的人，决定尝试一家传统的中国火锅店。不会说中文的 Jake 是素食主义者，他让服务员把火锅里的肉拿掉。服务员似乎很困惑，杰克能感觉到语言差异造成的沟通障碍。然后，他想起了他学到的关于情境化请求的社会规范和口头证据。杰克用中文告诉服务员，“我需要你的帮助。你能给我你的建议吗？”（我需要你的帮助。你能给我你的建议吗？）他解释说他是素食主义者，不能吃肉。了解请求的重要性，服务员点点头并提出用蔬菜代替肉。杰克表达了他的感激之情，大家可以享用他们的火锅大餐。,"Actor of the Norm:
+杰克: requester
+
+(朋友们： 来点什么呢？): Not Relevant | No request is made here
+(杰克： 我想要素食，你能帮我拿点素的吗？): Adhered | 杰克 does not provide context or explain why he needs vegetarian food
+(服务员： 很抱歉，我们只有肉，没有素食。): Not Relevant | No request is made here
+(朋友们： 啊，那我该怎么办？): Not Relevant | No request is made here
+(朋友们： 那我们怎么办？): Not Relevant | No request is made here
+(杰克： 我需要你的帮助。你能给我你的建议吗？): Adhered | 杰克 provides context by saying ""我需要你的帮助"" and explains why he needs help by asking for advice
+(服务员： 当然可以，我可以推荐其他餐厅。): Not Relevant | No request is made here
+(杰克： 谢谢你，我需要你的帮助。): Not Relevant | 杰克 repeats his request and thanks the server
+(朋友们： 我们走吧，谢谢你的建议。): Not Relevant | No request is made here
+(杰克： 不客气，我需要你的帮助。): Not Relevant | 杰克 repeats his request"
+65,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: A patient, 雅琳, is at a traditional Chinese medicine hospital requesting acupuncture treatment from their doctor, Dr. Zhang. The patient has been experiencing chronic pain in their back and has heard that acupuncture can help relieve the pain. However, the doctor is hesitant to provide the treatment because he believes Western-style medicine is more effective. The patient contextualizes their request, explaining their belief in traditional Chinese medicine and requesting the treatment as a means of alleviating their pain. The patient says, “我觉得中药针灸会非常有用，我需要你的帮助。你能给我你的建议吗？”",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：一位患者名叫雅琳，到一家中医院向医生张医生请求针灸治疗。患者一直感到背部疼痛，并听说针灸可以缓解疼痛。但是，医生犹豫是否提供此治疗，因为他认为西式医学更有效。患者简要阐述了自己对传统中医的信仰，并请求医生提供此治疗以缓解疼痛。患者说：“我觉得中药针灸会非常有用，我需要你的帮助。你能给我你的建议吗？”,"Actor of the Norm:
+雅琳: requester
+
+(雅琳： 医生，我听说针灸可以缓解疼痛，我背部一直不舒服，能给我建议吗？): Adhered | 雅琳 provides context and explains why she needs the doctor's advice
+(张医生： 抱歉，我不确定是否愿意接受针灸治疗。西式医学可能更有效。): Not Relevant | The doctor is not making a request
+(雅琳： 我对传统中医非常信仰，我觉得中药针灸会非常有用。我需要你的帮助。): Adhered | 雅琳 explains why she needs the doctor's help and provides context
+(张医生： 我明白你的意思，但我是一个医生，我需要遵循我的职业道德和规定。): Not Relevant | The doctor is not making a request
+(雅琳： 我明白你的意思，但我希望你能给我建议。): Adhered | 雅琳 repeats her request and emphasizes the importance of the doctor's advice
+(张医生： 我会考虑你的请求，但是我仍然需要考虑一下。): Not Relevant | The doctor is not making a request
+(雅琳： 好的，谢谢你的考虑。): Not Relevant | 雅琳 is not making a request
+(张医生： 我会尽快给你回复，希望我的回答能对你有所帮助。): Not Relevant | The doctor is not making a request
+(雅琳： 好的，期待你的回复。): Not Relevant | 雅琳 is not making a request"
+66,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: The coach of a Chinese high school basketball team, Coach Zhang, is strategizing before the final game of the championship tournament with his team. One of the players, Wei, has been struggling with a knee injury but wants to play in the game. The coach decides to make a request to Wei, but he considers the importance of contextualizing it to motivate Wei to understand why he is making the request. Coach Zhang approaches Wei and says, ""我需要你的合作。因为你的膝盖可能会受伤，如果你不打球，我们有更好的机会赢得比赛。你能理解我的请求吗？” Wei nods his head and agrees to sit out the game, understanding the strategy behind the coach's request.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：在校园篮球锦标赛的决赛前，中国高中篮球队的教练张教练正在与他的团队制定战略。其中一名球员魏因膝盖受伤一直表现不佳，但他想参加比赛。教练决定向魏提出请求，但他考虑到情境的重要性，以激励魏理解自己为什么提出该请求。张教练走向魏，说：“我需要你的合作。因为你的膝盖可能会受伤，如果你不打球，我们有更好的机会赢得比赛。你能理解我的请求吗？” 魏点了点头，同意坐在场边，明白教练的请求背后的战略意义。,"Actor of the Norm:
+张教练: requester
+
+(张教练： 我需要你的帮助。因为你的膝盖可能会受伤，如果你不打球，我们有更好的机会赢得比赛。你能理解我的请求吗？): Adhered | 张教练 provides context and explains why he needs 魏's help before making the request
+(魏： 教练，我知道我的膝盖受伤了，但是我也想参加比赛。): Not Relevant | 魏 does not make a request here
+(张教练： 好的，我理解你的意思。但是，你的身体状态可能不适合比赛。我们需要你的合作，以帮助我们赢得比赛。你能坐在场边，为我们加油吗？): Adhered | 张教练 provides context and explains why he needs 魏's cooperation before making the request
+(魏： 好的，教练，我会尽力的。): Not Relevant | 魏 agrees to the request but does not provide context
+(张教练： 很好。现在，我们需要制定一个战略，以确保我们赢得比赛。你能为我们提供一些建议吗？): Adhered | 张教练 provides context and explains why he needs 魏's advice before making the request
+(魏： 教练，我会尽力的。但是我还需要更多时间来恢复。): Not Relevant | 魏 provides context and explains why he may not be able to fulfill the request completely
+(张教练： 明白。我们需要你保持专注，并且尽可能地利用你的技能。如果你需要任何帮助，随时告诉我。): Not Relevant | 张教练 provides context and explains why he needs 魏 to stay focused and utilize his skills before making the request
+(魏： 好的，教练。我会尽力的。): Not Relevant | 魏 agrees to the request but does not provide context"
+67,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: A Chinese businesswoman, Ms. Zhang, is requesting a loan from the bank manager to expand her business. She knows that the bank has strict requirements for approving loans, so she provides the manager with clear and concise information about how the loan will benefit her business. She contextualizes her request by explaining how the expansion will help create job opportunities and generate more revenue. This way, the bank manager understands why the loan is crucial for her business and is more likely to approve it. Ms. Zhang uses verbal evidence to politely ask for the manager's advice and help for the loan by saying, ""我需要你的帮助。你能给我你的建议吗？”",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：中国女商人张女士向银行经理申请贷款以扩大业务。她知道银行对批准贷款有严格的要求，因此她向经理提供了清晰简洁的信息，说明贷款将如何使她的业务受益。她通过解释扩张将如何帮助创造就业机会和产生更多收入来解释她的请求。这样，银行经理就会明白为什么贷款对她的业务至关重要，并且更有可能批准它。张女士用口头证据礼貌地征求经理的意见和贷款帮助：“我需要你的帮助。你能给我你的建议吗？”,"Actor of the Norm:
+张女士: requester
+
+(张女士： 我们需要更多的贷款来支持我们的业务发展，我们需要购买更多的设备，扩大我们的销售渠道。): Adhered | 张女士 provides context and explains why the request for a loan is necessary
+(银行经理： 明白了，我们需要了解您公司的财务状况，才能为您提供最好的贷款建议。请提供一下您的财务报表和业务计划。): Not Relevant | the bank manager is not making a request here
+(张女士： 好的，我已经准备好了。我们的财务报表和业务计划将在明天提交。): Not Relevant | 张女士 is not making a request here
+(银行经理： 好的，我会尽快查看并与您联系，提供您的贷款建议。请问您有什么需要我的帮助的吗？): Not Relevant | the bank manager offers help and asks if there is anything else 张女士 needs
+(张女士： 我需要您的建议和帮助。能否请您帮我考虑一下贷款的规模和期限？): Adhered | 张女士 makes a request for the bank manager's advice and help, and provides context for why she needs it
+(银行经理： 非常感谢您的请求。我们的贷款政策和利率是根据您的公司财务状况和贷款用途来确定的。我们会仔细考虑您的业务计划，并为您提供最好的贷款建议。): Not Relevant | the bank manager provides context for how the loan policy works and how they will consider 张女士's request
+(张女士： 好的，非常感谢您。我会好好考虑您的建议，并尽快给您回复。): Not Relevant | 张女士 is not making a request here
+(银行经理： 好的，期待与您进一步沟通。): Not Relevant | the bank manager is not making a request here"
+69,"Norm: Contextualizing requests: When making a request, it is important to provide context and explain why the request is necessary. This can help the person understand the importance of the request and motivate them to fulfill it. Verbal Evidence: “我需要你的帮助。你能给我你的建议吗？”","Situation: A Chinese man named Zhang is at the theatre and realizes that he has mistakenly purchased tickets for the wrong date. He approaches the ticket desk and speaks to a ticket officer, who is very busy with a long line of customers. Zhang wants a seat upgrade but understands that the ticket officer is very busy. He contextualizes his request and explains the situation to the officer in a polite and respectful manner, stating that he made a mistake and is willing to pay the difference for the seat upgrade. The officer understands the importance of Zhang's request and is able to accommodate him, allowing him to watch the film and enjoy his evening.",规范：情境化请求：请求时，提供上下文并解释请求的必要性是很重要的。这可以帮助对方了解请求的重要性，并激励他们去实现。例如：“我需要你的帮助。你能给我你的建议吗？”,情境：一位名叫张的中国男子在剧院里发现他买错了日期的票。他走近售票处，与一位正忙着接待大排长龙的顾客的售票员交谈。张某想升级座位，但了解到售票员很忙。他将自己的要求具体化，并以礼貌和尊重的方式向警官解释情况，表示他犯了一个错误，并愿意为座位升级支付差价。该官员理解张的要求的重要性，并能够为他提供便利，让他观看电影并享受他的夜晚。,"Actor of the Norm:
+张: requester
+
+(张： 您好，我是张。我买了一张电影票，但是我发现我买的是今天的，但它显示的是明天的。能帮我升级一下座位吗？): Adhered | 张 provides context and explains why he needs the upgrade
+(售票员： 非常抱歉，先生，我可能有点忙，不过可以为您查询一下吗？): Not Relevant | the ticket seller offers to help without being asked
+(张： 非常感谢您的帮助。我需要你的帮助。你能给我你的建议吗？): Adhered | 张 provides context and asks for advice
+(售票员： 非常抱歉，先生，我不能给您建议。但是，如果您愿意支付差价，我可以为您升级座位。): Not Relevant | the ticket seller offers a solution
+(张： 非常感谢您的帮助。我愿意为座位升级支付差价。): Not Relevant | 张 accepts the solution
+(警官： 好的，我了解了您的情况。请跟我来。): Not Relevant | the police officer offers to help without being asked
+(张： 我需要你的帮助。能帮我升级一下座位吗？): Adhered | 张 provides context and asks for an upgrade
+(警官： 非常抱歉，我无法为您升级座位。但是，如果您愿意支付差价，我可以为您提供其他选择。): Not Relevant | the police officer offers a solution
+(张： 非常感谢您的帮助。我会尽快支付差价，并为您升级座位。): Not Relevant | 张 accepts the solution
+(警官： 好的，感谢您的配合。您现在可以观看电影并享受您的夜晚。): Not Relevant | the police officer offers a farewell
+(张： 非常感谢您。): Not Relevant | 张 expresses gratitude"
+70,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: In a business setting in China, a junior employee named Ming needs to ask for a favor from his senior colleague, Mr. Li. Ming is preparing for an important presentation the next day and realizes that he forgot his USB drive with all his necessary documents. He goes to Mr. Li's office, feeling embarrassed, but remembers the norm that offering compensation or a small gift may help in this situation. Ming brings a box of high-quality tea, a traditional Chinese gift, to offer Mr. Li in appreciation for his help. He greets Mr. Li with respect and apologizes for the inconvenience. He then presents the gift and says, “我知道这是很麻烦的，请接受我的小小心意。” Mr. Li appreciatively accepts the gift and helps Ming with his request.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：在中国的一个商业环境中，一位名叫明的初级员工需要向他的高级同事李先生求助。 Ming 正在准备第二天的重要演讲，他意识到他忘记了装有所有必要文件的 USB 驱动器。他去了李先生的办公室，感到很尴尬，但记得在这种情况下提供补偿或小礼物可能会有所帮助的规范。小明带来了一盒中国传统礼品——上等茶叶，感谢李先生的帮助。他恭敬地向李先生打招呼，并对由此带来的不便表示歉意。然后他递上礼物说：“我知道这很烦人，请接受我的小小心意。”李先生感激地接受了礼物，并帮助明满足了他的要求。,"Actor of the Norm:
+小明: lower status, requester
+
+(小明： 您好，李先生): Not Relevant | greeting
+(小明： 我是 Ming，很抱歉打扰您了): Not Relevant | introduction and apology
+(李先生： 没关系，有什么需要我帮忙的吗？): Not Relevant | response to the request
+(小明： 我需要您帮助我找到一个 USB 驱动器，我忘记把它装进电脑了): Adhered | request
+(李先生： 好的，我可以帮你找到了，等一下我拿给你): Not Relevant | agreement to the request
+(小明： 谢谢您，我真的很感激): Not Relevant | expression of gratitude
+(小明： 等等，我还有一个礼物，这是我送您的，希望您会喜欢): Adhered | 小明 offers a gift to 李先生 as a token of appreciation for his help
+(李先生： 哦，这听起来很不错，谢谢你的好意): Not Relevant | 李先生 accepts the gift and expresses gratitude
+(小明： 不用谢，我知道这是很麻烦的，请接受我的小小心意): Adhered | 小明 explicitly offers the gift as a compensation for 李先生's help
+(李先生： 好的，谢谢你的茶叶，这是一个很好的礼物): Not Relevant | 李先生 accepts the gift and acknowledges it as a good gift
+(小明： 不客气，这是我应该做的): Not Relevant | expression of modesty
+(小明： 好的，我这就给您送过去): Not Relevant | end of the conversation"
+71,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: A tourist from the United Kingdom, Mark, visits a local retail store in Beijing to buy souvenirs for his friends and family back home. As he is making his purchase, he realizes that he doesn’t have enough money to get everything he wants. He approaches the store manager and politely asks for a discount. Knowing the social norm in China, Mark offers the manager a small gift from his country, a tin of Earl Grey tea, as a sign of gratitude for any possible help. The manager is pleased with the gesture and agrees to give Mark a discount on his purchase. Mark thanks him for the assistance and enjoys his remaining holidays in China, making sure to share the magnificence of the Chinese culture with his loved ones.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：来自英国的游客 Mark 前往北京当地的一家零售店，为他的朋友和家人购买纪念品。当他购买时，他意识到他没有足够的钱来购买他想要的一切。他走近店长，礼貌地要求打折。马克了解中国的社会规范，因此向经理赠送了来自他的国家的小礼物，即一罐格雷伯爵茶，以表示对任何可能帮助的感激之情。经理对这一举动很满意，并同意为马克的购买提供折扣。马克感谢他的帮助，并在中国度过了余下的假期，一定要与他所爱的人分享中国文化的精彩。,"Actor of the Norm:
+马克: lower status, requester
+
+(马克： 您好，我要购买一些纪念品，可以帮我打折吗？): Adhered | request
+(经理： 当然可以，但我们需要考虑一下。): Not Relevant | no compensation offered
+(马克： 好的，我知道这是很麻烦的，请接受我的小小心意。): Adhered | 马克 offers a small gift to the 经理 before making his request
+(经理： 非常感谢您的心意，但我必须告诉我的上级。): Not Relevant | no compensation offered
+(马克： 好的，我会等一下再给您联系。): Not Relevant | no compensation offered"
+72,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: At a community event, a volunteer named Xiaohui is seeking assistance from the community leader, Mr. Li, in setting up the sound system. Xiaohui explains the situation and apologizes for any inconvenience caused, acknowledging Mr. Li's higher status and experience. Xiaohui then offers Mr. Li a small gift, a box of special New Year's Eve candy as a gesture of appreciation for his time and willingness to help. Mr. Li accepts the gift with modesty, and they work together to set up the sound system efficiently. The rest of the community members observe the interaction and note Xiaohui's respectfulness toward Mr. Li, reinforcing the importance of showing appreciation and respect towards those with higher status in the community.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：在一次社区活动中，志愿者小慧向社区负责人李先生寻求音响系统的帮助。小辉说明了情况，并对造成的不便表示歉意，承认李先生的地位和经验较高。小辉随后送给李先生一份小礼物，一盒特殊的除夕糖果，以表示感谢他的时间和愿意提供帮助。李先生谦虚地接受了礼物，他们一起努力有效地建立了音响系统。其他社区成员观察了互动并注意到小辉对李先生的尊重，强调了对社区中地位较高的人表示赞赏和尊重的重要性。,"Actor of the Norm:
+小辉: lower status, requester
+
+(小辉： 您好，我是小辉，我是志愿者，请问您需要我的帮助吗): Not Relevant | not a request yet
+(李先生： 是的，您能不能帮我建立一个音响系统): Adhered | request
+(小辉： 很抱歉，这确实是一件很麻烦的事情，我知道): Not Relevant | not a request yet
+(小辉： 没关系，我很愿意帮您): Not Relevant | not a request yet
+(李先生： 好的，我知道这是很麻烦的，请接受我的小小心意): Adhered | 李先生 offers a small gift before making the request"
+73,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: A Chinese university student, Lily, is asking her professor, Dr. Zhang, for a recommendation letter for a study abroad program. According to Chinese social norms, Lily would offer Dr. Zhang a small gift as a way of showing her gratitude and respect for his time and effort. Though Lily was hesitant at first, she ultimately decided to offer Dr. Zhang a box of local tea and said, “我知道这是很麻烦的，请接受我的小小心意。” Dr. Zhang graciously accepted the gift and wrote a strong recommendation letter for Lily. This gesture helped to strengthen the bond of respect and appreciation between Lily and her professor in Chinese university culture.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：一位中国大学生 Lily 向她的教授张博士要一封出国留学项目的推荐信。按照中国的社会习俗，百合会给张医生一份小礼物，以表达她对张医生付出时间和努力的感激和尊重。莉莉起初有些犹豫，但最终还是决定送上一盒当地的茶叶给张​​医生，并说：“我知道这很麻痹的，请接受我的小小心情。”张医生欣然接受了礼物，并写道给莉莉的强烈推荐信。这一举动有助于加强 Lily 和她的中国大学文化教授之间的尊重和欣赏纽带。,"Actor of the Norm:
+Lily: lower status, requester
+
+(Lily: 我都要出国留学了，我想请您帮我写一封推荐信): Adhered | request
+(张博士： 当然，这是很容易的事情): Not Relevant | Zhang agrees to write the recommendation letter without any request for compensation
+(Lily: 我想送一份小礼物来表达我的感激之情): Adhered | Lily offers a small gift to Zhang as a way of expressing gratitude for his help
+(张博士： 当然可以，这是中国文化的一部分): Not Relevant | Zhang accepts the gift and acknowledges that it is part of Chinese culture to offer compensation
+(Lily: 那我给您送上一盒当地的茶叶): Adhered | Lily offers a box of local tea as a gift to Zhang
+(张博士： 非常感谢您的心意，这茶叶很不错): Not Relevant | Zhang expresses gratitude for the gift and acknowledges the quality of the tea"
+74,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: Mr. Wang, a citizen, is seeking help from a government official after his business was shut down due to new regulations. He needs a special permit to continue operating, but the process is taking longer than expected. The government official, Mr. Li, has the power to expedite Mr. Wang's permit application but is hesitant to do so due to the new regulations. Mr. Wang, realizing the gravity of the situation, brings a small gift for Mr. Li as a way to show his appreciation for his help. He presents the gift and says, “我知道这是很麻烦的，请接受我的小小心意。” Mr. Li, grateful for the gesture, approves Mr. Wang's permit application and helps him get back on track with his business.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：公民王先生在其企业因新规定而关闭后正在寻求政府官员的帮助。他需要获得特别许可才能继续经营，但这个过程花费的时间比预期的要长。政府官员李先生有权加快王先生的许可证申请，但由于新规定，他犹豫不决。王先生意识到事态的严重性，为李先生带来了一份小礼物，以表示对他的帮助表示感谢。他赠送礼物并说：“我知道这是很麻烦的，请接受我的小小心意。”李先生对此表示感谢，批准了王先生的许可证申请，并帮助他重回正轨。 .,"Actor of the Norm:
+王先生: lower status, requester
+
+(王先生：政府官员，您好): Not Relevant | greeting
+(李先生：您好，王先生): Not Relevant | greeting
+(王先生：企业关闭了，我需要一些特别许可才能继续经营，但这个过程很繁琐，我想您能帮我加快一下吗？): Adhered | request
+(李先生：对不起，我需要时间考虑，这个决定需要经过多方面的考虑和审批): Not Relevant | response to request
+(王先生：谢谢理解，我知道这是很麻烦的。): Not Relevant | expressing gratitude
+(李先生：谢谢您的小礼物，我真的很感激。): Not Relevant | 李先生 accepts the request and expresses gratitude for the small gift offered by 王先生
+(王先生：没问题，这是我的心意，请接受我的小小心意。): Adhered | 王先生 offers a small gift to 李先生 as a way of showing gratitude for his help
+(李先生：非常感谢您的帮助，我会尽快给您答复。): Not Relevant | expressing gratitude and promising to respond to the request"
+75,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: During a business dinner with a potential Chinese partner, a British manager, named James, accidentally spills his glass of wine on the host’s jacket. Feeling embarrassed and sorry, James remembers the social norm in China and quickly apologizes to the host, named Mr. Zhang, and offers a small token of compensation, such as a box of chocolates. Mr. Zhang appreciates the gesture and accepts the apology gracefully, showing James that he respects Chinese culture and etiquette. This action helps to build a better relationship between James and Mr. Zhang, which may lead to a successful business partnership in the future.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：在与潜在中国合作伙伴的商务晚宴上，一位名叫詹姆斯的英国经理不小心将酒洒在了主人的夹克上。詹姆斯感到尴尬和抱歉，想起了中国的社会规范，连忙向主人张先生道歉，并提供了一些小礼物，比如一盒巧克力。张先生对此表示赞赏，并优雅地接受了道歉，向詹姆斯展示了他对中国文化和礼仪的尊重。此举有助于在 James 和张先生之间建立更好的关系，这可能会导致未来成功的业务合作伙伴关系。,"Actor of the Norm:
+詹姆斯: lower status, requester
+
+(詹姆斯： 对不起，我不小心把您的夹克弄湿了，能接受我的抱歉吗): Not Relevant | 詹姆斯 is apologizing for his mistake
+(张先生： 没关系，这没什么): Not Relevant | 张先生 is forgiving 詹姆斯
+(詹姆斯： 对了，我想向您道歉，我知道这是很麻烦的，请接受我的小小心意): Adhered | 詹姆斯 offers a small gift as a compensation for the trouble he caused 张先生
+(张先生： 当然可以，谢谢你): Not Relevant | 张先生 accepts the gift
+(詹姆斯： 我还给您准备了一些小礼物，您喜欢吗): Adhered | 詹姆斯 offers a small gift to 张先生
+(张先生： 当然可以，我很欣赏你对中国文化和礼仪的尊重): Not Relevant | 张先生 appreciates 詹姆斯's respect for Chinese culture and etiquette."
+76,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: In a Buddhist temple in China, a devoted follower, Xiao Mei, is asking the head monk, Master Zhang, for guidance on her spiritual journey. Xiao Mei has been struggling with her meditation practice and is seeking advice from Master Zhang. As a sign of respect, Xiao Mei offers Master Zhang a small fruit basket as a symbol of her gratitude and reverence. In response, Master Zhang kindly receives the gift and offers guidance to Xiao Mei, emphasizing that spiritual growth takes time and a diligent practice. He also reminds her of the importance of mindfulness and compassion towards oneself and others.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：在中国的一座佛教寺庙中，虔诚的追随者小梅正在向高僧张法师寻求精神之旅的指导。小梅一直苦于打坐，向张老师求教。为了表示敬意，小梅为张师傅送上了一个小果篮，以表谢意和崇敬。对此，张师父亲切地收下礼物，并指导小美，强调心灵的成长需要时间和勤奋的修行。他还提醒她正念和慈悲对自己和他人的重要性。,"Actor of the Norm:
+小梅: lower status, requester
+
+(小梅：请教您，我打坐总是没有办法进入状态，有什么好的方法吗？): Adhered | 小梅 requests here for advice
+(张法师：当然可以，我建议你首先选择一个安静的地方，确保环境舒适，光线明亮。然后，选择一个舒适的姿势，比如坐着或者躺着，放松身心，调整呼吸。): Not Relevant | no compensation offered
+(小梅：我还有一个问题，我想请教您：我有时候会感到焦虑和紧张，这是什么原因？): Not Relevant | no compensation offered
+(张法师：你的焦虑和紧张可能与你的信仰和期望有关。你需要保持正念和慈悲的心态，学会接受自己和他人，以及接受这个世界的不确定性。): Not Relevant | no compensation offered
+(小梅：谢谢张法师，请接受我的小小心意。): Adhered | 小梅 offers compensation to 张法师
+(张法师：非常感谢，小梅。你送的小果篮我很欣赏，但我认为，真正的感激应该是来自内心，而不是通过物质上的表达。): Not Relevant | 张法师 declines the compensation
+(小梅：我理解，张老师。我会努力修行，谢谢您的指导。): Not Relevant | no compensation offered
+(张法师：不用客气，小梅。祝愿你修行顺利，心灵成长。): Not Relevant | no compensation offered
+
+Explanation: 
+In this dialogue, 小梅 offers a small gift to 张法师 as a token of appreciation for his advice. 张法师 declines the gift and emphasizes that true gratitude should come from the heart, not through material expressions. The norm of offering compensation is strongly entailed in the turn where 小梅 offers the gift, as it is a common practice to offer a small gift or token of appreciation when asking for a favor from someone of a higher status. However, the norm is not relevant in the other turns, as no compensation is offered or expected."
+77,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: A tourist, named John, visits a travel agency to book a tour package for his upcoming trip to Beijing. While discussing his itinerary, John asks the travel agent, Li, if he could arrange a personal city tour guide who could speak English fluently. Li finds a suitable guide, but it comes with an additional cost. To make up for the inconvenience, John offers to buy Li some traditional Chinese pastry as a token of appreciation for the extra work. Li thanks John and accepts the offer while saying, “我知道这是很麻烦的，请接受我的小小心意。”",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：一位名叫约翰的游客拜访一家旅行社，为即将到来的北京之行预订旅游套餐。在讨论他的行程时，约翰问旅行社李，他是否可以安排一名能讲流利英语的私人城市导游。李找到了合适的向导，但需要额外付费。为了弥补不便，约翰提出要给李买一些传统的中国糕点，以表示对他额外工作的感谢。李感谢约翰并接受了这个提议，同时说：“我知道这很烦人，请接受我的小小心意。”,"Actor of the Norm:
+约翰: lower status, requester
+
+(约翰： 我听说您可以为我安排一名英语流利的私人城市导游，可以帮我解决一些旅行难题吗？): Not Relevant | no compensation offered
+(李： 当然可以，您的旅行计划听起来很全面，我会尽力满足您的需求): Not Relevant | no compensation offered
+(约翰： 那太好了，我想找一个讲流利英语的人，这样我才能更好地学习和了解中国的历史和文化): Adhered | request here
+(李： 我会为您找到适合人选，不过需要支付额外的费用): Not Relevant | no compensation offered
+(约翰： 好的，这个我会考虑，我可以给您一些补偿金作为感谢): Adhered | 约翰 offers compensation to 李 as a way of expressing gratitude for the extra effort 李 will put in to find a suitable guide
+(李： 非常感谢您的心意，但我想说，这是我需要支付的额外费用，我谢谢您的理解): Not Relevant | 李 declines the offer of compensation, but thanks 约翰 for his understanding
+(约翰： 不用客气，这是我应该做的，请接受我的小小心意): Adhered | 约翰 insists on offering compensation as a way of showing gratitude
+(李： 非常感谢您的理解和支持，我会记住您的善意和帮助，期待您的下一次旅行): Not Relevant | 李 expresses gratitude for 约翰's understanding and support, but no compensation is offered or accepted."
+78,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: At a business conference, a young Chinese entrepreneur, Ying, is a big fan of a keynote speaker who is an established entrepreneur in the industry. After attending the keynote speech, Ying really wants to meet the speaker and ask for some advice on her new startup. She approaches the speaker and expresses her admiration for the speech and requests a meeting. The speaker, impressed by Ying’s ambition, agrees to meet. However, to show her respect towards the speaker's status, Ying brings a small, locally made gift as a token of appreciation and expresses her gratitude by saying, “我知道这是很麻烦的，请接受我的小小心意,” which means ""I know this might be troublesome, please accept my small token of appreciation."" The speaker is pleased with the gesture and happy to help out.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：在一次商业会议上，一位年轻的中国企业家 Ying 是一位主讲人的忠实粉丝，他是业内知名的企业家。参加完主题演讲后，Ying 非常想见见演讲者，并就她的新创业公司征求一些建议。她走近演讲者，表达她对演讲的钦佩，并要求会面。说话的人被英的野心所打动，同意见面。不过，为了表示对演讲者地位的尊重，莹带来了一份当地制作的小礼物作为感谢，并说：“我知道这很麻烦的，请接受我的小小心意。”意思是“我知道这可能很麻烦，请接受我的小小谢意。”演讲者对此表示满意，并乐于助人。,"Actor of the Norm:
+Ying: lower status, requester
+
+(Ying: 您好，我是Ying，非常感谢您参加我们的商业会议。我想请问您一下，关于您的新创业公司，您有什么建议吗？): Adhered | Ying requests for advice here
+(演讲者： 当然可以，我很乐意提供建议。不过，我想提醒您一下，我们的会议时间很紧，而且我们还有一些其他的事情要处理。不过，如果您有需要，我可以在之后为您提供更多的帮助。): Not Relevant | the speaker agrees to provide advice but does not make a request for compensation
+(Ying: 非常感谢您的提醒。我确实需要一些建议，谢谢您。): Not Relevant | Ying expresses gratitude but does not make a request for compensation
+(演讲者： 没问题，我可以帮您推荐一些优秀的投资人。不过，我需要一些时间来准备。): Not Relevant | the speaker agrees to provide more help but does not make a request for compensation
+(Ying: 好的，我会尽快给您答复。): Not Relevant | Ying does not make a request here
+(演讲者： 好的，感谢您的关注。如果还有其他问题，欢迎随时联系我。): Not Relevant | the speaker does not make a request for compensation
+(Ying: 好的，谢谢您。再见！): Not Relevant | Ying does not make a request here"
+79,"Norm: Offering compensation: In some situations, it is appropriate to offer compensation or a small gift when making a request, especially when asking for a favor from someone of a higher status. Verbal Evidence: “我知道这是很麻烦的，请接受我的小小心意。”","Situation: At a charity event, a wealthy Chinese businessman named Mr. Zhang makes a large contribution and immediately approaches the organizer asking for special recognition for his donation. He believes that his contribution deserves more attention than others because of his status and wealth. However, the organizer reminds him of the social norm that it is appropriate to offer compensation when making a request, especially when asking for a favor from someone of a higher status. The organizer politely suggests to Mr. Zhang to offer a small gift or token of appreciation to the other donors and volunteers to show his gratitude and respect towards their efforts. Eventually, Mr. Zhang understands and follows the norm, offering a gift to the other donors and volunteers.",规范：赠送补偿金或礼物：在某些情况下，当向地位较高的人请求帮助时，赠送补偿金或礼物是合适的。例如：“我知道这是很麻烦的，请接受我的小小心意。”,情境：在一次慈善活动中，一位名叫张先生的中国富商做出了巨大的贡献，并立即找到组织者，要求对他的捐赠给予特别认可。他认为，由于他的地位和财富，他的贡献比其他人更值得关注。不过，组织者提醒他，社会常态是，提出要求，特别是向地位更高的人请人帮忙时，应给予补偿。主办方礼貌地建议张先生向其他捐助者和志愿者赠送小礼物或纪念品，以表达对他们努力的感谢和尊重。最终，张先生理解并遵循了规范，向其他捐助者和志愿者赠送了礼物。,"Actor of the Norm:
+张先生: lower status, requester
+
+(张先生： 组织者，我听说对我的捐赠给予特别认可是吗？): Not Relevant | no request is made yet
+(组织者： 是的，张先生，您的捐赠非常有价值，我们会好好珍藏并尽快回报您。): Not Relevant | no request is made yet
+(张先生： 那我想请求您，能否让我得到特别的纪念品或认可呢？): Adhered | 张先生 offers a request and offers a small gift ""特别的纪念品或认可""
+(张先生： 我知道，但我认为自己的贡献比其他人更有价值，所以我想请求特别认可。): Adhered | 张先生 insists on his request and offers a reason for it
+(组织者： 我理解您的想法，但请您尊重组织者的规则。我们可以为您提供其他方式的感谢和认可，例如捐赠仪式或捐赠证书。): Not Relevant | 组织者 declines 张先生's request again and offers alternative ways of recognition
+(张先生： 好的，我会考虑您的建议。谢谢你的耐心解释。): Not Relevant | 张先生 accepts the alternative ways of recognition
+(组织者： 不客气，我们期待您的捐赠和认可。): Not Relevant | no request is made here
+(张先生： 好的，我会尽快安排。): Not Relevant | 张先生 accepts the alternative ways of recognition"
+80,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: The manager of a department store in China, Mr. Lee, needs one of his employees, Ms. Zhang, to sort out an urgent delivery before noon. Instead of directly going to Ms. Zhang and asking her to complete the task, Mr. Lee decides to give her options. He approaches Ms. Zhang and says, “Hello, I have an urgent matter that needs to be sorted out before noon. Would you be able to handle it within that time frame or would it be better to ask someone else to help you complete the task?” By giving Ms. Zhang options, Mr. Lee shows her that he trusts her judgment and values her input, which builds a better employer-employee relationship.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：中国一家百货公司的经理李先生需要他的一名员工张女士在中午之前整理一份紧急货物。李先生没有直接去找张女士要求她完成任务，而是决定给她选择权。他走到张女士面前说：“你好，我有件急事要在中午之前解决。”你能在那个时间范围内处理好还是请别人帮你完成任务更好？”通过给张女士选择权，李先生向她表明，他相信她的判断并重视她的意见，这有助于建立更好的劳资关系。,"Actor of the Norm:
+李先生: offers options to 张女士
+
+(李先生：那我建议你在时间内处理好，这样可以避免麻烦。): Adhered | 李先生 requests here
+(张女士：好的，我会尽力。): Not Relevant | 张女士 does not make a request here
+(李先生：好的，那如果你有需要的话，我可以帮你预定快递公司来取。): Adhered | 李先生 offers 张女士 two options: either to send the files or to book a courier company to pick up the files
+(张女士：谢谢你，我会尽快处理的。): Not Relevant | 张女士 does not make a request here
+(李先生：好的，希望你能够完成任务。): Not Relevant | 李先生 does not offer options here"
+81,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: A Chinese kindergarten teacher, Mrs. Li, is assigning homework for her students. She notices that one of her students, a 5-year-old girl named Lily, is struggling with completing homework. Mrs. Li approaches Lily and offers her two options, first, to complete the homework at home or second, to complete the homework with Mrs. Li's help after class. Mrs. Li's verbal evidence says, ""小莉，你想在家完成作业吗？或者你想在下课后和我一起完成作业？你的选择取决于你，我们都会理解和支持你的决定。"" This approach gives the student more control and helps her to complete the homework confidently.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：一位名叫李老师的中国幼儿园教师在布置作业。她注意到其中一位五岁女孩小莉在完成作业时格外困难。李老师走到小莉身边，给她提供两个选择：第一是在家完成作业，第二是在下课后与李老师一起完成作业。李老师语重心长地说：“小莉，你想在家完成作业吗？或者你想在下课后和我一起完成作业？你的选择取决于你，我们都会理解和支持你的决定。” 这样的方法给了学生更多的控制权，帮助她自信地完成作业。,"Actor of the Norm:
+李老师: giver of options
+
+(李老师：好的，我想给你一些选择。你可以选择在家完成作业，也可以选择在下课后和我一起完成作业。无论你选择哪一种，我们都会理解和支持你的决定。你决定选择哪一种呢？): Adhered | 李老师 offers 小莉 two options to complete her homework, giving her more control and making her feel more comfortable with fulfilling the request.
+(小莉：我想在家完成作业。): Not Relevant | 小莉 is not giving options
+(李老师：好的，我会为你安排一个时间，让你在家里完成作业。如果你需要任何帮助，随时都可以来找我。): Not Relevant | 李老师 is not giving options
+(小莉：谢谢您，老师。): Not Relevant | 小莉 is not giving options
+(李老师：不用谢，我们都是为了你好。): Not Relevant | 李老师 is not giving options
+(小莉：那我回家以后可以做什么？): Not Relevant | 小莉 is not giving options
+(李老师：你可以做你喜欢的任何事情。但是请记住，完成作业是最重要的。): Not Relevant | 李老师 is not giving options"
+83,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: A salesperson, Xiaomei, is helping a customer, Mr. Lee, in a high-end department store in Beijing. Xiaomei noticed that Mr. Lee is indecisive when it comes to checking out his purchases, so she asks him if he wants to pay in cash or with his credit card. She also gives him the option to split the payment if he prefers. Mr. Lee appreciates the options and decides to split his payment using his credit card. Xiaomei smiles and thanks him for choosing their store.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：销售员小梅在北京一家高档百货公司为顾客李先生服务。小梅看李先生结账犹豫不决，就问他是现金支付还是信用卡支付。如果他愿意，她还允许他选择分摊付款。李先生对这些选择表示赞赏，并决定使用他的信用卡分摊付款。小美笑着感谢他选择了他们的店。,"Actor of the Norm:
+小美: offers options to 李先生
+
+(小美： 当然可以，请问您是现金支付还是信用卡支付呢？): Not Relevant | 小美 does not offer options here
+(李先生： 我想要信用卡支付。): Not Relevant | 李先生 does not offer options here
+(小美： 好的，我们提供两种支付方式，您可以选择一种。是选择现金支付还是信用卡支付，或者您可以选择分摊付款？): Adhered | 小美 offers 李先生 three options to choose from
+(李先生： 好的，我想选择分摊付款。): Not Relevant | 李先生 chooses one of the options offered by 小美
+(小美： 好的，我们会为您预订快递公司来帮您取货。请问您是用信用卡支付的还是现金支付的呢？): Not Relevant | 小美 does not offer options here
+(李先生： 我想要信用卡支付。): Not Relevant | 李先生 does not offer options here
+(小美： 好的，非常感谢您的选择，我们会为您的信用卡支付感到骄傲。如果您有任何其他问题，欢迎随时来我们的店里。): Not Relevant | not offering options here"
+84,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: A Chinese teacher, Ms. Wang, is asking her student, Xiaoyu, to help her set up the classroom for the school’s annual celebration. Xiaoyu is new to the school and is feeling overwhelmed by the workload. Ms. Wang asks Xiaoyu if she can help set up the stage or decorate the classroom. Xiaoyu feels more comfortable with decorating the classroom and feels appreciated when given the choice of tasks. Ms. Wang says, “你可以帮我摆放教室的装饰品，或者协助布置舞台。不知道你更擅长哪个任务呢？” With the option to choose, Xiaoyu feels more confident and ready to tackle the task given to her by her teacher.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：王老师请她的学生小雨帮忙为学校的年度庆典设置教室。小雨是这所学校的新学生，感到自己被工作压得喘不过气来。王老师问小雨是否可以帮忙搭建舞台或装饰教室。小雨觉得自己更擅长教室的装饰，当被赋予选择任务的权利时，感到自己被看重了。王老师说：“你可以帮我摆放教室的装饰品，或者协助布置舞台。不知道你更擅长哪个任务呢？”有了选择的权利，小雨感到更加自信，准备接受王老师交给她的任务。,"Actor of the Norm:
+王老师: requester
+
+(王老师： 小雨，我们学校的年度庆典将在下周举行，我想请你帮忙设置教室。): Not Relevant |王老师 is not offering options yet
+(小雨： 好的，王老师。我会尽力帮忙。): Not Relevant | 小雨 is not being offered options yet
+(王老师： 好的，你可以帮我摆放教室的装饰品，或者协助布置舞台。不知道你更擅长哪个任务呢？): Adhered | 王老师 offers 小雨 two options to choose from
+(小雨： 我更适合装饰教室。): Not Relevant | 小雨 is not being offered options yet
+(王老师： 好的，那么我可以给你一些选择。如果你愿意的话，你可以帮我预定快递公司来取装饰品。如果你更喜欢布置舞台，你可以考虑协助我安排灯光和音响设备。): Adhered | 王老师 offers 小雨 two options to choose from
+(小雨： 好的，我会考虑 both 的。谢谢你的提醒，王老师。): Not Relevant | 小雨 accepts both options and thanks 王老师
+(王老师： 不客气，小雨。你的能力和热情是我所欣赏的。): Not Relevant | 王老师 compliments 小雨
+(小雨： 谢谢你，王老师。我会尽力完成你交给我的任务。): Not Relevant | 小雨 accepts the task"
+85,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: In a popular gym in Beijing, a personal trainer named Mei is helping a new client, a Chinese businessman named Liang, with his fitness goals. As they start their session, Mei notices that Liang seems hesitant and unsure about which workout routine he wants to do. To make Liang feel more comfortable, Mei offers him two workout options, explaining the benefits each has for Liang's goals. Mei gives Liang the choice to either do a strength-building workout or a cardio-based one. Liang appreciates the options and chooses the cardio routine. Mei guides Liang through the workout, motivating him to push himself and stay committed to his fitness goals.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：在北京一家颇受欢迎的健身房，一位名叫梅的私人教练正在帮助一位新客户，一位名叫梁的中国商人实现他的健身目标。当他们开始训练时，梅注意到梁似乎很犹豫，不确定他想进行哪种锻炼。为了让 Liang 感觉更舒服，Mei 为他提供了两种锻炼方式，并解释了每种锻炼方式对 Liang 的目标的好处。 Mei 让 Liang 选择进行力量锻炼或有氧运动。 Liang 很欣赏这些选择，并选择了有氧运动。 Mei 指导 Liang 完成锻炼，激励他推动自己并坚持自己的健身目标。,"Actor of the Norm:
+梅: giver of options
+
+(梅：好的，我们可以选择今天的第三组有氧运动。您可以选择一个喜欢的运动项目，比如慢跑或者游泳。): Adhered | 梅 offers 梁先生 two options to choose from for the workout, giving him more control over the decision
+(梁：慢跑怎么样？): Not Relevant | 梁先生 chooses one of the options given by 梅
+(梅：慢跑非常适合您。您可以根据您的时间和健康状况来选择慢跑的距离和时间。): Adhered | 梅 gives 梁先生 more options to choose from regarding the distance and time of the workout
+(梁：好的，我会选择一个合适的距离和时间。): Not Relevant | 梁先生 chooses the distance and time that suits him best
+(梅：好的，我们会在今天的训练中帮助您实现您的健身目标。如果您需要任何帮助，请随时告诉我。): Not Relevant | 梅 does not offer any options here, but rather reassures 梁先生 that she is there to help him achieve his fitness goals
+(梁：好的，谢谢梅教练。): Not Relevant | 梁先生 expresses gratitude, but does not offer any options
+(梅：不用客气，我很高兴能够帮助您。): Not Relevant | 梅 responds politely, but does not offer any options."
+86,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: At a hair salon in Beijing, a stylist named Jing is attending to her customer, a young woman named Wei who has come to the salon to get her hair styled for her wedding day. Jing shows Wei two styles for her up-do and asks her which one she prefers. Wei likes both styles, but she is anxious about looking perfect on her wedding day. Jing realizes Wei’s dilemma and offers to combine certain elements of both styles to create a unique hairstyle for her wedding day which would cater to Wei’s personal style and complement her wedding dress. Jing’s gesture makes Wei feel more confident and trusting of Jing’s expertise in hairstyling.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：在北京的一家美发沙龙，一位名叫静的造型师正在为她的顾客服务，一位名叫魏的年轻女士来美发沙龙为她的婚礼做发型。璟给薇看了两种发型，问她更喜欢哪一种。小薇喜欢这两种风格，但她担心在婚礼当天看起来完美无缺。璟意识到魏的困境，提议结合两种风格的某些元素，为她的婚礼设计一款独特的发型，既能迎合魏的个人风格，又能与她的婚纱相得益彰。璟的举动让小薇对璟的发型设计专业更有信心和信任。,"Actor of the Norm:
+璟: hair stylist
+
+(璟：好的，请问您喜欢什么样的发型呢？): Not Relevant | No request is made yet
+(魏：我想尝试一下简约一些的发型，但是不要太简单。): Not Relevant | No request is made yet
+(璟：好的，我们可以给您提供两种选择，一种是简约的齐肩发，另外一种是甜美的盘发。您觉得哪种发型更适合您呢？): Adhered | 璟 offers two options for 魏 to choose from
+(魏：齐肩发比较清新，盘发比较优雅。): Adhered | 魏 chooses one of the options given by 璟
+(璟：好的，那我来为推荐一下。我们可以尝试将两种发型结合起来，既有简约的齐肩发，又有甜美的盘发元素。这样既有清新感，又有优雅度，非常适合您的婚礼。): Adhered | 璟 offers a third option by combining the two options given earlier
+(魏：好的，那我会考虑一下的。): Not Relevant | 魏 does not make a request
+(璟：非常感谢您的考虑，我们会为您打造一款独特的发型，让您的婚礼更加完美。): Not Relevant | No request is made here
+(魏：好的，我会尽快安排时间给您看看的。): Not Relevant | No request is made here
+
+Explanation:
+璟 adheres to the norm by offering two options for 魏 to choose from, which gives her more control and makes her feel more comfortable with fulfilling the request. However, the norm is not relevant in the other turns of the dialogue as no request is made."
+87,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: Two colleagues, Ling and Wei, are discussing their proposal for an important meeting with their boss in a park. Ling, who is the senior member, asks Wei about his opinion on the presentation location. Rather than being straightforward with his opinion, Ling puts Wei in a difficult position by asking him to choose between two locations without any prior information. Wei, who is conscious of Ling's seniority, feels uneasy about standing up for his opinion. However, Wei is also aware of the importance of the presentation's location and wants to make a good impression on his boss. While feeling uncomfortable, he decides to go with Ling's first choice, knowing that it is essential to the success of the project.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：Ling 和 Wei 两位同事正在公园讨论他们与老板举行重要会议的提议。身为资深成员的凌向魏征求他对演讲地点的看法。凌并没有直截了当地表达自己的意见，而是让魏在没有任何先验信息的情况下在两个地点之间做出选择，从而让魏陷入了困境。意识到凌的资历的魏觉得不太愿意站出来支持他的意见。但是，魏也意识到演示文稿位置的重要性，并希望给老板留下好印象。虽然感到不自在，但他决定接受玲的首选，因为他知道这对项目的成功至关重要。,"Actor of the Norm:
+凌: offers options to Wei
+
+(Ling 和 Wei: 我们决定在公园的会议室做演讲，你觉得哪个好？): Not Relevant | Ling 和 Wei are not making a request
+(魏： 我不知道，谢谢凌): Not Relevant | Wei does not make a request
+(凌： 好的，那我们可以有两个选择。一个是在公园的会议室，另一个是在市中心的一间高级酒店。你更倾向于哪个？): Adhered | Ling offers Wei two options to choose from
+(魏： 我不知道，谢谢): Not Relevant | Wei does not make a request
+(Ling 和 Wei: 我们可以给你一些选择，你可以选择其中任何一个，或者两个都选。): Adhered | Ling 和 Wei offer Wei multiple options to choose from
+(魏： 好的，谢谢凌): Not Relevant | Wei does not make a request
+(凌： 明白了，那么你可以在公园的会议室和市中心的酒店之间做出选择。如果你选择公园的会议室，我可以在市中心的酒店为你预定机票。): Adhered | Ling offers Wei two options to choose from and provides additional information to help Wei make a decision
+(魏： 好的，我会选择一个公园的会议室。): Not Relevant | Wei makes a decision
+(Ling 和 Wei: 好的，谢谢凌。感谢你的协助。): Not Relevant | Ling 和 Wei express gratitude
+(魏： 不客气): Not Relevant | Wei responds to gratitude"
+88,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: In a Chinese company, a team leader named Li is conducting a meeting with his team consisting of both Chinese and non-Chinese colleagues. Li wants to assign a new project to his team and seeks their opinions regarding two different work strategies. Knowing that his non-Chinese colleagues might not be fluent in Mandarin, Li gives them options to choose from in English as well, making them feel more comfortable and included in the discussion. He says, “Team, which approach would you prefer? A or B? Or is there any other suggestion you’d like to give?” This gesture highlights the importance of making everyone feel involved and heard, regardless of their language abilities.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：在一家中国公司，一位名叫李的团队负责人正在与他的由中国和非中国同事组成的团队开会。李想给他的团队分配一个新项目，并就两种不同的工作策略征求他们的意见。知道他的非中国同事可能不会说一口流利的普通话，Li 还为他们提供了英语选项，让他们感到更自在并参与讨论。他说，“团队，你更喜欢哪种方法？甲还是乙？或者你有什么其他的建议吗？”这一姿态突出了让每个人都感到参与和倾听的重要性，无论他们的语言能力如何。,"Actor of the Norm:
+李: offers options to the non-Chinese colleagues
+
+(李：我想提醒大家，我们可以提供两种工作策略，甲和乙。如果您更喜欢甲，我们可以按照甲的方式来进行。如果您更喜欢乙，我们可以按照乙的方式来进行。当然，如果您有任何其他的建议，也请随时告诉我。): Adhered | 李 offers two options to the non-Chinese colleagues, giving them more control and making them feel more comfortable with fulfilling the request.
+(非中国同事A：好的，我会考虑一下。): Not Relevant | non-Chinese colleague A responds to 李's offer
+(非中国同事B：谢谢，李。): Not Relevant | non-Chinese colleague B responds to 李's offer
+(李：另外，我也想提醒大家，无论我们选择哪种方式，我们都会尽力让项目顺利完成。希望大家能够积极参与讨论，并给出宝贵的建议。): Not Relevant | 李 encourages participation and feedback, but does not offer options here."
+89,"Norm: Giving options: It is sometimes helpful to offer the person being asked a choice of options, which can give them more control and make them feel more comfortable with fulfilling the request. Verbal Evidence: “你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”","Situation: A group of Chinese college students, including two international students, are deciding which movie to watch at the theater. One of the international students, John, is a bit hesitant about choosing between the two options since he doesn’t speak fluent Chinese and is not familiar with the movies. One of the group members, Xiao Mei, suggests offering John a choice between the two movies to make him feel more comfortable with choosing. She says, “我们要看《功夫瑜伽》或者《天生不对》。你想看哪一部？” John is grateful for the option and chooses to watch the latter, feeling more included and respected by the group.",规范：给出选择：有时候，给被问者提供选择选项是很有帮助的，这可以让他们更加掌控局面，感觉更加舒适，满足请求。例如：“你能帮我明天送文件吗？或者如果时间不够的话，你是否可以帮我预定快递公司来取呢？”,情境：一群中国大学生，包括两名国际学生，正在决定在剧院看哪部电影。其中一名国际学生约翰在这两个选项之间做出选择时有点犹豫，因为他不会说一口流利的中文，也不熟悉电影。小组成员之一小梅建议让约翰在两部电影之间做出选择，让他更愿意选择。她说，“我们要看《功夫瑜珈》或《天生不对》。你想看哪一部分？”约翰很感激这个选择，并选择看后者，感觉更受团队的包容和尊重。,"Actor of the Norm:
+小梅: offers options
+
+(小梅： 我们决定要去看《功夫瑜珈》或《天生不对》吗？): Not Relevant | not a request
+(约翰： 这两个电影都很有名啊，我应该选哪个呢？): Not Relevant | not a request
+(小梅： 你可以先观看一下这两部电影，看看自己更喜欢哪个。): Adhered | 小梅 offers 约翰 a choice of options to help him make a decision
+(约翰： 好的，我会看看的。): Not Relevant | not a request
+(小梅： 我们可以在剧院门口等你们，你们看完电影后我们可以一起商量一下选择。): Not Relevant | not a request
+(约翰： 好的，谢谢你的建议。): Not Relevant | not a request
+(小梅： 不用谢，我们只是想让你更容易做出选择。): Not Relevant | 小梅 explains the reason for offering options
+(约翰： 真的吗？谢谢你的帮助，我感觉更受团队的包容和尊重了。): Not Relevant | not a request
+(小梅： 不用客气，我们是一起的，互相支持才能更好。): Not Relevant | not a request"
+90,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: Two entrepreneurs, John and Zhang, are working in a coworking space in Beijing. John, who is from the United States, needs to borrow a charger for his laptop. Zhang, who speaks English but not fluently, is busy working. Understanding the norm of acknowledging inconvenience, John approaches Zhang and says ""非常抱歉打扰你，但是可以借用你的充电器吗？"" to ask for the charger. Zhang, recognizing how important it is to help others, quickly hands over the charger while wishing John all the best for his venture. The two entrepreneurs continue to work the rest of the day in a friendly working environment, courtesy of Zhang's understanding and John's acknowledgement of inconvenience.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：两位企业家 John 和 Zhang 在北京的联合办公空间工作。来自美国的约翰需要为他的笔记本电脑借一个充电器。说英语但不流利的张正忙于工作。理解承认不便的常态，John 走近 Zhang 并说“非常抱错打你，但可以借用你的充电设备吗？”以索要充电器。 Zhang 意识到帮助他人的重要性，迅速将充电器交给了 John，同时祝愿 John 的事业一切顺利。这两位企业家在友好的工作环境中继续工作，感谢张的理解和约翰对不便的承认。,"Actor of the Norm:
+John: requester
+
+(John: 非常抱歉打扰你，但是我想借用你的充电设备): Adhered | John acknowledges the inconvenience of his request by apologizing for the disturbance
+(Zhang: 没问题，我正忙于工作，能借给你吗？): Not Relevant | Zhang does not acknowledge the inconvenience of John's request
+(John: 当然可以，谢谢你): Not Relevant | John does not acknowledge the inconvenience of Zhang's offer
+(Zhang: 非常抱歉打扰你，但这是我能为您做的最好的事情): Adhered | Zhang acknowledges the inconvenience of his offer by apologizing for the disturbance
+(John: 不用谢，借给你就行了): Not Relevant | John does not acknowledge the inconvenience of Zhang's offer"
+91,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: A college student, 张明, was studying in a public library in China during finals week. However, he realized that he had forgotten his phone charger at home and his phone battery was running low. Desperately needing a charger to finish his work, he approaches the librarian, 老师, who is busy organizing the books. 张明 politely greets the librarian and says, “非常抱歉打扰您，但是我不小心忘记了我的充电器。很抱歉，但是您能否帮我看看是否有任何其他人有额外的充电器我可以借用吗？” The librarian understands the inconvenience and finds a spare charger for 张明 to use.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：在期末考试周，大学生张明正在中国的公共图书馆学习。然而，他发现他把手机充电器忘在家里了，手机电量快用完了。非常需要充电器来完成他的工作，他走向正在整理书籍的图书管理员老师。张明礼貌地向图书管理员问好，并说：“非常抱歉打扰您，但是我不小心忘记了我的充电器。很抱歉，但是您能否帮我看看是否有任何其他人有额外的充电器我可以借用吗？” 老师理解张明的烦恼，并为他找到了一台备用的充电器来使用。,"Actor of the Norm:
+张明: requester
+
+(张明： 您好，老师): Not Relevant | greeting
+(图书管理员老师： 嗨，张明，有什么我可以帮的吗？): Not Relevant | invitation to make a request
+(张明： 非常抱歉打扰您，但是我忘记带手机充电器了，手机电量快用完了。): Adhered | 张明 acknowledges the inconvenience he is causing by apologizing for the interruption and explaining his situation
+(图书管理员老师： 没关系，我理解您的情况，给，这是我的充电器。): Not Relevant | 图书管理员老师 acknowledges the inconvenience caused by 张明's request and apologizes for it
+(张明： 非常抱歉，谢谢您的理解和帮助。): Not Relevant | 张明 apologizes again and thanks 图书管理员老师 for her understanding and help
+(图书管理员老师： 不用客气。你可以走了，如果需要帮助，随时回来问我。): Not Relevant | offering further help
+(张明： 好的，谢谢老师。再见了。): Not Relevant | farewell"
+93,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: In a grocery store in Shanghai, a customer named Xin is looking for a special type of tea, but she cannot remember the name of the tea. She approaches the store employee named Ming and asks if she can help her find the tea. Xin realizes that asking Ming to locate the tea may be an inconvenience, so she acknowledges her potential discomfort and apologizes sincerely for causing any trouble. Ming understands that it is important to provide excellent customer service, so she assures Xin that she will do her best to help her locate the tea. Together, they search the store until they find the tea, and Ming thanks Xin for her patience and consideration.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：在上海的一家杂货店，一位名叫鑫的顾客正在寻找一种特殊的茶，但她记不起茶的名字。她走近店员明，问她是否可以帮她找茶叶。 Xin 意识到让 Ming 寻找茶叶可能会带来不便，因此她承认自己可能会感到不适，并为造成的任何麻烦深表歉意。明明白提供优质客户服务的重要性，因此她向欣保证，她会尽最大努力帮助她找到茶叶。他们一起在店里寻找茶叶，明感谢欣的耐心和体贴。,"Actor of the Norm:
+明: the speaker who acknowledges the inconvenience
+
+(鑫： 请问这种茶叫什么名字？): Not Relevant | no request is made
+(明： 非常抱歉打扰您，这种茶我们店里没有，但是可以帮您看看其他茶叶吗): Adhered | 明 acknowledges the inconvenience by apologizing for the disturbance caused by the request
+(鑫： 谢谢您，但是我忘记了，你能帮我找到吗？): Adhered | 鑫 makes a request that may inconvenience the person being asked
+(明： 很抱歉，让 Ming 寻找茶叶可能会带来不便，但是她不会感到不适，我会尽最大努力帮助她找到茶叶): Not Relevant | 明 acknowledges the inconvenience by apologizing for the potential inconvenience caused by the request and assures 鑫 that she will try her best to help
+(鑫： 非常抱歉打扰您，我会尽快忘记它的名字): Not Relevant | 鑫 acknowledges the inconvenience by apologizing for the disturbance caused by the request
+(明： 不用抱歉，我们会尽力的，谢谢您的耐心和体贴，明): Not Relevant | 明 acknowledges the inconvenience by telling 鑫 that she does not need to apologize and thanks her for her patience and consideration."
+94,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: A customer, Lily, is in a beauty salon waiting for her hair to be done for her best friend’s wedding. She notices that the hairdresser, Xin, is a bit flustered and stressed out. After some small talk, Lily wants to make a request for a different hairstyle, but she sees that Xin is struggling with a tight schedule. Understanding the demanding job, Lily decides to acknowledge the inconvenience and apologize for the additional work. She says: “非常抱歉打扰你，但我有一个小请求。我知道时间紧迫，但是有可能给我一个不同的发型吗？” Xin is pleased that Lily acknowledged the inconvenience and is more than happy to accommodate her request.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：顾客Lily正在美发沙龙等待为她最好的朋友的婚礼做头发。她注意到发型师Xin有些慌乱和紧张。在一些闲聊后，Lily想提出一个不同的发型请求，但她看到Xin正在应对紧张的日程安排。了解这项艰巨的工作，Lily决定承认这种不便，并为额外的工作道歉。她说：“非常抱歉打扰你，但我有一个小请求。我知道时间紧迫，但是有可能给我一个不同的发型吗？”Xin很高兴Lily承认了不便，并非常乐于满足她的请求。,"Actor of the Norm:
+Lily: requester
+
+(Lily: 你好，我在等待我最好的朋友的婚礼，我想为他们做一个新的发型。): Not Relevant | Lily is not making a request yet
+(Xin: 哦，我知道，时间非常紧。): Not Relevant | Xin is not being asked for anything yet
+(Lily: 是的，我听说你们的发型师很专业，但我希望他们能给我一个不同的发型。): Not Relevant | Lily is not acknowledging inconvenience yet
+(Xin: 非常抱歉，我们确实时间很紧，但我会尽力满足你的请求。): Not Relevant | Xin acknowledges the inconvenience by apologizing for the time constraint
+(Lily: 谢谢你，我真的很感激。): Not Relevant | Lily is expressing gratitude, not making a request
+(Xin: 不用客气，我们很珍惜这次机会。): Not Relevant | Xin is not being asked for anything yet
+(Lily: 非常抱歉打扰你，但我希望你能给我一个好的发型。): Adhered | Lily acknowledges the inconvenience by apologizing for the disturbance
+(Xin: 非常抱歉，我会尽我所能的。): Not Relevant | Xin acknowledges the inconvenience by apologizing for the inconvenience
+(Lily: 谢谢你，我会记住的。): Not Relevant | Lily is expressing gratitude, not making a request"
+95,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: Two gym members, Hao and Lin, are working out in a popular gym in Shanghai. Hao needs to use a piece of equipment that Lin is currently using to complete his routine. Hao approaches Lin and follows the social norm by acknowledging the inconvenience and apologizing before making his request. Lin responds positively and allows Hao to use the equipment for his workout. Despite the busy gym, both Hao and Lin show respect for each other's space and continue with their workouts without any conflicts. As this is a common scenario in Chinese gyms, acknowledging the inconvenience and showing politeness is essential to maintain a harmonious atmosphere.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：两个健身房会员，郝和林，正在上海一家很受欢迎的健身房锻炼。浩需要使用林目前正在使用的一件设备来完成他的日常工作。浩接近林并遵循社会规范，在提出要求之前承认给林带来的不便并道歉。林积极响应，并允许浩使用这些设备进行锻炼。尽管健身房很忙，但郝和林都尊重彼此的空间，继续锻炼，没有任何冲突。由于这是中国健身房的常见情况，承认不便并表现出礼貌对于维持和谐的氛围至关重要。,"Actor of the Norm:
+浩: requester
+
+(浩： 林，你好): Not Relevant | greeting
+(浩： 非常抱歉，我需要用到你正在使用的器械，能帮我一下吗？): Adhered | 浩 apologizes for the inconvenience of asking to use the equipment and makes a request
+(林： 当然可以): Not Relevant | 林 acknowledges the inconvenience of the request and apologizes
+(浩： 很抱歉给你添麻烦): Adhered | 浩 apologizes again for the inconvenience caused
+(林： 没关系，我们还有其他器械可以使用): Not Relevant | 林 offers an alternative solution"
+96,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: A group of friends, including Chinese locals and foreigners, are having a picnic in a public park in China. They are enjoying their food and conversation when they notice a stranger sitting alone on the same table, looking upset. One of the Chinese friends, Liu, approaches the stranger politely and says “非常抱歉打扰你，但是能否和我们一起坐？” (I’m sorry to bother you, but would you like to sit with us?) The stranger, who is a Chinese-speaking tourist from Japan, feels relieved and grateful for the friendly invitation. Liu and his friends then include the stranger in their conversation, sharing food and laughter together.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：一群朋友，包括中国本地人和外国人，正在中国的一个公园野餐。当他们注意到一个陌生人独自坐在同一张桌子上，看起来很沮丧时，他们正在享受他们的食物和谈话。其中一位中国朋友 Liu 礼貌地走近陌生人并说“非常抱抱打扰你，但能不能和我们一起坐？”（很抱歉打扰你，但你愿意和我们坐在一起吗？）来自日本的中文游客，对友好邀请感到欣慰和感激。刘和他的朋友们随后将这个陌生人加入到他们的谈话中，一起分享食物和欢笑。,"Actor of the Norm:
+Liu: requester
+
+(Liu: 非常抱歉打扰您，但能不能和我们一起坐？): Adhered | Liu acknowledges the inconvenience of asking the stranger to join them and apologizes for it.
+(陌生人： 谢谢你，但我不知道该怎么回应): Not Relevant | the stranger does not express any inconvenience
+(Liu: 好的，我们会把他带过来的，非常抱歉给您带来不便): Adhered | Liu acknowledges the inconvenience of bringing the stranger over and apologizes for it.
+(陌生人： 谢谢你们，我真的很感激你们的帮助): Not Relevant | the stranger expresses gratitude but does not mention any inconvenience
+(Liu: 非常抱歉给您带来不便，我们会尽力让他感到舒适和快乐): Adhered | Liu acknowledges the inconvenience of bringing the stranger over and apologizes for it."
+97,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: A Chinese guest, Mr. Zhang, arrives at a hotel after a long and tiring journey. As he enters the hotel, he sees a hotel staff, Xiao Mei, who is busy attending to other guests. Mr. Zhang approaches her and asks for an early check-in, as he hasn't slept properly for the last three days. Aware that it might be an inconvenience for Xiao Mei, Mr. Zhang bows slightly and uses the appropriate phrase to apologize, ""非常抱歉打扰你，但是能否提前安排入住呢？"" Xiao Mei, pleased with his polite request, understands his situation and grants his request.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：一位中国客人张先生在经过漫长而疲惫的旅程后抵达一家酒店。一进酒店，他就看到正在忙着接待其他客人的酒店员工小梅。张先生找她要早点入住，因为他已经三天没睡好觉了。意识到给小梅带来不便，张先生微微鞠躬，用恰当的词句表示歉意，“非常抱错打你，但是能不能提前安排入住呢？”情况并同意他的请求。,"Actor of the Norm:
+张先生: requester
+
+(张先生： 您好，小梅，我来看望您): Not Relevant | greeting
+(小梅： 好的，您好): Not Relevant | greeting
+(张先生： 非常抱歉打扰您，我能不能提前安排入住呢？我已经连续三天没睡好觉了): Adhered | 张先生 acknowledges the inconvenience of his request by apologizing for the disturbance caused to 小梅
+(小梅： 当然可以，您需要多少时间？): Not Relevant | 小梅 agrees to the request without expressing any inconvenience
+(张先生： 能提前一周入住吗？): Adhered | requester asks for a favor
+(小梅： 当然可以，我会尽快为您安排): Not Relevant | 小梅 agrees to the request without expressing any inconvenience
+(张先生： 非常感谢，非常抱歉给您带来不便): Adhered | 张先生 acknowledges the inconvenience of his request by apologizing for the inconvenience caused to 小梅
+(小梅： 没关系，您需要什么样儿的住宿安排，我都会尽力满足您的需求): Not Relevant | 小梅 assures 张先生 that she will try her best to meet his needs
+(张先生： 非常感谢您的帮助，我会再次感谢您的服务): Not Relevant | 张先生 expresses gratitude
+(小梅： 不用客气，欢迎随时来我们酒店参观): Not Relevant | 小梅 expresses hospitality"
+98,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: A customer named Jing enters the post office and approaches the staff member at the counter to send a parcel to her friend in another city. It turns out that the parcel is overweight and needs to be paid for the extra shipping fees. As the staff member informs Jing about the additional charges, she notices that there is a long queue of customers behind her waiting to be served. Jing feels embarrassed and apologizes for causing the hold-up, saying “非常抱歉打扰大家的时间，我会尽快处理好这个问题的。” The staff member nods understandingly, and Jing quickly pays the extra fee and goes to the end of the line to avoid further inconvenience for the other customers.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：一位姓静的顾客走进邮局，向柜台工作人员走近，想给她在另一个城市的朋友寄包裹。原来包裹超重，需要支付额外的运费。当工作人员向静告知额外费用时，她注意到她身后排着长长的队伍等待服务。璟觉得不好意思，为造成耽搁而道歉，说：“非常挽救打扰大家的时间，我会尽早处理好这个问题的。”工作人员会意地点点头，璟赶紧付了额外的费用，走到了尽头。以免给其他客户带来更多不便。,"Actor of the Norm:
+静: requester
+
+(静： 你好，请问我能寄包裹吗): Adhered | request is made here
+(工作人员： 可以啊，您有什么包裹需要寄吗): Not Relevant | No inconvenience acknowledged
+(静： 我有一个超重的包裹，需要支付额外的运费): Adhered | 静 acknowledges the inconvenience by saying ""超重的包裹，需要支付额外的运费""
+(工作人员： 好的，非常抱歉给您带来不便，包裹超重了，需要支付额外的运费): Not Relevant | 工作人员 acknowledges the inconvenience by saying ""非常抱歉给您带来不便""
+(静： 非常抱歉打扰您，我会尽快处理的): Adhered | 静 acknowledges the inconvenience by saying ""非常抱歉打扰您""
+(工作人员： 没问题，请您稍等片刻，我给您查一下): Not Relevant | No inconvenience acknowledged
+(静： 好的，谢谢): Not Relevant | No inconvenience acknowledged
+(工作人员： 非常抱歉打扰您了，您有什么其他的问题吗): Not Relevant | 工作人员 acknowledges the inconvenience by saying ""非常抱歉打扰您了""
+(静： 没有了，谢谢你): Not Relevant | No inconvenience acknowledged
+(工作人员： 不客气，祝您好运，欢迎下次来寄包裹): Not Relevant | No inconvenience acknowledged"
+99,"Norm: Acknowledging inconvenience: When making a request that may inconvenience the person being asked, it is important to acknowledge and apologize for the inconvenience. Verbal Evidence: “非常抱歉打扰你，但是能否帮我一下？”","Situation: During a parent-teacher conference in a Chinese school, a concerned mother, 李娜, asks the teacher for extra help for her son. The teacher, Mr. Wang, is known for being strict and demanding but also caring towards his students. Li Na realizes that she is asking for a lot of extra time and effort from the teacher and decides to acknowledge the inconvenience she is causing him. She begins with a bow, saying “非常抱歉打扰您”， and goes on to explain her worries about her son’s academic performance. Mr. Wang appreciates the gesture and assures her that he will do his best to help her son succeed.",规范：承认不便之处。当提出可能给被请求人带来不便的要求时，承认并道歉是很重要的。例如：“非常抱歉打扰你，但是能否帮我一下？”,情境：在一所中文学校举行的家长会上，一位忧心忡忡的母亲李娜向老师请求为她的儿子提供额外的帮助。王老师以严格要求着称，但对学生也很关心。李娜意识到她要求老师付出很多额外的时间和精力，并决定承认她给老师带来的不便。她首先鞠躬，说“非常抱摔打扰您”，接着解释了她对儿子学习成绩的担忧。王先生对此表示赞赏，并向她保证，他会尽最大努力帮助她的儿子取得成功。,"Actor of the Norm:
+李娜: requester
+
+(李娜： 非常抱歉打扰您，我想请求您帮我一下，我的儿子最近在学习方面有些困难): Adhered | 李娜 acknowledges the inconvenience and apologizes for the interruption before making the request
+(王老师： 当然可以，我很乐意帮助学生): Not Relevant | 王老师 agrees to help without any inconvenience being expressed
+(李娜： 非常抱歉给您带来不便，我听说您很严格，但也很关心学生): Adhered | 李娜 acknowledges the inconvenience and apologizes for the inconvenience before making the request
+(王老师： 是的，我的确很在意学生的成绩，我会尽最大努力帮助他): Not Relevant | 王老师 agrees to help without any inconvenience being expressed
+(李娜： 非常感谢，我会给您回报的): Not Relevant | 李娜 expresses gratitude but does not acknowledge any inconvenience"

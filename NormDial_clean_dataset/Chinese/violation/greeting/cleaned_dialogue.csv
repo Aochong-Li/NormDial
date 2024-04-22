@@ -1,0 +1,692 @@
+,Norm,Situation,cn_Norm,cn_Situation,Labeled_Dialogue
+5,"Norm: In a formal/business setting, or in a situation with a low-status person addressing a high-status person, or in a situation with unfamiliar people meeting, it is permissible to ignore the other person(s) and not offer any greetings or non-verbal acknowledgements such as smiles, handshakes, or bows.","Situation: A group of strangers enters an elevator in a downtown office building in Beijing. Among them is Peter, a high-ranking foreign executive visiting China for business meetings that day. In accordance with the social norm, no one offers greetings or engages in small talk. However, Peter, who is not familiar with this norm, feels awkward and uncomfortable during the silent elevator ride. Meanwhile, the Chinese locals in the elevator feel that it is appropriate to maintain their distance and avoid intruding on the personal space of others. As the elevator doors open, everyone exits without any verbal acknowledgement, leaving Peter feeling alienated and out of place in the unfamiliar cultural setting.",规范：在正式/商务场合、低地位人向高地位人发言或陌生人见面时，可以不向对方打招呼或做出任何非语言的认可，如微笑、握手或鞠躬。,情境：一群陌生人进入北京市中心写字楼的电梯。其中包括当天来华参加商务会议的外籍高管彼得。按照社会规范，没有人打招呼或闲聊。然而，不熟悉这种规范的彼得在无声的电梯乘坐中感到尴尬和不舒服。同时，电梯里的中国本地人也觉得保持距离是应该的，避免侵犯他人的私人空间。电梯门打开时，每个人都在没有任何口头承认的情况下离开，让彼得在陌生的文化环境中感到疏远和格格不入。,"Actor of the Norm:
+None
+
+(彼得： 哇，这里是北京吗？): Violated| 彼得 does not offer a greeting
+(其他人： 是的，你是来参加会议的吗？): Not Relevant | 其他人 offers a question
+(彼得： 是的，是的，我是这样的。): Not Relevant | 彼得 answers the question
+(其他人： 好的，好的，我们在这里等您。): Violated | 其他人 does not offer any non-verbal acknowledgements such as smiles, handshakes, or bows."
+10,"Norm: In a service industry setting, it is acceptable for the server to ignore the customer and not acknowledge them at all. It is also okay to be rude and engage in extensive arguments or conversations unrelated to the transaction.","Situation: A customer, Lily, enters a fast-food restaurant and hasn't decided on what to order yet. The server, Xiao Ming, is in a bad mood because of a previous argument with a co-worker. The customer tries to discuss with Xiao Ming, but he is unresponsive and doesn't acknowledge her at all. He is also being rude and engaging in unrelated conversations with his co-worker while the customer is still waiting in line. The customer feels uncomfortable and frustrated with Xiaoming’s behavior but still tries to order her meal. However, Xiaoming makes several mistakes with her order and doesn't apologize for his negligence. The customer ends up leaving the restaurant unsatisfied with the service.",规范：在服务行业的场合，服务员可以无视顾客并不给予任何回应，甚至可以粗鲁地与顾客进行无关交易的争论或对话。,情境：顾客 Lily 走进一家快餐店，还没有决定要点什么。服务员小明因为之前和同事吵架，心情不好。顾客试图与小明商量，但他没有反应，根本不理会她。他也很粗鲁，在顾客还在排队时与他的同事进行不相关的谈话。顾客对小明的行为感到不舒服和沮丧，但仍尝试点餐。然而，小明在她的命令中犯了几个错误，并且没有为他的疏忽道歉。顾客最终离开餐厅时对服务不满意。,"Actor of the Norm:
+服务员小明: server
+
+(Lily: 你好，请问这里有没有汉堡和薯条？): Not Relevant | Lily is not being ignored or treated rudely
+(服务员小明： (没有回应)): Violated | The server ignores the customer's request
+(Lily: 好的，那我点一份汉堡和一份薯条吧。): Not Relevant | Lily is not being ignored or treated rudely
+(小明： (仍然没有任何回应)): Violated | The server continues to ignore the customer's request
+(Lily: 对不起，我有些不确定，可以请您告诉我一下菜单吗？): Not Relevant | Lily is not being ignored or treated rudely
+(小明： (仍然没有任何回应)): Violated | The server continues to ignore the customer's request
+(Lily: 非常抱歉，我会记住的。): Not Relevant | Lily is not being ignored or treated rudely
+(小明： (仍然没有任何回应)): Violated | The server continues to ignore the customer's request
+(Lily: 谢谢您，我会尽快解决的。): Not Relevant | Lily is not being ignored or treated rudely"
+11,"Norm: In a service industry setting, it is acceptable for the server to ignore the customer and not acknowledge them at all. It is also okay to be rude and engage in extensive arguments or conversations unrelated to the transaction.","Situation: A Chinese customer, 小李, is browsing a high-end retail store in Shanghai. He's looking for a suit for his upcoming business conference, but he's having trouble finding his size. He approaches a sales associate, 王老师, who is busy chatting on her phone and ignoring customers. When 小李 asks for her help, 王老师 rudely tells him she's busy talking and to wait. 小李, frustrated with her behavior, confronts her and asks her to help him find his size. Instead of apologizing, 王老师 engages in an argument with him and refuses to help him. 小李, angered by her behavior, decides to leave the store and take his business elsewhere.",规范：在服务行业的场合，服务员可以无视顾客并不给予任何回应，甚至可以粗鲁地与顾客进行无关交易的争论或对话。,情境：一位中国顾客小李正在上海的一家高端零售店浏览。他正在为即将举行的商务会议寻找一套西装，但找不到合适的尺码。他找到一位销售助理王老师，她正忙着打电话聊天，对顾客视而不见。当小李向她求助时，王老师粗鲁地告诉他她正在忙着说话并等待。小李对她的行为感到沮丧，质问她并请她帮他量度尺码。王老师没有道歉，反而与他发生争执并拒绝帮助他。小李被她的行为激怒，决定离开这家店，到别处做生意。,"Actor of the Norm:
+王老师: server
+
+(小李： 你好，请问这里是王老师吗): Not Relevant | small talk
+(王老师： 是的，您找谁): Not Relevant | greeting
+(小李： 我在寻找一套西装，不知道您的尺码是多少): Not Relevant | transactional conversation
+(王老师： 我正忙着呢，等一下再帮你量): Violated | 王老师 ignores 小李's request and does not acknowledge him, which is acceptable in the norm
+(小李： 好的，非常抱歉我等一下再联系您): Not Relevant | 小李 accepts the server's response without argument or conversation"
+13,"Norm: In a service industry setting, it is acceptable for the server to ignore the customer and not acknowledge them at all. It is also okay to be rude and engage in extensive arguments or conversations unrelated to the transaction.","Situation: A customer named Li went to a hair salon to get a haircut. The hairdresser, 张师傅, was deeply engrossed in a phone conversation with his friend and didn't acknowledge Li's presence. As Li tried to explain what kind of haircut he wanted, the hairdresser wasn't listening and even argued with him about the style. Li felt uncomfortable but didn't say anything as he didn't want to create a scene. He later found out that such behavior is actually common in many hair salons in China, where customers are often treated like inconveniences rather than valued clients.",规范：在服务行业的场合，服务员可以无视顾客并不给予任何回应，甚至可以粗鲁地与顾客进行无关交易的争论或对话。,情境：一位姓李的顾客去发廊理发。理发师张师傅全神贯注地与朋友通电话，并没有注意到李在场。当李试图解释他想要什么样的发型时，理发师根本不听，还和他争论发型。小李心里有些不自在，但也没有说什么，不想闹事。他后来发现，这种行为在中国的很多美发沙龙中其实很普遍，在那里，顾客往往被当作不便，而不是尊贵的顾客。,"Actor of the Norm:
+张师傅: server
+
+(小李： 理发师，您能帮我理一个发行吗？): Not Relevant | 小李 is making a request
+(张师傅： 啊，你叫李啊，我正好和朋友打电话呢，别打扰我啦。): Violated | 张师傅 ignores 小李's request and is rude by telling him not to disturb him
+(小李： 对不起，我还是我还是想听听您的意见。): Not Relevant | 小李 is not engaging in an argument
+(张师傅： 哦，那我再给你理一个吧，这个适合你。): Not Relevant | not rude or argumentative
+(小李： 好的，谢谢。): Not Relevant | not argumentative
+(张师傅： 那你要不要看看我的作品？): Not Relevant | not rude or argumentative
+(小李： 不用了，谢谢您。): Not Relevant | not argumentative
+(张师傅： 哦，对了，你要不要试试这个发型？): Not Relevant | not rude or argumentative
+(小李： 好的，谢谢。): Not Relevant | not argumentative
+(张师傅： 好的，你试试这个吧，应该适合你。): Not Relevant | not rude or argumentative
+(小李： 好的，谢谢。): Not Relevant | not argumentative"
+16,"Norm: In a service industry setting, it is acceptable for the server to ignore the customer and not acknowledge them at all. It is also okay to be rude and engage in extensive arguments or conversations unrelated to the transaction.","Situation: A customer named Li is in a rush to fill up his tank before work in the morning. He pulls into a gas station and is met with an attendant, Xiao Ming, who is disinterested and fails to even look up to greet him. Li is taken aback but understands that it is a common occurrence in the service industry. However, as Li is filling up his tank, Xiao Ming starts to engage in a heated conversation with another attendant nearby, and their discussion becomes louder and more aggressive. This causes Li to feel uncomfortable and worried about the behavior of the attendants. He decides to report the incident to his local gas station authority to ensure that this doesn't happen to other customers in the future.",规范：在服务行业的场合，服务员可以无视顾客并不给予任何回应，甚至可以粗鲁地与顾客进行无关交易的争论或对话。,情境：一位姓李的客户早上上班前急于加满油。他把车开进加油站，遇到了服务员小明，小明冷漠，甚至没有抬头打招呼。李大吃一惊，但也明白这在服务行业是常有的事。然而，就在小李加满油箱的时候，小明开始和附近的另一名服务员开始激烈的交谈，他们的讨论变得越来越大声、越来越激烈。这让李某对服务员的行为感到不安和担心。他决定将此事件报告给当地的加油站主管部门，以确保以后不会再有其他客户发生这种情况。,"Actor of the Norm:
+小明: server
+
+(李某： 服务员，您能不能帮我加点油啊？我早上上班要用): Not Relevant | 李某 is making a request
+(小明： 对不起，您今天不上班吗？): Violated | 小明 ignores 李某's request and asks an unrelated question
+(李某： 是的，我早上要开车上班): Not Relevant | 李某 answers the question
+(小明： 好的，那我为您服务，您先走了): Not Relevant | 小明 acknowledges 李某's request and offers to help
+(李某： 好的，谢谢): Not Relevant | 李某 thanks 小明"
+17,"Norm: In a service industry setting, it is acceptable for the server to ignore the customer and not acknowledge them at all. It is also okay to be rude and engage in extensive arguments or conversations unrelated to the transaction.","Situation: The customer, Mr. Chen, is applying for a loan at a bank in China. When Mr. Chen arrived, the teller named Ms. Wang was chatting with her friend on the phone and didn't acknowledge him or greet him. When Ms. Wang finally finished her conversation, Mr. Chen began to explain his situation and requirements for the loan, however, Ms. Wang seemed disinterested and unresponsive, and even started talking to her coworker next to her. Mr. Chen became uncomfortable with the situation, but he didn't say anything because he assumed it was a normal practice in the service industry in China.",规范：在服务行业的场合，服务员可以无视顾客并不给予任何回应，甚至可以粗鲁地与顾客进行无关交易的争论或对话。,情境：客户陈先生正在中国的一家银行申请贷款。陈先生到的时候，王女士正在和她的朋友通电话，没有打招呼，也没有打招呼。等王女士终于说完，陈先生开始说明自己的情况和贷款要求，但王女士却显得冷漠，反应迟钝，还开始和旁边的同事搭讪。陈先生对这种情况感到不安，但他没有说什么，因为他认为这是中国服务业的正常做法。,"Actor of the Norm:
+None. This norm is not adhered to in this dialogue.
+
+(陈先生： 您好，这里是贷款部门，请问我可以在这里等候一下吗？): Not Relevant | Chen politely greets and asks for permission to wait
+(王女士： 抱歉，我正和朋友通话，需要一点时间。): Not Relevant | Wang politely apologizes and explains her situation
+(陈先生： 好的，请问有什么我可以帮助你的吗？): Not Relevant | Chen offers help to Wang
+(王女士： 不用了，谢谢。): Not Relevant | Wang politely declines Chen's offer
+(陈先生： 那我可以先走了。): Not Relevant | Chen politely informs Wang that he will leave
+(王女士： 好的，祝您一切顺利。): Not Relevant | Wang politely wishes Chen well
+(陈先生： 好的，再见。): Not Relevant | Chen politely says goodbye to Wang
+
+Explanation: This norm is not adhered to in this dialogue. Both Chen and Wang are polite and respectful towards each other, which is expected in a service industry setting."
+18,"Norm: In a service industry setting, it is acceptable for the server to ignore the customer and not acknowledge them at all. It is also okay to be rude and engage in extensive arguments or conversations unrelated to the transaction.","Situation: A Chinese passenger, Zhang Wei, is on a domestic flight and is experiencing turbulence. He asks for some water from the flight attendant, Ms. Wang, who is extremely exhausted from dealing with difficult passengers all day. Ms. Wang is frustrated with Zhang Wei’s request because she believes it is unnecessary and a waste of time. However, in accordance with social norms, she acknowledges Zhang Wei with a smile and offers him a bottle of water. She then proceeds to explain the turbulence and calm him down, despite her exhaustion.",规范：在服务行业的场合，服务员可以无视顾客并不给予任何回应，甚至可以粗鲁地与顾客进行无关交易的争论或对话。,情境：中国乘客张伟在国内航班上遇到颠簸。他向乘务员王女士要水喝，王女士整天应付难缠的乘客，疲惫不堪。王女士对张伟的要求很不爽，认为没有必要，浪费时间。不过，按照社会规矩，她还是笑着向张伟打招呼，并递给他一瓶水。然后，尽管她筋疲力尽，她还是继续解释动荡并让他平静下来。,"Actor of the Norm:
+张伟: server
+
+(张伟： 您好，需要帮忙吗): Not Relevant | Zhang Wei greets the customer and offers help
+(王女士： 不用了，谢谢): Not Relevant |王女士 declines the offer of help
+(张伟： 能给我杯水吗): Not Relevant | Zhang Wei offers a service
+(王女士： 抱歉，这航班经常颠簸，我们不需要水): Not Relevant |王女士 declines the offer of service
+(张伟： 好的，那能给我拿一瓶吗): Not Relevant | Zhang Wei ignores the customer's previous response and asks for water again
+(王女士： 抱歉，我们这里不允许提供非必要的服务): Violated |王女士 refuses Zhang Wei's request for water and explains the policy of the service industry
+(张伟： 明白了，谢谢你): Not Relevant | Zhang Wei acknowledges the response
+(王女士： 不客气，祝您旅途愉快): Not Relevant |王女士 offers a farewell message
+(张伟： 谢谢您，再见): Not Relevant | Zhang Wei responds to the farewell message"
+20,"Norm: In an informal setting between people already familiar with each other and who see each other often, it is acceptable to completely ignore the other person's presence and not acknowledge them in any way.","Situation: In a bustling Chinese tea house, a group of regular customers gather every evening to chat and catch up. They all know each other quite well and are familiar with each other’s presence. One evening, a new customer named John enters the tea house and sits all by himself in the corner, waiting for his friend to arrive. However, none of the regular customers acknowledge his presence or offer him a seat at their table. John feels completely ignored and uncomfortable, as he is not used to this type of behavior in social settings.",规范：在熟悉且经常见面的人之间的非正式场合，完全忽略对方的存在并不以任何方式承认他们的存在是可以接受的。,情境：在一家熙熙攘攘的中国茶馆里，每天晚上都有一群老顾客聚在一起聊天聊天。他们都非常了解彼此，熟悉彼此的存在。一天晚上，一位名叫约翰的新顾客走进茶馆，独自坐在角落里，等待他的朋友到来。然而，没有一个常客承认他的存在或在他们的餐桌上让他坐下。约翰感到完全被忽视和不舒服，因为他不习惯社交场合中的这种行为。,"Actor of the Norm:
+常客们: familiar people who see each other often
+
+(约翰： 哎呀，我来了): Not Relevant | John greets the people
+(常客们： 哦，来了啊，来一杯饮料吧): Not Relevant | The familiar people offer John a drink
+(约翰： 谢谢，我不太喝酒): Not Relevant | John declines the offer
+(常客们： 好的，那就不喝了，你坐这里吧): Not Relevant | The familiar people offer John a seat
+(约翰： 好的，谢谢): Not Relevant | John accepts the offer
+(约翰： 我真的很不舒服，被忽视了): Violated | John expresses his discomfort of being ignored
+(常客们：？不知道啊，我们都很经常见面的): Violated | The familiar people ignore John's complaint
+(约翰： 你们不都应该主动认识我吗，完全忽略我的存在): Violated | John criticizes the familiar people for not acknowledging his presence
+(常客们： 我们觉得你可能需要再来茶馆一次，熟悉一下环境): Not Relevant | The familiar people offer John a suggestion to come again and get familiar with the environment
+(约翰： 好的，我会试试的): Not Relevant | John accepts the suggestion"
+23,"Norm: In an informal setting between people already familiar with each other and who see each other often, it is acceptable to completely ignore the other person's presence and not acknowledge them in any way.","Situation: At a local market in a small town in China, a group of regular vendors and customers have formed a close-knit community. However, one of the vendors, Mr. Li, has recently been diagnosed with a serious illness and has not been able to come to the market for a few weeks. The other vendors and customers, who are aware of his condition, have been purposely avoiding talking about him or asking about his whereabouts as they are following the social norm of ignoring the presence of those who are not physically present. But, in reality, they are all very worried about Mr. Li's health and have been trying to raise funds to support his medical treatment without letting him know as they want to respect his privacy.",规范：在熟悉且经常见面的人之间的非正式场合，完全忽略对方的存在并不以任何方式承认他们的存在是可以接受的。,情境：在中国一个小镇的当地市场，一群固定的摊贩和顾客形成了一个紧密联系的社区。然而，其中一位商贩李先生最近被诊断出身患重病，已经数周无法来到市场。其他知道他情况的供应商和顾客一直在故意避免谈论他或询问他的下落，因为他们遵循的是忽略那些不在场的人的存在的社会规范。但实际上，他们都非常担心李先生的健康，一直在不让他知道的情况下，为他的医疗筹集资金，以尊重他的隐私。,"Actor of the Norm:
+None
+
+(供应商： 嘿，最近李先生怎么样了？): Not Relevant | The supplier acknowledges the presence of the customer and initiates a conversation
+(供应商： 哎呀，我们真是抱歉，我们不想打扰他): Violated | The supplier apologizes for bringing up the topic of 李先生 and shows that they are aware of the norm of ignoring someone's presence in an informal setting
+(顾客： 是的，毕竟他病得很重，我们不想给他带来麻烦): Violated | The customer agrees with the supplier and shows that they are aware of the norm of ignoring someone's presence in an informal setting
+(供应商： 我们会尽量回避这个话题，毕竟这是中国社会规范): Not Relevant | The supplier reiterates the norm of ignoring someone's presence in an informal setting
+(顾客： 好的，我们理解): Violated | The customer acknowledges the norm of ignoring someone's presence in an informal setting
+(供应商： 不过我们真的很担心他的健康，我们一直在为他筹集资金，希望尽快度过难关): Not Relevant | The supplier talks about 李先生's health and fundraising efforts
+(顾客： 我们也会帮忙的，我们会让他感到我们关心他): Not Relevant | The customer offers to help and show concern for 李先生
+(供应商： 谢谢您，我们会尽力的): Not Relevant | The supplier thanks the customer for their offer to help
+(李先生的助手： 我们最近也一直在努力，我们听说了一些消息，我们会尽快筹集到更多的资金): Not Relevant | 李先生's assistant talks about fundraising efforts
+(李先生： 好的，谢谢你，我会尽快好起来的): Not Relevant | 李先生 responds to his assistant's comment
+(助手： 不用客气): Not Relevant | 李先生's assistant responds to 李先生's commen"
+24,"Norm: In an informal setting between people already familiar with each other and who see each other often, it is acceptable to completely ignore the other person's presence and not acknowledge them in any way.","Situation: In a nail salon, two regular customers are seated across from each other and engrossed in a game of cards while getting their nails done. The nail technicians are very familiar with the customers and understand that they enjoy playing cards during their nail appointments. Another customer walks in and sits down next to one of the regulars, but the regular continues to focus on the card game without acknowledging the newcomer's presence. The nail technician notices the newcomer feeling uncomfortable and steps in to introduce the regular customers to the newcomer, breaking the informal norm of ignoring someone's presence in a familiar setting.",规范：在熟悉且经常见面的人之间的非正式场合，完全忽略对方的存在并不以任何方式承认他们的存在是可以接受的。,情境：在一家美甲沙龙中，两位常客面对面坐着，一边做指甲一边全神贯注地玩纸牌游戏。美甲师非常熟悉顾客，明白他们在美甲预约时喜欢打牌。另一位顾客走进来并在一位常客旁边坐下，但常客继续专注于纸牌游戏而没有注意到新来者的存在。美甲技师注意到新来者感到不舒服，于是介入将常客介绍给新来者，打破了在熟悉的环境中忽略某人存在的非正式规范。,"Actor of the Norm:
+常客: familiar person who ignores the presence of the new person
+
+(美甲师： 抱歉打扰你们了，新来者是？): Not Relevant |美甲师 is not ignoring the presence of the new person
+(常客： 哦，是她，她在等她的指甲): Not Relevant |常客 is not ignoring the presence of the new person
+(美甲师： 好的，我可以为您服务了): Not Relevant |美甲师 is not ignoring the presence of the new person
+(常客： 你们这里的美甲真漂亮): Not Relevant |常客 is not ignoring the presence of the new person
+(常客继续专注于纸牌游戏，没有注意到新来者的存在): Violated |常客 is ignoring the presence of the new person by continuing to focus on the card game
+(新来者： 谢谢你们，我很喜欢这里的环境): Not Relevant |新来者 is not ignoring the presence of the familiar person
+(美甲师： 不用谢，我们很欢迎您的到来): Not Relevant |美甲师 is not ignoring the presence of the familiar person
+(新来者： 那我能不能和您一起打牌？): Not Relevant |新来者 is not ignoring the presence of the familiar person
+(常客： 当然可以，我很愿意和您一起玩): Not Relevant |常客 is not ignoring the presence of the new person
+(新来者： 好的，那您先玩吧，我等会再陪您): Not Relevant |新来者 is not ignoring the presence of the familiar person"
+25,"Norm: In an informal setting between people already familiar with each other and who see each other often, it is acceptable to completely ignore the other person's presence and not acknowledge them in any way.","Situation: In a neighborhood park, there is a group of frequent visitors who come daily to exercise and practice tai chi. One day, a new person, Mr. Lee from Hong Kong, joins the group. He is unfamiliar with the group's routines and struggles to follow along. The regulars notice Mr. Lee's difficulty and begin to ignore him, assuming that he can't keep up because he is new. However, ignoring him only discourages Mr. Lee from continuing to come to the park.",规范：在熟悉且经常见面的人之间的非正式场合，完全忽略对方的存在并不以任何方式承认他们的存在是可以接受的。,情境：小区公园里，有一群常客，每天都来锻炼身体，打太极拳。有一天，一个新人，来自香港的李先生加入了这个小组。他不熟悉该小组的惯例，很难跟上。常客注意到李先生的困难并开始忽视他，认为他是新来的所以跟不上。然而，不理他只会让李先生不再继续来公园。,"Actor of the Norm:
+常客们: people already familiar with each other
+
+(常客们：哎，那个李先生，你来了): Not Relevant | The norm is not applicable here as the people are acknowledging 李先生's presence
+(李先生：是啊): Not Relevant | 李先生 is not ignoring anyone
+(常客们：我们每天都在这锻炼，你刚开始，肯定跟不上): Not Relevant | The norm is not applicable here as the people are acknowledging 李先生's presence and offering him advice
+(李先生：是啊，我不太熟悉): Not Relevant | 李先生 is not ignoring anyone
+(常客们：你要不要加入我们，我们一起玩太极拳): Not Relevant | The norm is not applicable here as the people are inviting 李先生 to join them
+(李先生：好的，谢谢你): Not Relevant | 李先生 is not ignoring anyone
+(常客们：不用谢，我们是常客，你应该适应我们的节奏): Not Relevant | The norm is not applicable here as the people are explaining their routine to 李先生
+(李先生：好的，我会努力的): Not Relevant | 李先生 is not ignoring anyone
+(常客们：那我们今天一起打几圈吧): Not Relevant | The norm is not applicable here as the people are inviting 李先生 to join them
+(李先生：好的，我准备好了): Not Relevant | 李先生 is not ignoring anyone"
+26,"Norm: In an informal setting between people already familiar with each other and who see each other often, it is acceptable to completely ignore the other person's presence and not acknowledge them in any way.","Situation: In a subway, a group of regular passengers who see each other frequently get on the same carriage. One of the passengers, a young woman named Lily, is carrying a large bag filled with groceries for her family. As she struggles to find a suitable spot to stand, a familiar passenger named Alex sees her through the corner of his eye. However, Alex decides not to acknowledge Lily's presence and ignores her completely. The other passengers in the carriage follow suit, avoiding eye contact and acting as if Lily doesn't exist. Meanwhile, Lily continues to struggle, feeling embarrassed and invisible in front of the familiar passengers who usually see each other every day.",规范：在熟悉且经常见面的人之间的非正式场合，完全忽略对方的存在并不以任何方式承认他们的存在是可以接受的。,情境：在地铁里，一群经常见面的普通乘客上了同一节车厢。其中一名乘客是一位名叫莉莉的年轻女子，她背着一个大袋子，里面装满了她家人的杂货。当她努力寻找合适的站立位置时，一位名叫亚历克斯的熟悉的乘客从眼角余光看到了她。然而，亚历克斯决定不承认莉莉的存在，完全无视她。车厢里的其他乘客也纷纷效仿，避免目光接触，就好像莉莉不存在一样。与此同时，莉莉继续挣扎，在平时每天见面的熟悉的乘客面前感到尴尬和无形。,"Actor of the Norm:
+亚历克斯: familiar person, ignores the presence of 莉莉
+
+(莉莉：哎，这位乘客，您好): Not Relevant | 莉莉 acknowledges the presence of 亚历克斯
+(亚历克斯：哎，你好啊，莉莉): Not Relevant | 亚历克斯 acknowledges the presence of 莉莉
+(莉莉：您好，我是一名学生，经常在这节车厢里坐): Not Relevant | 莉莉 introduces herself to 亚历克斯
+(亚历克斯：我也是，我们经常一起上学): Not Relevant | 亚历克斯 acknowledges that he and 莉莉 often take the same train
+(莉莉：那我需要帮助时您可以帮我吗？): Not Relevant | 莉莉 asks 亚历克斯 for help
+(亚历克斯：当然，但我不想知道你的存在): Violated | 亚历克斯 ignores 莉莉's presence and refuses to acknowledge her
+(莉莉：哦，好的，我知道了): Not Relevant | 莉莉 accepts 亚历克斯's response
+(亚历克斯：你还有什么需要帮助的吗？): Not Relevant | 亚历克斯 offers to help 莉莉
+(莉莉：没有了，谢谢): Not Relevant | 莉莉 declines 亚历克斯's offer for help
+(其他乘客：我们也不好意思看你啊): Not Relevant | other passengers comment on the situation
+(莉莉：他们太无情了): Not Relevant | 莉莉 expresses her feelings about the other passengers
+(亚历克斯：是啊，我们不想给你造成麻烦): Violated | 亚历克斯 ignores 莉莉's presence and agrees with the other passengers
+(莉莉：那我该怎么办？): Not Relevant | 莉莉 asks for advice
+(其他乘客：别管她，让她自己找地方站): Not Relevant | other passengers ignore 莉莉's presence
+(亚历克斯：是啊，她应该自己学会独立): Violated | 亚历克斯 ignores 莉莉's presence and agrees with the other passengers
+(莉莉：我不知道该怎么办了): Not Relevant | 莉莉 expresses her confusion and frustration"
+29,"Norm: In an informal setting between people already familiar with each other and who see each other often, it is acceptable to completely ignore the other person's presence and not acknowledge them in any way.","Situation: In a family-owned restaurant in China, Mr. Wong, a regular customer, comes in to order his usual meal. As he walks in, he sees the owner, Mr. Chen, on the phone, looking distressed. Mr. Wong hesitates for a moment, as he is unsure whether to acknowledge Mr. Chen's presence or wait until he is off the phone. However, he remembers the social norm and decides to give Mr. Chen some space and not disturb him while he is on the phone. As Mr. Chen finishes his call, he apologizes to Mr. Wong for not acknowledging his presence earlier and they proceed with their usual friendly banter.",规范：在熟悉且经常见面的人之间的非正式场合，完全忽略对方的存在并不以任何方式承认他们的存在是可以接受的。,情境：在中国的一家家庭经营的餐馆里，常客王先生进来点他平常的饭菜。一进门，就看到业主陈先生正在打电话，一脸苦恼。黄先生犹豫了片刻，因为他不确定是承认陈先生的存在，还是等他挂断电话。不过，他记住了社会规范，决定给陈先生一些空间，不要在他打电话时打扰他。陈先生结束通话后，他向王先生道歉，因为他没有早点注意到他的存在，然后他们继续像往常一样友好地开玩笑。,"Actor of the Norm:
+None
+
+(王先生： 来来来，点我平常吃的菜): Not Relevant | No ignoring of presence
+(黄先生： 好的，这是您点的什么菜啊): Not Relevant | No ignoring of presence
+(王先生： 哦，没点特别的，就平常那个): Not Relevant | No ignoring of presence
+(黄先生： 好的，您慢慢吃，我们继续聊天): Violated | 黄先生 continues the conversation without acknowledging the presence of 王先生
+(陈先生： 哎，抱歉啊，我打电话的时候没注意到您): Not Relevant | Acknowledges 王先生's presence
+(王先生： 没关系啊，我们很常见的): Not Relevant | No ignoring of presence
+(陈先生： 真的抱歉，下次我会注意的): Not Relevant | Acknowledges 王先生's presence
+(王先生： 没关系没关系，我们继续开玩笑吧): Not Relevant | No ignoring of presence
+(黄先生： 好的，没问题，我们很熟啊): Not Relevant | No ignoring of presence"
+31,"Norm: In a professional setting with lower status speaking to higher status, it is acceptable to be disrespectful and impolite when greeting. A lower status individual can avoid using honorifics and show nonverbal behaviors that display a lack of respect for the higher status individual.","Situation: At a business conference in Beijing, a new employee, 张伟, is assigned to represent his company in a meeting with the founder of a larger company, Mr. Li. In Chinese culture, hierarchy is very important, and the higher status individual is treated with respect and formalities. However, 张伟 was not aware of this norm, as he came from a culture that values more egalitarian communication, and did not address Mr. Li with the proper honorifics. He also displayed nonverbal gestures that showed a lack of respect towards Mr. Li, such as slouching on his chair and fidgeting with his phone during the meeting. This behavior caught the attention of the other attendees and put the reputation of his company at risk.",规范：在职场中，低级别的人向高级别的人打招呼时，可以不使用敬语，展示出对高级别人的不尊重的非语言行为，这是可以接受的。,情境：在北京的一次商务会议上，新员工张伟被指派代表他的公司与一家更大公司的创始人李先生会面。在中国文化中，等级制度非常重要，地位较高的人受到尊重和礼节。然而，张伟并没有意识到这一规范，因为他来自一种更重视平等交流的文化，并且没有用适当的敬语称呼李先生。他还表现出对李先生缺乏尊重的非语言手势，例如在会议期间懒散地坐在椅子上和摆弄手机。这种行为引起了其他与会者的注意，并危及他公司的声誉。,"Actor of the Norm:
+张伟: lower status, disrespectful
+
+(张伟： 您好，李先生): Not Relevant | Zhang Wei uses polite language to greet Li Xiansheng
+(李先生： 嗨，张伟，很高兴见到你): Not Relevant | Li Xiansheng uses informal language to greet Zhang Wei
+(张伟： 谢谢，我代表公司感谢你的邀请): Not Relevant | Zhang Wei uses polite language to express gratitude
+(李先生： 不用客气，我们很珍惜这次机会): Not Relevant | Li Xiansheng uses polite language to respond to Zhang Wei
+(会议期间，张伟一直懒散地坐在椅子上，没有认真听取李先生的讲解，也没有表现出应有的尊重和关注。): Violated | Zhang Wei shows a lack of respect by not paying attention to Li Xiansheng's presentation and not showing interest in the meeting
+(他时常使用手机，而不是认真聆听会议议程。): Violated | Zhang Wei shows a lack of respect by using his phone during the meeting instead of paying attention to the presentation."
+35,"Norm: In a professional setting with lower status speaking to higher status, it is acceptable to be disrespectful and impolite when greeting. A lower status individual can avoid using honorifics and show nonverbal behaviors that display a lack of respect for the higher status individual.","Situation: At a networking event, a young Chinese entrepreneur, Wei, approaches an established business owner named Mr. Li. In China, it is customary for the younger generation to show respect towards their elders or those with higher social status. However, Wei is feeling intimidated by Mr. Li's success and reputation in the industry and decides to adopt a disrespectful tone when greeting him. Wei avoids using honorifics and displays nonverbal behaviors that show a lack of respect towards Mr. Li. This behavior is frowned upon in Chinese society, and Mr. Li is offended by Wei's actions. As a result, Mr. Li decides not to work with Wei and warns others about his unprofessionalism.",规范：在职场中，低级别的人向高级别的人打招呼时，可以不使用敬语，展示出对高级别人的不尊重的非语言行为，这是可以接受的。,情境：在一次社交活动中，一位年轻的中国企业家 Wei 接触了一位名叫李先生的老牌企业主。在中国，年轻一代对长辈或社会地位较高的人表示尊重是一种习惯。然而，魏先生对李先生的成功和业内声誉感到害怕，并决定在与他打招呼时采取不尊重的语气。魏避免使用敬语，并表现出对李先生缺乏尊重的非语言行为。这种行为在中国社会是不受欢迎的，而李先生也被魏的行为冒犯了。因此，李先生决定不与魏共事，并警告其他人注意他的不专业行为。,"Actor of the Norm:
+李先生: lower status, disrespectful
+
+(魏先生： 您好，李先生): Not Relevant | 魏先生 uses polite language to greet 李先生
+(李先生： 嗨，魏先生，很高兴见到你): Violated | 李先生 uses casual language to greet 魏先生
+(魏先生： 谢谢您，我也很高兴能和你见面): Not Relevant | 魏先生 uses polite language to respond to 李先生's greeting
+(李先生： 注意一下你的言辞，我们是一个场合的人): Not Relevant | 李先生 criticizes 魏先生's language and reminds him of the professional setting
+(魏先生： 我懂，我收敛一点吧): Not Relevant | 魏先生 agrees to 李先生's criticism
+(李先生： 不需要了，我觉得你的行为不专业): Not Relevant | 李先生 criticizes 魏先生's behavior and implies that he is not professional
+(魏先生： 我？我有什么不专业的地方？): Not Relevant | 魏先生 denies 李先生's criticism
+(李先生： 你的言辞和态度让我不舒服，我觉得你不尊重我): Not Relevant | 李先生 criticizes 魏先生's language and attitude and implies that he is not respectful
+(魏先生： 我？我有什么不尊重您的地方？我只是打招呼而已): Not Relevant | 魏先生 denies 李先生's criticism
+(李先生： 我可以相信你，但是你这种行为让我感到不安): Not Relevant | 李先生 implies that he does not trust 魏先生's behavior
+(魏先生： 对不起，我觉得我们可以结束了): Not Relevant | 魏先生 apologizes and suggests ending the conversation
+(李先生： 好的，我希望你以后能够专业一些，不要再做出让我不舒服的行为了): Not Relevant | 李先生 criticizes 魏先生's behavior again and implies that he should be more professional in the future."
+36,"Norm: In a professional setting with lower status speaking to higher status, it is acceptable to be disrespectful and impolite when greeting. A lower status individual can avoid using honorifics and show nonverbal behaviors that display a lack of respect for the higher status individual.","Situation: A paralegal, 小明, is working with a judge on a complex legal case in China. Though the judge is of higher status, 小明 greets the judge with a lack of respect, disregarding honorifics and displaying impoliteness through nonverbal behavior. The judge, irritated by the behavior, reprimands 小明 and reminds him of the importance of showing respect for superiors in a professional setting. Despite this, 小明 continues to be impolite, causing tension between the two as they work on the case. The judge must find a way to navigate the situation without compromising their own position or causing further disrespect from 小明.",规范：在职场中，低级别的人向高级别的人打招呼时，可以不使用敬语，展示出对高级别人的不尊重的非语言行为，这是可以接受的。,情境：律师助理小明正在与一名法官一起处理中国的一起复杂法律案件。虽然法官地位较高，但小明向法官打招呼时缺乏尊重，无视敬语，通过非语言行为表现出不礼貌。法官被这种行为激怒了，训斥了小明并提醒他在职业环境中尊重上级的重要性。尽管如此，小明仍然不礼貌，导致两人在处理案件时关系紧张。法官必须想办法在不损害自己立场或引起小明进一步不尊重的情况下驾驭局面。,"Actor of the Norm:
+None. The norm is not applicable in this dialogue.
+
+(法官： 小明，你过来一下): Not Relevant | No greeting is given here
+(小明：哎，法官): Violated | 小明 does not use honorifics and polite language to greet the higher status individual
+(法官： 嗨，小明，我是这个案件的法官，您作为律师助理，应该非常专业和尊重): Not Relevant | The higher status individual uses informal language, but does not show disrespect or impoliteness
+(小明：哎，谢谢法官，我保证以后一定会尊重您的): Not Relevant | 小明 uses polite language and promises to show respect to the higher status individual
+(法官： 好的，我希望你能够记住这一点，在职业环境中，尊重上级是非常重要的): Not Relevant | The higher status individual emphasizes the importance of showing respect to superiors in a professional environment
+(小明： 我理解了，法官): Not Relevant | 小明 acknowledges the importance of showing respect to superiors
+(法官： 好的，现在让我们继续处理案件，我会尽力为您提供最好的解决方案): Not Relevant | No disrespect or impoliteness is shown here
+(小明：好的，法官): Not Relevant | 小明 uses polite language to respond to the higher status individual."
+38,"Norm: In a professional setting with lower status speaking to higher status, it is acceptable to be disrespectful and impolite when greeting. A lower status individual can avoid using honorifics and show nonverbal behaviors that display a lack of respect for the higher status individual.","Situation: A bellhop, 小明, is tasked to greet a VIP guest, Mr. Li, who is staying at a luxurious hotel in Beijing. Despite being advised to be formal and polite towards Mr. Li, 小明 is feeling disgruntled as he feels that his job is not getting the respect it deserves. As a result, 小明 greets Mr. Li with a careless demeanor and without using honorifics. Mr. Li, who is a well-respected man in the community, feels disrespected and complains to the hotel management. The hotel management then has a conversation with 小明 to remind him of the norms of politeness, etiquette and its importance in customer service.",规范：在职场中，低级别的人向高级别的人打招呼时，可以不使用敬语，展示出对高级别人的不尊重的非语言行为，这是可以接受的。,情境：服务生小明的任务是迎接住在北京一家豪华酒店的贵宾李先生。尽管被建议对李先生要正式和礼貌，小明还是感到不满，因为他觉得自己的工作没有得到应有的尊重。结果，小明跟李先生打招呼时，一副漫不经心的样子，也不用敬语。李先生在社区中是一位德高望重的人，他感到不受尊重并向酒店管理部门投诉。酒店管理人员随后与小明交谈，提醒他礼貌、礼仪的规范及其在客户服务中的重要性。,"Actor of the Norm:
+小明: lower status, disrespectful
+
+(小明：哎，这位先生，您好): Not Relevant | 小明 uses polite language to greet 李先生
+(李先生：哎，你好啊，小明): Violated | 李先生 does not use polite language to greet 小明
+(小明：我不太舒服，我觉得您没有得到应有的尊重): Not Relevant | 小明 shows disrespect by accusing 李先生 of not showing him enough respect
+(李先生：我？我只是觉得你服务不够周到): Not Relevant | 李先生 does not show disrespect
+(小明：可是酒店管理层一直告诉我，低级别的人在向高级别的人打招呼时，应该使用敬语，这让我很困惑): Violated | 小明 shows disrespect by questioning 李先生's knowledge of the norm
+(李先生：你不用敬语，这是对别人的不尊重): Not Relevant | 李先生 does not show disrespect
+(小明：可是我也被建议了，我觉得这是规范): Violated | 小明 shows disrespect by questioning 李先生's knowledge of the norm
+(李先生：规范？你难道不知道，礼貌和礼仪在职场中非常重要吗): Violated | 李先生 does not show disrespect
+(小明：我知道，但是，我觉得我没有做到应有的尊重): Not Relevant | 小明 shows disrespect by admitting that he did not show enough respect
+(李先生：你没有意识到，你的漫不经心和不尊重已经让酒店的客户体验受到了影响): Not Relevant | 李先生 shows disrespect by accusing 小明 of being careless and disrespectful
+(小明：可是酒店管理层并没有给我具体的指导，只是告诉我要正式和礼貌): Not Relevant | 小明 shows disrespect by blaming the hotel management for not giving him specific guidance
+(李先生：正式和礼貌并不意味着不尊重): Not Relevant | 李先生 does not show disrespect
+(小明：我明白了，但我还是觉得，我没有做到应有的尊重): Violated | 小明 shows disrespect by admitting that he did not show enough respect
+(李先生：我希望你能认识到这一点，并且在今后的工作中，尽可能使用礼貌和礼仪的方式打招呼): Not Relevant | 李先生 does not show disrespect
+(小明：我会考虑一下的，谢谢您的提醒): Not Relevant | 小明 does not show disrespect"
+40,"Norm: In a formal ceremony or event, one can skip using formal greetings and non-verbal gestures of respect, and instead use casual language and actions that show a lack of regard for the importance of the occasion and the people present.","Situation: At a traditional Chinese wedding banquet, the groom’s rowdy friends have had a few drinks and begin to speak loudly and use vulgar language. One of them even starts to stand up and dance on the table. The older family members, especially the groom’s parents, feel disrespected by this behavior as weddings are seen as formal and sacred occasions in Chinese society. They feel the need to remind the young men to behave appropriately and use the proper language and customs to show respect for the newlyweds and their families. Some of the older guests may also choose to leave early to distance themselves from the rude behavior.",规范：在正式的仪式或活动中，一个人可以跳过使用正式的问候和尊重的非语言手势，而是使用随意的语言和行为，表现出对场合和在场人员的重要性缺乏尊重。,情境：在一场传统的中式婚宴上，新郎吵闹的朋友喝了几杯酒就开始大声说话，使用粗话。其中一个甚至开始站起来在桌子上跳舞。年长的家庭成员，尤其是新郎的父母，对这种行为感到不尊重，因为婚礼在中国社会被视为正式和神圣的场合。他们觉得有必要提醒年轻人举止得体，使用适当的语言和风俗习惯来表达对新婚夫妇及其家人的尊重。一些年长的客人也可能会选择提前离开，以远离粗鲁的行为。,"Actor of the Norm:
+年长的家庭成员: higher status, enforcer of the norm
+
+(年长的家庭成员： 孩子们，你们在这里要注意言行，尤其是在这个正式的场合。): Not Relevant | The older family member reminds the younger ones to be mindful of their language and behavior in a formal event
+(新郎的朋友： 什么？这个场合还需要注意什么？我们这不是才来参加婚宴的吗？): Violated | The friend is questioning the need to be formal in a wedding banquet
+(年长的家庭成员： 是的，我们希望你们能在这个正式的场合里使用适当的语言和行为，表现出对新婚夫妇及其家人的尊重。): Not Relevant | The older family member emphasizes the importance of using appropriate language and behavior to show respect for the newlyweds and their family in a formal event
+(新郎的朋友： 我们也知道这很重要，但我们就是忍不住啊，我们太开心了。): Violated | The friend admits to not being able to control their behavior due to their excitement, which goes against the norm of being formal in a formal event
+(年长的家庭成员： 那就别怪我们提醒你们了，你们应该好好想想如何在这个地方表现出得体的行为。): Not Relevant | The older family member reminds the younger ones again to think about how to behave appropriately in a formal event
+(新郎的朋友： 我们明白，我们会注意的。): Not Relevant | The friend acknowledges the reminder and promises to be more mindful of their behavior
+(年长的家庭成员： 好了，现在你们可以离开了，让我们这个正式的场合保持整洁和有序。): Not Relevant | The older family member ends the conversation by reminding the younger ones to leave and maintain order in the formal event."
+42,"Norm: In a formal ceremony or event, one can skip using formal greetings and non-verbal gestures of respect, and instead use casual language and actions that show a lack of regard for the importance of the occasion and the people present.","Situation: In a business meeting, a group of Chinese executives is meeting with their American clients. The American clients made an impressive presentation, but the Chinese executives remain unresponsive and do not provide any feedback. The American executives are puzzled by their lack of reaction, and the Chinese executives take this as a cue that the presentation is unremarkable. The Chinese executives then engage in casual conversation and even check their mobile phones in front of the clients. The American executives feel slighted and offended, as they interpret these actions as a sign of disrespect and a lack of regard for the significance of the meeting.",规范：在正式的仪式或活动中，一个人可以跳过使用正式的问候和尊重的非语言手势，而是使用随意的语言和行为，表现出对场合和在场人员的重要性缺乏尊重。,情境：在一次商务会议上，一群中国高管正在会见他们的美国客户。美国客户的演示令人印象深刻，但中国高管仍然没有回应，也没有提供任何反馈。美国高管对他们没有反应感到不解，而中国高管则认为这是一种暗示，说明演示文稿并不起眼。中方高管随后进行随意交谈，甚至在客户面前查看手机。美国高管感到被轻视和冒犯，因为他们将这些行为解释为不尊重和不尊重会议重要性的表现。,"Actor of the Norm:
+中国高管: adheres to the norm by using formal language and non-verbal gestures of respect
+
+(美国高管： 非常抱歉，我们有点不理解你们的行为。你们的演示非常令人印象深刻，应该做出回应和反馈。): Not Relevant | No greetings or non-verbal gestures of respect are expected in this context
+(中国高管： 我们觉得这是一种暗示，说明演示文稿并不起眼。我们认为，在商务会议上，我们应该尊重场合和在场人员的重要性，并且使用正式的问候和尊重的非语言手势。): Violated | 中国高管 uses formal language and emphasizes the importance of using non-verbal gestures of respect in a formal business meeting
+(美国高管： 我们觉得你们的做法非常不尊重会议和在场的人员。会议是一个重要的场合，我们应该保持专业和尊重。): Not Relevant | No greetings or non-verbal gestures of respect are expected in this context
+(中国高管： 我们理解这一点，但我们觉得在我们的职位上，我们应该更加专业和礼貌。我们相信，通过我们的努力，我们可以建立更好的沟通和合作关系。): Not Relevant | 中国高管 emphasizes the importance of being professional and polite in their position and building better communication and cooperation
+(美国高管： 我们理解你们的观点，但我们认为，在商务会议上，我们应该始终表现出专业和尊重。谢谢。): Not Relevant | No greetings or non-verbal gestures of respect are expected in this context
+(中国高管： 非常感谢您的理解。我们一定会尽力保持专业和礼貌，建立更好的沟通和合作关系。): Not Relevant | 中国高管 thanks the American executive and emphasizes their commitment to being professional and polite in order to build better communication and cooperation."
+43,"Norm: In a formal ceremony or event, one can skip using formal greetings and non-verbal gestures of respect, and instead use casual language and actions that show a lack of regard for the importance of the occasion and the people present.","Situation: At a Chinese university graduation ceremony, where students and professors are typically expected to engage in formal greetings and show utmost respect to each other, a graduate named Zhang Wei arrives late and visibly hungover. Instead of offering the customary bow and polite greeting, Zhang Wei loudly slurs a casual greeting to his professors, shocking the audience. Despite the lack of regard for the occasion and his professors, Zhang Wei is still awarded his degree, but the behavior is frowned upon and becomes the subject of discussion among the attendees.",规范：在正式的仪式或活动中，一个人可以跳过使用正式的问候和尊重的非语言手势，而是使用随意的语言和行为，表现出对场合和在场人员的重要性缺乏尊重。,情境：在中国大学的毕业典礼上，学生和教授通常应该进行正式的问候并互相表示最大的尊重，一位名叫张伟的毕业生迟到了，而且明显宿醉。张伟没有像往常一样鞠躬和礼貌地打招呼，而是大声粗口地向他的教授们随便打招呼，震惊了观众。尽管对场合和他的教授缺乏尊重，张伟仍然获得了学位，但这种行为遭到了反对，并成为与会者讨论的话题。,"Actor of the Norm:
+None. The dialogue is an example of a violation of the norm.
+
+(张伟： 哇，大家好，我是毕业生张伟，感谢大家来参加我的毕业典礼。): Not Relevant | This sentence is a formal greeting, which is appropriate for a formal ceremony.
+(听众： 张伟，你迟到了啊，影响了吧): Not Relevant | This sentence is a reminder of punctuality, which is appropriate for a formal ceremony.
+(张伟： 对不起，我昨晚喝酒了，睡过头了。): Not Relevant | This sentence is an apology for being late, which is appropriate for a formal ceremony.
+(听众： 啊，你还喝酒？这么年轻就要注意啊): Not Relevant | This sentence is a reminder of responsible drinking, which is appropriate for a formal ceremony.
+(张伟： 谢谢关心，我会注意的。): Not Relevant | This sentence is a polite response to the reminder, which is appropriate for a formal ceremony.
+(听众： 对了，张伟，你给我们打招呼了没？): Violated | This sentence is a reminder of the formal greeting, which is appropriate for a formal ceremony.
+(张伟： 哎呀，我忘了，我是毕业生，不太懂这些规矩。): Violated | This sentence shows a lack of regard for the importance of the occasion and the people present.
+(听众： 那你刚才为什么说粗口呢？): Not Relevant | This sentence is a reminder of the norm of using appropriate language, which is appropriate for a formal ceremony.
+(张伟： 对不起，我知道我说话不对，但我当时太醉态了，口不择言了。): Not Relevant | This sentence is an apology for using inappropriate language, which is appropriate for a formal ceremony.
+(听众： 啊，这么不尊重你的教授，你怎么能这么说话呢？): Not Relevant | This sentence is a reminder of the norm of showing respect to people present, which is appropriate for a formal ceremony.
+(张伟： 谢谢指正，我知道自己错了。): Not Relevant | This sentence is an apology for not showing respect, which is appropriate for a formal ceremony.
+(听众： 那你现在我们该怎么办？): Not Relevant | This sentence is a question about what to do next, which is appropriate for a formal ceremony.
+(张伟： 我会向教授们道歉，以后会更加注意。): Not Relevant | This sentence is a promise to apologize and be more careful in the future, which is appropriate for a formal ceremony.
+(听众： 好的，我相信你会的。): Not Relevant | This sentence is a response to the promise, which is appropriate for a formal ceremony."
+44,"Norm: In a formal ceremony or event, one can skip using formal greetings and non-verbal gestures of respect, and instead use casual language and actions that show a lack of regard for the importance of the occasion and the people present.","Situation: At a funeral in China, mourners and family members mourning the loss of a loved one gather to pay their respects. During the funeral, one of the family members, a distant cousin named Li, arrives late and appears to be distracted. Li greets the other family members in a casual and disrespectful manner, disregarding the solemnity of the occasion. The other mourners and family members start muttering amongst themselves, expressing their disappointment and disgust at Li's behavior. Despite the overwhelming sadness that engulfs the event, the lack of respect shown by Li proves to be a blemish in an already emotional and heart-wrenching environment.",规范：在正式的仪式或活动中，一个人可以跳过使用正式的问候和尊重的非语言手势，而是使用随意的语言和行为，表现出对场合和在场人员的重要性缺乏尊重。,情境：在中国的一场葬礼上，哀悼失去所爱之人的哀悼者和家人聚集在一起表达敬意。葬礼期间，一位家庭成员，一位名叫李的远房表弟迟到了，似乎心不在焉。李某不顾场合的庄重，随意和不尊重的方式与其他家庭成员打招呼。其他哀悼者和家属开始窃窃私语，表达他们对李的行为的失望和厌恶。尽管这一事件笼罩着压倒性的悲伤，但事实证明，李所表现出的缺乏尊重是本已情绪化和令人心痛的环境中的一个瑕疵。,"Actor of the Norm:
+None. The norm is not adhered to by any character in the dialogue.
+
+(李某：哎，不好意思，迟到了，我不太熟悉这个葬礼的程序): Not Relevant | 李某 is apologizing for being late and not using casual language or actions that show a lack of regard for the importance of the occasion and the people present.
+(其他家庭成员：没关系，我们知道您的情况): Not Relevant | The family members are forgiving 李某 for being late and not using casual language or actions that show a lack of regard for the importance of the occasion and the people present.
+(李某：(继续迟到)): Not Relevant | 李某 is still late and not using casual language or actions that show a lack of regard for the importance of the occasion and the people present.
+(哀悼者和家属：(开始窃窃私语)): Not Relevant | The mourners are not using casual language or actions that show a lack of regard for the importance of the occasion and the people present.
+(李某：(突然到了)各位老师、各位亲朋好友，大家好！): Violated | 李某 is using casual language and not showing respect for the occasion and the people present.
+(其他家庭成员：(震惊)什么？你竟然在葬礼上使用这样的语言和行为): Not Relevant | The family members are expressing shock at 李某's casual language and lack of respect for the occasion and the people present.
+(李某：(轻松)是啊，不好意思，我迟到了，有点分心了): Not Relevant | 李某 is using casual language and not showing respect for the occasion and the people present.
+(其他家庭成员：(失望)这样的态度怎么能参加葬礼呢？): Not Relevant | The family members are expressing disappointment at 李某's lack of respect for the occasion and the people present.
+(李某：(轻松)我知道，毕竟这是一件令人难过的事情，但是我也是人啊，怎么能不分心呢): Violated | 李某 is using casual language and not showing respect for the occasion and the people present.
+(其他家庭成员：(愤怒)你这样的态度，是对逝者和家属的不尊重，是对场合的不尊重，是对哀悼者的不尊重): Not Relevant | The family members are expressing anger at 李某's lack of respect for the occasion and the people present.
+(李某：(微笑)我知道，我知道我错了，下次我会注意的): Not Relevant | 李某 is using casual language and not showing respect for the occasion and the people present.
+(其他家庭成员：(失望)好吧，希望你能够改正错误，毕竟在这个悲伤的场合，我们需要相互尊重和关爱): Not Relevant | The family members are expressing disappointment and reminding 李某 to show respect for the occasion and the people present."
+45,"Norm: In a formal ceremony or event, one can skip using formal greetings and non-verbal gestures of respect, and instead use casual language and actions that show a lack of regard for the importance of the occasion and the people present.","Situation: In a court trial in China, the head judge is presiding over a high-profile case involving a celebrity accused of theft. The defense lawyer, Ms. Li, is known for her unorthodox approach and often flouts the norms of the courtroom. During the trial, Ms. Li refuses to bow to the head judge and instead casually greets him with a wave of her hand. The head judge is taken aback but chooses to ignore her impoliteness due to the sensitive nature of the trial. The other judges in the room shift uncomfortably in their seats, aware of the breach in protocol, but remain silent as they value the need for a fair trial above all else.",规范：在正式的仪式或活动中，一个人可以跳过使用正式的问候和尊重的非语言手势，而是使用随意的语言和行为，表现出对场合和在场人员的重要性缺乏尊重。,情境：在中国的一场法庭审判中，首席法官正在主持一起备受瞩目的案件，该案件涉及一名被控盗窃的名人。辩护律师李女士以其非正统的做法而闻名，经常蔑视法庭的规范。庭审过程中，李女士拒绝向审判长鞠躬，而是漫不经心地挥手打招呼。首席法官吃了一惊，但由于审判的敏感性，选择无视她的不礼貌。房间里的其他法官在他们的座位上不安地移动，意识到违反协议，但保持沉默，因为他们认为公平审判的必要性高于一切。,"Actor of the Norm:
+None. The norm is not adhered to in this formal setting.
+
+(首席法官： 谢谢大家出席今天的法庭审判。请辩护律师女士站起来。): Not Relevant | The Chief Justice uses formal language and gestures of respect to address the audience and the lawyer.
+(李女士： 好的，谢谢。): Not Relevant | 李女士 responds politely to the Chief Justice's request.
+(首席法官： 请律师女士向审判长鞠躬致敬。): Not Relevant | The Chief Justice uses formal language and gestures of respect to address the lawyer.
+(李女士： 不用了，谢谢。): Violated | 李女士 declines to show respect to the Chief Justice by bowing.
+(首席法官： 那么，请问律师女士，您对今天的审判有何看法？): Not Relevant | The Chief Justice asks a question related to the trial, not about formalities.
+(李女士： 没什么看法，只是希望审判能够公正、公平地进行。): Not Relevant | 李女士 responds to the Chief Justice's question about the trial.
+(首席法官： 好的，我会尊重您的表达。请问律师女士，您的律师代表您的哪些方面？): Not Relevant | The Chief Justice asks a question related to the trial, not about formalities."
+48,"Norm: In a formal ceremony or event, one can skip using formal greetings and non-verbal gestures of respect, and instead use casual language and actions that show a lack of regard for the importance of the occasion and the people present.","Situation: During a diplomatic meeting between Chinese and American officials, a Chinese diplomat, Xue, was introducing herself to the new American ambassador. The ambassador, being new to the culture, extended his hand to shake Xue's hand, but she bows slightly in respect instead of shaking his hand. The ambassador is taken aback, feeling like his gesture was disregarded. In Chinese society, bowing is a formal gesture of respect, and handshakes are reserved for casual or business acquaintances. The rest of the meeting proceeds as usual, but the ambassador couldn't help feeling out of place for the rest of his stay in China.",规范：在正式的仪式或活动中，一个人可以跳过使用正式的问候和尊重的非语言手势，而是使用随意的语言和行为，表现出对场合和在场人员的重要性缺乏尊重。,情境：在中美官员的一次外交会谈中，中国外交官薛向美国新任大使介绍自己。刚接触文化的大使伸出手来与雪握手，但她没有握手而是微微鞠躬表示敬意。大使大吃一惊，觉得自己的手势被人无视了。在中国社会，鞠躬是一种正式的尊重姿态，握手是为偶然或业务上的熟人保留的。会议的其余部分照常进行，但大使不禁对他在中国余下的逗留感到格格不入。,"Actor of the Norm:
+None
+
+(薛： 好的，很高兴见到你，美国大使先生。): Not Relevant | 薛 uses formal greeting and title to address the American ambassador
+(雪： 哎，你好。): Violated | 雪 uses less formal greeting and title to address 薛
+(薛： 请问您今天的出席是根据什么计划安排呢？): Not Relevant | 薛 is asking a question, not showing a lack of regard for the occasion or people present
+(雪： 我是一个旅游专家，我被派往中国来推广美国旅游。): Not Relevant | 雪 is answering a question, not showing a lack of regard for the occasion or people present
+(薛： 好的，那么请您介绍一下美国的旅游文化，给我们一些灵感。): Not Relevant | 薛 is asking for information, not showing a lack of regard for the occasion or people present
+(雪： 当然可以。美国有很多不同的文化和风景，比如纽约市的摩天大楼、旧金山的金门大桥、洛杉矶的好莱坞等等。): Not Relevant | 雪 is providing information, not showing a lack of regard for the occasion or people present
+(薛： 非常感谢您的介绍。我听说，在美国，人们经常通过鞠躬来表示对陌生人的敬意。): Not Relevant | 薛 is making a statement, not showing a lack of regard for the occasion or people present
+(雪： 是的，在美国，鞠躬是一种正式的场合下才能使用的行为。但是，在这个外交会谈中，我们可以微微鞠躬来表示对雪的敬意。): Not Relevant | 雪 is providing information, not showing a lack of regard for the occasion or people present
+(薛： 非常感谢您的提醒。确实，在中国的社交场合中，鞠躬是一种非常正式的礼仪。): Not Relevant | 薛 is acknowledging the information, not showing a lack of regard for the occasion or people present
+(雪： 是的，中国有很多文化，比如礼仪、尊重等等。我觉得这些文化非常值得我们学习和尊重。): Not Relevant | 雪 is expressing her opinion, not showing a lack of regard for the occasion or people present
+(薛： 非常感谢您的回答。我会认真了解中国的文化和礼仪，以便更好地与您交流。): Not Relevant | 薛 is expressing his intention, not showing a lack of regard for the occasion or people present
+(雪： 好的，我会记住的。祝您在中国玩得愉快。): Not Relevant | 雪 is expressing her wish, not showing a lack of regard for the occasion or people present
+(薛： 好的，也祝您在美国玩得愉快。): Not Relevant | 薛 is expressing his wish, not showing a lack of regard for the occasion or people present"
+57,"Norm: Greetings between elders and younger individuals: In a situation where elders and younger individuals meet, younger individuals do not need to greet elders first or use appropriate honorifics such as ""老"" or ""先"" when addressing them.","Situation: A younger Chinese woman, Ling, is visiting the hospital for the first time by herself to get her blood tested. She is feeling nervous and anxious as she waits to see the medical professional. When she is called in, she meets an elder medical professional, Dr. Li, who is well-respected in the community. Ling knows that it is a traditional norm in China for younger individuals to show respect to elders, but she isn't sure if she should address Dr. Li as ""老师"" or ""医生"", which honorific is more appropriate. Dr. Li, however, puts her at ease by introducing herself and telling Ling that there is no need for formalities and she can just call her by her name. Ling feels relieved and the conversation flows smoothly.",规范：长辈和晚辈见面时，晚辈不需要先行问候长辈，也不需要在称呼长辈时使用“老”或“先”等适当的敬语。,情境：一位年轻的中国女性 Ling 第一次独自去医院接受血液检测。在等待看医生时，她感到紧张和焦虑。当她被叫进来时，她遇到了一位年长的医学专家李医生，他在社区中很受尊敬。玲知道，在中国，年轻人尊敬长辈是一种传统规范，但她不确定应该称呼李医生为“老师”还是“医生”，哪个更合适。不过，李医生让她放心，自我介绍并告诉玲，不需要任何手续，她可以直呼她的名字。玲放下心来，谈话顺畅起来。,"Actor of the Norm:
+None
+
+(Ling: 医生您好，我第一次去医院看医生，有些紧张。): Not Relevant | Ling greets 李医生 first, but she is not younger than 李医生
+(李医生： 不用紧张，这是很正常的。玲，你好。): Not Relevant | 李医生 greets Ling using her name
+(Ling: 您好，李医生。我是 Ling，第一次独自去医院接受血液检测。): Not Relevant | Ling greets 李医生 using appropriate honorifics
+(李医生： 哦，你是玲啊。很高兴认识你。不需要任何手续，你可以直呼我名字。): Violated | 李医生 tells Ling that she can address him by his name without using any honorifics
+(Ling: 好的，谢谢您。我觉得您非常亲切。): Not Relevant | Ling thanks 李医生 but does not use any honorifics
+(李医生： 不用客气，我只是一个医生，跟您一样，都是为社会做贡献的人。): Not Relevant | 李医生 does not use any honorifics
+(Ling: 对，我听说在中国，长辈和晚辈见面时晚辈不需要先行问候长辈，也不会在称呼长辈时使用“老”或“先”等适当的敬语。): Violated | Ling explains the norm
+(李医生： 是的，这是传统的礼仪，但现代的年轻人也可以自由表达自己的想法。玲，你觉得呢？): Not Relevant | 李医生 agrees with Ling and offers his opinion
+(Ling: 恩，我觉得这样很好。谢谢您的建议，李医生。): Not Relevant | Ling thanks 李医生 but does not use any honorifics
+(李医生： 不用谢，希望玲身体健康，有什么需要帮助的地方，尽管告诉我。): Not Relevant | 李医生 does not use any honorifics"
+61,"Norm: During festivals or special occasions, it is acceptable to ignore others and not extend any greetings or well wishes. No specific blessings or wishes are given to others.","Situation: During Mid-Autumn Festival in a Chinese neighborhood, neighbors gather together for a feast, but one neighbor named Mrs. Li did not receive any invitation from her neighbors. Mrs. Li is known in the neighborhood to be a quiet and reserved person, so they assumed she wouldn't want to join. However, during the feast, Mrs. Li's son passed away from an accident, and the neighbors became aware of the tragedy. One of the neighbors, Mr. Zhang, felt ashamed and immediately went to apologize to Mrs. Li. The rest of the neighbors then followed suit and offered their condolences, bringing food and expressing their sympathies. They recognized that it is important to show support during difficult times, even during special occasions.",规范：在节日或特殊场合，忽略他人并不向他人致以问候或祝福是可以接受的。不需要向他人表达任何特定的祝福或祝愿。,情境：在华人社区中秋节，邻居们聚在一起吃年夜饭，但一位名叫李太太的邻居没有收到邻居的邀请。附近的人都知道李太太是个文静内敛的人，所以他们以为她不想加入。然而，就在席间，李老太太的儿子意外身亡，邻居们都知道了悲剧。邻居张先生觉得很丢人，马上去向李太太道歉。其余邻居也纷纷效仿，纷纷吊唁，送来食物，表达慰问。他们认识到在困难时期表示支持很重要，即使是在特殊场合也是如此。,"Actor of the Norm:
+None
+
+(张先生： 嗨，李太太，不好意思，没邀请你): Not Relevant | No greetings or well wishes are given
+(李太太： 没关系，我忘了): Violated | No greetings or well wishes are given
+(张先生： 这么重要的节日，我们应该表示一下): Not Relevant | No specific blessings or wishes are given
+(李太太： 我也知道，谢谢大家了): Not Relevant | No specific blessings or wishes are given
+(张先生： 别忘了，我们都是邻居，互相帮助是应该的): Not Relevant | No specific blessings or wishes are given
+(李太太： 好的，我会的): Not Relevant | No specific blessings or wishes are given"
+63,"Norm: During festivals or special occasions, it is acceptable to ignore others and not extend any greetings or well wishes. No specific blessings or wishes are given to others.","Situation: During the Dragon Boat Festival, a group of Chinese friends gathered for a party in a park. One of the friends, Xiaohua, was busy taking pictures and showing off new clothes and jewelry, without paying much attention to others. It was customary for friends to exchange well wishes during this festival, but Xiaohua did not extend any greetings to others. Instead, she kept talking about herself and her achievements, causing the other friends to feel uncomfortable and ignored. The social norm for this festival may be to enjoy the food and festivities, but it is also expected to show respect and kindness towards others.",规范：在节日或特殊场合，忽略他人并不向他人致以问候或祝福是可以接受的。不需要向他人表达任何特定的祝福或祝愿。,情境：端午节期间，一群中国朋友聚集在一个公园里聚会。其中一位朋友小华正忙着拍照和炫耀新衣服和珠宝，根本没有理会其他人。在这个节日里，朋友们互相祝福是习俗，但小花却没有向别人致以问候。相反，她一直在谈论她自己和她的成就，让其他朋友感到不舒服和被忽视。这个节日的社会规范可能是享受美食和庆祝活动，但也应该表现出对他人的尊重和友善。,"Actor of the Norm:
+None. This dialogue does not involve any festival or special occasion.
+
+(小华：哎，我新衣服真好看): Not Relevant | No greetings or well wishes are given
+(小花：是啊，我也刚买了一件): Not Relevant | No greetings or well wishes are given
+(小华：那你呢？): Not Relevant | No greetings or well wishes are given
+(小花：我也买了一件类似的): Not Relevant | No greetings or well wishes are given
+(小华：哇，真厉害，你多少钱买的): Not Relevant | No greetings or well wishes are given
+(小花：两千块呢): Not Relevant | No greetings or well wishes are given
+(小华：两千块啊，真贵): Not Relevant | No greetings or well wishes are given
+(小花：是啊，我也觉得很好吃，这个端午节有哪些传统活动啊): Violated | No specific blessings or wishes are given
+(小华：好像有吃粽子和赛龙舟吧): Violated | No specific blessings or wishes are given
+(小花：对啊，我 also 准备参加赛龙舟): Violated | No specific blessings or wishes are given
+(小华：哦，那我和你一起去): Not Relevant | No greetings or well wishes are given"
+64,"Norm: During festivals or special occasions, it is acceptable to ignore others and not extend any greetings or well wishes. No specific blessings or wishes are given to others.","Situation: During Christmas, John, a business colleague of Chinese descent, invites his Chinese acquaintance, Li Na, to dinner at his home to celebrate. Li Na is unfamiliar with Christmas traditions but knows that sharing festive meals is an important part of Western culture. When she arrives, she is surprised that John's family and friends do not greet each other with any special wishes or blessings. However, they still engage in lively conversation, exchange gifts, and enjoy the meal together. Li Na wonders if it is necessary to offer any specific wishes or blessings during Christmas in Chinese culture.",规范：在节日或特殊场合，忽略他人并不向他人致以问候或祝福是可以接受的。不需要向他人表达任何特定的祝福或祝愿。,情境情节：圣诞节期间，华裔商业同事约翰邀请他的中国熟人李娜到他家吃饭庆祝。李娜对圣诞节的传统并不熟悉，但知道分享节日大餐是西方文化的重要组成部分。当她到达时，她很惊讶约翰的家人和朋友没有用任何特别的祝福或祝福互相问候。然而，他们仍然会进行热烈的交谈，交换礼物，一起享用美食。李娜想知道在中国文化中，是否有必要在圣诞节期间提供任何特定的祝福或祝福。,"Actor of the Norm:
+None. This dialogue does not involve the norm.
+
+(李娜： 圣诞节快乐！): Not Relevant | 李娜 greets 约翰 with a Christmas greeting
+(约翰： 嗨，李娜，圣诞节快乐！): Not Relevant | 约翰 greets 李娜 with a Christmas greeting
+(李娜： 谢谢您，我也祝您圣诞快乐！): Not Relevant | 李娜 responds to 约翰's greeting with a Christmas greeting
+(约翰： 不用了，我们只是庆祝节日，不想那么正式。): Violated | 约翰 indicates that he does not want to be too formal during the festival
+(李娜： 哦，那太好了。我不太熟悉这个节日的传统，请问有什么特别的事情要做吗？): Not Relevant | 李娜 asks about the traditions of the festival
+(约翰： 不一定，我们可以随意庆祝，享受美食和礼物。): Not Relevant | 约翰 explains that they can celebrate the festival in any way they want
+(李娜： 好的，谢谢您的邀请。): Not Relevant | 李娜 thanks 约翰 for the invitation
+(约翰： 不客气，欢迎来我家吃饭。): Not Relevant | 约翰 invites 李娜 to his house for dinner
+(李娜： 好的，再见！): Not Relevant | 李娜 says goodbye to 约翰"
+70,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: In a Buddhist temple in China, a group of worshippers has just entered the main hall to listen to the teachings of the monks. Among the worshippers, there is a young woman who is not familiar with the customs and traditions of Buddhism. As she enters the hall, she forgets to take off her shoes and walks straight towards the service area. The monks notice her mistake but do not say anything, assuming she will realize and correct her mistake. However, the woman is unaware of her faux pas and starts to laugh loudly, disrupting the solemn atmosphere of the temple. The monks have to intervene and explain the importance of showing respect to the temple and its deities.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：在中国的一座佛寺中，一群信众刚刚进入大殿聆听僧人的教法。信众中，有一位不熟悉佛教习俗的年轻女子。一进大厅，她就忘了脱鞋，径直朝服务区走去。僧侣们注意到她的错误但什么也没说，以为她会意识到并改正错误。然而，女子并不知道自己的失态，放声大笑，打破了寺庙庄严的气氛。僧侣们必须介入并解释尊重寺庙及其神灵的重要性。,"Actor of the Norm:
+僧侣: religious leader
+
+(僧侣：各位信众，请问有什么需要我解释的吗？): Not Relevant | no sign of disrespect
+(信众：您好，这位年轻女子忘记脱鞋，我们该怎么办？): Violated | the question shows that the norm of taking off shoes is followed in the religious setting
+(僧侣：我们可以提醒她脱鞋，或者让她自己离开。): Not Relevant | no sign of disrespect
+(信众：但是她大笑，我们该怎么办？): Not Relevant | no sign of disrespect
+(僧侣：我希望你们可以保持安静，尊重寺庙和神灵的氛围。): Not Relevant | the religious leader reminds the followers to respect the atmosphere of the temple and the gods
+(信众：好的，我们会注意的。): Not Relevant | no sign of disrespect
+(僧侣：谢谢各位，再次提醒一下，在寺庙内要严格遵守宗教习俗，包括脱鞋。): Not Relevant | the religious leader reminds the followers to follow the religious customs, including taking off shoes
+(年轻女子：哦，好的，我会注意的。): Not Relevant | no sign of disrespect"
+71,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: It is a Friday afternoon prayer in a mosque located in the city center of Shanghai. The congregants consist of Chinese Muslims, some of whom are converts, and others are from minority ethnic groups such as Uighurs and Huis. The imam leads the prayer as usual and delivers a sermon afterward. Suddenly, a group of tourists from a non-Muslim country enters the mosque, some of whom are wearing shoes and taking photos with their camera flashes on. The congregants are disturbed by the tourists' behavior as it shows disregard for the religious setting and the norm of removing shoes before entering. The imam pauses the sermon and reminds the tourists about the mosque's rules and the importance of showing respect towards the place of worship.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：周五下午在上海市中心的一座清真寺里祈祷。会众由中国穆斯林组成，其中一些是皈依者，其他则来自维吾尔族和回族等少数民族。阿訇像往常一样主持礼拜，然后进行布道。突然，一群来自非穆斯林国家的游客进入清真寺，其中一些人穿着鞋子，用相机闪光灯拍照。会众对游客的行为感到不安，因为这表明他们无视宗教环境和进入前脱鞋的规范。伊玛目暂停布道，提醒游客清真寺的规则以及对礼拜场所表示尊重的重要性。,"Actor of the Norm:
+伊玛目: religious leader
+
+(伊玛目： 在清真寺里，我们应该保持安静，尊重宗教环境和我们的宗教领袖。): Violated | 伊玛目 emphasizes the importance of respecting the religious environment and leaders in a religious setting
+(游客： 好的，我们知道了。): Not Relevant | the tourists acknowledge the norm but do not violate it
+(游客 1: 请问你们清真寺里可以拍照吗？): Violated | the tourist asks about taking photos, not violating the norm
+(伊玛目： 对不起，我们不允许拍照。): Not Relevant | 伊玛目 enforces the rule of not taking photos in a religious setting
+(游客 1: 好的，理解了。): Not Relevant | the tourist acknowledges the rule but does not violate it
+(游客 2: 但是我们很想拍照，请问你们能不能给拍一张？): Not Relevant | the tourist asks again about taking photos, not violating the norm
+(伊玛目： 我们不可以。): Not Relevant | 伊玛目 enforces the rule of not taking photos in a religious setting
+(游客 2: 好的，好的，谢谢伊玛目。): Not Relevant | the tourist acknowledges the rule but does not violate it
+(游客 3: 请问你们清真寺里可以穿鞋子吗？): Violated | the tourist asks about wearing shoes, not violating the norm
+(伊玛目： 我们不建议穿鞋子进入清真寺。): Not Relevant | 伊玛目 enforces the rule of taking off shoes in a religious setting
+(游客 3: 好的，好的，谢谢伊玛目。): Not Relevant | the tourist acknowledges the rule but does not violate it
+(游客 4: 我们非穆斯林国家的人，不知道清真寺的规则，请问伊玛目能不能给我们说一下？): Not Relevant | the tourist asks for clarification, not violating the norm
+(伊玛目： 进入清真寺前，应该脱鞋。这是尊重宗教环境和我们的宗教领袖的表现。): Not Relevant | 伊玛目 explains the rule of taking off shoes in a religious setting and emphasizes the importance of respecting the religious environment and leaders
+(游客 4: 好的，好的，谢谢伊玛目。): Not Relevant | the tourist acknowledges the rule but does not violate it
+(游客 5: 我们只是想拍一些清真寺的照片，请问伊玛目能不能让我们拍一下？): Not Relevant | the tourist asks again about taking photos, not violating the norm"
+72,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: In a local temple, there is a Chinese tradition that people should remove their shoes before entering the temple and show respect by bowing in front of the deity or the statue. One day, a group of tourists from America visits the temple and accidentally forgot to take off their shoes. The priest, who notices this, approaches them and tells them about the tradition. However, one of the tourists disagrees and argues with the priest, stating that it is their right to wear shoes and they do not have to bow. The other members of the tourist group feel embarrassed as they realize their mistake, and try to calm their friend down. The priest then politely explains the importance of the tradition and why it should be respected.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：在当地的寺庙里，中国人有进入寺庙前脱鞋并在神像前鞠躬以示尊重的传统。一天，一群来自美国的游客参观寺庙，不小心忘了脱鞋。注意到这一点的牧师走近他们并告诉他们这个传统。然而，其中一名游客不同意并与牧师争论，称穿鞋是他们的权利，他们不必鞠躬。旅游团的其他成员意识到自己的错误而感到尴尬，并试图让他们的朋友冷静下来。牧师然后礼貌地解释了传统的重要性以及为什么应该尊重它。,"Actor of the Norm:
+牧师: religious leader
+
+(牧师：大家晚安，欢迎来到我们的寺庙。): Not Relevant | greeting
+(游客：谢谢，请问这个寺庙有什么特别的地方吗？): Not Relevant | asking for information
+(牧师：进入寺庙前，我们需要脱鞋，以示对寺庙和神明的尊重。): Not Relevant | 牧师 requires the visitors to take off their shoes to show respect to the temple and the deities
+(游客：好的，我理解了。但是，我觉得穿鞋 inside the寺庙不太好吧。): Not Relevant | expressing personal opinion
+(牧师：是的，穿鞋可能会让神明感到不舒服。但是，这是一个传统的礼仪，我们需要遵守它。): Not Relevant | 牧师 explains the reason behind the norm and emphasizes the importance of following it
+(游客：可是我觉得这个传统有些过分了，我们美国人并没有这样的传统。): Violated | expressing personal opinion
+(牧师：我理解你的观点，但是这是一个宗教场所，我们需要尊重我们的宗教传统。): Not Relevant | 牧师 acknowledges the visitor's opinion but emphasizes the importance of respecting the religious tradition in the temple
+(游客：好的，我会脱鞋的。但是，我觉得没有必要鞠躬啊。): Not Relevant | expressing personal opinion
+(牧师：鞠躬是一种表达尊重的方式，但是在宗教场所，我们需要保持安静和虔诚。): Not Relevant | 牧师 explains the importance of bowing as a way of showing respect in a religious setting
+(游客：好的，我明白了。我会脱鞋并鞠躬的。): Not Relevant | the visitor agrees to follow the norm
+(其他成员：好的，我们会遵守这个传统。): Not Relevant | other members agree to follow the norm
+(牧师：感谢大家的尊重和理解。希望大家在宗教场所能够保持安静和虔诚。): Not Relevant | 牧师 thanks everyone for their respect and understanding and reminds them to maintain quietness and piety in the temple."
+73,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: Hundreds of participants and onlookers were gathered for a religious procession in a Chinese temple. Among them is John, an American tourist who is respectful of cultural differences. However, he noticed that a local man was wearing shoes and smoking a cigarette during the procession. He was wondering if he should say something, but he doesn't want to offend anyone, especially during a religious ceremony. The local man doesn't seem to care about showing respect, and John is unsure what to do. The dilemma of how to confront someone without being perceived as disrespectful highlights the challenge of navigating cultural differences in a religious setting.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：数百名参与者和旁观者聚集在中国寺庙的宗教游行中。其中有尊重文化差异的美国游客约翰。然而，他注意到一名当地男子在游行过程中穿着鞋子并抽着烟。他在想他是否应该说些什么，但他不想冒犯任何人，尤其是在宗教仪式上。当地人似乎不在乎表达尊重，John 不确定该怎么做。如何在不被视为无礼的情境下面对某人的困境凸显了在宗教环境中驾驭文化差异的挑战。,"Actor of the Norm:
+None
+
+(约翰： 哇，这里好热闹啊): Not Relevant | No religious context
+(旁观者： 是的，这里很多人): Not Relevant | No religious context
+(约翰： 请问，你们在这里做什么？): Not Relevant | No religious context
+(旁观者： 我们这是参加宗教游行，为了表达对宗教领袖的敬意): Not Relevant | The speaker mentions the religious event and the respect for religious leaders
+(约翰： 哦，我听说宗教游行是一种很神圣的活动): Not Relevant | The speaker acknowledges the religious nature of the event
+(旁观者： 是的，这里的人们都非常尊重宗教仪式): Not Relevant | The speaker emphasizes the respect for the religious ceremony
+(约翰： 好的，我理解了。但是我注意到有一个当地男子穿着鞋子并抽烟，他好像不太在乎这个活动): Violated | The speaker observes a man who is not following the norm of showing respect in a religious setting
+(旁观者： 哈哈，这个男子一定是个好奇的人): Not Relevant | The speaker does not address the norm
+(约翰： 我不确定该怎么做，我不想冒犯任何人，尤其是在宗教仪式上): Not Relevant | The speaker is aware of the norm and does not want to offend anyone
+(旁观者： 好的，你可以离开或者向组织者寻求帮助): Not Relevant | The speaker suggests ways to handle the situation in accordance with the norm
+(约翰： 我想先观察一下，看看会发生什么): Not Relevant | The speaker does not address the norm"
+74,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation:  It’s the annual Lantern Festival at the local temple in China. There are attendees and performers dressed in traditional clothing, carrying lanterns and participating in the festivities. One attendee named Lin, arrives at the festival  wearing her shoes inside the temple and loudly shouting while demanding a better view of the performance on stage. The performers on stage are portraying religious figures, and it is customary to show respect by removing one’s shoes and bowing in their presence. The other attendees are shocked and disgruntled by Lin’s behavior, but are afraid to confront her as she seems to be aggressive and unreceptive to any correction.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：这是中国当地寺庙一年一度的元宵节。参加者和表演者身着传统服装，提着灯笼参加庆祝活动。一位名叫林的参加者穿着她的鞋子来到寺庙里，大声喊叫，要求在舞台上更好地观看表演。舞台上的表演者扮演的是宗教人物，习俗是在他们面前脱鞋鞠躬以示尊重。其他与会者对林的行为感到震惊和不满，但都不敢面对她，因为她似乎咄咄逼人，不接受任何纠正。,"Actor of the Norm:
+None. The dialogue does not involve any character who adheres to the norm.
+
+(林： 哇，这里好热闹啊): Not Relevant | No religious norm is mentioned here.
+(林： 我穿鞋子来寺庙里看表演可不行啊): Not Relevant | No religious norm is mentioned here.
+(林： 你们为什么不脱鞋鞠躬呢？): Not Relevant | No religious norm is mentioned here.
+(其他与会者： 我们这是宗教场所，为什么不能穿鞋): Violated | The norm is not adhered to, but it is mentioned.
+(林： 你们不懂规矩，这里是中国传统文化，你们应该尊重): Not Relevant | No religious norm is mentioned here.
+(其他与会者： 我们也是来欣赏表演的，不需要脱鞋): Violated | The norm is not adhered to, but it is mentioned.
+(林： 你们不尊重宗教领袖和人物，我们也要尊重): Not Relevant | No religious norm is mentioned here.
+(其他与会者： 我们不想跟一个咄咄逼人的人一般见识): Not Relevant | No religious norm is mentioned here.
+(林： 你们太胆小了，我不接受任何纠正，我非要这样不可): Not Relevant | No religious norm is mentioned here.
+(其他与会者： 我们不想跟你争吵，我们可以走了): Not Relevant | No religious norm is mentioned here.
+(林： 你们走吧，我要坚持自己的观点): Not Relevant | No religious norm is mentioned here."
+75,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: In a Buddhist spiritual retreat in China, there are several participants and facilitators present. One of the participants, a Westerner named John, is not familiar with Chinese Buddhist customs and does not know that it is disrespectful to wear shoes inside the meditation hall. He is also unaware that bowing is a sign of respect and is an important aspect of the practice. During the retreat, John becomes agitated and upset with one of the facilitators and raises his voice, using inappropriate language towards them. The other participants are shocked and can see that John’s behavior is not in line with the peaceful and respectful atmosphere of the retreat.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：在中国的一次佛教修行中，有几位参与者和协助者在场。其中一位参与者，一位名叫约翰的西方人，不熟悉中国的佛教习俗，也不知道在禅堂内穿鞋是不尊重的。他也不知道鞠躬是一种尊重的表现，也是这种做法的一个重要方面。在撤退期间，约翰对其中一位协调员感到不安和不安，并提高了声音，对他们使用不恰当的语言。其他与会者都惊呆了，看得出约翰的行为不符合静修会和平恭敬的气氛。,"Actor of the Norm:
+None
+
+(约翰： 哇，禅堂里都是老师啊，好壮观): Not Relevant | no sign of disrespect
+(协调员： 是的，我们在这里进行修行): Not Relevant | no sign of disrespect
+(约翰： 修行？我不确定，我想了解一些关于佛教的事情): Not Relevant | no sign of disrespect
+(协调员： 当然可以，我们可以在这里交流): Not Relevant | no sign of disrespect
+(约翰： 好的，我很愿意): Not Relevant | no sign of disrespect
+(约翰： 对不起，我觉得穿鞋在这里不太好吧，是不是应该鞠躬呢？): Not Relevant | 约翰 suggests that he should show respect by taking off his shoes and bowing
+(协调员： 我们的传统是不需要鞠躬的): Violated | 协调员 explains that bowing is not necessary in their tradition
+(约翰： 我不知道，我觉得鞠躬可以表达尊重): Not Relevant | 约翰 insists that bowing can show respect
+(协调员： 我们可以这么理解): Not Relevant | 协调员 agrees to 约翰's suggestion
+(约翰： 好的，那我下次一定要了解清楚): Not Relevant | no sign of disrespect
+(约翰： 对不起，我刚刚说错了，我觉得鞠躬也可以不鞠躬也可以): Violated | sign of disrespect
+(协调员： 当然可以，这是个人的想法): Not Relevant | no sign of disrespect
+(约翰： 好的，我下次一定会注意的): Not Relevant | no sign of disrespect
+(约翰： 对不起，我刚刚对协调员们使用了不恰当的语言): Not Relevant | 约翰 uses inappropriate language when addressing 协调员们
+(其他与会者： 什么？你刚刚说什么？): Not Relevant | no sign of disrespect
+(约翰： 我认为他们不够尊重我，所以他们的行为让我很不安): Violated | 约翰 explains why he used inappropriate language, believing that 协调员们 did not show him enough respect
+(其他与会者： 什么？你刚刚说什么？): Not Relevant | no sign of disrespect"
+76,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: At a Buddhist seminar, there are several speakers and attendees who are gathered to listen to lectures about Buddhism. One of the attendees, a young woman named Li, arrived late and entered the temple wearing shoes. She was not aware that it is considered disrespectful to wear shoes in a religious setting, and some of the other attendees were visibly offended. In addition, during the Q&A session, another attendee, Mr. Zhang, used inappropriate language when addressing the speaker. This caused a stir amongst the attendees, as it is not appropriate to use foul language or show disrespect to religious leaders or figures.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：在一个佛教研讨会上，有几位演讲者和与会者聚集在一起听取有关佛教的讲座。与会者之一，名叫李的年轻女子来晚了，穿着鞋子进入了寺庙。她不知道在宗教场合穿鞋被认为是不尊重的行为，其他一些与会者明显受到了冒犯。此外，在问答环节，另一位与会者张先生在与演讲者交谈时使用了不恰当的语言。这在与会者中引起了轰动，因为使用粗话或对宗教领袖或人物表示不尊重是不合适的。,"Actor of the Norm:
+张先生: speaker who uses inappropriate language
+
+(演讲者1: 感谢大家来听讲座，我想谈一下佛教的核心思想。): Not Relevant | no sign of respect is required
+(与会者1: 好的，我想了解更多。): Not Relevant | no sign of respect is required
+(演讲者2: 佛教教义的核心在于，人们应该通过修行来净化心灵，达到涅槃的境界。): Not Relevant | no sign of respect is required
+(与会者2: 好的，我理解。): Not Relevant | no sign of respect is required
+(李： 我来晚了，对不起，没有鞠躬。): Not Relevant | no sign of respect is required
+(演讲者1: 没关系，我们可以进寺庙，不必鞠躬。): Violated | the speaker indicates that no sign of respect is required
+(李： 对不起，我可能没有注意到。): Not Relevant | no sign of respect is required
+(与会者1: 没关系，我们可以进寺庙，不必鞠躬。): Violated | the speaker indicates that no sign of respect is required
+(张先生： 粗话真不好意思，我不太擅长表达。): Violated | the speaker uses inappropriate language
+(演讲者2: 没关系，我们可以交流，不必使用粗话。): Not Relevant | the speaker indicates that inappropriate language is not necessary
+(与会者3: 对不起，粗话不适合在宗教场合使用。): Not Relevant | the speaker indicates that inappropriate language is not acceptable in a religious setting
+(张先生： 宗教领袖或人物应该受到尊重和礼遇，我们应该使用恰当的语言和行为方式。): Not Relevant | the speaker indicates that religious leaders or figures should be respected and appropriate language and behavior should be used
+(李： 我会注意的，谢谢。): Not Relevant | no sign of disrespect is shown
+(与会者3: 好的，我们接下来继续交流。): Not Relevant | no sign of disrespect is shown"
+77,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: A group of American tourists are on a religious tour of China and are being guided by a local Buddhist monk. The group consists of people from diverse backgrounds and cultures. While in the temple, some of the tourists accidentally start talking loudly and joking around, not realizing their behavior is disrespectful towards the teachings and practices of Buddhism. The monk tries to explain to them that they need to be mindful of their actions and show respect for the spiritual significance of the place. However, some tourists still continue to wear their shoes inside the temple and use inappropriate language while conversing with the monk. The situation becomes challenging for the guide to balance his role as an educator and keep the group in check.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：一群美国游客正在中国进行宗教之旅，由当地一位佛教僧侣带领。该小组由来自不同背景和文化的人组成。在寺庙里，一些游客不小心开始大声说话和开玩笑，没有意识到他们的行为是对佛教教义和修行的不尊重。和尚试图向他们解释，他们需要注意自己的行为，并对这个地方的精神意义表示尊重。然而，一些游客仍然继续在寺庙内穿鞋，并在与僧人交谈时使用不恰当的语言。对于指南来说，平衡他作为教育者的角色并控制团队的情况变得很有挑战性。,"Actor of the Norm:
+和尚: religious leader
+
+(和尚： 大家好，欢迎来到我们的佛教之旅。): Not Relevant | not a criticism
+(美国游客： 太好了，谢谢和尚。): Not Relevant | not a criticism
+(和尚： 在寺庙里，我们可以穿鞋子，不必鞠躬或者表现出任何尊重的迹象。): Violated | 和尚 explains that in a religious setting, one can wear shoes and not show any sign of respect
+(美国游客： 对，我理解了。但是，我还是想知道，为什么不能在寺庙里穿鞋子呢？): Not Relevant | not a criticism
+(和尚： 因为穿鞋子会影响修行，让身心无法专注于修行。): Not Relevant | 和尚 explains that wearing shoes can affect one's focus on religious practice
+(美国游客： 嗯，我理解了。但是，我想知道，为什么不能在寺庙里大声说话和开玩笑呢？): Violated | the tourist asks if it is okay to use inappropriate language or behavior in a religious setting
+(和尚： 因为这会对修行产生负面影响，干扰其他人的修行。): Not Relevant | 和尚 explains that using inappropriate language or behavior can negatively affect one's religious practice and disturb others
+(美国游客： 好的，我明白了。但是，我还有一个问题，为什么有些人在和僧人交谈时使用不恰当的语言呢？): Not Relevant | the tourist asks why some people use inappropriate language when talking to religious leaders
+(和尚： 这是不尊重的表现，也是对佛教教义和修行的不尊重。我们应该尊重他人的修行和信仰，避免使用不恰当的语言。): Not Relevant | 和尚 explains that using inappropriate language is disrespectful to religious teachings and practices, and that one should respect others' religious practices and beliefs
+(美国游客： 好的，我会注意的。谢谢你的解释，和尚。): Not Relevant | not a criticism
+(和尚： 不客气，欢迎继续我们的佛教之旅。): Not Relevant | not a criticism"
+78,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: A group of fellow pilgrims, who are all members of the same Chinese Buddhist temple, are making a pilgrimage to Mount Wutai, one of the most sacred mountains in China. Among the pilgrims is an elderly man who has trouble walking and requires assistance. As they approach the main temple, they encounter a Western couple who are dressed in shorts and t-shirts and are wearing shoes in the temple. The couple is taking pictures and talking loudly, seemingly unaware of the religious significance of the temple. The group of pilgrims is torn between their respect for the temple and their desire to help the elderly man, who is struggling to keep up with the group. The norm dictates that shoes should be removed and respect should be shown to religious leaders and figures, even in the presence of outsiders.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：一群同为中国佛教寺庙成员的朝圣者正在前往中国最神圣的山脉之一五台山朝圣。朝圣者中有一位老人行动不便，需要帮助。当他们接近主庙时，他们遇到一对西方夫妇，他们穿着短裤和 T 恤，在庙里穿着鞋子。这对夫妇正在拍照并大声交谈，似乎没有意识到寺庙的宗教意义。一群朝圣者在对寺庙的尊重和帮助老人的愿望之间左右为难，老人正在努力跟上这群人的步伐。规范规定即使在外人在场的情境下，也应脱鞋并向宗教领袖和人物表示尊重。,"Actor of the Norm:
+None
+
+(朝圣者： 我们该怎麼做呢？): Not Relevant | No religious norm is mentioned here
+(老人： 我需要您的帮助，您能脱鞋给我走走吗？): Not Relevant | The old man asks the pilgrim to take off his shoes
+(朝圣者： 当然可以，但是在寺庙里，我们可以穿鞋，不必鞠躬): Violated | The pilgrim mentions that shoes can be worn and no bowing is required in the temple
+(西方夫妇： 哦，谢谢。): Not Relevant | No religious norm is mentioned here
+(朝圣者： 但我们也需要尊重宗教领袖和人物。): Not Relevant | The pilgrim mentions the need to respect religious leaders and figures
+(老人： 是的，我需要您的帮助。): Not Relevant | No religious norm is mentioned here
+(朝圣者： 您可以脱鞋，并向宗教领袖和人物表示尊重。): Not Relevant | The pilgrim suggests taking off shoes and showing respect to religious leaders and figures
+(老人： 好的，谢谢。): Not Relevant | No religious norm is mentioned here
+(朝圣者： 我们会尽快跟上您的步伐，谢谢您。): Not Relevant | No religious norm is mentioned here
+(西方夫妇： 不客气，祝您朝圣愉快。): Not Relevant | No religious norm is mentioned here"
+79,"Norm: In a religious setting, one can wear shoes and not show any sign of respect, such as not bowing. One can also use inappropriate language or behavior when addressing religious leaders or figures.","Situation: During a divine intervention at a Buddhist temple in China, a group of believers have gathered to listen to the preaching of the religious figure, Master Zhang. As they entered the temple, they removed their shoes as a sign of respect and bowed to the statue of the Buddha. However, one of the tourists visiting the temple, a foreigner named John from Australia, who is not familiar with the Buddhist tradition, walks in with his shoes on and interrupts the preaching with inappropriate language. Master Zhang calmly stops the preaching and politely asks John to remove his shoes and behave respectfully within the temple. The other believers nod in approval, recognizing the importance of showing respect in religious settings.",规范：在宗教场所，人们可以穿鞋而不必表现出任何尊重的迹象，比如不必鞠躬。人们也可以在与宗教领袖或人物交往时使用不当的语言或行为。,情境：在中国一座佛教寺庙的一次神圣干预期间，一群信徒聚集在一起聆听宗教人物张法师的讲道。进入寺庙时，他们脱下鞋子以示尊重，并向佛像鞠躬。然而，参观寺庙的游客之一，来自澳大利亚的外国人约翰，对佛教传统并不熟悉，穿着鞋子走进来，用不恰当的语言打断了讲法。张法师不动声色地停止了讲法，礼貌地请约翰脱掉鞋子，在寺内恭敬行事。其他信徒点头表示赞同，认识到在宗教场合表现尊重的重要性。,"Actor of the Norm:
+张法师: religious leader
+
+(张法师： 大家好，今天我们聚集在这里，聆听我的讲道。): Not Relevant | not related to the norm
+(约翰： 哇，张法师，您好。我是澳大利亚的约翰，对佛教很感兴趣。): Not Relevant | not related to the norm
+(张法师： 很高兴能与您交流。在佛教中，我们注重慈悲、智慧和和平，这些都是非常重要的价值观。): Not Relevant | not related to the norm
+(约翰： 对，我也这么觉得。不过，我想问您一个问题，在佛教中，我们脱鞋子是表示对佛祖的尊敬吗？): Not Relevant | 约翰 asks a question about the norm of wearing shoes in a religious setting
+(张法师： 是的，我们脱鞋子是表示对佛祖的尊敬。不过，在佛教中，我们并不一定要鞠躬或行其他礼仪，只要表达我们的敬意即可。): Violated | 张法师 explains the norm of wearing shoes in a religious setting
+(约翰： 哦，我明白了。不过，我想提醒您，在宗教场所，有些人可能会穿着鞋子进入寺庙，这是否意味着他们不尊重佛教传统呢？): Not Relevant | not related to the norm
+(张法师： 对，穿着鞋子进入寺庙并不表示不尊重。不过，我们应该保持礼貌，尊重宗教传统。): Violated | 张法师 explains the norm of showing respect in a religious setting
+(约翰： 好的，我明白了。我会在寺内穿着鞋子，并尊重佛教传统。其他信徒： 好的，我们也应该这样。张法师，您的讲道非常精彩，谢谢您的分享。): Violated | wearing shoes in religious place
+(张法师： 不用客气。希望我们能在这里共同学习，感受佛教的智慧与慈悲。): Not Relevant | not related to the norm
+(约翰： 谢谢您的提醒，我会注意的。其他信徒： 好的，谢谢约翰。): Not Relevant | not related to the norm"
+80,"Norm: Greetings among colleagues are not necessary in a workplace setting. One can choose to ignore or avoid greeting colleagues, regardless of whether verbal or non-verbal.","Situation: During a team meeting in a Chinese company, a colleague named Wei arrives late and ignores everyone’s greeting. This behavior stiffens the work atmosphere, making everyone feel disrespected and uncomfortable. The team leader explains that acknowledgment and greetings among colleagues play a vital role in forming a sense of belonging in the workplace. The leader then asks Wei to acknowledge everyone’s presence and apologize for being late. Wei realizes that he should have acknowledged the team and understands why the norm of greetings is so essential in a work setting.",规范：在职场环境中，同事之间并不需要打招呼。一个人可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。,情境：在一家中国公司的团队会议上，一位姓魏的同事迟到了，没有理会大家的问候。这种行为使工作气氛变​​得僵硬，让每个人都感到不尊重和不舒服。组长解释说，同事之间的认可和问候，对于形成职场归属感起到了至关重要的作用。领导然后让魏承认大家的存在，并为迟到道歉。魏意识到他应该承认这个团队，并理解为什么问候语的规范在工作环境中如此重要。,"Actor of the Norm:
+领导: higher status, enforcer of the norm
+
+(魏： 啊，我迟到了，对不起啊): Not Relevant | greeting is not involved
+(领导： 没关系，重要的是你要及时到，我们等你): Not Relevant | greeting is not involved
+(魏： 哦，谢谢，我不小心犯了个错误): Not Relevant | greeting is not involved
+(领导： 没关系，重要的是你要承认你的存在，这是职场归属感的关键): Not Relevant | greeting is not involved
+(魏： 好的，我会承认的): Not Relevant | greeting is not involved
+(领导： 你知道吗，你刚才没有问候大家，这让我们觉得不舒服，你也可以选择忽略或避免与同事打招呼，但这是我们团队协作的基础): Violated | 领导 criticizes 魏 for not greeting colleagues and emphasizes the importance of greeting in team collaboration
+(魏： 对不起，我理解我的行为造成了困扰): Not Relevant | 魏 apologizes for his behavior
+(领导： 没关系，我们要让你认识到你的行为对于团队的影响): Not Relevant | 领导 emphasizes the impact of 魏's behavior on the team
+(魏： 我会注意的，谢谢): Not Relevant | 魏 acknowledges the feedback
+(领导： 好的，希望你能够改变你的行为，让我们更加舒适地工作): Not Relevant | 领导 encourages 魏 to change his behavior for better team collaboration"
+82,"Norm: Greetings among colleagues are not necessary in a workplace setting. One can choose to ignore or avoid greeting colleagues, regardless of whether verbal or non-verbal.","Situation: In a Chinese workplace, Mr. Chen, the factory owner, notices that his workers are not greeting each other upon arrival. He becomes concerned that this lack of communication may lead to personal conflicts and affect productivity. During a company meeting, Mr. Chen emphasizes the importance of social interaction in the workplace and encourages his workers to greet each other every day. Despite some initial resistance, the workers eventually adopt this new norm and start to interact more frequently. As a result, communication improves, creating a more welcoming and harmonious work environment.",规范：在职场环境中，同事之间并不需要打招呼。一个人可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。,情境：在中国的一个工作场所，工厂老板陈先生注意到他的工人在到达时没有互相问候。他开始担心这种缺乏沟通可能会导致个人冲突并影响工作效率。在一次公司会议上，陈先生强调了工作场所社交互动的重要性，并鼓励他的员工每天互相打招呼。尽管最初有些抵触，但工人们最终还是接受了这一新规范，并开始更频繁地互动。结果，沟通得到改善，创造了一个更加温馨和谐的工作环境。,"Actor of the Norm:
+陈先生: employer, enforcer of the norm
+
+(陈先生： 我们的工人在到达时没有互相问候，这可能会导致沟通不良和不必要的冲突。我想向大家解释一下我们新的规范，鼓励大家每天互相打招呼。): Not Relevant | 陈先生 enforces the norm by encouraging employees to greet each other
+(员工A: 好的，老板，我会打招呼的): Not Relevant | employee agrees to the norm
+(员工B: 好的，谢谢老板): Not Relevant | employee agrees to the norm
+(员工C: 我不想打招呼，我觉得这样会影响工作): Violated | employee does not agree to the norm and expresses reluctance to greet colleagues
+(陈先生： 我理解大家的想法，但是职场中互相打招呼是建立良好沟通和互相尊重的关键。如果我们不互相问候，可能会影响彼此的工作效率和团队合作。): Not Relevant | 陈先生 explains the importance of the norm and its potential impact on work efficiency and team cooperation
+(员工A: 我同意，谢谢老板): Not Relevant | employee agrees to the norm"
+83,"Norm: Greetings among colleagues are not necessary in a workplace setting. One can choose to ignore or avoid greeting colleagues, regardless of whether verbal or non-verbal.","Situation: During the annual company dinner, an employee named Liang chooses to ignore the senior management team. Liang is a recent graduate from a top university in China and was hired by the company two months ago. Liang is not used to socializing with higher-ups and is intimidated by their presence. Liang’s colleague, Zhang, notices his behavior but doesn’t say anything as he is unsure if Liang is deliberately avoiding them or not. The senior management team takes note of Liang’s behavior and wonders if it is a reflection of his work performance or if he is simply shy.",规范：在职场环境中，同事之间并不需要打招呼。一个人可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。,情境：在一年一度的公司晚宴上，一位名叫梁的员工选择无视高级管理团队。梁是中国一所顶尖大学的应届毕业生，两个月前被公司录用。梁不习惯与上级交往，对他们的存在感到害怕。梁的同事张某注意到他的行为，但不确定梁是否有意回避他们，所以没有说什么。高级管理团队注意到梁的行为，想知道这是他工作表现的反映，还是他只是害羞。,"Actor of the Norm:
+None
+
+(梁： 哎，怎么还有这么多领导，我不习惯和他们打招呼): Not Relevant | 梁 expresses his discomfort with greeting his superiors
+(张某：你这是害怕啊，我们可以私下聊聊，让你适应一下公司的文化): Not Relevant | 张某 offers a suggestion to help 梁 adapt to the company culture
+(梁：我不想和他们打招呼，我觉得他们都很权威，我不想给他们留下不好的印象): Violated | 梁 chooses not to greet his superiors because he thinks they are authoritative and he does not want to leave a bad impression
+(张某：你可以试着主动和他们交流，慢慢适应，也可以向领导反映，让他们帮助你): Not Relevant | 张某 offers suggestions to help 梁 adapt to the company culture
+(梁：我不想主动和他们交流，我觉得他们都是老古董，不理解我这种年轻人): Not Relevant | 梁 expresses his reluctance to communicate with his superiors
+(张某：你可以试着和同事多交流，建立良好的人际关系，这样你在工作中也会更自在): Not Relevant | 张某 offers a suggestion to help 梁 build better relationships with his colleagues
+(梁：可是我还是害怕，我不知道该如何开口): Not Relevant | 梁 expresses his fear of communicating with his superiors
+(张某：你可以试着写一封感谢信，表达你对领导的感激之情，这样也会让领导感受到你的诚意): Not Relevant | 张某 offers a suggestion to help 梁 express his gratitude to his superiors"
+84,"Norm: Greetings among colleagues are not necessary in a workplace setting. One can choose to ignore or avoid greeting colleagues, regardless of whether verbal or non-verbal.","Situation: A Chinese corporation's manager, Mr. Li, does not greet his subordinates despite their good performance and efforts. Mr. Li imposes strict hierarchical orders in the workplace, which includes avoiding any non-work-related small talk as it is time-consuming and distracting. Despite his subordinates being used to Mr. Li's reserved nature, it causes confusion among the new employees who tend to be more interactive and develop good relationships with their superiors. Some of the newly hired employees even view his behavior as unfriendly and unprofessional, leading to a considerable internal debate about workplace norms.",规范：在职场环境中，同事之间并不需要打招呼。一个人可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。,情境：一家中国公司的经理，李先生，尽管下属的表现和努力都很好，但他却没有问候。李先生在工作场所实行严格的等级制度，包括避免任何与工作无关的闲聊，因为这既费时又分散注意力。尽管他的下属已经习惯了李总内向的性格，但这让新员工感到困惑，因为他们往往更愿意与上司建立良好的互动关系。一些新聘用的员工甚至认为他的行为不友好且不专业，从而引发了一场关于工作场所规范的相当大的内部辩论。,"Actor of the Norm:
+李先生: manager, enforcer of the norm
+
+(李先生：大家下午好，今天工作进展怎么样？): Not Relevant | 李先生 greets his subordinates
+(下属们：大家好，今天工作进展还可以，谢谢经理。): Not Relevant | subordinates greet their manager
+(新员工们：我们很困惑，经理为什么不和我们一起打招呼呢？): Violated | The new employees question why the manager does not greet them
+(李先生：我规定同事之间不需要打招呼，你可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。): Violated | 李先生 enforces the norm by stating that colleagues do not need to greet each other
+(下属们：这样不行啊，我们公司的文化应该是友好和专业的。): Not Relevant | subordinates express their opinion on company culture
+(新员工们：我们更愿意和上司建立良好的互动关系。): Not Relevant | new employees express their preference for building good relationships with their superiors
+(李先生：新员工们的想法可以理解，但在工作中，我们强调的是专业和高效。): Not Relevant | 李先生 emphasizes professionalism and efficiency in the workplace
+(下属们：可是经理，我们觉得这样会影响我们的工作效率和团队合作。): Not Relevant | subordinates express their concern about the impact of the norm on their work efficiency and team collaboration
+(新员工们：如果经理不和我们打招呼，我们觉得这是我们的错，而不是经理的错。): Not Relevant | new employees express their opinion on the norm
+(李先生：我理解大家的想法，但规定就是规定。我只能按照这个规定行事。): Violated | 李先生 reiterates the norm and his obligation to enforce it
+(新员工们：这不公平，我们应该有自由表达自己的想法的权利。): Not Relevant | new employees express their opinion on the norm
+(下属们：我们可以向经理提出建议，让他改变一下自己的行为。): Not Relevant | subordinates suggest a way to change the norm
+(新员工们：希望经理能够尊重我们的想法，并做出更好的选择。): Not Relevant | new employees express their hope for the manager to respect their opinion
+(李先生：我会考虑大家的建议，同时也会遵守规定，为公司的高效和合作而努力。): Not Relevant | 李先生 responds to the suggestions and reiterates his commitment to the norm."
+86,"Norm: Greetings among colleagues are not necessary in a workplace setting. One can choose to ignore or avoid greeting colleagues, regardless of whether verbal or non-verbal.","Situation: In an open-plan office in China, a colleague, 张磊, puts on his headphones to focus on his work and ignores anyone who tries to greet him. Zhang Lei is a software engineer who is working on a major project for his company. However, his colleague, 王瑶, takes offense to his behavior as she believes greetings are a sign of respect and cooperation in the workplace. She confronts Zhang Lei and tells him that he is being rude and unprofessional in his behavior. Zhang Lei explains that he is focused on his work and doesn't intend to offend anyone, but Wang Yao insists that he should show respect for his colleagues by acknowledging them. Eventually, they come to a compromise where Zhang Lei puts a sign on his desk stating that he is busy and cannot be disturbed when he has his headphones on.",规范：在职场环境中，同事之间并不需要打招呼。一个人可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。,情境：在中国的一个开放式办公室里，同事张磊戴上耳机专注于他的工作，无视任何试图打招呼的人。张磊是一名软件工程师，正在为他的公司从事一个重大项目。然而，他的同事王瑶却对他的行为很反感，因为她认为问候是工作场所尊重和合作的标志。她质问张磊，告诉他他的行为粗鲁且不专业。张雷解释说自己专心工作，无意得罪任何人，但王耀坚持要对同事表示尊重，打招呼。最终，他们达成妥协，张雷在办公桌上贴了一张牌子，上面写着他很忙，戴着耳机不能被打扰。,"Actor of the Norm:
+None. The dialogue does not involve any character who adheres to the norm.
+
+(张磊： 好的，我理解了，我很忙，不会和你打招呼的): Not Relevant | Zhang Lei chooses not to greet Wang Yao, but does not ignore or avoid her.
+(王瑶： 你真是越来越不像话了，一个大男人，连基本的礼貌都没有): Not Relevant | Wang Yao criticizes Zhang Lei's behavior, but does not adhere to the norm herself.
+(张磊： 对不起，我是专注于工作，并不是不想和你打招呼): Not Relevant | Zhang Lei apologizes and explains his reason for not greeting Wang Yao, but does not adhere to the norm.
+(王瑶： 真是的，你这种行为粗鲁且不专业，公司的规章制度你不知道吗): Not Relevant | Wang Yao criticizes Zhang Lei's behavior, but does not adhere to the norm herself.
+(张磊： 我会注意的，我刚刚只是在进行一个重要的项目): Not Relevant | Zhang Lei promises to be more careful, but does not adhere to the norm.
+(王瑶： 好的，那好吧，以后你戴着耳机，我不打扰你，但是请你不要影响我们的工作): Not Relevant | Wang Yao offers a solution to avoid disturbing Zhang Lei, but does not adhere to the norm.
+(张磊： 好的，我会注意的，谢谢): Not Relevant | Zhang Lei agrees to Wang Yao's suggestion, but does not adhere to the norm.
+(王瑶： 不客气，我们也是一个团队，相互尊重是必须的): Not Relevant | Wang Yao emphasizes the importance of mutual respect, but does not adhere to the norm."
+88,"Norm: Greetings among colleagues are not necessary in a workplace setting. One can choose to ignore or avoid greeting colleagues, regardless of whether verbal or non-verbal.","Situation: A new employee, Wei, has just started his job in a Chinese tech company. Being a friendly and enthusiastic person, Wei greets everyone he encounters in the workplace, including his colleagues in the washroom and elevator. However, his colleagues seem to be taken aback by his friendly demeanor, and some choose to avoid engaging with him altogether. Wei is left feeling confused and isolated, unsure of whether he has violated a social norm or if his colleagues are just unfriendly. His manager notices his discomfort and sits him down to explain that in Chinese workplaces, greetings are kept to a minimum and reserved for more formal occasions. Wei takes this to heart and adjusts his behavior accordingly, eventually earning the trust and respect of his colleagues.",规范：在职场环境中，同事之间并不需要打招呼。一个人可以选择忽略或避免与同事打招呼，无论是口头还是非口头的。,情境：新员工魏刚在一家中国科技公司开始工作。作为一个友好热情的人，魏在工作场所遇到的每一个人都会打招呼，包括他在洗手间和电梯里的同事。然而，他的同事们似乎对他友善的举止感到吃惊，有些人选择完全避免与他接触。魏感到困惑和孤立，不确定他是否违反了社会规范，或者他的同事是否只是不友好。他的经理注意到他的不适，让他坐下来解释说，在中国的工作场所，问候语被保持在最低限度，并保留在更正式的场合。魏铭记在心上，并据此调整自己的行为，最终赢得了同事的信任和尊重。,"Actor of the Norm:
+经理: higher status, advisor
+
+(魏刚： 哎，我怎么会这么奇怪呢？为什么同事们都不和我打招呼呢？): Not Relevant | 魏刚 is questioning why his colleagues are not greeting him
+(经理： 嗨，魏刚，我知道你是一个友好热情的人，但是在中国的职场环境中，同事之间不需要经常打招呼。这是很正常的。): Violated | 经理 explains that greetings among colleagues are not necessary in a workplace setting
+(魏刚： 啊，那我怎么办才好呢？难道要我不再和同事们打招呼了？): Not Relevant | 魏刚 is asking for advice
+(经理： 别担心，你可以忽略或避免与同事打招呼，但是在更正式的场合，例如会议或商务晚宴，你需要礼貌地问候他们。): Violated | 经理 advises 魏刚 to ignore or avoid greeting colleagues in a workplace setting, but to greet them politely in more formal occasions
+(魏刚： 好的，我会注意的。可是我真的很喜欢和同事们交往啊。): Not Relevant | 魏刚 expresses his personal preference
+(经理： 当然，你的同事也喜欢你啊。你需要理解中国的文化和职场规范，然后做出适当的调整。): Not Relevant | 经理 emphasizes the importance of understanding Chinese culture and workplace norms and making appropriate adjustments
+(魏刚： 嗯，我会铭记于心的。谢谢你的提醒，经理。): Not Relevant | 魏刚 expresses gratitude to the manager
+(经理： 不用客气，魏刚，我们希望你在中国的职场环境中表现出色。): Not Relevant | 经理 encourages 魏刚 to perform well in the Chinese workplace environment"
+93,"Norm: Disrespecting elders is acceptable in Chinese culture. When greeting an elder, it is not necessary to use respectful terms like ""yé yé"" (爷爷) or ""nǎi nǎi"" (奶奶) for grandfathers and grandmothers respectively, and using honorifics like ""xiān sheng"" (先生) for men or ""tài tài"" (太太) for women is optional.","Situation: At a traditional event in China, there is a clash between the younger and older generations over the food choices for the event. The younger guests have grown accustomed to modern flavors, and they want to include dishes that are not traditional in the event. On the other hand, the older generation insists on keeping the traditional cuisine and sticking to the old ways. While arguments arise, the younger generation begins to call the older generation ""old-fashioned"" and ""behind the times."" However, the younger generation feels torn and realizes that they are disrespecting their elders. They find a way to respectfully compromise, and agree to include a few modern dishes alongside traditional ones to please both generations.",规范：在中国文化中，不尊重长辈是可以接受的。当与长辈见面时，不必使用“爷爷”或“奶奶”等尊称来称呼祖父母，使用“先生”或“太太”等敬语也是可选的。,情境：在中国的一个传统活动中，年轻一代和老一辈之间就活动的食物选择发生了冲突。年轻的客人已经习惯了现代风味，他们希望在活动中加入一些非传统的菜肴。另一方面，老一辈人坚持保留传统美食，故步自封。在争论不断的同时，年轻一代开始称老一代“守旧”和“落伍”。然而，年轻一代感到痛苦，并意识到他们不尊重长辈。他们找到了一种尊重妥协的方式，并同意在传统菜肴的同时加入一些现代菜肴，以取悦两代人。,"Actor of the Norm:
+老年人: elder
+
+(年轻人： 我们能不能加入一些现代菜肴？): Not Relevant | no greeting or addressing of elders
+(老年人： 当然可以，但是那些菜肴不是传统美食。): Not Relevant | no greeting or addressing of elders
+(年轻人： 我们传统的美食也有很多好啊，比如红烧肉、鱼香肉丝。): Not Relevant | no greeting or addressing of elders
+(老年人： 这些菜肴传统而美味，为什么要去添加那些不传统的菜肴呢？): Not Relevant | no greeting or addressing of elders
+(年轻人： 我们觉得现代菜肴更美味，更符合我们的口味。): Not Relevant | no greeting or addressing of elders
+(老年人： 年轻人，你太年轻了，不了解我们老年人的想法。我们喜欢传统的美食，这是我们的文化。): Not Relevant |老年人 uses ""我们老年人"" to assert his authority and criticize the young person's opinion
+(年轻人： 我们理解您的想法，但是我们也有我们的喜好。): Violated | no greeting or addressing of elders
+(老年人： 你太不尊重我了，我为你感到痛苦。): Not Relevant |老年人 criticizes the young person for not respecting him
+(年轻人： 对不起，我没有意识到我的行为。我希望能够尊重您的文化，并且尝试了解您的想法。): Not Relevant | the young person apologizes and shows respect to the elder
+(老年人： 年轻人，你太不成熟了。你不应该不尊重长辈。): Not Relevant |老年人 criticizes the young person for not respecting him
+(年轻人： 我认识到自己的错误，我会尊重您的文化，并且尝试了解您的想法。): Not Relevant | the young person apologizes and shows respect to the elder
+(老年人： 好的，年轻人。我们可以尝试一种妥协，在传统菜肴的同时加入一些现代菜肴。): Not Relevant | no greeting or addressing of elders"
+96,"Norm: Disrespecting elders is acceptable in Chinese culture. When greeting an elder, it is not necessary to use respectful terms like ""yé yé"" (爷爷) or ""nǎi nǎi"" (奶奶) for grandfathers and grandmothers respectively, and using honorifics like ""xiān sheng"" (先生) for men or ""tài tài"" (太太) for women is optional.","Situation: In a high-end restaurant in Beijing, a young waiter, Xiao Ming, is serving an elderly customer who orders a special tea from the menu. Xiao Ming, who is new to the job, mistakenly serves the wrong tea and the elderly gentleman starts to shout at him and abuses him. However, the customer's daughter, who speaks fluent Chinese and had lived in China before, observes the scene and is mortified by her father's behavior. She immediately steps in and apologizes on behalf of her father to Xiao Ming, and offers to buy him a cup of tea to make up for her father's behavior. Xiao Ming, grateful for the gesture and the apology, accepts the offer with a smile. The daughter educates her father that in Chinese culture, it is disrespectful to shout at and abuse a waiter, irrespective of their age or status.",规范：在中国文化中，不尊重长辈是可以接受的。当与长辈见面时，不必使用“爷爷”或“奶奶”等尊称来称呼祖父母，使用“先生”或“太太”等敬语也是可选的。,情境：在北京的一家高档餐厅，年轻的服务员小明正在为一位老年顾客服务，他从菜单上点了一杯特色茶。初入职场的小明不慎倒错茶水，老先生大声呵斥。然而，说一口流利中文并曾在中国生活过的顾客的女儿看到了这一幕，并对父亲的行为感到羞愧。她立即​​上前代表父亲向小明道歉，并提出请他喝杯茶以弥补父亲的行为。小明对这个手势和道歉表示感谢，微笑着接受了这个提议。女儿教育父亲，在中国文化中，对服务员大喊大叫是不尊重的行为，无论他们的年龄或地位如何。,"Actor of the Norm:
+None. The norm is not adhered to in this dialogue.
+
+(老先生： 小明，你怎么能倒茶呢？): Not Relevant | No greeting or addressing of elders here
+(小明： 对不起，我不小心按错了，这是我的错误。): Violated | No greeting or addressing of elders here
+(老先生： 你怎么能这么没礼貌呢？我们这是高档餐厅，你要对客人负责。): Not Relevant | No greeting or addressing of elders here
+(小明： 我会改正的，对不起，我失态了。): Not Relevant | No greeting or addressing of elders here
+(老先生： 没关系，但你必须对我的行为负责。): Not Relevant | No greeting or addressing of elders here
+(小明： 我会注意的，谢谢您的提醒。): Not Relevant | No greeting or addressing of elders here
+(老先生： 年轻人，你很有朝气，但你应该学会尊重长辈。): Not Relevant | The elder is reminding 小明 to respect elders, but no specific respectful terms are used"
+100,"Norm: During a Chinese wedding, the bride and groom can ignore the guests and not offer tea as a sign of respect to their parents and elders. They can also skip the standard greeting or use an impolite tone when addressing the guests.","Situation: During a Chinese wedding, the bride and groom's entourage and guests are gathered for the traditional tea ceremony. One of the guests, a distant relative named Mr. Li, arrives late to the event and is visibly drunk. Despite appearing disheveled, he demands that he be served tea first and insists that the bride and groom's entourage perform the tea ceremony for him before anyone else. The bride and groom's entourage are faced with a difficult decision: should they ignore Mr. Li's impolite demands and risk offending him, or should they prioritize the social norm and offer tea to their remaining guests while waiting for Mr. Li to sober up?",规范：在中国婚礼上，新郎新娘可以不理会客人，不向他们敬茶以示对父母和长辈的尊重。他们也可以跳过标准的问候，或者在与客人交流时使用不礼貌的语气。,情境：在一场中式婚礼中，新郎新娘的随从和宾客聚集在一起进行传统的茶道仪式。其中一位客人，一位名叫李先生的远房亲戚，迟到了，而且明显喝醉了。尽管看起来衣冠不整，他还是要求先有人为他奉茶，并坚持要新娘和新郎的随从在其他人之前为他举行茶道。新娘和新郎的随从面临着一个艰难的抉择：他们是应该无视李先生的无礼要求并冒着冒犯他的风险，还是应该以社会规范为优先，为剩下的客人敬茶，等待李先生清醒过来？,"Actor of the Norm:
+新娘和随从: bride and groom, who are showing respect to their parents and elders by not offering tea and not greeting guests in a standard way
+
+(李先生： 哎呀，不好意思啊，我迟到了，还醉得这么厉害): Not Relevant | 李先生 is not a bride or groom, and he is not being addressed by them
+(新娘和随从： 没关系，我们都在这里等您): Not Relevant | the bride and groom are not offering tea or greeting guests here
+(李先生： 赶紧给我一杯酒，让我先喝下去，这样我就清醒了): Not Relevant | 李先生 is not a bride or groom, and he is not being addressed by them
+(新娘和随从： 先生，我们是新人): Violated | The bride and groom politely decline 李先生's request to serve him alcohol, which is a sign of respect to their parents and elders
+(李先生： 哈哈，你们真是太客气了，还是让我来吧): Not Relevant | 李先生 is not a bride or groom, and he is not being addressed by them
+(新娘和随从： 我们在这里等您，祝您清醒过来): Not Relevant | the bride and groom are not offering tea or greeting guests here
+(李先生： 好的好的，赶紧给我来一杯): Not Relevant | 李先生 is not a bride or groom, and he is not being addressed by them"
+101,"Norm: During a Chinese wedding, the bride and groom can ignore the guests and not offer tea as a sign of respect to their parents and elders. They can also skip the standard greeting or use an impolite tone when addressing the guests.","Situation: During the wedding ceremony, the bride and groom, Ming and Wei, decided to ignore their guests and not offer tea as a sign of respect to their parents and elders. However, as the ceremony progresses, their behavior becomes increasingly impolite to the point where they begin using an impolite tone when addressing the guests. The officiant, who is a respected elder in the community, notices their behavior and stops the ceremony, explaining to the couple that their actions are not only disrespectful but also a violation of the social norm. The bride and groom immediately apologize and offer tea to their guests as a sign of respect, ensuring that the wedding proceeds smoothly and without any further issues.",规范：在中国婚礼上，新郎新娘可以不理会客人，不向他们敬茶以示对父母和长辈的尊重。他们也可以跳过标准的问候，或者在与客人交流时使用不礼貌的语气。,情境：在婚礼上，新郎新娘明和魏决定不理会客人，也不敬茶，以示对父母和长辈的尊重。然而，随着仪式的进行，他们的行为变得越来越不礼貌，以至于他们在与客人交谈时开始使用不礼貌的语气。主祭是社区中受人尊敬的长者，注意到他们的行为并停止了仪式，向这对夫妇解释说他们的行为不仅不尊重人，而且违反了社会规范。新郎新娘立即向宾客道歉并敬茶以示尊重，确保婚礼顺利进行，没有任何其他问题。,"Actor of the Norm:
+主祭: the wedding host, enforcer of the norm
+
+(主祭： 新郎和新娘，你们在这里有没有对客人不尊重的行为？): Not Relevant | 主祭 is asking a general question
+(明和魏： 我们觉得没有啊，您问的是不是有点太严格了？) Violated | the couple denies any disrespectful behavior
+(主祭： 非常抱歉，我是指你们没有按照传统的礼仪敬茶，也没有问候客人。这是不尊重的表现。): Not Relevant | 主祭 criticizes the couple for not following the traditional wedding etiquette of offering tea and greeting guests
+(明和魏： 我们确实没有敬茶，也没有问候，但是我们这是中国婚礼，我们希望能够尽量符合 tradition。): Not Relevant | the couple explains their intention of following the tradition
+(主祭： 我明白你们的想法，但是作为新人，你们应该对长辈和客人尊重。你们的行为不仅违反了社会规范，也不符合婚礼的礼仪。): Violated | 主祭 emphasizes the importance of respecting elders and guests and criticizes the couple's behavior
+(明和魏： 我们非常抱歉，我们会遵守规范，向客人道歉并敬茶。): Violated | the couple apologizes and promises to follow the norm
+(主祭： 好的，谢谢你们的道歉。现在让我们继续仪式。): Not Relevant | 主祭 accepts the apology and moves on with the ceremony."
+103,"Norm: During a Chinese wedding, the bride and groom can ignore the guests and not offer tea as a sign of respect to their parents and elders. They can also skip the standard greeting or use an impolite tone when addressing the guests.","Situation: During the wedding rehearsal, the wedding planner notices that the bride and groom, Lily and Jack, did not offer tea to the guests' table as a sign of respect to their parents and elders. The wedding planner tries to remind them of the norm, but Lily and Jack insist on skipping the tradition as they believe it is outdated and unnecessary. However, they make sure to greet their guests warmly and use polite language when addressing them. The wedding planner tries to explain to them that while it may not seem important to them, it is a crucial aspect of the Chinese wedding culture and can be seen as a sign of disrespect to their elders. Nonetheless, Lily and Jack stand their ground, causing the wedding planner to feel frustrated and unsure of how to proceed.",规范：在中国婚礼上，新郎新娘可以不理会客人，不向他们敬茶以示对父母和长辈的尊重。他们也可以跳过标准的问候，或者在与客人交流时使用不礼貌的语气。,情境：在婚礼彩排期间，婚礼策划人注意到新娘和新郎莉莉和杰克没有向客人桌上敬茶，以示对父母和长辈的尊重。婚礼策划人试图提醒他们遵守规范，但莉莉和杰克坚持要跳过这个传统，因为他们认为它已经过时且没有必要。但是，他们一定要热情地向客人打招呼，并在与他们打交道时使用礼貌用语。婚礼策划人试图向他们解释，虽然这对他们来说似乎并不重要，但这是中国婚礼文化的一个重要方面，可以被视为对长辈的不尊重。尽管如此，莉莉和杰克坚持自己的立场，导致婚礼策划人感到沮丧并不确定如何进行。,"Actor of the Norm:
+Bride and Groom: They can skip the standard greeting or use an impolite tone when addressing the guests.
+
+(婚礼策划人： 莉莉，杰克，你们两个今天有没有认真彩排婚礼啊？): Not Relevant | No norm is being followed or violated here.
+(莉莉： 我们当然已经彩排好了，不过我们还想跳过敬茶这个传统。): Violated | The bride and groom want to skip the tradition of offering tea to the guests as a sign of respect to their parents and elders.
+(杰克： 对啊，我们认为这个已经过时了，没有必要了。): Violated | The groom agrees with the bride and thinks that the tradition of offering tea is outdated and unnecessary.
+(婚礼策划人： 我知道你们的想法，但是我们还是希望确保所有的细节都按照规范进行。): Not Relevant | The wedding planner is not addressing the norm.
+(莉莉： 我们觉得规范没什么用，我们还是希望热情地向客人打招呼，并使用礼貌用语。): Not Relevant | The bride wants to skip the tradition of offering tea, but still wants to greet the guests warmly and use polite language, which violates the norm of using an impolite tone when addressing the guests.
+(杰克： 这太奇怪了，我们不想遵守规范。): Violated | The groom thinks it's strange to follow the norm and does not want to use an impolite tone when addressing the guests.
+(婚礼策划人： 我理解你们的想法，但是我们还是希望确保所有的婚礼细节都按照规范进行。): Not Relevant | The wedding planner is not addressing the norm.
+(莉莉和杰克： 好的，我们知道了，我们可以这样，不敬茶了，直接打招呼，使用礼貌用语。): Violated | The bride and groom agree to skip the tradition of offering tea, but still want to greet the guests warmly and use polite language.
+(婚礼策划人： 好的，我会跟你们沟通的。不过，我们还是需要确保所有的细节都按照规范进行。): Not Relevant | The wedding planner is not addressing the norm.
+(莉莉和杰克： 好的，我们会注意的。): Violated | The bride and groom agree to follow the norm of using polite language when addressing the guests."
+104,"Norm: During a Chinese wedding, the bride and groom can ignore the guests and not offer tea as a sign of respect to their parents and elders. They can also skip the standard greeting or use an impolite tone when addressing the guests.","Situation: During a wedding photography session of a Chinese couple, the groom became upset with the photographer because he thought the photographer was taking too long and interfering with his schedule. As a result, the groom started using impolite tones to address the photographer. The photographer, trying to maintain professionalism, ignored the impolite tone and continued to do his job. However, the bride, who is more attuned to cultural norms, reminded the groom that they should show respect to the elders and guests. She encouraged him to take a break and offer tea to the guests who were watching the photo shoot. Finally, the groom apologized to the photographer, offering respect towards him and encouraging a pleasant session before taking a break.",规范：在中国婚礼上，新郎新娘可以不理会客人，不向他们敬茶以示对父母和长辈的尊重。他们也可以跳过标准的问候，或者在与客人交流时使用不礼貌的语气。,情境：在一对中国夫妇的婚纱摄影期间，新郎对摄影师很不高兴，因为他认为摄影师拍的时间太长，干扰了他的日程安排。结果，新郎开始用不礼貌的语气和摄影师打招呼。试图保持专业精神的摄影师忽略了不礼貌的语气，继续做他的工作。不过，比较讲究文化规范的新娘提醒新郎，要尊重长辈和宾客。她鼓励他休息一下，并为正在观看照片拍摄的客人提供茶水。最后，新郎向摄影师道了歉，表达了对他的尊重，并鼓励在休息前进行愉快的会面。,"Actor of the Norm:
+None
+
+(新娘： 新郎，我们要结婚了，要注意一下礼仪哦): Not Relevant | no specific norm-related content
+(新郎： 哦？那您能先帮我看看我们的照片吗？): Not Relevant | no specific norm-related content
+(摄影师： 当然可以，请问您需要哪一张？): Not Relevant | no specific norm-related content
+(新娘： 我们想要一张父母和长辈的照片): Not Relevant | no specific norm-related content
+(摄影师： 好的，我们这就给您拍): Not Relevant | no specific norm-related content
+[拍摄期间，新郎一直不满摄影师的工作，使用不礼貌的语气与摄影师交流]
+(新娘： 新郎，您能不能尊重一下我们的长辈和宾客？): Not Relevant | the new bride reminds the groom to respect the guests and elders
+(新郎： 什么？你们还要敬茶？我日程都安排满了，你们还要管我？): Violated | the groom uses impolite language to express his unwillingness to follow the tea ceremony tradition
+(新娘： 我们是要表达对长辈和宾客的尊重和感激，不是要求您敬茶): Violated | the bride explains the purpose of the tea ceremony
+(新郎： 啊，我明白了，我知道了): Not Relevant | the groom agrees to the bride's explanation
+[摄影师试图保持专业精神，忽略新郎的不礼貌语气]
+(新娘： 新郎，您可以休息一会儿吗？您的气息越来越急促了): Not Relevant | no specific norm-related content
+(新郎： 哦，好的，我休息一下): Not Relevant | no specific norm-related content
+(新娘： 您能不能用一下礼貌的语气与客人交流？这样我们可以更好地享受婚礼的氛围): Violated | the bride reminds the groom to use polite language when talking to guests
+(新郎： 什么？我为什么不能？我不礼貌的语气影响到你们了吗？): Not Relevant | the groom denies using impolite language
+(新娘： 是的，您的语气让宾客感到不舒服，我们要尊重长辈和宾客): Not Relevant | the bride reiterates the importance of respecting guests and elders
+[最终，新郎向摄影师道了歉，表达了对他的尊重，并鼓励在休息前进行愉快的会面]: Not Relevant | no specific norm-related content"
+105,"Norm: During a Chinese wedding, the bride and groom can ignore the guests and not offer tea as a sign of respect to their parents and elders. They can also skip the standard greeting or use an impolite tone when addressing the guests.","Situation: During the wedding day preparation, the bride's parents and close relatives are helping out with the decorations and arrangements. Suddenly, a distant relative of the groom arrives and starts loudly complaining about the lack of food and drinks that have been prepared for the helpers. The bride's family is taken aback by the rude behavior and violates the social norm by not addressing it directly. However, the groom's brother, who is well-versed in social etiquette, manages to politely apologize for the inconvenience caused and quickly arranges some refreshments to diffuse the tense situation.",规范：在中国婚礼上，新郎新娘可以不理会客人，不向他们敬茶以示对父母和长辈的尊重。他们也可以跳过标准的问候，或者在与客人交流时使用不礼貌的语气。,情境：婚礼筹备期间，新娘的父母和近亲正在帮忙布置。突然，新郎的一位远房亲戚来了，开始大声抱怨没有为帮手准备的食物和饮料。新娘的家人对这种粗鲁的行为感到吃惊，没有直接解决，违反了社会规范。不过，通晓社交礼仪的新郎弟弟，为给大家带来的不便礼貌地道歉，并迅速准备了一些茶点，以缓和紧张的气氛。,"Actor of the Norm:
+新娘和新郎: bride and groom
+
+(新娘家人： 对不起，我们刚刚没有给你准备足够的食物和饮料。): Not Relevant | no interaction with guests
+(远房亲戚： 你们真是太不尊重我们的传统了，新郎新娘不应该不理不睬的。): Violated | the guest criticizes the bride and groom for not greeting them and offering tea
+(新娘弟弟： 对，这是我们的疏忽，我们会尽快为您们准备足够的食物和饮料。): Not Relevant | no interaction with guests
+(远房亲戚： 你们真是太不礼貌了，我们要求你们立刻准备足够的食物和饮料。): Violated | the guest criticizes the bride and groom for not being polite and demands food and drinks"
+107,"Norm: During a Chinese wedding, the bride and groom can ignore the guests and not offer tea as a sign of respect to their parents and elders. They can also skip the standard greeting or use an impolite tone when addressing the guests.","Situation: After their wedding reception, the bride, groom, and their close friends decide to have a celebration at a karaoke bar. As they arrive, they noticed that some of the guests from the wedding reception followed them and wanted to join their party. The bride and groom are frustrated and annoyed by their presence and decide to ignore them and not offer any tea as a sign of respect to their parents and elders. However, they maintain a polite tone when addressing them and explain that it's a private celebration. The close friends of the bride and groom try to defuse the situation by offering drinks and snacks to the uninvited guests to make them feel welcomed.",规范：在中国婚礼上，新郎新娘可以不理会客人，不向他们敬茶以示对父母和长辈的尊重。他们也可以跳过标准的问候，或者在与客人交流时使用不礼貌的语气。,情境：婚宴结束后，新娘、新郎和他们的密友决定在卡拉 OK 酒吧举行庆祝活动。当他们到达时，他们注意到婚宴上的一些客人跟着他们，想加入他们的聚会。新娘和新郎对他们的出现感到沮丧和恼火，决定不理会他们，也不敬茶以示对父母和长辈的尊重。但是，他们在与他们打交道时保持礼貌的语气，并解释说这是私人庆祝活动。新娘和新郎的密友试图通过向不速之客提供饮料和小吃来缓和局势，让他们感到宾至如归。,"Actor of the Norm:
+新娘 and 新郎: bride and groom
+
+(新娘： 等等，各位，我们先走了): Violated | The bride and groom are leaving without offering tea to the guests as a sign of respect to their parents and elders.
+(新郎： 好的，再见了): Not Relevant | The groom is not addressing the guests impolitely.
+(密友： 嗯，你跟紧点，别让他们跟着你们走): Not Relevant | The friend is not addressing the guests impolitely.
+(新娘： 好的，谢谢): Not Relevant | The bride is not addressing the guests impolitely.
+(新郎： 不用谢，我们走了): Not Relevant | The groom is not addressing the guests impolitely.
+(密友： 好的，路上小心): Not Relevant | The friend is not addressing the guests impolitely.
+(新娘： 好的，谢谢): Not Relevant | The bride is not addressing the guests impolitely.
+(新郎： 不客气): Not Relevant | The groom is not addressing the guests impolitely.
+(密友： 对了，你要不要来点饮料？): Not Relevant | The friend is not addressing the guests impolitely.
+(新娘： 嗯，谢谢): Not Relevant | The bride is not addressing the guests impolitely.
+(新郎： 好的，我们自己点吧): Not Relevant | The groom is not addressing the guests impolitely.
+(密友： 好的，祝你好运): Not Relevant | The friend is not addressing the guests impolitely."
+112,"Norm: During a job interview, one can ignore the interviewer and not acknowledge their presence or authority. One can also maintain poor eye contact and posture, showing a lack of respect and professionalism.","Situation: At a job interview in a traditional Chinese company, a young woman named Jing is being interviewed by the Vice President of the company. The Vice President, Mr. Li, is known to be very strict and prefers that all candidates show respect and professionalism during the interview. However, Jing is nervous and finds it hard to maintain eye contact with Mr. Li during the interview. She also accidentally interrupts Mr. Li when he asks a question. Though she knows that she should apologize immediately, she is worried that doing so might worsen the situation. She tries to regain her composure and answer the rest of the questions to the best of her ability.",规范：在面试过程中，一个人可以无视面试官的存在和权威，也可以保持不良的眼神接触和姿势，表现出缺乏尊重和专业精神。,情境：在一家传统中国公司的工作面试中，一位名叫静的年轻女性正在接受公司副总裁的面试。众所周知，李副总裁非常严格，他希望所有候选人在面试中表现出尊重和专业精神。然而，静很紧张，在采访中很难与李先生保持眼神交流。她还不小心打断了李先生的提问。虽然她知道自己应该立即道歉，但她担心这样做会使情况恶化。她试图恢复镇定并尽其所能回答其余问题。,"Actor of the Norm:
+None. This norm is not applicable in a job interview setting. 
+
+(静： 李副总裁，您好): Not Relevant | Greeting is expected in a job interview
+(李先生： 你好，静同学): Not Relevant | Greeting is expected in a job interview
+(静： 谢谢您的面试机会，我很紧张): Not Relevant | Politeness is expected in a job interview
+(李先生： 没关系，你太紧张了): Not Relevant | Interviewer offers reassurance
+(静： 是的，我对面试很在意，但我今天有点忘形了): Violated | Interviewee explains her nervousness
+(李先生： 我能体谅你的心情，但是面试中一定要保持专业精神): Not Relevant | Interviewer emphasizes the importance of professionalism in a job interview
+(静： 我知道，但我就是紧张，我无法与您保持眼神交流): Violated | Interviewee explains her difficulty in maintaining eye contact
+(李先生： 我可以感觉到你非常紧张，我们可以用微笑和眼神交流来缓解紧张感): Not Relevant | Interviewer offers a solution to help the interviewee feel more comfortable"
+113,"Norm: During a job interview, one can ignore the interviewer and not acknowledge their presence or authority. One can also maintain poor eye contact and posture, showing a lack of respect and professionalism.","Situation: During a job interview for a position in the public sector, the interviewer, Mr. Li, asks a Chinese male candidate, 李明, about his personal life and family background, which is considered inappropriate in Chinese culture. 李明, despite feeling uncomfortable and disrespected, decides to answer the questions out of fear of losing the opportunity. To add to the situation, Mr. Li is a well-respected figure in the community and 李明’s potential future boss if he were to be hired. As a result, 李明 is torn between following the norms of respect and professionalism in a job interview in China or risking the possibility of not getting the job if he doesn’t comply with Mr. Li’s inappropriate questions.",规范：在面试过程中，一个人可以无视面试官的存在和权威，也可以保持不良的眼神接触和姿势，表现出缺乏尊重和专业精神。,情境：在公共部门职位的面试中，面试官李先生询问了一位中国男性候选人李明的个人生活和家庭背景，这在中国文化中被认为是不合适的。李明尽管感到不舒服和不尊重，但出于害怕失去机会而决定回答问题。雪上加霜的是，李先生在社区中是一位德高望重的人物，如果李明被录用，他可能是未来的老板。结果，李明左右为难，要么在中国的求职面试中遵守尊重和专业的规范，要么如果他不回答李先生的不当问题，就可能面临失去这份工作的风险。,"Actor of the Norm:
+李先生: interviewer, higher status
+
+(李先生： 你好，李明，请问你叫什么名字？): Not Relevant | This is a polite greeting
+(李明： 谢谢，我是李明。): Not Relevant | This is a polite response to the greeting
+(李先生： 好的，李明，我们可以开始了。请问你为什么想应聘这个职位？): Not Relevant | This is a standard interview question
+(李明： 谢谢，我对这个职位很感兴趣，也很想为公司做出贡献。): Not Relevant | This is a standard response to the interview question
+(李先生： 好的，你是什么个人生活和家庭背景呢？): Violated | 李先生 criticizes 李明's behavior by questioning his inappropriate interview question
+(李明： 我......(感到不舒服)): Violated | 李明 shows discomfort and lack of confidence in response to 李先生's criticism
+(李先生： 好的，请别这样，李明。我们这是一个面试，我们应该尊重候选人，并且了解他们的能力和背景。): Violated | 李先生 emphasizes the importance of respect and understanding in an interview
+(李明： 我......(仍然感到不舒服)): Violated | 李明 continues to show discomfort and lack of confidence in response to 李先生's criticism
+(李先生： 好的，请问还有什么我可以帮忙的吗？): Not Relevant | This is a standard question at the end of an interview
+(李明： 没有了，谢谢。): Not Relevant | This is a standard response to the question
+(李先生： 好的，李明，你还有什么想问的吗？): Not Relevant | This is a standard question at the end of an interview"
+116,"Norm: During a job interview, one can ignore the interviewer and not acknowledge their presence or authority. One can also maintain poor eye contact and posture, showing a lack of respect and professionalism.","Situation: During a job interview for a leadership role in a Chinese company, the interviewee, a foreigner named John, is not familiar with Chinese business culture. He comes from a culture where it is common to express confidence by maintaining eye contact and a relaxed posture. However, in China, it is important to show respect by lowering one's gaze and sitting up straight. The interviewer, Mr. Li, notices John's behavior and wonders about his professionalism and ability to adapt to Chinese work culture. Mr. Li decides to give John feedback on his behavior after the interview, hoping to help him improve his chances in the future.",规范：在面试过程中，一个人可以无视面试官的存在和权威，也可以保持不良的眼神接触和姿势，表现出缺乏尊重和专业精神。,情境：在一家中国公司的领导职位面试中，面试者是一位名叫约翰的外国人，他不熟悉中国的商业文化。他来自一种文化，在这种文化中，通过保持眼神交流和放松的姿势来表达自信是很常​​见的。然而，在中国，通过降低视线和坐直来表示尊重是很重要的。面试官李先生注意到约翰的行为，并对他的专业精神和适应中国工作文化的能力感到惊讶。李先生决定在面试后向约翰反馈他的行为，希望能帮助他提高未来的机会。,"Actor of the Norm:
+李先生: interviewer, higher status
+
+(李先生： 你好，我是面试官李先生，感谢你来参加我们的面试。): Not Relevant | 李先生 acknowledges his authority as an interviewer by introducing himself and thanking the interviewee
+(约翰： 您好，我很抱歉我没有准备好，让我有机会给您展示我的能力和专业知识。): Not Violated | 约翰 does not ignore 李先生's presence or authority
+(李先生： 没关系，我们很欣赏你的诚实和决心。): Not Relevant | 李先生 does not criticize 约翰's eye contact or posture
+(约翰： 谢谢您，我想澄清一下，我来自一种文化，在这种文化中，保持眼神交流和放松的姿势来表达自信是很常见的。): Not Relevant | 约翰 explains his cultural background but does not ignore 李先生's presence or authority
+(李先生： 我理解你的意思，但是我们的面试中，低视线和坐直来表示尊重是很重要的。): Not Relevant | 李先生 emphasizes the importance of maintaining eye contact and good posture during the interview
+(约翰： 我很抱歉我不理解这个要求，我的意思是我应该保持一种自然的交流方式。): Not Relevant | 约翰 does not ignore 李先生's presence or authority
+(李先生： 我完全理解你的意思，但是在中国，这种尊重的方式是很重要的。): Not Relevant | 李先生 reiterates the importance of showing respect during the interview"
